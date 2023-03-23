@@ -23,7 +23,7 @@
 title: i.webthings hub
 email: joe.jenett@jenett.org
 description: i.webthings - an independent and noncommercial web initiative.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://iwebthings.joejenett.com" 
 # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: iwebthings
