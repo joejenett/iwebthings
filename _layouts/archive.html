@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading" style="margin-top:24px;">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {%- assign posts = site.posts -%}
+  {%- assign groupedByYear = posts | group_by_exp:"post","post.date | date:'%Y' " -%}
+  <!-- total posts: {{ posts.size }} -->
+
+  {%- for yearitem in groupedByYear -%}
+  <yearlist>
+    <year>{{ yearitem.name }}</year>
+
+    <ul>
+    {%- for item in yearitem.items -%}
+      <li style="list-style:none;text-indent:-22px;">
+        <span><a href="/i.webthings{{ item.permalink }}">{{ item.title }}</a></span>
+        <date><small>({{ item.date | date:'%b %-d, %Y'}})</small></date>
+      </li>
+    {% endfor %}
+    </ul>
+  </yearlist>
+  {% endfor %}
+  
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+</div>

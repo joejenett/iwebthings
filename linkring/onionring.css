@@ -1,0 +1,47 @@
+/* onionring.js is made up of four files - onionring-widget.js, onionring-index.js, onionring-variables.js and onionring.css (this one!)
+// it's licensed under the cooperative non-violent license (CNPL) v4+ (https://thufie.lain.haus/NPL.html)
+// it was originally made by joey + mord of allium (蒜) house, last updated 2020-10-24 */
+
+/* === ONIONRING.CSS === */
+/* this file affects the style of the widget. remember to replace all instances of #idealink with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
+
+#linkring {
+	text-align:center;font-size:14px;padding:3px 6px;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;line-height:1.3em;
+}
+#linkring a {
+	text-decoration:none;font-weight:500;
+}
+#linkring .webring-prev {
+/*position:relative;float:left;width:60px;*/
+font-size:1.4em;
+font-weight:600;
+}
+#linkring .webring-info {
+font-size:.75em;
+position:relative;
+top:-1px;
+}
+#linkring .webring-name {
+	color:#023a5d;
+	margin:0 1px;
+	font-size:1.2em;
+	font-weight:bold;
+}
+#linkring .webring-name img {
+	vertical-align:middle;
+}
+#linkring .webring-next {
+/*position:relative;float:right;width:60px;*/
+font-size:1.4em;
+font-weight:600;
+}
+
+#linkring .webring-links {
+  font-size:.75em;
+}
+#linkring a {
+	text-decoration:none;
+	font-weight: 500;
+	/*color:#3e5018;*/
+	color: #023a5d;
+}

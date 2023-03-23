@@ -1,0 +1,111 @@
+---
+layout: default
+---
+<div class="home">
+<!--
+{%- if page.title -%}
+<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
+-->
+<div style="margin-top:36px;">
+{{ content }}
+
+<div class="post-list" style="margin-bottom:48px;">
+{% assign count = 0 %}
+{%- for post in site.posts -%}
+{% assign count = count | plus:1 %}
+{% if count == 1 %}
+{%- include postnav.html -%}
+{% endif %}
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{% if post.title != "" %}
+<div style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
+<h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
+<a class="post-link" href="{{ post.url | relative_url }}">
+{{ post.title | escape }}</a> 
+</h3>
+<div style="position:relative;top:-14px;margin-bottom:24px;">
+<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+<span class="post-meta"><!--<img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo p-author h-card" width="24" height="24" style="position:relative;top:-3px;">--></span>
+• <span class="post-meta p-author h-card">joe jenett
+</span>
+<span class="post-meta post-categories">• posted in:
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+{% for category in categories %}
+<a href="{{ site.baseurl }}categories/#{{category|slugize}}">{{category}}</a>
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+</span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
+</div>
+{%- if site.show_excerpts -%}
+{{ post.excerpt }}
+{%- endif -%}
+</div>
+{% endif %}
+
+{% if post.title == "" %}
+<li style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
+{%- if site.show_excerpts -%}
+{{ post.excerpt }}
+{%- endif -%}
+<div style="position:relative;top:-4px;">
+<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+<!--
+<span class="post-meta"><img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo" width="24" height="24" style="position:relative;top:-3px;"></span>
+-->
+• <span class="post-meta p-author h-card">joe jenett
+</span>
+<span class="post-meta post-categories">• posted in:
+{% if post %}
+{% assign categories = post.categories %}
+{% else %}
+{% assign categories = page.categories %}
+{% endif %}
+{% for category in categories %}
+<a href="{{ site.baseurl }}/categories#{{category|slugize}}">{{category}}</a>
+{% unless forloop.last %}&nbsp;{% endunless %}
+{% endfor %}
+</span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
+</div>
+</li>
+{% endif %}
+
+
+
+{% if count == 4 %}{% break %}
+{% endif %}
+
+{%- endfor -%}
+</div>
+<p style="margin:0 0 18px 0;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
+
+<!--
+<script type="text/javascript">
+$().ready(function(){
+$.getJSON( "https://webmention.io/api/mentions?token=LwcEKlppPl7YfzUjG6LWDQ",
+function( mydata ) {
+console.log(mydata);
+var output = '';
+$.each(mydata.links, function(i, v) {
+if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Mentions: ';
+}
+});
+$.each(mydata.links, function(i, v) {
+if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
+}
+});
+output += '<div>';
+$('#result').html(output);
+});	
+});
+</script>
+<div id="result"></div>
+-->
+</div>
+</div>

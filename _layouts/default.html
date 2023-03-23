@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{%- include head.html -%}
+
+<body>
+
+	{%- include header.html -%}
+
+	<main class="page-content" aria-label="Content">
+		<div class="wrapper">
+	
+			<div class="onef">
+				<!--
+				<div class="welcome" style="padding-top:4px;">
+					<span style="color:#dc6ea3;font-weight:700;font-size:.8em;">10/02/22:</span> Comments are temporarily disabled.
+				</div>
+			-->
+				<div style="padding-right:18px;">
+					<label for="search-input" style="display:none;">search</label>
+					<input type="text" id="search-input" placeholder="search posts">
+					<br/>
+					<div id="results-container"></div>
+				</div>
+				{{ content }}
+			</div>
+
+			<div class="twof">
+				<div class="thesidebar">
+					<div class="welcome" style="padding-bottom:6px;">
+						<div class="p-spot">
+						
+						</div>
+						<span style="float:right;margin-left:4px;"><a title="we ❤️ pinboard!" href="https://pinboard.in/u:iwebthings/"><img src="/images/pinboard.png" alt="we ❤️ pinboard!" style="max-width:20px;"></a><a title="Follow iwebthings on Mastodon" href="https://toot.community/@jenett" rel="me"><img src="/images/mast.png" alt="Follow i.webthings on Mastodon" style="max-width:22px;margin-left:2px;"></a> <a title="joejenett on micro.blog" href="https://micro.blog/joejenett" rel="me"><img src="/images/mbb.png" alt="joejenett on micro.blog" style="max-width:20px;"></a><a title="joe jenett on matrix" href="https://matrix.to/#/@joejenett:matrix.org"><img src="/images/matrix.png" alt="joe jenett on matrix" style="max-width:22px;position:relative;top:1px;margin-left:5px;"></a> <a title="joe jenett at github" href="https://github.com/joejenett" rel="me"><img src="/images/github.png" alt="joe jenett at github" style="max-width:22px;position:relative;top:1px;"></a> <a title="Subscribe" href="/feed.atom"><img src="/images/rss.png" alt="Subscribe" style="max-width:18px;margin-left:4px;"></a></span>
+						<p style="margin-top:8px;">Welcome to the<br />hub of <em>i.webthings</em>, an independent noncommercial web initiative.
+						</p>
+						<div style="margin-top:18px;font-weight:500;border-top:1px solid #ededed;padding:2px 0 0 0;font-size:.95em;">
+							<span style="font-weight:300;">You might also like:</span><br />
+							<a title="Indieseek.xyz Indieweb Directory | And search." href="https://indieseek.xyz/links/"><em style="color:#2d778c;">Indieseek.xyz Indieweb Directory</em></a><br /><a href="https://href.cool/" title=""><em style="color:#2d778c;">href.cool</em></a>
+							<p style="margin-bottom: 6px;">
+								<a href="https://pinboard.in/u:iwebthings/"><img src="/images/whp.png" title="We love Pinboard" alt="We ❤️ Pinboard" style="width:120px;margin-top:12px;"></a>
+								<!--
+									<a title="click to download and thanks for linking!" href="/images/iwt-button.png" download="i.webthings.button"><img style="float:right;margin:0 0 4px 6px;" alt="" width="88" height="31" src="/images/iwt-button.png" /></a>
+								-->
+							</p>
+						</div>
+						<div id='linkring' style="border-top:1px solid #ddd;border-bottom:1px solid #ddd;padding:6px 0;margin-bottom:6px;margin-top:12px;">
+							<script src="/linkring/onionring-variables.js"></script>
+							<script src="/linkring/onionring-widget.js"></script>
+						</div>
+						
+						<div id="welink">
+						<script src="/we.Link/welink-variables.js"></script>
+						<script src="/we.Link/welink-widget.js"></script>
+						</div>
+						<!--
+						<div style="text-align:center;margin:6px;"><a href="https://joejenett.github.io/please-allow-me-to-try-again-fellow-linkers/"><img src="/images/info.png" width=14" alt=""></a></div>
+						-->
+					</div>
+
+					<div class="hcard-display h-card vcard p-author" style="margin-bottom:12px;">
+						<div class="hcard-header">
+							<a class="u-url url fn u-uid" href="https://joejenett.github.io/" rel="author"><img alt="joe jenett aka i.webthings (home of the i.webthings hub)" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=60&amp;d=default&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=120&amp;d=default&amp;r=pg 2x" class="avatar avatar-60 photo u-photo hcard-photo u-photo p-author" width="50" style="margin-bottom:12px;"></a>
+							<p class="hcard-name p-name n">
+								joe jenett
+							</p>
+						</div>
+						<div class="hcard-body">
+							<ul class="hcard-properties"></ul>
+							<p class="p-note note">
+								every day, something new to discover
+							</p>
+						</div>
+					</div>
+					<div class="explore">
+						<a href="https://directory.joejenett.com/random/" title="visit a random site from the i.webthings directory"><span style="font-size:1.45em;font-style:italic;font-weight:700;background:transparent;;border:none;color:#296c80;">&ndash; random explorer &ndash;</span></a>
+					</div>
+					
+					<div class="sidefoot-aka">
+						<div id="aka">
+							<div id="aka-header">
+								<img id="slug" src="/images/rightslugger.png" alt="" /><br />
+								<div id="aka-header-left">i.webthings<br /><span class="aka-subhead" style="position:relative;left:9px;">a curator (of sorts)</span>
+								</div>
+								<span id="aka-header-fix">a.k.a.</span> 
+								<div id="aka-header-right">joe jenett<br /><span class="aka-subhead">personal side</span>
+								</div>
+							</div>
+							<div class="aka-sep">
+								active sites
+							</div>	
+							<div class="aka-sep-container">
+								<ul class="aka-sep-left">
+									<li><a title="i.webthings, an independent and noncommercial web initiative" href="https://joejenett.github.io/">i.webthings hub</a></li>
+									<li><a title="an eclectic selection of sites to explore, curated by a fellow human" href="https://directory.joejenett.com/">i.webthings directory</a></li>
+									<li><a title="daily links to resources, diversions, initiatives, and software since 2004" href="https://the.dailywebthing.com/">dailywebthing linkport </a></li>
+									<li><a title="daily pointers to personal blogs and other noncommercial sites since 2000" href="https://pointers.dailywebthing.com/">dwt daily pointers</a></li>
+								</ul>
+								<ul class="aka-sep-right">	
+									<li><a title="it’s personal. and micro. — simply." href="https://simply.joejenett.com/">simply.</a></li>
+									<li><a title="a new take" href="https://bulltown.2022.joejenett.com/">bulltown.<small>2022</small></a></li>
+									<li><a title="a pile of tasty miscellany" href="https://wiki.joejenett.com/">jenett. wiki.</a></li>
+									<li><a title="joe’s little digital garden" href="https://joe.joejenett.com/">🌱 𝚓𝚘𝚎. 𝚒𝚍𝚎𝚊𝚜.</a></li>
+								</ul>
+							</div>
+							<div class="aka-sep" style="margin:9px 14px 3px 14px;">
+								archived sites
+							</div>
+							<div class="aka-sep-container">
+								<ul class="aka-sep-left">
+									<li><a href="https://linkscatter.joejenett.com/">linkscatter</a></li>
+									<li><a href="https://coolstop.joejenett.com/">coolstop</a></li>
+									<li><a href="https://joejenett.com/colorspeak/">colorspeak</a></li>
+								</ul>
+
+								<ul class="aka-sep-right">	
+									<li><a href="https://photo.joejenett.com/">jenett.photo</a></li>
+									<li><a href="https://joesblues.joejenett.com/">joe’s blues</a></li>
+									<li><a href="https://deskphotos.joejenett.com/">deskphotos</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				
+					<div class="sidefoot-credits">
+						<p style="margin-top:18px;">
+							The i.webthings hub is intended<br>
+						for a mature audience.</p>
+						<p>
+							<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"><img alt="Creative Commons License" src="/images/by-nc-sa.png" style="margin:14px 0px 4px 0px;border:none;" width="88"></a><br>Weblog content licensed under<br>a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">Creative Commons License</a>.
+						</p>
+						<p>2010-2023 © joe jenett.<br>
+						Some rights reserved.</p>
+						<p><br />Some emoji are from<br /><a href="https://commons.wikimedia.org/wiki/Emoji">Wikimedia Commons</a>,<br>released under the<br><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC Attribution 4.0 International License</a>.
+						</p>
+						<p><br />
+							<a href="/privacy_policy/" title="">Privacy Policy</a>
+						</p>
+						<p>Powered by <a href="https://jekyllrb.com/">Jekyll</a> &amp; <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+						<p>Site design by joe jenett.
+						</p>
+					
+						<div id="wcb" class="carbonbadge" style="font-size:11px;"></div>
+						<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+					
+					</div>
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+	<script>
+		SimpleJekyllSearch({
+			searchInput: document.getElementById('search-input'),
+			resultsContainer: document.getElementById('results-container'),
+			json: '/search.json',
+			searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a> <small>({date})</small></li>',
+			noResultsText: 'No results found',
+			limit: 20,
+			fuzzy: false,
+			exclude: ['Welcome']
+		})
+	</script>
+</body>
+</html>

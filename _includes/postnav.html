@@ -1,0 +1,12 @@
+<div style="position:relative;top:-24px;margin-bottom:12px;display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+      <div style="width:50%;">
+        {% if post.previous.url %}
+        <a href="{{ site.baseurl }}{{post.previous.url}}">&larr; previous</a>
+        {% endif %}
+      </div>
+      <div style="width:50%;text-align:right;">
+        {% if post.next.url %}
+        <a href="{{ site.baseurl }}{{post.next.url}}">next &rarr;</a>
+        {% endif %}
+      </div>
+    </div>
