@@ -5,7 +5,7 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://webthings.joejenett.com/',
+'https://iwebthings.joejenett.com/',
 'https://directory.joejenett.com/',
 'https://the.dailywebthing.com/',
 'https://pointers.dailywebthing.com/'
