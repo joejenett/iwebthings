@@ -8,7 +8,7 @@ category:
 permalink: /in-defence-of-the-boring-web/
 slug: in-defence-of-the-boring-web
 summary: 
-comments: true
+comments: 
 ---
 <blockquote class="quoteback" data-title="In Defence of the Boring Web" data-author="//Bastian Rieck" data-avatar="https://bastian.rieck.me/images/portrait_2021.webp" cite="https://bastian.rieck.me/blog/posts/2022/boring/">
 	<p>

@@ -8,7 +8,7 @@ category:
 permalink: /this-month-in-the-currents/
 slug: this-month-in-the-currents
 summary: notable things
-comments: true
+comments: 
 ---
 [David R. MacIver](https://notebook.drmaciver.com/) has posted 27 _thoughts_ this month, each one a well written glimpse into his life - well written stuff.
 

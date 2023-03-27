@@ -8,7 +8,7 @@ category:
 permalink: /link-checking-and-fixing-completed-for-now/
 slug: link-checking-and-fixing-completed-for-now
 summary: happiness is linkrot gone
-comments: true
+comments: 
 ---
 <p>Tickled to say the <em>webthings</em> are virtually free of linkrot again. I guess we’ll see how long it lasts this time.</p>
 <p>Cheers!</p>

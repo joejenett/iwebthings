@@ -9,7 +9,7 @@ category:
 permalink: /we-go-up-we-go-down/
 slug:  we-go-up-we-go-down
 summary:
-comments: true
+comments: 
 ---
 <p>It’s great! I managed to add 20 new sites to the directory this morning. Not so much. I found and deleted 22 bad links from the directory this morning.
 </p>

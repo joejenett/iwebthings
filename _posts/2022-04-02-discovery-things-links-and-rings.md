@@ -9,7 +9,7 @@ category:
 permalink: /discovery-things-links-and-rings/
 slug: discovery-things-links-and-rings
 summary:
-comments: true
+comments: 
 ---
 <p id="topper">I truly appreciate the many sources which make it possible for me to continually do what I enjoy doing the most - sharing links, providing a means to explore and discover what’s out there on the independent web. To all the <a href="https://pinboard.in/" title="We ❤️ Pinboard" >Pinboard</a> users, directories, blogrolls <small>(link lists)</small>, and webrings that have been so helpful to me - <strong>thank you!</strong>
 </p>
