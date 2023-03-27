@@ -8,7 +8,7 @@ category:
 permalink: /my-simplification–project-vs-your-bookmarks/
 slug: my-simplification–project-vs-your-bookmarks
 summary: ch-ch-ch-ch-changes...
-comments: true
+comments: 
 ---
 <h2>the project</h2>
 <p>Last November on the <em>simply.</em> blog, I <a href="https://simply.jenett.org/heres-to-simplicity/" title="here’s to simplicity❗️">mentioned</a> completing the first phase of a simplification project started earlier that year.</p>

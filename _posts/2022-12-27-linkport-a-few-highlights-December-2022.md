@@ -9,7 +9,7 @@ category:
 permalink: /linkport-a-few-highlights-December-2022/
 slug:  linkport-a-few-highlights-December-2022
 summary: 
-comments: true
+comments: 
 ---
 <ul>
 <li><a href="https://michael-klein.github.io/medieval-cat-meme-generator/">King DerpCats most wondrous meme gen’rat’r</a><br>“ent’r thy text to maketh a dank meme!”</li>

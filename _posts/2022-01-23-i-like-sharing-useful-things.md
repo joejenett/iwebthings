@@ -9,7 +9,7 @@ category:
 permalink: /i-like-sharing-useful-things/
 slug: i-like-sharing-useful-things
 summary: It’s all in the tools baby!
-comments: true
+comments: 
 ---
 When I find a time saver or tool that improves my workflow, I like sharing it. Much of what I know comes from others’ generous sharing of ideas and solutions. It’s kinda like _paying it forward_ - feels right.
 

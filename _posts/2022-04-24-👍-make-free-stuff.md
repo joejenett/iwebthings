@@ -8,7 +8,7 @@ category:
 permalink: /👍-make-free-stuff/
 slug: 👍-make-free-stuff
 summary: yeah, we’ve all seen that that ‘giant freemium game’
-comments: true
+comments: 
 ---
 <blockquote class="quoteback" data-title="Make Free Stuff " data-author="//Max Böck" data-avatar="https://mxb.dev/assets/images/avatar2.jpg" cite="https://mxb.dev/blog/make-free-stuff/">
 	<p>

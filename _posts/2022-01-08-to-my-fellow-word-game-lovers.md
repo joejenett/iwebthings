@@ -9,7 +9,7 @@ category:
 permalink: /to-my-fellow-word-game-lovers/
 slug: to-my-fellow-word-game-lovers
 summary: I love a good word game!
-comments: true
+comments: 
 ---
 <p><a title="Wordle - A daily word game" href="https://twitter.com/powerlanguish/status/1488263944309731329">Wordle</a> is a cool word game. I first encountered it back in November (<a href="https://the.dailywebthing.com/guess-the-new-daily-word-in-6-tries/"><em>dwt</em></a>) via <a href="https://waxy.org/category/links/">Waxy.org</a>. Great fun!</p>
 <p>Since then, I’ve bumped into several new variations of the game, both of which allow you to play again instead of having to wait for the next daily word. One of them also allows you to change the number of letters in the word you’re trying to guess. I like 'em - so here ya go:</p>

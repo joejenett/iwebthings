@@ -9,7 +9,7 @@ category:
 permalink: /updated-list-of-Wordle-clones-including-parodies/
 slug: updated-list-of-Wordle-clones-including-parodies
 summary: I’d say <em>Wordle</em> is a thing - we’re having fun now!
-comments: true
+comments: 
 ---
 <p>This updated list starts with the original game by <a href="https://www.powerlanguage.co.uk/">Josh Wardle</a> and the two replicas mentioned in my previous post, followed by other replicas I’ve discovered since. I’d say <em>Wordle</em> is a thing - we’re having fun now!</p>
 <p><ul>

@@ -10,7 +10,7 @@ category:
 permalink: /from-joe-jenett-aka-i-webthings-on-behalf-of-the-linkport/
 slug: from-joe-jenett-aka-i-webthings-on-behalf-of-the-linkport
 summary:
-comments: true
+comments: 
 ---
 Sometimes I just have to say thanks - this time to <a href="https://mastodon.social/@johnjohnston/109366755615959088">@johnjohnston</a> aka <a href="https://johnjohnston.info/blog/feedreaderfriday-1/">John Johnston</a> for his thoughtful description of the linkport:
 <blockquote><p>

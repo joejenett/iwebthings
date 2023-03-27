@@ -9,7 +9,7 @@ category:
 permalink: /intelligent-colorization/
 slug: intelligent-colorization
 summary: how cool is this!
-comments: true
+comments: 
 ---
 
 <div style="min-height:320px;display:block;">

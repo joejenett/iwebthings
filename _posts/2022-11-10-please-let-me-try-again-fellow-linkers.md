@@ -9,7 +9,7 @@ category:
 permalink: /please-allow-me-to-try-again-fellow-linkers/
 slug: please-allow-me-to-try-again-fellow-linkers
 summary:
-comments: true
+comments: 
 ---
 <p>Last month when I wrote about <em>we.Link</em>, my tongue-in-cheek approach though fun for me failed miserably in telling you anything about the project. So please allow me another shot.</p> 
 <p>You may have noticed a new version of the <em>we.Link</em> widget is back on the sidebar. It now uses lightweight javascript, based on <a href="https://garlic.garden/onionring/">onionring.js</a> - thanks <a href="https://allium.house/">joey + mord</a>!</p>
