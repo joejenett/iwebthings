@@ -56,6 +56,27 @@ layout: default
 </div> 
 <script>
 	$().ready(function(){
+		$.getJSON( "https://webmention.io/api/mentions?token=5y4LXGZUBH1H527DJ-1f9g",
+		function( mydata ) {
+			console.log(mydata);
+			var output = '';
+			$.each(mydata.links, function(i, v) {
+				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+				output = 'Mentions: <br />';
+			}
+			});
+        		$.each(mydata.links, function(i, v) {
+        		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+               		output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /><br />' + v.data.author.name + '</a></p> ';
+               	}
+    	});
+    		output += ' ';
+    		$('#result2').html(output);
+		});	
+	});
+</script>
+<div id="result2"></div><script>
+	$().ready(function(){
 		$.getJSON( "https://webmention.io/api/mentions?token=Hk9-dBDdNDqQh9UECT5hdg",
 		function( mydata ) {
 			console.log(mydata);
