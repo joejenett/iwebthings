@@ -17,7 +17,7 @@ layout: default
     <ul>
     {%- for item in yearitem.items -%}
       <li style="list-style:none;text-indent:-22px;">
-        <span><a href="/i.webthings{{ item.permalink }}">{{ item.title }}</a></span>
+        <span><a href="{{ item.permalink }}">{{ item.title }}</a></span>
         <date><small>({{ item.date | date:'%b %-d, %Y'}})</small></date>
       </li>
     {% endfor %}
