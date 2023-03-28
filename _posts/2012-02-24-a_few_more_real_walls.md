@@ -1,6 +1,6 @@
 ---
 id: 35
-title: 'a few more (real) walls
+title: 'a few more (real) walls'
 date: 2012-02-24T05:57:46-05:00
 author: joe jenett
 layout: post
