@@ -1,11 +1,12 @@
 ---
 id: 35
-title: 'a few more (real) walls&#8230;'
+title: 'a few more (real) walls
 date: 2012-02-24T05:57:46-05:00
 author: joe jenett
 layout: post
 guid: https://iwebthings.com/i.webthings/2012/02/24/a-few-more-real-walls/
 permalink: /a_few_more_real_walls/
+slug: a_few_more_real_walls
 classic-editor-remember:
   - classic-editor
 complete_open_graph:
