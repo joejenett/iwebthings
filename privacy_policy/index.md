@@ -27,7 +27,7 @@ Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the web
   * <a href="https://joejenett.com/intersect/" class="url" rel="noopener noreferrer">https://joejenett.com/intersect/</a>,
   * <a href="https://wiki.joejenett.com/" class="url" rel="noopener noreferrer">https://wiki.joejenett.com/</a>,
   * <a href="https://joe.joejenett.com/" class="url" rel="noopener noreferrer">https://ideas.joejenett.com/</a>,
-  * and other archives at various subdomains of joejenett.com (the “Sites”).
+  * and other subdomains of <a href="https://joejenett.com/" class="url" rel="noopener noreferrer">https://joejenett.com/</a>, (the “Sites”).
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Sites. Some policies only apply to sites with certain features.
 
