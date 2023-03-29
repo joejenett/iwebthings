@@ -12,6 +12,6 @@ summary:
 comments: true
 ---
 <p>We’re getting there...</p>
-<p><a title="button walls are fun" href="https://bulltown.2022.jenett.org/#buttons"><img src="/images/buttons.jpg" alt="button wall" style="max-width:100%;padding:4px;border:1px solid #bcbcbc;"></a></p>
+<p><a title="button walls are fun" href="https://bulltown.2022.jenett.org/#buttons"><img src="/images/buttons.jpg" alt="button wall" style="width:550px;padding:4px;border:1px solid #bcbcbc;"></a></p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
