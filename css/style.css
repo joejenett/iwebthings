@@ -13,6 +13,9 @@ body {
 /*background-color: #fafaf0;*/
   background-color: #f8f8fa;
 }
+#follow {
+	position:relative;float:right;margin:24px;
+}
 .p-spot {
 	margin-bottom:18px;
 }
@@ -423,6 +426,9 @@ margin:0;
 
 }
 @media only screen and (max-width:476px) {
+#follow {
+	display:none;
+	}
 .thesidebar {
 padding:0;
 margin:0;
