@@ -402,31 +402,57 @@ margin-bottom:0;
 	margin-bottom:6px;
 	/*position:relative;left:8px;*/
 }		
-@media only screen and (max-width:768px) {
-	body {
-		padding:0 9px 0 14px;
+	#tabletop {
+		width: auto;
+		display: table;
+		padding:6px;
+		border:1px solid #ddd;
+		border-radius:8px;
 	}
-div.hcard-display, .explore {
-margin:auto;	
-}
-.thesidebar {
-padding:0 0 0 6px;
-margin:0;
-}
-	.onef {
-	width:99%;	
+	.grouper {
+		display:table-row-group;
+		padding:4px;
 	}
-	.twof {
-	width:100%;	
+	.record {
+		display:table-row;
 	}
-.thesidebar {
-	position:relative;
-	left:-8px;
-	padding-top:24px;
-}
-
-
-}
+	.cell {
+		display: table-cell;
+		padding:4px 8px;
+		border:1px solid #efefef;
+	}
+	.headerow {
+		display: table-header-group;
+	}
+	.headercell {
+		padding:4px 8px;
+		border:none;
+		font-weight:600;
+	}
+	
+	@media only screen and (max-width:768px) {
+		body {
+			padding:0 9px 0 14px;
+		}
+		div.hcard-display, .explore {
+			margin:auto;	
+		}
+		.thesidebar {
+			padding:0 0 0 6px;
+			margin:0;
+		}
+		.onef {
+			width:99%;	
+		}
+		.twof {
+			width:100%;	
+		}
+		.thesidebar {
+			position:relative;
+			left:-8px;
+			padding-top:24px;
+		}
+	}
 @media only screen and (max-width:476px) {
 .follow {
 	display:none;
