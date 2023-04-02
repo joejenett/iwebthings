@@ -405,7 +405,7 @@ article.comment {
 	#tabletop {
 		width: auto;
 		display: table;
-		padding:6px;
+		padding:6px 6px 14px 6px;
 		border:1px solid #ddd;
 		border-radius:8px;
 	}
