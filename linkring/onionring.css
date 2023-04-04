@@ -6,13 +6,16 @@
 /* this file affects the style of the widget. remember to replace all instances of #idealink with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
 
 #linkring {
+	display:none;
+}
+/*
+#linkring {
 	text-align:center;font-size:14px;padding:3px 6px;font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;line-height:1.3em;
 }
 #linkring a {
 	text-decoration:none;font-weight:500;
 }
 #linkring .webring-prev {
-/*position:relative;float:left;width:60px;*/
 font-size:1.4em;
 font-weight:600;
 }
@@ -31,9 +34,8 @@ top:-1px;
 	vertical-align:middle;
 }
 #linkring .webring-next {
-/*position:relative;float:right;width:60px;*/
-font-size:1.4em;
-font-weight:600;
+	font-size:1.4em;
+	font-weight:600;
 }
 
 #linkring .webring-links {
@@ -45,3 +47,4 @@ font-weight:600;
 	/*color:#3e5018;*/
 	color: #023a5d;
 }
+*/
