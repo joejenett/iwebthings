@@ -10,7 +10,7 @@ slug: i-webthings-recent-lineup-changes
 summary: 
 comments: true
 ---
-<p>The server failure a few weeks ago was an opportunity to reorganize the <em>webthings</em> to help improve server performance and ensure content posterity. In the process, many individual site improvements were implemented. For clarity, here’s a list of all the <em>webthings’</em> current URLs:</p>
+<p>The server failure a few weeks ago was an opportunity to reorganize the <em>webthings</em> to help improve server performance and content longevity. In the process, many individual site improvements were implemented. For clarity, here’s a list of all the <em>webthings’</em> current URLs:</p>
 <div id="tabletop">
 <div class="headerow">
 <div class="headercell">
