@@ -10,11 +10,11 @@ slug: i-webthings-recent-lineup-changes
 summary: 
 comments: true
 ---
-<p>The server failure a few weeks ago was an opportunity to reorganize the <em>webthings</em> to help improve server performance and content longevity. In the process, many individual site improvements were implemented. For clarity, here’s a list of all the <em>webthings’</em> current URLs:</p>
+<p>The server failure a few weeks ago was an opportunity to reorganize the <em>webthings</em> to help improve server performance and content longevity. In the process, many individual site improvements were implemented. For clarity, here’s a list of all the <em>webthings’</em> current URLs (updated 4/10/23):</p>
 <div id="tabletop">
 <div class="headerow">
 <div class="headercell">
-active sites
+currently active
 </div>
 </div>
 <div class="grouper">
@@ -34,6 +34,7 @@ i.webthings directory
 <a href="https://directory.joejenett.com/">https://directory.joejenett.com/</a>
 </div>
 </div>
+<!--
 <div class="record">
 <div class="cell">
 the dailywebthing linkport
@@ -50,6 +51,7 @@ dwt daily pointers
 <a href="https://pointers.dailywebthing.com/">https://pointers.dailywebthing.com/</a>
 </div>
 </div>
+-->
 <div class="record">
 <div class="cell">
 simply.
@@ -85,10 +87,18 @@ joe. ideas.
 </div>
 <div class="headerow">
 <div class="headercell" style="padding-top:24px;">
-archived sites
+archives
 </div>
 </div>
 <div class="grouper">
+<div class="record">
+<div class="cell">
+dailywebthing archives
+</div>
+<div class="cell">
+<a href="https://dwt-archives.joejenett.com/">https://dwt-archives.joejenett.com/</a>
+</div>
+</div>
 <div class="record">
 <div class="cell">
 linkscatter
@@ -107,28 +117,13 @@ coolstop
 </div>
 <div class="record">
 <div class="cell">
-colorspeak
-</div>
-<div class="cell">
-<a href="https://joejenett.com/colorspeak/">https://joejenett.com/colorspeak/</a>
-</div>
-</div>
-<div class="record">
-<div class="cell">
 jenett.photo
 </div>
 <div class="cell">
 <a href="https://photo.joejenett.com/">https://photo.joejenett.com/</a>
 </div>
 </div>
-<div class="record">
-<div class="cell">
-intersect
-</div>
-<div class="cell">
-<a href="https://joejenett.com/intersect/">https://joejenett.com/intersect/</a>
-</div>
-</div>
+
 <div class="record">
 <div class="cell">
 joe’s blues
@@ -147,12 +142,30 @@ deskphotos
 </div>
 <div class="record">
 <div class="cell">
+colorspeak
+</div>
+<div class="cell">
+<a href="https://joejenett.com/colorspeak/">https://joejenett.com/colorspeak/</a>
+</div>
+</div>
+<div class="record">
+<div class="cell">
+intersect
+</div>
+<div class="cell">
+<a href="https://joejenett.com/intersect/">https://joejenett.com/intersect/</a>
+</div>
+</div>
+<!--
+<div class="record">
+<div class="cell">
 ASAP!
 </div>
 <div class="cell">
 <a href="https://joejenett.com/asap/">https://joejenett.com/asap/</a>
 </div>
 </div>
+-->
 </div>
 </div>
 
