@@ -458,6 +458,10 @@ article.comment {
 	@media only screen and (max-width:476px) {
 		#tabletop {
 			font-size:.9em;
+			padding:6px 3px 14px 3px;
+		}
+		.cell {
+			padding:2px 4px;
 		}
 		.follow {
 			display:none;
