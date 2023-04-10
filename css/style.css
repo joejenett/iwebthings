@@ -456,6 +456,9 @@ article.comment {
 		}
 	}
 	@media only screen and (max-width:476px) {
+		#tabletop {
+			font-size:.9em;
+		}
 		.follow {
 			display:none;
 		}
