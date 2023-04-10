@@ -334,8 +334,9 @@ article.comment {
 	}
 	.aka-sep {
 		text-align:center;
-		margin:24px 14px 3px 14px;
-		border:1px solid #dcdcdc;
+		margin:0 10px 3px 10px;
+		border-top:1px solid #ededed;
+		border-bottom:1px solid #ededed;
 		line-height:1.2em;
 	}
 	.aka-sep-container {
@@ -345,13 +346,13 @@ article.comment {
 	}	
 	.aka-sep-left {
 		text-align:left;
-		width:55%;
-		margin-left:22px;
+		width:50%;
+		margin-left:10px;
 	}
 	.aka-sep-right {
 		text-align:right;
-		width:45%;
-		margin-right:20px;
+		width:50%;
+		margin-right:10px;
 	}
 	#aka-header {
 		width:100%;
