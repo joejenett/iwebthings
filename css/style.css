@@ -13,6 +13,9 @@ body {
 	/*background-color: #fafaf0;*/
 	background-color: #f8f8fa;
 }
+ul.links li {
+	margin-bottom:12px;
+}
 .follow {
 	position:relative;
 	float:right;
