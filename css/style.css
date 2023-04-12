@@ -277,7 +277,7 @@ article.comment {
 		background: var(--hbg-color);
 		border:1px solid #a3b8cc;
 		border-radius:8px;
-		padding:4px 6px;
+		padding:6px 0 0 0;
 		font-size:.8em;
 		text-align:center;
 	}
