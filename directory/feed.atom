@@ -12,8 +12,8 @@
   </author>
   <rights>2010-2023 © joe jenett. Some rights reserved.</rights>
 
-  {% for post in site.posts limit:1 %}
-  {% if post in site.categories[category_name] == "i-webthings-directory" %}
+  {% for post in site.posts %}
+  {% if post in site.categories[category_name] == "i-webthings-directory" limit:1 %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="https://iwebthings.joejenett.com{{ post.url }}"/>
