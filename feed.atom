@@ -12,7 +12,7 @@
   </author>
   <rights>2010-2023 © joe jenett. Some rights reserved.</rights>
 
-  {% for post in site.posts limit:1 %}
+  {% for post in site.posts limit:7 %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="https://iwebthings.joejenett.com{{ post.url }}"/>
