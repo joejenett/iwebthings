@@ -24,6 +24,12 @@ ul.links li {
 .p-spot {
 	margin-bottom:18px;
 }
+div.hold-meta {
+	position:relative;
+	top:-14px;
+	margin-bottom:9px;
+}
+
 a, div.post-list a {
 	color: #286c80;
 	text-decoration: none;
@@ -103,7 +109,7 @@ nav {
 	top: -11px;
 }
 h1.post-title {
-	font-size:30px;
+	font-size:28px;
 }
 .post-content h2 {
 	font-size: 28px;
