@@ -1,4 +1,4 @@
-#url: https://iwebthings.joejenett.com
+#url: https://hub.iwebthings.com
 
 
 # Welcome to Jekyll!
@@ -35,8 +35,8 @@ plugins:
   - jekyll-feed
   - kramdown
 feed:
-  posts_limit: 10   
-#  - jekyll-get-json
+  posts_limit: 10
+  #  - jekyll-get-json
 #jekyll-get-json:
 #  - data: wm
 #    json: 'https://jenett.org/wm.json'
