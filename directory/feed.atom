@@ -25,4 +25,3 @@
   {% endfor %}
 </feed>
 
-{% for post in site.categories[category_name] %}
