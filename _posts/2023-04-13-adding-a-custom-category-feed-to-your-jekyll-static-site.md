@@ -4,7 +4,7 @@ title:  adding a custom category feed to your Jekyll static site
 date:   2023-04-13 14:18:12 -0400
 author: joe jenett
 category:
-  -  
+  -  how-to
 permalink: /adding-a-custom-category-feed-to-your-jekyll-static-site/
 slug: adding-a-custom-category-feed-to-your-jekyll-static-site
 summary: 
