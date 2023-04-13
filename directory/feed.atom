@@ -12,7 +12,8 @@
   </author>
   <rights>2010-2023 © joe jenett. Some rights reserved.</rights>
 
-  {% for post in in site.posts in site.categories[i-webthings-directory] limit:1 %}
+  {% for post in in site.posts limit:1 %}
+  {% if post in site.categories[i-webthings-directory] %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="https://iwebthings.joejenett.com{{ post.url }}"/>
@@ -20,6 +21,7 @@
     <id>https://iwebthings.joejenett.com{{ post.url }}</id>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
+  <% endif %}
   {% endfor %}
 </feed>
 
