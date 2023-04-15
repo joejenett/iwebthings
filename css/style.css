@@ -16,6 +16,9 @@ body {
 ul.links li {
 	margin-bottom:12px;
 }
+ul.linkylove li {
+	margin-bottom:6px;
+}
 .follow {
 	position:relative;
 	float:right;
