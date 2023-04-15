@@ -11,7 +11,7 @@ slug: list-recently-noticed-04-14-23
 summary: 
 comments: true
 ---
-<ul>
+<ul class="links">
 	<li><a title="She Changes Climate" href="https://www.shechangesclimate.org/">She Changes Climate</a> <a href="https://pinboard.in/u:manicoo">📌</a><br>“Enabling women in all their diversity, to lead just climate action globally.”</li>
 	<li><a title="Blades" href="https://getblades.org/">Blades</a> <a href="https://pinboard.in/u:messofpottage">📌</a><br>“<strong>bla</strong>zing fast<br><strong>de</strong>ad simple<br><strong>s</strong>tatic site generator”</li>
 	<li><a title="GitHub - retrohacker/template: A simple framework for webapps" href="https://github.com/retrohacker/template">template</a><br>“Template is a simple JS framework for creating interactive applications.”</li>
