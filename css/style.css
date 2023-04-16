@@ -19,6 +19,10 @@ ul.links li {
 ul.linkylove li {
 	margin-bottom:6px;
 }
+ul.select li {
+	list-style:none;
+	margin-bottom:6px;
+}
 .follow {
 	position:relative;
 	float:right;
