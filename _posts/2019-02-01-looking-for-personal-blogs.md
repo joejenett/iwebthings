@@ -40,7 +40,7 @@ categories:
   </ul>
 </li>
 
-<small><br /> (also posted to <a class="u-syndication" href="https://indieweb.xyz/en/blogs">indieweb.xyz/en/blogs</a>)<br /> </small>
+<small><br /> (also posted to <a class="u-syndication" title="site gone? 04/17/23">indieweb.xyz/en/blogs</a>)<br /> </small>
 
 <h2 id="comments-title">One thought on “<span>looking for personal blogs?</span>”		</h2>
 

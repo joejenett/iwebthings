@@ -42,6 +42,6 @@ The truth is I love this guy&#8217;s attitude. He teaches us/me things in a most
 
 <div>
 <div class="syndy">
-(also posted to <a class="u-syndication" href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)
+(also posted to <a class="u-syndication" title="site gone? 04/17/23">indieweb.xyz/en/linking</a>)
 </div>
 </div>

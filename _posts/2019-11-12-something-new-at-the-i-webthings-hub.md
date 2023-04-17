@@ -23,6 +23,6 @@ kind:
 Effective November 11, 2019, posts from each of my various _webthings_ are also being syndicated here at the _i.webthings hub_. For those of you who follow one or more of the _webthings_ regularly &ndash; first of all, thank you! Secondly, you can now keep up with all of the _webthings_ here in one place, whether you visit the blog or subscribe to its feed. Hoping you find the change useful &ndash; again, thanks for visiting. Enjoy!
 
 <div class="syndy">
-  (also posted to <a class="u-syndication" href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)
+  (also posted to <a class="u-syndication" title="site gone? 04/17/23">indieweb.xyz/en/linking</a>)
 </div>
 

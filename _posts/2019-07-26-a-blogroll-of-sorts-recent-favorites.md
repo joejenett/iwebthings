@@ -48,4 +48,4 @@ kind:
   * [Smokey Ardisson](https://www.ardisson.org/afkar/)
   * [The Eclectic Light Company](https://eclecticlight.co/)
 
-<small>(also posted to <a href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</small>
+<small>(also posted to <a title="site gone? 04/17/23">indieweb.xyz/en/linking</a>)</small>

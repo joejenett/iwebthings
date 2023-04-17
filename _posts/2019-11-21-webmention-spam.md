@@ -29,4 +29,4 @@ kind:
 <span class="kind-display-text">Bookmarked</span> <a href="https://www.jvt.me/posts/2019/11/20/intelligent-webmentions/" class="p-name u-url">Sending Webmentions More Intelligently</a> by <a href="https://www.jvt.me" class="h-card p-author"><img class="u-photo" src="https://www.jvt.me/img/profile.png" alt=" Jamie Tanna" width="32" height="32"> Jamie Tanna</a> <em>(<span class="p-publication">jvt.me</span>)</em>
 <blockquote class="e-summary">Updating my post-deployment tooling to only send Webmentions when they've not already been accepted (or rejected).</blockquote>
 		
-(also posted to <a class="u-syndication" href="https://indieweb.xyz/en/indieweb">indieweb.xyz/en/indieweb</a>)
+(also posted to <a class="u-syndication" title="site gone? 04/17/23">indieweb.xyz/en/indieweb</a>)

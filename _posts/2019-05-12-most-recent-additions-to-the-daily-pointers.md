@@ -44,7 +44,7 @@ kind:
   * [a foolish consistency](https://afc.letterspace.org/)
   * [Cosmic Voyage](https://cosmic.voyage/)
 
-<small><em>(also posted to <a href="https://indieweb.xyz/en/linking">indieweb.xyz/en/linking</a>)</em></small>
+<small><em>(also posted to <a title="site gone? 04/17/23">indieweb.xyz/en/linking</a>)</em></small>
 
 <h2 id="comments-title">One thought on “<span>most recent additions to the daily pointers</span>”		</h2>
 
