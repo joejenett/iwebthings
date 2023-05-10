@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""“Is this the future we want?”""
+title: "“Is this the future we want?”"
 date:   2023-05-10 15:15:23 -0400
 author: joe jenett
 category:
