@@ -12,7 +12,7 @@ comments: true
 ---
 Just to let you know I completed link testing and fixing here at the hub today. No link rot for now, thank you.
 
-Earlier this month, thorough testing and fixing of links was also completed at the _dwt-archives_ as well as the archived _coolstop_ site.
+Earlier this month, thorough testing and fixing of links was also completed at the _dwt-archives_ and the archived _coolstop_ site.
 
 Yay!
 
