@@ -20,7 +20,9 @@ complete_open_graph:
 categories:
   - i-webthings
 ---
-I’m pleased to announce _the dailywebthing linkport_ and _dailywebthing daily pointers_ are now available on the Fediverse. It&#8217;s easy to follow either (or both) of these linkblogs from your Mastodon client.
+Update 05/21/23: The information below no longer applies. Thanks.
+
+<div style="text-decoration:line-through;">I’m pleased to announce _the dailywebthing linkport_ and _dailywebthing daily pointers_ are now available on the Fediverse. It&#8217;s easy to follow either (or both) of these linkblogs from your Mastodon client.
 
 To follow the _linkport,_ search for _@the.dailywebthing_ in your client&#8217;s search form and follow:
 
@@ -35,6 +37,7 @@ To follow the _daily pointers,_ search for _@pointers.dailywebthing_ in your cli
 <p style="text-align: center;">
   <em>@pointers.dailywebthing.com@pointers.dailywebthing.com</em>
 </p>
+</div>
 
 Enjoy!
 
