@@ -9,7 +9,7 @@ permalink: /if-you-are-bored-or-next-time-you-are/
 slug: if-you-are-bored-or-next-time-you-are
 summary: go explore silly!
 ---
-...you might try <a title="the dailywebthing: exploring something cool" href="https://the.dailywebthing.com/?s=exploring+something+cool">exploring something cool</a>. Enjoy your day!
+...you might try <a title="the dailywebthing: exploring something cool" href="https://dwt-archives.joejenett.com/?s=exploring+something+cool">exploring something cool</a>. Enjoy your day!
 
 <a href="https://brid.gy/publish/twitter"></a>
 <data class="p-bridgy-omit-link" value="false"></data>

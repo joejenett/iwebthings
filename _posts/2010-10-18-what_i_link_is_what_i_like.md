@@ -23,7 +23,7 @@ categories:
 kind:
   - Article
 ---
-I&#8217;d like to share a visual representation of the content found at the [dailywebthing linkport](http://dailywebthing.com/), based on the number of posts in each category.
+I&#8217;d like to share a visual representation of the content found at the [dailywebthing linkport](https://dwt-archives.joejenett.com/), based on the number of posts in each category.
 
 ![a glimpse at i.dailywebthing](/images/dwt_cloud.jpg) 
 

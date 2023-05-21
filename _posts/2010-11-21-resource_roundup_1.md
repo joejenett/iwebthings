@@ -15,7 +15,7 @@ categories:
   - links
   - miscellany
 ---
-An assortment of resources and tools from the archives of [the dailywebthing](http://dailywebthing.com/linkport/)&#8230;
+An assortment of resources and tools from the archives of [the dailywebthing](https://dwt-archives.joejenett.com/)&#8230;
 
 Cheat Sheets:
 

@@ -23,7 +23,7 @@ categories:
 kind:
   - Article
 ---
-  <p>An assortment of resources and tools from the archives of <a href="http://dailywebthing.com/linkport/">the dailywebthing</a>...</p>
+  <p>An assortment of resources and tools from the archives of <a href="https://dwt-archives.joejenett.com/">the dailywebthing</a>...</p>
   Mobile
   <ul>
   <li><a href="http://apps.usa.gov/">USA.gov: Mobile Apps</a></li>

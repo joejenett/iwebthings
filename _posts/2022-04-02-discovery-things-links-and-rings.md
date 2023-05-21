@@ -14,7 +14,7 @@ comments:
 <p id="topper">I truly appreciate the many sources which make it possible for me to continually do what I enjoy doing the most - sharing links, providing a means to explore and discover what’s out there on the independent web. To all the <a href="https://pinboard.in/" title="We ❤️ Pinboard" >Pinboard</a> users, directories, blogrolls <small>(link lists)</small>, and webrings that have been so helpful to me - <strong>thank you!</strong>
 </p>
 <p>
-To my readers and fellow explorers, let me share some of these great exploration points I use to find links for <a href="https://the.dailywebthing.com/" title=""><em>the dailywebthing linkport</em></a> and <a href="https://ponters.dailywebthing.com/" title=""><em>the daily pointers</em></a> - hopefully, you’ll enjoy them too.
+To my readers and fellow explorers, let me share some of these great exploration points I use to find links for <a href="https://dwt-archives.joejenett.com/" title=""><em>the dailywebthing linkport</em></a> and <a href="https://dwt-archives.joejenett.com/category/pointers/" title=""><em>the daily pointers</em></a> - hopefully, you’ll enjoy them too.
 </p>
 <p>
 Plese note the lists are expandable and collapsible.

@@ -19,7 +19,7 @@ categories:
 kind:
   - Note
 ---
-[<img style="position:relative;top:-3px;" src="/images/dwtvia.png" alt="" width="28" />](https://the.dailywebthing.com/ "originally shared at the dailywebthing linkport") [↪ <small>from <em>the dailywebthing linkport</em>:</small>](https://the.dailywebthing.com/ "the dailywebthing linkport")
+[<img style="position:relative;top:-3px;" src="/images/dwtvia.png" alt="" width="28" />](https://dwt-archives.joejenett.com/ "originally shared at the dailywebthing linkport") [↪ <small>from <em>the dailywebthing linkport</em>:</small>](https://dwt-archives.joejenett.com/ "the dailywebthing linkport")
 
 [Humane by Design](https://humanebydesign.com/ "Humane by Design")
 

@@ -22,7 +22,7 @@ categories:
 kind:
   - Article
 ---
-Gleaned from the dailywebthing&#8217;s [odd](http://dailywebthing.com/linkport/archives/odd/) archives&#8230;
+Gleaned from the dailywebthing&#8217;s [odd](https://dwt-archives.joejenett.com/category/odd/) archives&#8230;
 
 [Some Photographs of That Day](http://photooftheday.hughcrawford.com/)  
 [<img style="border: none;" src="/images/some_photographs.jpg" alt="Some Photographs of That Day" />](http://photooftheday.hughcrawford.com/)

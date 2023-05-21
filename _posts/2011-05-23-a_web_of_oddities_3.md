@@ -23,7 +23,7 @@ categories:
 kind:
   - Article
 ---
-Gleaned from [the dailywebthing](http://dailywebthing.com/linkport/)&#8230;
+Gleaned from [the dailywebthing](https://dwt-archives.joejenett.com/)&#8230;
 
 [You are listening to Los Angeles](http://youarelistening.to/)  
 [<img style="border: none; margin: 8px 0;" src="/images/youarelistening.jpg" alt="You are listening to Los Angeles" />](http://youarelistening.to/)

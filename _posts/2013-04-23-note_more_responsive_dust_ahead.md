@@ -14,6 +14,6 @@ complete_open_graph:
 categories:
   - i-webthings
 ---
-So. After having finished the responsive redesign of [the dailywebthing](http://dailywebthing.com/linkport/) recently (though some ongoing tweaking continues), I decided to do the same here. I&#8217;ll be testing new templates and implementing changes here on the live site for the next few days, so if you should encounter something funky, it&#8217;s probably temporary. And yes, I am having fun!
+So. After having finished the responsive redesign of [the dailywebthing](https://dwt-archives.joejenett.com/) recently (though some ongoing tweaking continues), I decided to do the same here. I&#8217;ll be testing new templates and implementing changes here on the live site for the next few days, so if you should encounter something funky, it&#8217;s probably temporary. And yes, I am having fun!
 
 ([prior discussion](https://disqus.com/home/discussion/iwebthings/iwebthings_note_more_responsive_dust_ahead/))

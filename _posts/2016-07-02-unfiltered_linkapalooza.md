@@ -27,7 +27,6 @@ Updated 07/4/16
   * [Lifemap](http://lifemap.univ-lyon1.fr/ "Lifemap")
   * [A Stick Figure Guide to the Advanced Encryption Standard (AES)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html "A Stick Figure Guide to the Advanced Encryption Standard (AES)")
   * [Style Guide Boilerplate](http://bjankord.github.io/Style-Guide-Boilerplate/ "Style Guide Boilerplate")
-  * [Michigan &#8211; Open Performance Portal](https://midashboard.michigan.gov/ "Michigan - Open Performance Portal")
   * [Qubes OS Project](https://www.qubes-os.org/ "Qubes OS Project")
   * [simpl.info](http://simpl.info/ "simpl.info")
   * [The State of Obesity](http://stateofobesity.org/ "The State of Obesity")

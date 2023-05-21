@@ -23,7 +23,7 @@ categories:
 kind:
   - Article
 ---
-Gleaned from the dailywebthing&#8217;s [odd](http://dailywebthing.com/linkport/archives/odd/) archives&#8230;
+Gleaned from the dailywebthing&#8217;s [odd](https://dwt-archives.joejenett.com/category/odd/) archives&#8230;
 
 [Carhenge](http://jschumacher.typepad.com/joe/2006/04/carhenge.html)  
 [<img style="border: none;" src="/images/carhenge.jpg" alt="Carhenge" />](http://jschumacher.typepad.com/joe/2006/04/carhenge.html)

@@ -27,7 +27,7 @@ comments:
 <a href="https://bulltown.2022.jenett.org/images/show/?image=mbjoe"><img src="/images/mbjoe.jpg" width="120" style="width:120px;" alt="" /></a>
 </figure>
 </div>
-<p>I recently found and <a href="https://the.dailywebthing.com/a-vibrant-ai-colorizer-app/">shared</a> something that seemed kinda magical to me. It’s helped me directly with something I’ve been working on, so I just gotta share it with you here:</p>
+<p>I recently found and <a href="https://dwt-archives.joejenett.com/a-vibrant-ai-colorizer-app/">shared</a> something that seemed kinda magical to me. It’s helped me directly with something I’ve been working on, so I just gotta share it with you here:</p>
 <p>
 <a title="Palette" href="https://palette.fm/">Palette</a> — “a vibrant AI colorizer app. Think instagram filters, but more intelligent.” 
 </p>

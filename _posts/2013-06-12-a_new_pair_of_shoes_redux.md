@@ -20,6 +20,6 @@ This is Web 2.0 baby. We can all pretend to be whatever we want and monetize eve
 
 Get a grip, Joe. Wake up. You&#8217;re just having a bad dream&#8230;
 
-<small>(originally published <a href="https://simply.personal.jenett.org/a_new_pair_of_shoes/">7/15/10</a> @ <a href="http://bulltown.com/simply.personal/">jenett.simply.personal</a>) </small>
+<small>(originally published <a href="https://simply.joejenett.com/a_new_pair_of_shoes/">7/16/10</a> </small>
 
 ([prior discussion](https://disqus.com/home/discussion/iwebthings/iwebthings_a_new_pair_of_shoes_redux/))

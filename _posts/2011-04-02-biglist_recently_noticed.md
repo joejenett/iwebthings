@@ -22,7 +22,7 @@ categories:
 kind:
   - Article
 ---
-All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](http://dailywebthing.com/) from 7/17/10 through 4/2/11, shown in reverse chronological order – enjoy!
+All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](https://dwt-archives.joejenett.com/) from 7/17/10 through 4/2/11, shown in reverse chronological order – enjoy!
 
   * [Your World of Text](http://yourworldoftext.com/home/)
   * [your brain, organized - thinkery.me](http://thinkery.me/)

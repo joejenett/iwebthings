@@ -9,13 +9,13 @@ category:
 permalink: /sooo-much-to-explore-out-there/
 slug: much-to-explore
 ---
-...like the last 7 days of <a href="https://pointers.dailywebthing.com/" title="">pointers</a> fer example:
+...like the last 7 days of <a href="https://dwt-archives.joejenett.com/category/pointers/" title="">pointers</a> fer example:
 <p>
 <ul>
 <li><a class="normaltext" title="Troy Kitch" href="https://troykitch.com/">Troy Kitch</a> <small><em>(new)</em></small> ← <a title="source" href="https://xn--sr8hvo.ws/directory">🕸💍</a></li>
 <li><a class="normaltext" title="cherylsuzette – Don't laugh, Cheryl" href="https://cherylackerdodson.blog/">Cheryl Suzette</a></li>
 <li><a class="normaltext" title="Brilliant Mistake" href="https://www.include.co.uk/">Julius Welby</a></li>
-<li><a class="normaltext" title="Vintage Ad Browser" href="http://www.vintageadbrowser.com/">Vintage Ad Browser</a> <small><em>(new)</em></small> <a href="https://pinboard.in/u:zero1infinity">📌</a><br>⬌ <a class="normaltext" title="Cover Browser" href="http://www.coverbrowser.com/">Cover Browser</a> ← <a title="originally shared at the dailywebthing linkport" href="https://the.dailywebthing.com/for-comic-book-fans/"><img style="position: relative; top: -2px;" src="/images/dwtvia.png" alt="" width="28"></a></li>
+<li><a class="normaltext" title="Vintage Ad Browser" href="http://www.vintageadbrowser.com/">Vintage Ad Browser</a> <small><em>(new)</em></small> <a href="https://pinboard.in/u:zero1infinity">📌</a><br>⬌ <a class="normaltext" title="Cover Browser" href="http://www.coverbrowser.com/">Cover Browser</a> ← <a title="originally shared at the dailywebthing linkport" href="https://dwt-archives.joejenett.com//for-comic-book-fans/"><img style="position: relative; top: -2px;" src="/images/dwtvia.png" alt="" width="28"></a></li>
 <li><a class="normaltext" title="Ariadne's Space" href="https://ariadne.space/">Ariadne’s Space</a> <small><em>(new)</em></small> </li>
 <li><a class="normaltext" title="Generative Unfoldings" href="https://generative-unfoldings.mit.edu/">Generative Unfoldings</a></li>
 <li><a class="normaltext" title="The Life and Death of an Internet Onion" href="https://the-life-and-death-of-an-internet-onion.com/">The Life and Death of an Internet Onion</a> <small><em>(new)</em></small> <a class="normaltext" title="source" href="https://gossipsweb.net/"><img src="/images/left-arrow.png" alt="" width="18"></a></li>

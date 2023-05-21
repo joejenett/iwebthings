@@ -22,7 +22,7 @@ categories:
 kind:
   - Note
 ---
-Effective today, [linkscatter](https://linkscatter.com/) and [jenett. photo.](https://photo.jenett.org/) have been retired and will no longer be updated. Both sites have been converted to static pages and will remain online as browsable archives.<!-- excerpt-end -->  Though some functionality has been eliminated in moving these sites away from WordPress, permalinks to content have not changed.
+Effective today, [_linkscatter_](https://linkscatter.joejenett.com) and [_jenett. photo._](https://photo.joejenett.com/) have been retired and will no longer be updated. Both sites have been converted to static pages and will remain online as browsable archives.<!-- excerpt-end -->  Though some functionality has been eliminated in moving these sites away from WordPress, permalinks to content have not changed.
 
 Thanks,
 
