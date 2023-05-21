@@ -41,7 +41,6 @@ kind:
   * [Bon Hae Koo](https://bonhaekoo.com/ "Bon Hae Koo")
   * [swoopovo digitální oko](http://foto.swoop.name/ "swoopovo digitální oko")
   * [mimi smartypants](https://mimismartypants.com/ "mimi smartypants")
-  * [tenpointtype](http://tenpointtype.org/tpt/ "tenpointtype")
   * [Meteuphoric](https://meteuphoric.com/ "Meteuphoric") [⬅](https://href.cool/ "Href.cool")
   * [Island in the Net](https://islandinthenet.com/blog-home/ "Island in the Net")
   * [Elen Grey](https://elengrey.com/ "Elen Grey")

@@ -44,7 +44,6 @@ kind:
   * [Notes to Self](https://youneedastereo.com/)
   * [Oatmeal](https://eli.li/)
   * [Paul Bausch](https://www.onfocus.com/)
-  * [Rudimentary Lathe](https://rudimentarylathe.org/)
   * [Smokey Ardisson](https://www.ardisson.org/afkar/)
   * [The Eclectic Light Company](https://eclecticlight.co/)
 

@@ -33,7 +33,6 @@ Blogs:
   * [snowdeal](http://snowdeal.org/ "snowdeal.org")
   * [Waxy.org](https://waxy.org/ "Waxy.org")
   * [caitriona.net](http://www.caitriona.net/ "caitriona.net")
-  * [tenpointtype](http://tenpointtype.org/tpt/ "tenpointtype")
   * [Social Design Notes](https://backspace.com/notes/ "Social Design Notes")
   * [polar inertia journal](http://www.polarinertia.com/ "polar inertia journal")
   * [ekosystem.org](http://home.ekosystem.org/ "ekosystem.org")
