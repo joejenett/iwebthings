@@ -125,7 +125,6 @@ function closeDirectories() {
 <li><a title="Sadgrl.online - How to Surf the Web" href="https://sadgrl.online/cyberspace/surf-the-web.html">How to Surf the Web</a></li>
 <li><a title="Links Archives – Waxy.org" href="https://waxy.org/category/links/">Waxy.org</a></li>
 <li><a title="Yesterlinks" href="https://links.yesterweb.org/">Yesterlinks</a></li>
-<li><a title="The Yesterweb Link Directory" href="https://yesterweb.org/link-directory/">The Yesterweb Link Directory</a></li>
 </ul>
 <p><a href="#topper" onclick="javascript:closeDirectories()">⯅ collapse list</a></p>
 </details>
