@@ -31,6 +31,7 @@ The project involved migrating the sites from an outdated &#8216;legacy&#8217; v
 
   * [i.webthings](https://iwebthings.joejenett.com/) [<img style="max-width: 13px; margin-left: 5px;" src="/wp-content/uploads/2019/01/rss.png" alt="Subscribe" />](https://iwebthings.joejenett.com/feed.atom)
   * [simply.](https://simply.joejenett.com/) [<img style="max-width: 13px; margin-left: 5px;" src="/wp-content/uploads/2019/01/rss.png" alt="Subscribe" />](https://simply.joejenett.com/feed.atom)
+  
 <span style="text-decoration:line-through;">As noted above, the first three sites in the list are associated with [@iwebthings](https://www.twitter.com/iwebthings) while the last two are associated with [@joejenett](https://www.twitter.com/joejenett). If I&#8217;ve done things right, all posts from these five sites will cross-post automatically to their respective twitter accounts, and should receive webmentions from the twitter platform as well starting tomorrow. Occasionally, posts from these sites may be cross-posted to twitter.</span>
 
 Though I said I&#8217;ve completed this stage, I have to admit I&#8217;ll still be watching and fixing things that may go awry. For now, let&#8217;s see how it goes. I hope you enjoy <span style="text-decoration: line-through;">these new ways of</span> following and interacting with the _i.webthings family_. The future is certainly now.
