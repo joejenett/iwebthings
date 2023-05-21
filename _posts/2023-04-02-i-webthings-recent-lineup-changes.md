@@ -34,24 +34,7 @@ comments: true
 				<a href="https://directory.joejenett.com/">https://directory.joejenett.com/</a>
 			</div>
 		</div>
-		<!--
-			<div class="record">
-				<div class="cell">
-					the dailywebthing linkport
-				</div>
-				<div class="cell">
-					<a href="https://the.dailywebthing.com/">https://the.dailywebthing.com/</a>
-				</div>
-			</div>
-			<div class="record">
-				<div class="cell">
-					dwt daily pointers
-				</div>
-				<div class="cell">
-					<a href="https://pointers.dailywebthing.com/">https://pointers.dailywebthing.com/</a>
-				</div>
-			</div>
-		-->
+		
 		<div class="record">
 			<div class="cell">
 				simply.
