@@ -26,7 +26,6 @@ kind:
   <p>An assortment of resources and tools from the archives of <a href="https://dwt-archives.joejenett.com/">the dailywebthing</a>...</p>
   Mobile
   <ul>
-  <li><a href="http://apps.usa.gov/">USA.gov: Mobile Apps</a></li>
   <li><a href="http://dev.opera.com/articles/view/the-mobile-web-optimization-guide/">Mobile-friendly: The mobile web optimization guide</a></li>
   <li><a href="http://www.vcarrer.com/2010/07/bulletproof-css3-media-queries.html">Bulletproof CSS3 media queries</a></li>
   </ul>

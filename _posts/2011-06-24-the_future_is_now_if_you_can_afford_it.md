@@ -28,5 +28,5 @@ kind:
 </p>
 
 <p style="padding-top: 24px;">
-  <a href="http://www.ketterer-trucks.de/en/models/model/motorhome-custom-line.html">Ketterer Motorhome Custom Line</a><br /> [via my good friend Anne]<br /> <a href="http://www.ketterer-trucks.de/en/models/model/motorhome-custom-line.html"><img style="border: none; margin: 8px 0;" src="/images/ketterer.jpg" alt="Ketterer Motorhome Custom Line" /></a><br /> &#8220;Your personal design will be made using your requirements and our knowledge.&#8221;
+  <a title="pageno longer available">Ketterer Motorhome Custom Line</a><br /> [via my good friend Anne]<br /> <atitle="page no longer available"><img style="border: none; margin: 8px 0;" src="/images/ketterer.jpg" alt="Ketterer Motorhome Custom Line" /></a><br /> &#8220;Your personal design will be made using your requirements and our knowledge.&#8221;
 </p>

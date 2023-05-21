@@ -36,11 +36,9 @@ Grids
 
 jQuery 
 
-  * [Wordsmith](http://getwordsmith.co/)
   * [Redactor](http://redactorjs.com/)
   * [Rhinoslider](http://rhinoslider.com/)
   * [Scroll Path](http://joelb.me/scrollpath/)
-  * [jQuery Mobile](http://jquerymobile.com/blog/2011/11/16/announcing-jquery-mobile-1-0/)
   * [jQuery Fundamentals](http://jqfundamentals.com/)
   * [jQuery for Designers](http://jqueryfordesigners.com/)
   * [Tutorials](http://docs.jquery.com/Tutorials)
@@ -58,4 +56,3 @@ Icons
   * [Jigsoar icons](http://www.jigsoaricons.com/)
   * [Social Media Icons](http://paulrobertlloyd.com/2009/06/social_media_icons/)
   * [RRZE Icon Set](http://rrze-icon-set.berlios.de/gallery.html)
-  * [famfamfam](http://www.famfamfam.com/lab/icons/)

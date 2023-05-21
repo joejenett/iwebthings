@@ -11,7 +11,7 @@ excerpt: |
   <li><a title="We The Protesters" href="http://www.wetheprotesters.org/">We The Protesters</a></li>
   <li><a title="Metalsmith" href="http://www.metalsmith.io/">Metalsmith</a></li>
   <li><a title="Kagura" href="http://www.kagura.cc/">Kagura</a></li>
-  <li><a title="Putting people first" href="http://www.experientia.com/blog/">Putting people first</a>  </li>
+  <li><a title="Putting people first" href="http://blog.experientia.com/">Putting people first</a>  </li>
   <li><a title="Pintsize" href="http://pintsize.io/">Pintsize</a></li>
   <li><a title="Emoji Unicode Tables" href="http://apps.timwhitlock.info/emoji/tables/unicode">Emoji Unicode Tables</a></li>
   <li><a title="TodoTxtMac" href="http://mjdescy.github.io/TodoTxtMac/">TodoTxtMac</a></li>
@@ -33,7 +33,7 @@ categories:
   * [We The Protesters](http://www.wetheprotesters.org/ "We The Protesters")
   * [Metalsmith](http://www.metalsmith.io/ "Metalsmith")
   * [Kagura](http://www.kagura.cc/ "Kagura")
-  * [Putting people first](http://www.experientia.com/blog/ "Putting people first") [&#171;](http://hypnophant.tumblr.com/ "Hypnophant"){.normaltext}
+  * [Putting people first](blog.experientia.com) [&#171;](http://hypnophant.tumblr.com/ "Hypnophant"){.normaltext}
   * [Pintsize](http://pintsize.io/ "Pintsize")
   * [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode "Emoji Unicode Tables")
   * [TodoTxtMac](http://mjdescy.github.io/TodoTxtMac/ "TodoTxtMac")

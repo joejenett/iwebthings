@@ -13,7 +13,6 @@ permalink: /thanks-to-these-helpful-resources/
 <ul>
 <li><a title="Webmention.io" href="https://webmention.io/">Webmention.io</a></li>
 <li><a title="Telegraph" href="https://telegraph.p3k.io/">Telegraph</a></li>
-<li><a title="Automate your outgoing webmentions" href="https://webmention.app/">webmention.app</a></li>
 <li><a title="utterances" href="https://utteranc.es/">utterances</a></li>
 <li><a title="Atom feed templates in Jekyll - Growing with the Web" href="https://www.growingwiththeweb.com/2014/02/atom-feed-templates-in-jekyll.html">Atom feed templates in Jekyll</a></li>
 <li><a title="SimplePie: Super-fast, easy-to-use, RSS and Atom feed parsing in PHP." href="https://simplepie.org/">SimplePie</a></li>
