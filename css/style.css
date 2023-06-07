@@ -305,7 +305,7 @@ div.hcard-display {
 	position: relative;
 	top: -4px;
 }
-.announce {
+/*.announce {
 	border: 1px solid #a3b8cc;
 	border-radius: 8px;
 	background: var(--hbg-color);
@@ -316,7 +316,7 @@ div.hcard-display {
 	text-align:center;
 	position: relative;
 	margin:-2px 0 8px 0;
-}
+}*/
 .sidefoot {
 	margin-top: 48px;
 	padding-left: 18px;
