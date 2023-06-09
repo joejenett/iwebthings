@@ -178,7 +178,7 @@ a.post-link, a:hover.post-link, a:visited.post-link {
 .note {
 	font-size:.85em;
 	line-height:1.4em;
-	margin-top: -11px;
+	/*margin-top: -11px;*/
 }
 article, .home {
 	border: 1px solid #a3b8cc;
