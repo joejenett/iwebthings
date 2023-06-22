@@ -16,7 +16,7 @@ comments: true
 ---
 <a title="Smooth shadow generator" href="https://smoothshadows.com/">Smooth shadow generator</a><br>[<a title="sachaa" href="https://pinboard.in/u:sachaa">sachaa</a>]
 <p>
-<span style="border:1px solid #ddd;font-size:1.3em;padding:4px;background:#ededed;box-shadow: 0px 0px 0px rgba(3, 7, 18, 0.10),
+<span style="border:1px solid #ccc;border-radius:8px;font-size:1.3em;padding:4px;background:#ededed;box-shadow: 0px 0px 0px rgba(3, 7, 18, 0.10),
   0px 1px 1px rgba(3, 7, 18, 0.08),
   0px 3px 3px rgba(3, 7, 18, 0.06),
   0px 5px 5px rgba(3, 7, 18, 0.04),
