@@ -18,5 +18,5 @@ comments: true
 	<li><a title="Bookmarklet Maker" href="https://caiorss.github.io/bookmarklet-maker/">Bookmarklet Maker</a> <a href="https://pinboard.in/u:solari">📌</a><br>“Bookmarklet creator tool.”</li>
 	<li><a title="GitHub - charmbracelet/vhs" href="https://github.com/charmbracelet/vhs">vhs</a> <a href="https://pinboard.in/u:brennen">📌</a><br>“Your CLI home video recorder 📼"</li>
 </ul>
-<p>Yes. <a href="https://pinboard.in/u:iwebthings/">We ❤️ Pinboard!</a></p>
+
 <a href="https://brid.gy/publish/mastodon"></a>
