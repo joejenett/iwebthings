@@ -15,7 +15,7 @@ comments: true
 
 ‘Gaming and geekery’ plus this extensive collection of model horses - what fun!
 
-Note to self: Puns may indeed be the lowest form of humor. My bad.
+Note to self: Puns may indeed be the lowest form of humor.
 
 All kidding aside - it’s an impressive collection. 😎
 
