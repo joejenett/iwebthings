@@ -22,7 +22,7 @@
 # in the templates via {{ site.myvariable }}.
 title: i.webthings hub
 email: joe.jenett@jenett.org
-description: i.webthings - an independent and noncommercial web initiative.
+description: i.webthings - an independent, noncommercial web initiative.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://iwebthings.joejenett.com" 
 # the base hostname & protocol for your site, e.g. http://example.com
