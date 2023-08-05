@@ -14,4 +14,5 @@ comments: true
 ---
 <a title="Iconbuddy - 100K+ open source icons" href="https://iconbuddy.app/">Iconbuddy - 100K+ open source icons</a><br>[<a title="sansaid" href="https://pinboard.in/u:sansaid">sansaid</a>]
 
+<p class="note">08/05/23 Note:<br>Site is currently offering sponsorships which would result in all pages having a persistent header banner with ‘sponsor box content’ (i.e. advertising).</p>
 <a href="https://brid.gy/publish/mastodon"></a>
