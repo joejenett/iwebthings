@@ -6,6 +6,7 @@ author: joe jenett
 category:
   -  games
   -  history
+  -  diversions
 permalink: /fan-created-archive-of-jeopardy-games-and-players/
 slug: fan-created-archive-of-jeopardy-games-and-players
 summary: 
