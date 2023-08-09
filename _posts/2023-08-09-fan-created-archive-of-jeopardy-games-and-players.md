@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ‘fan-created archive of <em>Jeopardy!</em> games and players’
+title:  "“fan-created archive of ‘Jeopardy!’ games and players”"
 date:   2023-08-09 11:00:30 -0400
 author: joe jenett
 category:
