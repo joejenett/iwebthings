@@ -13,7 +13,7 @@ summary:
 comments: true
 ---
 <p>
-<a title="miniPaint - image editor" href="https://viliusle.github.io/miniPaint/">miniPaint - image editor</a> <small>(<a href="https://github.com/viliusle/miniPaint">github</a>)</small><br><a href="https://pinboard.in/u:tdjones">tdjones</a>
+<a title="miniPaint - image editor" href="https://viliusle.github.io/miniPaint/">miniPaint - image editor</a> <small>(<a href="https://github.com/viliusle/miniPaint">github</a>)</small><br>[<a href="https://pinboard.in/u:tdjones">tdjones</a>]
 </p>
 <p>
 Impressive for an online “Photoshop alternative.” 😎
