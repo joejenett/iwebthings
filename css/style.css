@@ -13,6 +13,9 @@ body {
 	/*background-color: #fafaf0;*/
 	background-color: #f8f8fa;
 }
+small {
+	white-space: nowrap;
+}
 ul.links li {
 	margin-bottom:12px;
 }
