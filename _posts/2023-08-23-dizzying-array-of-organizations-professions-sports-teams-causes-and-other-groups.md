@@ -6,7 +6,7 @@ author: joe jenett
 category:
   -  data
   -  places
-  - -diversions
+  -  diversions
 permalink: /dizzying-array-of-organizations-professions-sports-teams-causes-and-other-groups/
 slug: dizzying-array-of-organizations-professions-sports-teams-causes-and-other-groups
 summary: 
