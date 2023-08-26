@@ -43,7 +43,7 @@ div.hold-meta {
 a, div.post-list a {
 	color: #286c80;
 	text-decoration: none;
-	font-weight:500;
+	font-weight:700;
 }
 a:visited, div.post-list a:visited {
 	color: #286c80;
@@ -198,7 +198,7 @@ article.archive-item {
 
 .post-title {
 	font-size:32px;
-	font-weight:600;
+	font-weight:700;
 	line-height: 1.3;
 }
 #menu {
@@ -206,7 +206,7 @@ article.archive-item {
 }
 #menu a {
 	margin: 0 10px;
-	font-weight:600;
+	font-weight:700;
 	font-size: .85em;
 	color: #555;
 }
