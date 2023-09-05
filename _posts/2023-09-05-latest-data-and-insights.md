@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘latest data and insights’
+title: "climate: ‘latest data and insights’"
 date: 2023-09-05 06:41:10 -0400
 author: joe jenett
 category:
