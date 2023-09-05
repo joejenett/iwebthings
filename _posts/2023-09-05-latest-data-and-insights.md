@@ -16,6 +16,6 @@ categories:
 ---
 <a title="Climate Change Tracker" href="https://climatechangetracker.org/">Climate Change Tracker</a>
 <blockquote><p>Track climate change, global warming and greenhouse gas emissions. Explore the latest data and insights. Share and make an impact!</p></blockquote>
-<a href="https://pinboard.in/u:ftofani">ftofani</a>
+[<a href="https://pinboard.in/u:ftofani">ftofani</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
