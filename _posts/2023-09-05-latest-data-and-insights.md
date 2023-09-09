@@ -10,9 +10,9 @@ slug: latest-data-and-insights
 summary: 
 comments: true
 categories:
-  - "- environment"
   - resources
   - initiatives
+  - environment
 ---
 <a title="Climate Change Tracker" href="https://climatechangetracker.org/">Climate Change Tracker</a>
 <blockquote><p>Track climate change, global warming and greenhouse gas emissions. Explore the latest data and insights. Share and make an impact!</p></blockquote>
