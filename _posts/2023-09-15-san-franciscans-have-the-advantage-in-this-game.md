@@ -14,6 +14,8 @@ categories:
   - games
   - odd
 ---
-<a title="Name SF Streets" href="https://carvin.github.io/sf-street-names/">Name SF Streets</a><blockquote><p>What percent of San Francisco's road network can you name from memory?</p></blockquote>[<a href="https://pinboard.in/u:wwc">wwc</a>]
+<a title="Name SF Streets" href="https://carvin.github.io/sf-street-names/">Name SF Streets</a>
+<blockquote><p>What percent of San Francisco's road network can you name from memory?</p></blockquote>
+[<a href="https://pinboard.in/u:wwc">wwc</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
