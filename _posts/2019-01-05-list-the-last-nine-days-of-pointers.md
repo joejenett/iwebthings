@@ -42,7 +42,6 @@ kind:
   * [swoopovo digitální oko](http://foto.swoop.name/ "swoopovo digitální oko")
   * [mimi smartypants](https://mimismartypants.com/ "mimi smartypants")
   * [Meteuphoric](https://meteuphoric.com/ "Meteuphoric") [⬅](https://href.cool/ "Href.cool")
-  * [Island in the Net](https://islandinthenet.com/blog-home/ "Island in the Net")
   * [Elen Grey](https://elengrey.com/ "Elen Grey")
   
 <h2 id="comments-title">One thought on “<span>list: the last nine days of pointers</span>”		</h2>
