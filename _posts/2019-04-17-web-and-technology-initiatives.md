@@ -51,5 +51,5 @@ kind:
 
 [<img src="/wp-content/uploads/2019/04/feeds.jpg" alt="You Need Feeds" style="border:none;width:550px;" />](https://www.youneedfeeds.com/ "You Need Feeds") 
 
-<small><em>(also posted to <a title="site gone? 04/17/23">indieweb.xyz/en/initiatives</a>)</em></small>
+
 

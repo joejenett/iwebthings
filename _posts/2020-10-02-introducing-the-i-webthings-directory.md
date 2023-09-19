@@ -27,9 +27,7 @@ If you like exploring the independent and noncommercial web, check it out and di
 
 Enjoy! 
 
-<div class="syndy">
-  (also posted to <a class="u-syndication" title="site gone? 04/17/23">indieweb.xyz/en/linking</a>)
-</div>
+
 <h2 id="comments-title">3 thoughts on “<span>introducing the i.webthings directory</span>”		</h2>
 
 

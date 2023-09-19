@@ -41,4 +41,3 @@ To follow the _daily pointers,_ search for _@pointers.dailywebthing_ in your cli
 
 Enjoy!
 
-(also posted to <a title="site gone? 04/17/23">https://indieweb.xyz/en/indieweb</a>)

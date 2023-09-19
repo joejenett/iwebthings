@@ -30,6 +30,6 @@ What if you just want to explore people and ideas without being distracted by at
 
 That&#8217;s why I created _dailywebthing daily pointers_ back in 2000. I like to think I&#8217;m providing a means to explore the web of atypical people and ideas without all the noise. That&#8217;s why I link.
 
-<small><em>(also posted to <a title="site gone? 04/17/23">indieweb.xyz/en/linking</a>)</em></small>
+
 
 
