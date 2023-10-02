@@ -21,11 +21,11 @@ layout: default
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {{ page.date | date: date_format }}
 </time></a>
-• <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://iwebthings.joejenett.com/images/oj-0623-40.png" srcset="https://iwebthings.joejenett.com/images/oj-0623-80.png 2x" class="avatar avatar-40 photo u-photo p-author h-card hcard-photo hcard" itemprop="image" width="24" height="24" style="position:relative;top:-3px;">
-<span class="p-author h-card hcard" itemprop="name">joe jenett
+{%- if page.author -%}• <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://iwebthings.joejenett.com/images/oj-0623-40.png" srcset="https://iwebthings.joejenett.com/images/oj-0623-80.png 2x" class="avatar avatar-40 photo u-photo p-author h-card hcard-photo hcard" itemprop="image" width="24" height="24" style="position:relative;top:-3px;">
+<span class="p-author h-card hcard" itemprop="name">{{ page.author }}
 </span>
 </span>
-
+{%- endif -%}
 <span class="post-categories">• posted in:
 {% if post %}
 {% assign categories = post.categories %}
