@@ -5,8 +5,8 @@ date: 2023-10-06 07:25:08 -0400
 author: joe jenett
 category:
   - 
-permalink: /an-open-source -html5-puzzle-game-engine/
-slug: an-open-source -html5-puzzle-game-engine
+permalink: /an-open-source-html5-puzzle-game-engine/
+slug: an-open-source-html5-puzzle-game-engine
 summary: make a game
 comments: true
 categories:
