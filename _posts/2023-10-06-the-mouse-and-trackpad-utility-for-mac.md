@@ -14,5 +14,6 @@ categories:
   - macOS
 ---
 <a title="LinearMouse" href="https://linearmouse.app/">LinearMouse</a> <small>(<a href="https://github.com/linearmouse/linearmouse">github</a>)</small><br>[<a href="https://pinboard.in/u:zero1infinity">zero1infinity</a>]
+<p class="note">Note: This is not an endorsement.</p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
