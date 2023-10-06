@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'“The mouse and trackpad utility for Mac.”'"
+title: “The mouse and trackpad utility for Mac.”
 date: 2023-10-06 17:29:40 -0400
 author: joe jenett
 category:
