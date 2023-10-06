@@ -15,6 +15,6 @@ categories:
   - tools
   - dev
 ---
-<a title="PuzzleScript - an open-source HTML5 puzzle game engine" href="https://www.puzzlescript.net/">PuzzleScript - an open-source HTML5 puzzle game engine</a><br>[<a href="https://pinboard.in/u:arnicas">arnicas</a>]
+<a title="PuzzleScript" href="https://www.puzzlescript.net/">PuzzleScript</a><br>[<a href="https://pinboard.in/u:arnicas">arnicas</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
