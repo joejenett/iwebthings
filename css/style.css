@@ -39,7 +39,7 @@ div.hold-meta {
 	top:-14px;
 	margin-bottom:9px;
 }
-.post-link, .post-title {
+.post-link, .post-title, li {
 	font-family: Helvetica, Arial, sans-serif;
 }
 a, div.post-list a {
