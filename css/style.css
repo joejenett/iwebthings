@@ -53,6 +53,9 @@ a:hover, div.post-list a:hover {
 	color: #222;
 	text-decoration: underline; 
 }
+div.post-list div h2 {
+	font-weight:600;
+}
 #wcb.carbonbadge {
 	padding:18px 0;
 }
