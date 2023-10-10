@@ -54,7 +54,7 @@ a:hover, div.post-list a:hover {
 	text-decoration: underline; 
 }
 div.post-list div h2 {
-	font-weight:600;
+	font-weight:500;
 }
 #wcb.carbonbadge {
 	padding:18px 0;
@@ -125,7 +125,7 @@ h1.post-title {
 	font-size:28px;
 }
 .post-content h2 {
-	font-size: 28px;
+	font-size: 27px;
 	font-weight: 500;
 }
 .titleme a.url {
