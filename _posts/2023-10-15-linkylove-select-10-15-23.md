@@ -14,7 +14,7 @@ categories:
 ---
 <p>a joe-centric selection of <em>curiosities</em>, gleaned from the <a href="https://directory.joejenett.com/">i.webthings directory</a>:</p>
 <ul class="linkylove">
-	<li><a title="a living collection of internet dreams from people like you, inhabitants of the internet" href="https://we-b.site/">&nbsp;     ҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌</a></li>
+	<li><a title="a living collection of internet dreams from people like you, inhabitants of the internet" href="https://we-b.site/">&nbsp;   ҉ .｡⋆° (𝓌𝑒)𝒷𝓈𝒾𝓉𝑒 ˚｡⋆ ◌</a></li>
 	<li><a title="Inside Dream Machines. A (post-)phenomenological index of digital specters. By Hunor Karamán" href="https://dream-machines.hex22.org/">Inside Dream Machines</a></li>
 	<li><a title="Simone Marzulli’s personal website, feel free to click your favourite buttons!" href="https://simone.computer/">Simone’s Computer</a></li>
 	<li><a title="that’s it" href="https://rotatingsandwiches.com/">Rotating Sandwiches</a></li>
