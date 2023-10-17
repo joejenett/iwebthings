@@ -1,6 +1,6 @@
 ---
 layout: post
-title: linkylove-select-10-15-23
+title: linkylove.select 10-15-23
 date: 2023-10-15 08:28:49 -0400
 author: joe jenett
 category: 
