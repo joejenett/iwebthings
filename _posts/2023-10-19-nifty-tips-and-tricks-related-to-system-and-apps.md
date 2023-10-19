@@ -12,6 +12,7 @@ categories:
   - tips
   - iOS
   - resources
+  - macOS
 ---
 <a title="iOS Tips &amp; Tricks - saurabhs.org" href="https://saurabhs.org/ios-tips">iOS Tips &amp; Tricks</a><br>[<a href="https://pinboard.in/u:hamm1tt">hamm1tt</a>]
 
