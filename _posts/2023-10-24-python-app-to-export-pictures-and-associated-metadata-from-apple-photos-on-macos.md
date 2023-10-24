@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Python app to export pictures and associated metadata from Apple Photos on macOS”
+title: ‘Python app to export pictures and associated metadata from Apple Photos on macOS’
 date: 2023-10-24 06:00:46 -0400
 author: joe jenett
 category: 
