@@ -20,9 +20,6 @@ categories:
     <a href="https://developer.mozilla.org/en-US/docs/HTML/HTML5/HTML5_element_list">HTML5 element list</a> (ads)
   </li>
   <li>
-    <a href="http://iosfonts.com/">iOS Fonts</a>
-  </li>
-  <li>
     <a href="http://www.truecrypt.org/">TrueCrypt</a>
   </li>
   <li>
