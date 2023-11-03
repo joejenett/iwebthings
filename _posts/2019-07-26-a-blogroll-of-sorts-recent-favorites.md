@@ -40,7 +40,7 @@ kind:
   * [lonita.net](http://www.lonita.net/)
   * [mimi smartypants](https://mimismartypants.com/)
   * [Nitin Khanna](https://www.nitinkhanna.com/)
-  * [Noded](http://noded.com/noded/)
+  * [Noded](http://noded.us/noded/)
   * [Notes to Self](https://youneedastereo.com/)
   * [Oatmeal](https://eli.li/)
   * [Paul Bausch](https://www.onfocus.com/)
