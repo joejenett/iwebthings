@@ -35,7 +35,7 @@ categories:
       <a title="Easily Distracted" href="https://blogs.swarthmore.edu/burke/">Easily Distracted</a>
     </li>
     <li>
-      <a title="Noded" href="http://noded.com/noded/">Noded</a>
+      <a title="Noded" href="http://noded.us/noded/">Noded</a>
     </li>
   </ul>
 </li>
