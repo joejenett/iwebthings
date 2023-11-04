@@ -14,9 +14,9 @@ categories:
 </div>
 <p>For your convenience, following is a list of individual feeds for the key active <em>webthings</em> <span style="text-decoration:line-through;">along with an downloadable OPML file including all of them to import into your news reader.</span> Hoping some of you find this information useful.</p>
 <ul>
-<li><a href="https://iwebthings.jenett.org/" title="">i.webthings hub</a> → <a href="https://iwebthings.jenett.org/feed.atom" title="">RSS feed</a></li>
+<li><a href="https://iwebthings.joejenett.com/" title="">i.webthings hub</a> → <a href="https://iwebthings.joejenett.com/feed.atom" title="">RSS feed</a></li>
 <li><a href="https://simply.joejenett.com/" title="">simply.</a> → <a href="https://https://simply.joejenett.com/feed.atom" title="">RSS feed</a></li>
-<li><a href="https://wiki.jenett.org/" title="">jenett. wiki.</a> → <a href="https://wiki.jenett.org/feed.php" title="">RSS feed</a></li>
+<li><a href="https://wiki.joejenett.com/" title="">jenett. wiki.</a> → <a href="https://wiki.joejenett.com/feed.php" title="">RSS feed</a></li>
 </ul>
 <p><br />OPML file is no longer available.</p>
 <p>Note: The <a href="https://directory.joejenett.com/">i.webthings directory</a> and <a href="https://ideas.joejenett.com/">🌱 𝚓𝚘𝚎. 𝚒𝚍𝚎𝚊𝚜.</a> do not have RSS feeds, though I hope you’ll enjoy visiting them now and then.<br><img src="/images/newguy.png" alt="" width="22"></p>

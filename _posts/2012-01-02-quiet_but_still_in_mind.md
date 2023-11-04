@@ -21,10 +21,10 @@ categories:
 kind:
   - Article
 ---
-[<img style="border: none;" src="/images/intersect.jpg" alt="intersect" />](https://jenett.org/intersect/ "intersect")
+[<img style="border: none;" src="/images/intersect.jpg" alt="intersect" />](https://joejenett.com/intersect/ "intersect")
 
-[<img style="border: none;" src="/images/coolstop.jpg" alt="coolstop" />](https://coolstop.jenett.org/ "coolstop")
+[<img style="border: none;" src="/images/coolstop.jpg" alt="coolstop" />](https://coolstop.joejenett.com/ "coolstop")
 
-[<img style="border: none;" src="/images/colorspeak.jpg" alt="colorspeak" />](https://jenett.org/colorspeak/1/ "colorspeak")
+[<img style="border: none;" src="/images/colorspeak.jpg" alt="colorspeak" />](https://joejenett.com/colorspeak/1/ "colorspeak")
 
-[<img style="border: none;" src="/images/deskphotos.jpg" alt="deskphotos.com" />](https://deskphotos.jenett.org/ "deskphotos.com")
+[<img style="border: none;" src="/images/deskphotos.jpg" alt="deskphotos.com" />](https://deskphotos.joejenett.com/ "deskphotos.com")

@@ -9,4 +9,4 @@ category:
 permalink: /our-growing-directory/
 slug: our-growing-directory
 ---
-The <a title="i.webthings directory" href="https://directory.jenett.org/">i.webthings directory</a> has grown to a total of 813 sites, which includes 351 personal homepages and blogs. Explore! 😎
+The <a title="i.webthings directory" href="https://directory.joejenett.com/">i.webthings directory</a> has grown to a total of 813 sites, which includes 351 personal homepages and blogs. Explore! 😎

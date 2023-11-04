@@ -22,7 +22,7 @@ categories:
 ---
 <small>Update 02/07/19: Revisions below reflect changes made due to recently received feedback.</small>
 
-I&#8217;ve pretty much finished the first stage of upgrading the five sites which I consider part of the _i.webthings family_. These are the most active and regularly updated sites among [those](https://jenett.org/webthings/) I&#8217;ve built.
+I&#8217;ve pretty much finished the first stage of upgrading the five sites which I consider part of the _i.webthings family_. These are the most active and regularly updated sites among [those](https://joejenett.com/webthings/) I&#8217;ve built.
 
 The project involved migrating the sites from an outdated &#8216;legacy&#8217; version of moveabletype to WordPress, which allowed for easier addition of indieweb functionality and a different design approach, which I rather enjoy.
 

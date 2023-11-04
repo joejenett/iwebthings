@@ -19,7 +19,7 @@ mf2_syndication:
 categories:
   - i-webthings
 ---
-I&#8217;m tickled to announce that _i.webthings_ has been migrated to _i.webthings hub_ at [hub.iwebthings.com](https://iwebthings.jenett.org/). All old permalinks and page links are redirecting accurately and comments/webmentions were carried over to their respective posts at the new location. <span style="text-decoration:line-through;">As a result of the migration, it&#8217;s now possible to follow _i.webthings_ on Mastodon.</span>
+I&#8217;m tickled to announce that _i.webthings_ has been migrated to _i.webthings hub_ at [hub.iwebthings.com](https://iwebthings.joejenett.com/). All old permalinks and page links are redirecting accurately and comments/webmentions were carried over to their respective posts at the new location. <span style="text-decoration:line-through;">As a result of the migration, it&#8217;s now possible to follow _i.webthings_ on Mastodon.</span>
 
 <span style="text-decoration:line-through;">To follow _i.webthings_ from your Mastodon client, search for _@hub.iwebthings.com_ and follow:
 </span>

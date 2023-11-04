@@ -21,7 +21,7 @@ categories:
 kind:
   - Note
 ---
-Though it’s still somewhat in development, I&#8217;ve decided to launch the new [_i.webthings directory_](https://directory.jenett.org/ "i.webthings directory"), _an eclectic selection of sites to explore, curated by a fellow human._ There&#8217;s a few hundred (interesting and/or useful) listings at the moment and batches of new listings are being added regularly.
+Though it’s still somewhat in development, I&#8217;ve decided to launch the new [_i.webthings directory_](https://directory.joejenett.com/ "i.webthings directory"), _an eclectic selection of sites to explore, curated by a fellow human._ There&#8217;s a few hundred (interesting and/or useful) listings at the moment and batches of new listings are being added regularly.
 
 If you like exploring the independent and noncommercial web, check it out and discover some sites you may not have seen before.
 

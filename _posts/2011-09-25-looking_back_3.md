@@ -22,12 +22,12 @@ categories:
 kind:
   - Article
 ---
-[<img style="border: none;" src="/images/smokers_375.jpg" alt="smokers" />](http://jenett.org/photo/?p=image/smokers "smokers")
+[<img style="border: none;" src="/images/smokers_375.jpg" alt="smokers" />](https://joejenett.com/photo.old/?p=image/smokers "smokers")
 
-[<img style="border: none;" src="/images/road_dreams_3_375.jpg" alt="ad wall (2)" />](http://jenett.org/photo/?p=image/road_dreams_3 "road dreams (3)")
+[<img style="border: none;" src="/images/road_dreams_3_375.jpg" alt="ad wall (2)" />](https://joejenett.com/photo.old/?p=image/road_dreams_3 "road dreams (3)")
 
-[<img style="border: none;" src="/images/terminal_darkness_375.jpg" alt="skyform (40)" />](http://jenett.org/photo/?p=image/terminal_darkness "terminal darkness")
+[<img style="border: none;" src="/images/terminal_darkness_375.jpg" alt="skyform (40)" />](https://joejenett.com/photo.old/?p=image/terminal_darkness "terminal darkness")
 
-[<img style="border: none;" src="/images/beepers_375.jpg" alt="beepers" />](http://jenett.org/photo/?p=image/beepers "beepers")
+[<img style="border: none;" src="/images/beepers_375.jpg" alt="beepers" />](https://joejenett.com/photo.old/?p=image/beepers "beepers")
 
-[<img style="border: none;" src="/images/in_the_d_2_375.jpg" alt="in the d (2)" />](http://jenett.org/photo/?p=image/in_the_d_2 "in the D (2)")
+[<img style="border: none;" src="/images/in_the_d_2_375.jpg" alt="in the d (2)" />](https://joejenett.com/photo.old/?p=image/in_the_d_2 "in the D (2)")

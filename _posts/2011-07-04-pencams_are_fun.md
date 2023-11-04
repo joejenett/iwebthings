@@ -22,10 +22,10 @@ categories:
 kind:
   - Article
 ---
-I recently [posted](https://simply.jenett.org/firstfull/) my favorite [pencam](http://jenett.org/photo/?p=pencam) shot at [simply.personal](https://simply.jenett.org/) – here&#8217;s a few others I also like from long ago&#8230;
+I recently [posted](https://simply.joejenett.com/firstfull/) my favorite [pencam](https://joejenett.com/photo.old/?p=pencam) shot at [simply.personal](https://simply.joejenett.com/) – here&#8217;s a few others I also like from long ago&#8230;
 
-[<img style="border: none; margin: 6px 0;" src="/images/always_seeking_375.jpg" alt="always seeking" />](http://jenett.org/photo/?p=image/always_seeking)
+[<img style="border: none; margin: 6px 0;" src="/images/always_seeking_375.jpg" alt="always seeking" />](https://joejenett.com/photo.old/?p=image/always_seeking)
 
-[<img style="border: none; margin: 6px 0;" src="/images/pencam_experimental_3_375.jpg" alt="pencam experimental (3)" />](http://jenett.org/photo/?p=image/pencam_experimental_3)
+[<img style="border: none; margin: 6px 0;" src="/images/pencam_experimental_3_375.jpg" alt="pencam experimental (3)" />](https://joejenett.com/photo.old/?p=image/pencam_experimental_3)
 
-[<img style="border: none; margin: 6px 0;" src="/images/journey_375.jpg" alt="journey" />](http://jenett.org/photo/?p=image/journey)
+[<img style="border: none; margin: 6px 0;" src="/images/journey_375.jpg" alt="journey" />](https://joejenett.com/photo.old/?p=image/journey)

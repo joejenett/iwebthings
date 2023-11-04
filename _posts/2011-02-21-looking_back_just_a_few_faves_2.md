@@ -23,12 +23,12 @@ categories:
 kind:
   - Article
 ---
-[<img style="border: none;" src="/images/highway_spaces_47_375.jpg" alt="highway spaces (47)" />](http://jenett.org/photo/?p=image/highway_spaces_47 "highway spaces (47)")
+[<img style="border: none;" src="/images/highway_spaces_47_375.jpg" alt="highway spaces (47)" />](https://joejenett.com/photo.old/?p=image/highway_spaces_47 "highway spaces (47)")
 
-[<img style="border: none;" src="/images/ad_wall_2_375.jpg" alt="ad wall (2)" />](http://jenett.org/photo/?p=image/ad_wall_2 "ad wall (2)")
+[<img style="border: none;" src="/images/ad_wall_2_375.jpg" alt="ad wall (2)" />](https://joejenett.com/photo.old/?p=image/ad_wall_2 "ad wall (2)")
 
-[<img style="border: none;" src="/images/skyform_40_375.jpg" alt="skyform (40)" />](http://jenett.org/photo/?p=image/skyform_40 "skyform (40)")
+[<img style="border: none;" src="/images/skyform_40_375.jpg" alt="skyform (40)" />](https://joejenett.com/photo.old/?p=image/skyform_40 "skyform (40)")
 
-[<img style="border: none;" src="/images/the_wall_project_12_375.jpg" alt="walls (12)" />](http://jenett.org/photo/?p=image/the_wall_project_12 "walls (12)")
+[<img style="border: none;" src="/images/the_wall_project_12_375.jpg" alt="walls (12)" />](https://joejenett.com/photo.old/?p=image/the_wall_project_12 "walls (12)")
 
-[<img style="border: none;" src="/images/pencam_nights_375.jpg" alt="pencam nights" />](http://jenett.org/photo/?p=image/pencam_nights "pencam nights")
+[<img style="border: none;" src="/images/pencam_nights_375.jpg" alt="pencam nights" />](https://joejenett.com/photo.old/?p=image/pencam_nights "pencam nights")

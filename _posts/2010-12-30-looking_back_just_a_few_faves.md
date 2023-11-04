@@ -22,12 +22,12 @@ categories:
 kind:
   - Article
 ---
-[<img style="border: none;" src="/images/skyform_38-375.jpg" alt="skyform (38)" />](http://jenett.org/photo/?p=image/skyform_38 "skyform (38)")
+[<img style="border: none;" src="/images/skyform_38-375.jpg" alt="skyform (38)" />](https://joejenett.com/photo.old/?p=image/skyform_38 "skyform (38)")
 
-[<img style="border: none;" src="/images/skyform_30-375.jpg" alt="skyform (30)" />](http://jenett.org/photo/?p=image/skyform_30 "skyform (30)")
+[<img style="border: none;" src="/images/skyform_30-375.jpg" alt="skyform (30)" />](https://joejenett.com/photo.old/?p=image/skyform_30 "skyform (30)")
 
-[<img style="border: none;" src="/images/highway_spaces_36-375.jpg" alt="highway spaces (36)" />](http://jenett.org/photo/?p=image/highway_spaces_36 "highway spaces (36)")
+[<img style="border: none;" src="/images/highway_spaces_36-375.jpg" alt="highway spaces (36)" />](https://joejenett.com/photo.old/?p=image/highway_spaces_36 "highway spaces (36)")
 
-[<img style="border: none;" src="/images/real-375.jpg" alt="real" />](http://jenett.org/photo/?p=image/real "real")
+[<img style="border: none;" src="/images/real-375.jpg" alt="real" />](https://joejenett.com/photo.old/?p=image/real "real")
 
-[<img style="border: none;" src="/images/boca_style-375.jpg" alt="boca style" />](http://jenett.org/photo/?p=image/boca_style "boca style")
+[<img style="border: none;" src="/images/boca_style-375.jpg" alt="boca style" />](https://joejenett.com/photo.old/?p=image/boca_style "boca style")
