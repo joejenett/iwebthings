@@ -14,7 +14,7 @@ categories:
   - social
 ---
 <p><a title="Newsmast" href="https://newsmast.org/">Newsmast</a></p>
-Knowledge-based social media with a conscience, built around communities and powered by Mastodon.
+<blockquote><p>Knowledge-based social media with a conscience, built around communities and powered by Mastodon.</p></blockquote>
 
 <a href="https://pinboard.in/u:tdjones">tdjones</a>
 
