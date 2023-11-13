@@ -4,8 +4,8 @@ title: linkylove.special.edition 11-13-23
 date: 2023-11-13 10:03:17 -0400
 author: joe jenett
 category: 
-permalink: /linkylove-special-edition-11-11-23/
-slug: linkylove-special-edition-11-11-23
+permalink: /linkylove-special-edition-11-13-23/
+slug: linkylove-special-edition-11-13-23
 summary: a gift from a fellow linkspeaker
 comments: true
 ---
