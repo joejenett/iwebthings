@@ -1,6 +1,6 @@
 ---
 layout: post
-title: linkylove.special.edition 11-11-23
+title: linkylove.special.edition 11-13-23
 date: 2023-11-13 10:03:17 -0400
 author: joe jenett
 category: 
