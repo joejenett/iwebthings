@@ -14,11 +14,11 @@ categories:
   - graphics
 ---
 <p>
-<img src="https://iwebthings.joejenett.com/images/snipe-approved.png" alt="snipe-approved" width="64" style="position:relative;float:right;margin:0 64px 0 6px;width:64px;"><a href="snipe-approved.png" title=""></a><a title="GitHub - snipe/awesome-emoji" href="https://github.com/snipe/awesome-emoji/">awesome-emoji</a>
+<img src="https://iwebthings.joejenett.com/images/snipe-approved.png" title="Snipe, the creator of the site, likes ’em"  alt="snipe-approved" width="64" style="position:relative;float:right;margin:0 64px 0 6px;width:64px;"><a href="snipe-approved.png" title=""></a><a title="GitHub - snipe/awesome-emoji" href="https://github.com/snipe/awesome-emoji/">awesome-emoji</a>
 <br>[<a href="https://pinboard.in/u:fileformat">fileformat</a>]
 </p>
 <p>
-<img src="https://iwebthings.joejenett.com/images/newguy.png" width="36" style="vertical-align:middle;">  We like! 
+<img src="https://iwebthings.joejenett.com/images/newguy.png" width="36" style="vertical-align:middle;">  We like ’em too! 
 </p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
