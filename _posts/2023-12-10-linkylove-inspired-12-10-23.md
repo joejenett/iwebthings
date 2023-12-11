@@ -13,7 +13,7 @@ categories:
   - inspiration
 ---
 <p>
-Today’s <em>linkylove.inspired</em> is the first in a new series of posts intended to not only share more newly discovered links with you but to maybe help clarify why I urge you to explore the <em>off-the-beaten-path</em>, personal side of the web. By chronicling what went into producing this post and how I benefited personally in the process, I’m hoping to help you better understand what I’m up to here. Before I continue, I have something to ask of you.
+Today’s <em>linkylove.inspired</em> is the first in a new series of posts intended to not only share more newly discovered links with you but to maybe help clarify why I urge you to explore the <em>off-the-beaten-path</em>, personal side of the web. By describing the process of producing this post and how I benefited personally in the process, I’m hoping to help you better understand what I’m up to here. Before I continue, I have something to ask of you.
 </p>
 <p>
 If you’re the person who inspired my use of the term <em>linkylove</em> to refer to what I used to call <em>daily pointers</em>, please stand up and let me who you are (I’ve been unable to locate the discussion where the term was used). I’d like to thank you personally! With that said, here we go.
