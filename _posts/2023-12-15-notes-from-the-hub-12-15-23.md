@@ -13,7 +13,7 @@ categories:
   - i-webthings
 ---
 <p>
-After spending more time this morning further exploring several recently shared links, I’ve decided yesterday’s post will soon be revised. As you may have noticed, I used a slightly different method of sharing links in the post than I normally do, by including additional information as to what made me want to share them and a brief summary of the ideas gleaned from the linked sites. 
+After spending more time this morning further exploring several recently shared links, I’ve decided <a href="https://iwebthings.joejenett.com/are-we-on-the-verge-of-something-big-here/">yesterday’s post</a> will soon be revised. As you may have noticed, I used a slightly different method of sharing links in the post than I normally do, by including additional information as to what made me want to share them and a brief summary of the ideas gleaned from the linked sites. 
 
 Though I remain excited and inspired by the initiatives shared in the post, the revisions are an attempt to more accurately present them to you.
 </p>
