@@ -18,7 +18,7 @@ After spending more time this morning further exploring several recently shared 
 Though I remain excited and inspired by the initiatives shared in the post, the revisions are an attempt to more accurately present them to you.
 </p>
 <p>
-I’d like to think every new day is an opportunity to try out doing something in in a new way. Have a great one!
+I’d like to think every new day is an opportunity to try out doing something in a new way. Have a great one!
 </p>
 <p style="text-align:right;">
 &ndash;<em>joe</em>
