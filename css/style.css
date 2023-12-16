@@ -14,10 +14,10 @@ body {
 	font: 400 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	color: #111;
 	background-color: #f8f8fa;
-	-webkit-text-size-adjust: 100%;
+	/*-webkit-text-size-adjust: 100%;
 	-webkit-font-feature-settings: "kern" 1;
 	-moz-font-feature-settings: "kern" 1;
-	-o-font-feature-settings: "kern" 1;
+	-o-font-feature-settings: "kern" 1;*/
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
