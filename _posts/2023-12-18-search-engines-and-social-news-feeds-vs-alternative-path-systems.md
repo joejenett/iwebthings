@@ -14,13 +14,13 @@ categories:
   - viewpoints
 ---
 <p>
-About a week ago, I <a href="https://iwebthings.joejenett.com/linkylove-inspired-12-10-23/">mentioned</a> that part of the web which is <em>off the beaten path</em>, waiting to be discovered, and how it motivates me to explore and share discovered links with you. So, I’m tickled to share something with you that drives the point home much better than I could ever hope to myself:
+About a week ago, I <a href="https://iwebthings.joejenett.com/linkylove-inspired-12-10-23/">mentioned</a> that part of the web which is <em>off the beaten path</em>, waiting to be discovered, and how it motivates me to explore and share discovered links with you. So, I’m tickled to share something that drives the point home much better than I could ever hope to myself:
 </p>
 <p>
 <a title="Taking an Internet Walk – Syllabus" href="https://syllabusproject.org/syllabus-for-taking-an-internet-walk/">Taking an Internet Walk</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
 </p>
 <p>
-The article is written by two contributors to <a title="Syllabus" href="https://syllabusproject.org/">Syllabus</a>, a project by <a title="Sean Nash" href="https://senash.com/">Sean Nash</a>, which in addition to his “ongoing research into subterranean worlds,” has a long list of contributors. It’ll take some time, but I’ll soon be exploring the Syllabus project and Sean’s other work <em>much</em> further.
+The article is written by two contributors to <a title="Syllabus" href="https://syllabusproject.org/">Syllabus</a>, a project by <a title="Sean Nash" href="https://senash.com/">Sean Nash</a>, which in addition to his “ongoing research into subterranean worlds,” includes content by a long list of contributors. It’ll take some time, but I’ll soon be exploring the Syllabus project and Sean’s other work <em>much</em> further.
 </p>
 <p>
 In the meantime, I’ve got a feeling you’re gonna like the article I linked to today. You might also like this related link, a <a title="neorings.org" href="https://neorings.org/webrings">little gem</a> recently shared by my friend <a href="https://pinboard.in/u:ramblinggit">Brad</a> (thank you sir!). 
