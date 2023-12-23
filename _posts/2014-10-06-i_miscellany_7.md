@@ -13,7 +13,6 @@ categories:
   * [Notes on bookmarks from 1997](https://notes.pinboard.in/u:vitorio/05dec9f04909d9b6edff) 
     > That&#8217;s 205 failures, an actual link rot figure of 91%&#8230; 
 
-  * [Pure CSS analog clock](http://apps.eky.hk/css3clock/) 
   * [xSort &#8211; Free card sorting application for Mac OS X](http://xsortapp.com/) <small>*</small> 
 
 <small><br /> * This is not an endorsement.<br /> $ Commercial (no affiliation).<br /> </small>
