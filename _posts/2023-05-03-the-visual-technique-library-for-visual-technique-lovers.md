@@ -12,7 +12,7 @@ slug: the-visual-technique-library-for-visual-technique-lovers
 summary: 
 comments: true
 ---
-<a title="Eyecandy - Visual Technique Library" href="https://eycndy.com/">Eyecandy</a><br>[<a title="locuna" href="https://pinboard.in/u:locuna">locuna</a>]
+<a title="Eyecandy - Visual Technique Library" href="https://www.eyecannndy.com/">Eyecandy</a><br>[<a title="locuna" href="https://pinboard.in/u:locuna">locuna</a>]
 
 
 
