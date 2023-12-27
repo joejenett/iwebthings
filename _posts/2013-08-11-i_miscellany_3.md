@@ -30,6 +30,5 @@ categories:
   * [ClipGrab](http://clipgrab.org/)
   * [Wappalyzer](http://wappalyzer.com/)
   * [Bonsai](http://tinytree.info/)
-  * [i-FlashDrive](http://www.photofast.tw/iFlashDrive2013_1.html) <small>*$</small>
 
 <small>*$ Commercial product (no affiliation with <i>i.webthings</i>).</small>
