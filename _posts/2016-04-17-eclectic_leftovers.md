@@ -26,12 +26,10 @@ kind:
   * [Why I don&#8217;t like smartphones](https://www.devever.net/~hl/smartphones "Why I don't like smartphones")
   * [Spybot Anti-Beacon for Windows](https://www.safer-networking.org/spybot-anti-beacon/ "Spybot Anti-Beacon for Windows") ∗
   * [Apple did not invent emoji](https://eev.ee/blog/2016/04/12/apple-did-not-invent-emoji/ "Apple did not invent emoji")
-  * [Free Zipcode Database](http://federalgovernmentzipcodes.us/ "Free Zipcode Database")
   * [Completely CSS: Custom checkboxes, radio buttons and select boxes](http://kyusuf.com/post/completely-css-custom-checkbox-radio-buttons-and-select-boxes "Completely CSS: Custom checkboxes, radio buttons and select boxes")
   * [Why privacy is important, and having “nothing to hide” is irrelevant](https://robindoherty.com/2016/01/06/nothing-to-hide.html "Why privacy is important, and having “nothing to hide” is irrelevant")
   * [Mail-in-a-Box](https://mailinabox.email/ "Mail-in-a-Box") ∗
   * [You feel like shit.](http://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play "You feel like shit.") ∗
   * [Encrypt All The Things](https://encryptallthethings.net/ "Encrypt All The Things")
-  * [proselint](http://proselint.com/ "proselint")
 
 ∗ <small>This is not an endorsement.</small>

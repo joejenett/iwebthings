@@ -22,5 +22,4 @@ categories:
   * [Citizens Police Data Project](https://cpdb.co/findings/ "Citizens Police Data Project")
   * [Stinkmoji](https://stinkmoji.cool/ "Stinkmoji")
   * [Netvalley](http://www.netvalley.com/ "Netvalley")
-  * [Browser Platform Status Tracker](https://platformstatus.io/ "Browser Platform Status Tracker")
   * [CSS for People Who Hate CSS](http://paulcpederson.com/articles/css-for-people-who-hate-css/ "CSS for People Who Hate CSS")
