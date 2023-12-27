@@ -33,5 +33,4 @@ kind:
   * [Inclusive Design Principles](http://inclusivedesignprinciples.org/ "Inclusive Design Principles")
   * [Hyper Island Toolbox](http://toolbox.hyperisland.com/ "Hyper Island Toolbox")
   * [National Gallery of Art](https://www.nga.gov/index.html "National Gallery of Art")
-  * [Privacy Bytes (India)](https://privacy.sflc.in/ "Privacy Bytes (India)")
   * [The Decentralized Web](http://dci.mit.edu/decentralizedweb "The Decentralized Web")

@@ -26,7 +26,6 @@ categories:
   * [Emoji Text Symbols](http://text-symbols.com/new-emoji/ "Emoji Text Symbols")
   * [Walker Art Center](http://www.walkerart.org/ "Walker Art Center")
   * [CacheCheck](https://cachecheck.opendns.com/ "CacheCheck")
-  * [Mass Shooting Tracker](http://shootingtracker.com/wiki/Main_Page "Mass Shooting Tracker")
   * [Front-End Feeds](https://github.com/impressivewebs/frontend-feeds "Front-End Feeds")
   * [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/ "JavaScript InfoVis Toolkit")
   * [Exporter for Notes.app](http://writeapp.net/notesexporter/ "Exporter for Notes.app")

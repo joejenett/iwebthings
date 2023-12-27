@@ -29,8 +29,6 @@ categories:
   * [Media Queries](http://mediaqueri.es/ "Media Queries") <small>*a</small> 
     > A collection of inspirational websites using media queries and responsive web design. 
 
-  * [Text-to-911: Quick Facts & FAQs &#8211; FCC.gov](http://www.fcc.gov/guides/text-911-quick-facts-faqs "Text-to-911: Quick Facts & FAQs - FCC.gov") 
-
 <div style="border-top:1px dashed #999;padding-top:6px;padding-left:24px;">
   <small><br /> *a &#8211; Ads or affiliate links<br /> *f &#8211; Freemium<br /> $ &#8211; Commercial<br /> * &#8211; This is not an endorsement.<br /> </small>
 </div>
