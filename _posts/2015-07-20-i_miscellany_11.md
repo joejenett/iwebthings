@@ -33,7 +33,6 @@ categories:
   * [We The Protesters](http://www.wetheprotesters.org/ "We The Protesters")
   * [Metalsmith](http://www.metalsmith.io/ "Metalsmith")
   * [Kagura](http://www.kagura.cc/ "Kagura")
-  * [Putting people first](blog.experientia.com) [&#171;](http://hypnophant.tumblr.com/ "Hypnophant"){.normaltext}
   * [Pintsize](http://pintsize.io/ "Pintsize")
   * [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode "Emoji Unicode Tables")
   * [TodoTxtMac](http://mjdescy.github.io/TodoTxtMac/ "TodoTxtMac")
