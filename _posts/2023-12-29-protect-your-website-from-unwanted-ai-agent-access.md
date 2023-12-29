@@ -11,6 +11,7 @@ comments: true
 categories:
   - ai
   - security
+  - resources
 ---
 
 <a title="Dark Visitors - A list of known AI agents on the internet" href="https://darkvisitors.com/">Dark Visitors</a><br>[<a href="https://pinboard.in/u:zero1infinity">zero1infinity</a>]
