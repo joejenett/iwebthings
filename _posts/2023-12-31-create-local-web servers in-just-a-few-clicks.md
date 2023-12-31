@@ -15,7 +15,7 @@ categories:
 <p>
 <a title="Create local web servers in just a few clicks" href="https://simplewebserver.org/">Create local web servers in just a few clicks</a><br> [<a title="source" href="https://adactio.com/links/20736"><span style="color:blue;">adactio</span></a>]
 </p>
-<p style="font-size:1.3em;">
-👍
+<p>
+<span style="font-size:1.8em;">👍</span>
 </p>
 <a href="https://brid.gy/publish/mastodon"></a>
