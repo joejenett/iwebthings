@@ -38,7 +38,7 @@ categories:
 kind:
   - Article
 ---
-To reply to some points made in the [conversation at Kicks Condor](https://www.kickscondor.com/the-web-finally-feels-new-again) which originated from [here](https://iwebthings.com/i.webthings/the_web_finally_feels_new_again/):
+To reply to some points made in the [conversation at Kicks Condor](https://www.kickscondor.com/the-web-finally-feels-new-again) which originated from [here](https://iwebthings.joejenett.com/the_web_finally_feels_new_again/):
 
 > &#8230;I think what you’re saying is that even a single-line annotation of a link, even just a few words of human curation do wonders when you’re out discovering the world&#8230; 
 
