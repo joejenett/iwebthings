@@ -32,7 +32,6 @@ comments: true
 <li><a title="Lo-Fi Player" href="https://magenta.github.io/lofi-player/">Lo-Fi Player</a></li>
 <li><a title="Orb.Farm" href="https://orb.farm/">Orb.Farm</a></li>
 <li><a title="DevLorem" href="https://devlorem.kovah.de/">DevLorem</a></li>
-<li><a title="Bombermaaan" href="https://bombermaaan.netlify.app/">Bombermaaan</a></li>
 <li><a title="radio free fedi - sounds from the fediverse to the universe" href="https://radiofreefedi.net/">radio free fedi</a></li>
 </ul>
 

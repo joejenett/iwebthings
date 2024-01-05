@@ -23,6 +23,5 @@ Other tips from the same author (<a title="and, speaking of macOS..." href="http
 <li><a href="https://saurabhs.org/macos-tips">macOS tips and tricks</a>
 </li>
 </ul>
-Plus a nifty free app for macOS (<a href="https://apps.apple.com/app/apple-store/id1554818956?pt=302792&ct=saurabhsorg&mt=8">Mac App Store</a>) 😎
 
 <a href="https://brid.gy/publish/mastodon"></a>

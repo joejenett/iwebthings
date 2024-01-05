@@ -28,4 +28,3 @@ categories:
   * [CacheCheck](https://cachecheck.opendns.com/ "CacheCheck")
   * [Front-End Feeds](https://github.com/impressivewebs/frontend-feeds "Front-End Feeds")
   * [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/ "JavaScript InfoVis Toolkit")
-  * [Exporter for Notes.app](http://writeapp.net/notesexporter/ "Exporter for Notes.app")

@@ -97,7 +97,7 @@ July 15, 2021 at 11:41 am						</time></a>
 </footer>
 
 <div class="comment-content e-content p-summary p-name" itemprop="text name description">
-<p>Here’s something that works for now (for my 4 key sites) – <a href="http://www.rssmix.com/u/13170286/rss.xml" rel="nofollow ugc">http://www.rssmix.com/u/13170286/rss.xml</a></p>
+<p>Here’s something that works for now (for my 4 key sites) – <a title="no longer available" rel="nofollow ugc">http://www.rssmix.com/u/13170286/rss.xml</a></p>
 </div>
 
 <div class="reply">
@@ -121,7 +121,7 @@ July 16, 2021 at 6:38 am						</time></a>
 </footer>
 
 <div class="comment-content e-content p-summary p-name" itemprop="text name description">
-<p>I created another feed which has the same 4 key sites plus jenett.wiki and joe.ideas (6 sites total) – <a href="http://www.rssmix.com/u/13172921/rss.xml" rel="nofollow ugc">http://www.rssmix.com/u/13172921/rss.xml</a></p>
+<p>I created another feed which has the same 4 key sites plus jenett.wiki and joe.ideas (6 sites total) – <a title="no longer available" rel="nofollow ugc">http://www.rssmix.com/u/13172921/rss.xml</a></p>
 <p>I’ll include this information in the upcoming write-up about the changes to my web.</p>
 <p>Hope you find it useful. 😎</p>
 <p>update 07/17/21: Neither of these combined feeds are reliable (and I don’t recommend them). Today’s early morning posts still aren’t showing up as of 7:00 p.m. Oh well.</p>

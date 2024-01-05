@@ -18,7 +18,6 @@ categories:
 kind:
   - Article
 ---
-  * [Cargo &#8211; Favorite Sites](http://cargocollective.com/favorites "Cargo - Favorite Sites")
   * [TRAVIC &#8211; Transit Visualization Client](http://tracker.geops.ch/ "TRAVIC - Transit Visualization Client")
   * [mobile-detect.js](http://hgoebl.github.io/mobile-detect.js/ "mobile-detect.js")
   * [Firefox Keyboard and Mouse Shortcuts](http://www.7is7.com/software/firefox/shortcuts.html "Firefox Keyboard and Mouse Shortcuts")

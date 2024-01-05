@@ -34,5 +34,4 @@ Generators:
 Bookmarklets:
 
   * [Markup](http://markup.io/)
-  * [Quix](http://quixapp.com/)
   * [Design](http://www.sprymedia.co.uk/article/Design)

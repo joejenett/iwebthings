@@ -32,7 +32,6 @@ kind:
   * [Andy Earhole](https://warholcoverart.com/)
   * [Frank McPherson](https://fedwiki.frankmcpherson.net/)
   * [10×18](http://10x18.co/)
-  * [Gabz/mL](https://gabz.me/)
   * [Keywords](https://keywords.oxus.net/)
   * [Jj’s web stream](https://jj.isgeek.net/)
   * [ᛝ ᛝ ᛝ — lucid.](https://sphygm.us/)

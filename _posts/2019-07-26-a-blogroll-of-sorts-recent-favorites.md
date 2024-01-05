@@ -33,7 +33,6 @@ kind:
   * [erasing.org](https://erasing.org/)
   * [Flashing Palely in the Margins](https://www.inthemargins.ca/)
   * [From Whence, Fragment?](https://fromwhencefragment.com/)
-  * [Gabz/mL](https://gabz.me/)
   * [John Johnston](https://johnjohnston.info/blog/)
   * [jottkah](http://blog.jottkah.de/)
   * [Kicks Condor](https://www.kickscondor.com/)

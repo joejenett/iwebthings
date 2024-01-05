@@ -31,7 +31,6 @@ Grids
   * [Gridlover](http://www.gridlover.net/)
   * [Frameless](http://framelessgrid.com/)
   * [Semantic Grid System](http://semantic.gs/)
-  * [Golden Grid System](http://goldengridsystem.com/)
   * [Not Just A Grid](http://www.notjustagrid.com/)
 
 jQuery 
