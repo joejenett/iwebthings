@@ -23,7 +23,7 @@ _i.webthings_ is _an independent web and networking initiative._ Two of its proj
 
 ## more important now than ever
 
-Last Fall, my enthusiasm for what I do on the web was somewhat rejuvenated, sparked by initiatives like [Micro.blog](https://micro.blog/ "Micro.blog") and the [IndieWeb](https://indieweb.org/ "IndieWeb") and by people like [Brad Enslen](https://ramblinggit.com/ "Brad Enslen - Thoughts from my stylish, mysterious, perilous mind.") whose [_human-edited web directory_](https://indieseek.xyz/about/ "About | Indieseek.xyz Indieweb Directory") appeals to me and [Kicks Condor](https://www.kickscondor.com/ "Kicks Condor") who provided [helpful feedback](https://www.kickscondor.com/the-web-finally-feels-new-again/ "Reply: The Web Finally Feels New Again") to something I [wrote](https://iwebthings.com/i.webthings/the_web_finally_feels_new_again/ "%Title%") in December as part of an ongoing conversation between us (I also like his [directory](https://href.cool/ "%Title%") btw). Both of these guys made me more aware of the concept of _human-curated_ links, new ways to find them, and the benefits of new tools (webmentions, etc.) we now have at our disposal. They've inspired me big time. Thanks Brad and Kicks.
+Last Fall, my enthusiasm for what I do on the web was somewhat rejuvenated, sparked by initiatives like [Micro.blog](https://micro.blog/ "Micro.blog") and the [IndieWeb](https://indieweb.org/ "IndieWeb") and by people like [Brad Enslen](https://ramblinggit.com/ "Brad Enslen - Thoughts from my stylish, mysterious, perilous mind.") whose [_human-edited web directory_](https://indieseek.xyz/about/ "About | Indieseek.xyz Indieweb Directory") appeals to me and [Kicks Condor](https://www.kickscondor.com/ "Kicks Condor") who provided [helpful feedback](https://www.kickscondor.com/the-web-finally-feels-new-again/ "Reply: The Web Finally Feels New Again") to something I [wrote](https://iwebthings.joejenett.com/the_web_finally_feels_new_again/ "%Title%") in December as part of an ongoing conversation between us (I also like his [directory](https://href.cool/ "%Title%") btw). Both of these guys made me more aware of the concept of _human-curated_ links, new ways to find them, and the benefits of new tools (webmentions, etc.) we now have at our disposal. They've inspired me big time. Thanks Brad and Kicks.
 
 ## learning some other things 
 
@@ -50,9 +50,7 @@ Carry on.
 
 <div class="likes">
 <h3>Likes</h3>
-<ul class="mention-list linkback-like"><li class="webmention even thread-even depth-1 linkback-like-single u-like h-cite h-entry p-comment comment" id="comment-5">
-<span class="p-author h-card"><a class="u-url" title="Jacky Alcine liked this  on v2.jacky.wtf." href="https://v2.jacky.wtf/"><img alt="" src="https://v2.jacky.wtf/media/image/floating/18839571_10211060628046341_57901873418052273_o.jpg?v=original" srcset="https://v2.jacky.wtf/media/image/floating/18839571_10211060628046341_57901873418052273_o.jpg?v=original 2x" class="avatar avatar-64 photo avatar-default local-avatar u-photo" itemprop="image" loading="lazy" width="64" height="64"></a><span class="hide-name p-name">Jacky Alcine</span></span><a class="u-url" href="https://v2.jacky.wtf/post/e702f629-2ffe-4fbf-a4e9-27b850f0b3ba"></a>
-</li></ul>
+Jacky Alcine
 </div>
 
 
