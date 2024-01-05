@@ -22,7 +22,7 @@ excerpt: |
   <li><a title="(another) Quill" href="https://quill.p3k.io/">(another) Quill</a></li>
   </ul>
 layout: post
-guid: https://iwebthings.com/i.webthings/2015/07/20/i-miscellany-11/
+guid: https://iwebthings.joejenett.com/i_miscellany_11/
 permalink: /i_miscellany_11/
 categories:
   - links

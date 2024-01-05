@@ -23,7 +23,7 @@ categories:
 kind:
   - Article
 ---
-&#8230;from the [archives](http://www.joejenett.com/photo/?p=walls/):
+&#8230;from the [archives](https://joejenett.com/photo.old/?p=walls//):
 
 <img style="border: none;" src="/images/accept_no_imitations_375.jpg" alt="accept no imitations" /> 
 
