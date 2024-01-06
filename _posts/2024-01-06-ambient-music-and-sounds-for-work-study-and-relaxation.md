@@ -6,7 +6,7 @@ author: joe jenett
 category: 
 permalink: /ambient-music-and-sounds-for-work-study-and-relaxation/
 slug: ambient-music-and-sounds-for-work-study-and-relaxation
-summary: it’s fun <em>and</em> useful, imo.
+summary: it’s fun and useful, imo.
 comments: true
 categories:
   - music
