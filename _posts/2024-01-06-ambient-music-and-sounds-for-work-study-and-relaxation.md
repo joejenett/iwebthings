@@ -16,6 +16,6 @@ categories:
 <a title="ambiphone" href="https://ambiph.one/">ambiphone</a><br>[<a href="https://pinboard.in/u:sdellis]">sdellis</a>
 </p>
 <p>
-	This is one of the better online sound apps I’ve seen. It’s clean, minimal, looks great on mobile, and has a most unique assortment of sounds to combine. I just added it to my phone’s homescreen ’cause it’ll should come in handy at times. And to my buddy <a href="https://metalhead.club/@axemonkey">axemonkey</a>, try mixing <em>P C III - Remembering Past Everything</em> with <em>White noise</em> - worked for me... <img src="https://iwebthings.joejenett.com/images/newguy_h.png" alt="" width="38" style="vertical-align:middle;">
+	This is one of the better online sound apps I’ve seen. It’s clean, minimal, looks great on mobile, and has a most unique assortment of sounds to combine. I just added it to my phone’s homescreen ’cause it should come in handy at times. And to my buddy <a href="https://metalhead.club/@axemonkey">axemonkey</a>, try mixing <em>P C III - Remembering Past Everything</em> with <em>White noise</em> - worked for me... <img src="https://iwebthings.joejenett.com/images/newguy_h.png" alt="" width="38" style="vertical-align:middle;">
 </p>
 <a href="https://brid.gy/publish/mastodon"></a>
