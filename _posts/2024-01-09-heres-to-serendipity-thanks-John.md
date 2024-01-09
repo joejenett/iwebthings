@@ -16,7 +16,7 @@ categories:
 <a title="discovery - a beautiful thing" href="https://diagram.website/">Diagram Website – An internet map</a><br>[<a href="https://pinboard.in/u:philapple">philapple</a>]
 </p>
 <p>
-I’ve got a whole bunch of newly-discovered web things on my plate to further explore thanks to this find. After you’ve gathered your own bunch of new discoveries, here’s some  <a href="https://dwt-archives.joejenett.com/?s=directories">more directories</a> you might wanna explore - cheers!
+I’ve got a whole bunch of newly-discovered web things on my plate to further explore thanks to this find. After you’ve gathered your own bunch of new discoveries, here’s some  <a href="https://dwt-archives.joejenett.com/?s=directories">more directories</a> you might wanna explore sometime - cheers!
 </p>
 <p>
 * for bringing up <em>serendipity</em> - color me eyes wide open... 😎
