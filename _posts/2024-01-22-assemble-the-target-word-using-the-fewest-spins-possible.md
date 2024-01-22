@@ -13,7 +13,7 @@ categories:
   - words
   - fun
 ---
-<a title="Spindle" href="https://playspindle.com/">Spindle</a><br><a title="via the best curator of games on Pinboard!" href="https://pinboard.in/u:tdjones">tdjones</a>
+<a title="Spindle" href="https://playspindle.com/">Spindle</a><br>[<a title="via the best curator of games on Pinboard!" href="https://pinboard.in/u:tdjones">tdjones</a>]
 
 It’s challenging and fun! 😎
 
