@@ -12,6 +12,7 @@ categories:
   - software
   - macOS
   - ai
+  - open-source
 ---
 <a title="Nomad Hypertext" href="https://nomadhypertext.nicholaschen.io/">Nomad Hypertext</a> (macOS)<br>[<a href="https://pinboard.in/u:bschlagel">bschlagel</a>]
 
