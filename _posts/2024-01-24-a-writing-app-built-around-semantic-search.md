@@ -21,7 +21,7 @@ There’s more! Nicholas also developed a <a href="https://github.com/nichwch/yu
 
 I’m liking this idea... a lot! 
 
-I should warn you - though Nomad Hypertext works on the fly as you create and write new documents, if you plan to import a folder of notes (as I did), you need to allow a little time for indexing when you add them. As you create new documents, they’ll be indexed automatically.
+I should warn you - though Nomad Hypertext works on the fly as you create and write new documents, if you plan to import a folder of notes (as I did), you need to allow a little time for indexing when you add them. As you create new documents thereafter, they’ll be indexed automatically.
 
 
 
