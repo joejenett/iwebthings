@@ -16,3 +16,5 @@ categories:
 <a title="GitHub - extratone/siri" href="https://github.com/extratone/siri/blob/master/README.md">siri voice commands list</a>
 
 who knew! 😎
+
+<a href="https://brid.gy/publish/mastodon"></a>
