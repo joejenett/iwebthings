@@ -21,6 +21,5 @@ categories:
 ---
   * [icono](http://saeedalipoor.github.io/icono/ "icono") &ndash; “Pure css icons, with only one element”
   * [copy paste design](http://copypastedesign.com/ "copy paste design") &ndash; “Speed up your design workflow!”
-  * [Scroll Slow. Have Fun.](http://www.scrollslowhavefun.com/ "Scroll Slow. Have Fun.")
   * [Open Knowledge](https://okfn.org/ "Open Knowledge") &ndash; “A world where knowledge creates power for the many, not the few.”
   * [Introduction To Modern Brain-Computer Interface Design](http://sccn.ucsd.edu/wiki/Introduction_To_Modern_Brain-Computer_Interface_Design "Introduction To Modern Brain-Computer Interface Design")
