@@ -370,7 +370,7 @@ div.hcard-display {
 #aka {
 	position:relative;
 	/*top:2px;*/
-	padding:12px 6px 6px 6px;
+	padding:12px 4px 6px 4px;
 	border:1px solid #a3b8cc;
 	background-color: var(--hbg-color);
 	border-radius: 8px;
