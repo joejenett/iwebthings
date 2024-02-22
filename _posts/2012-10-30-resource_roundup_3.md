@@ -30,7 +30,6 @@ Grids
   * [3&#215;4 grid](http://www.3x4grid.com/)
   * [Gridlover](http://www.gridlover.net/)
   * [Frameless](http://framelessgrid.com/)
-  * [Semantic Grid System](http://semantic.gs/)
   * [Not Just A Grid](http://www.notjustagrid.com/)
 
 jQuery 
@@ -38,7 +37,6 @@ jQuery
   * [Redactor](http://redactorjs.com/)
   * [Rhinoslider](http://rhinoslider.com/)
   * [Scroll Path](http://joelb.me/scrollpath/)
-  * [jQuery Fundamentals](http://jqfundamentals.com/)
   * [jQuery for Designers](http://jqueryfordesigners.com/)
   * [Tutorials](http://docs.jquery.com/Tutorials)
 

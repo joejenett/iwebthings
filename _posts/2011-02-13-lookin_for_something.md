@@ -37,9 +37,6 @@ kind:
 [Forelook](http://www.forelook.com/)  
 [<img src="/images/forelook.jpg" alt="Forelook" style="border:none;" />](http://www.forelook.com/)
 
-[mP3](http://mppp.it/)  
-[<img src="/images/mP3.jpg" alt="mP3" style="border:none;" />](http://mppp.it/)
-
 [Oamos](http://www.oamos.com/)  
 [<img src="/images/oamos.jpg" alt="Oamos" style="border:none;" />](http://www.oamos.com/)
 

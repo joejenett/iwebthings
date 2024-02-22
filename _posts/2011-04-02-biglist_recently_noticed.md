@@ -37,7 +37,6 @@ All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](ht
   * [Should I Work for Free?](http://www.shouldiworkforfree.com/)
   * [W3Fools](http://w3fools.com/)
   * [Google tracks you&#8230;](http://donttrack.us/)
-  * [Spritebox](http://www.spritebox.net/)
   * [Orbs](http://orbs.com/)
   * [endor.se](http://www.endor.se/)
   * [MathJax - Beautiful math in all browsers](http://www.mathjax.org/)
