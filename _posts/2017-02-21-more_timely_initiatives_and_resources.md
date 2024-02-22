@@ -14,8 +14,6 @@ complete_open_graph:
 categories:
   - initiatives
 ---
-  * [Resistance Manual](https://www.resistancemanual.org/Resistance_Manual_Home "Resistance Manual")  
-    “The Resistance Manual is focused on presenting truthful and actionable information.”
   * [The Obama Foundation](https://www.obama.org/ "The Obama Foundation")  
     “The Obama Foundation is a living, working start-up for citizenship — an ongoing project for us to shape, together, what it means to be a good citizen in the 21st century. ”
   * [Politiwatch](https://politiwatch.org/ "Politiwatch")  

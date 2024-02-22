@@ -24,7 +24,6 @@ categories:
 kind:
   - Article
 ---
-  * [diorama_photo](https://diorama-photo.fr/ "diorama_photo")
   * [.documenting.the.obvious](https://dothob.wordpress.com/ ".documenting.the.obvious")
   * [Tim McCormack](https://www.brainonfire.net/blog/ "Tim McCormack")
   * [Craig Maloney](http://decafbad.net/ "Craig Maloney")

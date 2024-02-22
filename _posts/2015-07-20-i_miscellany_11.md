@@ -3,11 +3,10 @@ id: 72
 title: i.miscellany.11
 date: 2015-07-20T14:35:18-04:00
 author: joe jenett
-excerpt: |
+excerpt: |-
   
   <ul>
   <li><a title="Launched" href="http://launched.zerowidth.com/">Launched</a></li>
-  <li><a title="Validator.nu" href="https://validator.nu/">Validator.nu</a></li>
   <li><a title="We The Protesters" href="http://www.wetheprotesters.org/">We The Protesters</a></li>
   <li><a title="Metalsmith" href="http://www.metalsmith.io/">Metalsmith</a></li>
   <li><a title="Kagura" href="http://www.kagura.cc/">Kagura</a></li>
@@ -29,7 +28,6 @@ categories:
   - miscellany
 ---
   * [Launched](http://launched.zerowidth.com/ "Launched")
-  * [Validator.nu](https://validator.nu/ "Validator.nu")
   * [We The Protesters](http://www.wetheprotesters.org/ "We The Protesters")
   * [Metalsmith](http://www.metalsmith.io/ "Metalsmith")
   * [Kagura](http://www.kagura.cc/ "Kagura")

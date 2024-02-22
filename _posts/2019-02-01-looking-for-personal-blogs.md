@@ -17,9 +17,6 @@ categories:
 <li style="list-style-type: none;">
   <ul>
     <li>
-      <a title="افكار و احلام" href="https://www.ardisson.org/afkar/">افكار و احلام</a>
-    </li>
-    <li>
       <a title="tumbledry.org" href="https://tumbledry.org/">tumbledry.org</a>
     </li>
     <li>

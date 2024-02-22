@@ -24,7 +24,6 @@ kind:
 ---
 Grids 
 
-  * [Grid-A-Licious](http://suprb.com/apps/gridalicious/)
   * [rwdgrid](http://rwdgrid.com/)
   * [Gumby 960 Grid](http://www.gumbyframework.com/)
   * [3&#215;4 grid](http://www.3x4grid.com/)

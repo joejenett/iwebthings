@@ -25,7 +25,6 @@ kind:
   * [OldSF](http://www.oldsf.org/ "OldSF")
   * [Wikivoyage](http://en.wikivoyage.org/wiki/Main_Page "Wikivoyage")
   * [Hummingbird](http://www.hummingbirdnotation.com/ "Hummingbird")
-  * [URLs are for People, not Computers &#8211; Not Implemented](http://www.not-implemented.com/urls-are-for-people-not-computers/ "URLs are for People, not Computers - Not Implemented")
   * [Tetr.js](http://simon.lc/tetr.js/ "Tetr.js")
   * [Colours](http://webcolourdata.com/ "Colours")
   * [Meet the Ipsums](http://meettheipsums.com/ "Meet the Ipsums")
