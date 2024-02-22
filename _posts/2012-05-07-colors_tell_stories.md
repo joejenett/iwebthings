@@ -108,7 +108,7 @@ I&#8217;ve been working on a project to improve the search functionality of the 
   </p>
   
   <p>
-    <small><i>-by </i><a href="http://bulltown.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=rinaedin"><i>rinaedin</i></a></small>
+    <small><i>-by </i><a href="https://joejenett.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=rinaedin"><i>rinaedin</i></a></small>
   </p>
 </div>
 
@@ -122,7 +122,7 @@ I&#8217;ve been working on a project to improve the search functionality of the 
   </p>
   
   <p>
-    <small><i>-by </i><a href="http://bulltown.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=lorichicago"><i>lorichicago</i></a></small>
+    <small><i>-by </i><a href="https://joejenett.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=lorichicago"><i>lorichicago</i></a></small>
   </p>
 </div>
 
@@ -136,7 +136,7 @@ I&#8217;ve been working on a project to improve the search functionality of the 
   </p>
   
   <p>
-    <small><i>-by </i><a href="http://bulltown.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=Fritterqueen"><i>Fritterqueen</i></a></small>
+    <small><i>-by </i><a href="https://joejenett.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=Fritterqueen"><i>Fritterqueen</i></a></small>
   </p>
 </div>
 
@@ -182,7 +182,7 @@ I&#8217;ve been working on a project to improve the search functionality of the 
   </p>
   
   <p>
-    <small><i>-by </i><a href="http://bulltown.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=Heather"><i>Heather</i></a></small>
+    <small><i>-by </i><a href="https://joejenett.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=Heather"><i>Heather</i></a></small>
   </p>
 </div>
 
@@ -196,6 +196,6 @@ I&#8217;ve been working on a project to improve the search functionality of the 
   </p>
   
   <p>
-    <small><i>-by </i><a href="http://bulltown.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=ReTroGrrl"><i>ReTroGrrl</i></a></small>
+    <small><i>-by </i><a href="https://joejenett.com/bullbin/colorspeak/colorsearch_sp.cgi?searchstring=ReTroGrrl"><i>ReTroGrrl</i></a></small>
   </p>
 </div>
