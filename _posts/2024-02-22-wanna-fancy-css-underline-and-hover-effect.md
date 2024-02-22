@@ -8,6 +8,9 @@ permalink: /wanna-fancy-css-underline-and-hover-effect/
 slug: wanna-fancy-css-underline-and-hover-effect
 summary: it’s fancy schmancy
 comments: true
+categories:
+  - css
+  - generators
 ---
 <a title="Underline Generator" href="https://underline-generator.netlify.app/">Underline Generator</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
 
