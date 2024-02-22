@@ -16,7 +16,7 @@ categories:
   - i-webthings
   - miscellany
 ---
-  <p>Another sampling of color-inspired ideas found at <a href="http://bulltown.com/colorspeak/1/">Colorspeak</a> (all submitted anonymously):</p>
+  <p>Another sampling of color-inspired ideas found at <a href="https://joejenett.com/colorspeak/1/">Colorspeak</a> (all submitted anonymously):</p>
   <div style="background:#996666;color:#ffffff;padding:12px;margin:6px;">
   <p>
   put off by the color of your<br />
