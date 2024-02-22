@@ -11,8 +11,7 @@ comments: true
 ---
 <a title="Underline Generator" href="https://underline-generator.netlify.app/">Underline Generator</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
 
-Demo (if viewing in browser):
-
+Demo (if viewing in browser):  
 <span class="fancy-underline">i.webthings hub</span>
 
 Cool!
