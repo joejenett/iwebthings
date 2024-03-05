@@ -4,8 +4,8 @@ title: Who needs resources and tools when ya got typewriters!
 date: 2024-03-05 08:56:17 -0400
 author: joe jenett
 category: 
-permalink: /who-needs-resources–and-tools-when-ya-got-typewriters/
-slug: who-needs-resources–and-tools-when-ya-got-typewriters
+permalink: /who-needs-resources-and-tools-when-ya-got-typewriters/
+slug: who-needs-resources-and-tools-when-ya-got-typewriters
 summary: You’re welcome...😎
 comments: true
 categories:
