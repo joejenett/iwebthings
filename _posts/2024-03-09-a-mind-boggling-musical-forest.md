@@ -14,7 +14,7 @@ categories:
   - diversions
 ---
 <p>
-I’ve spent the better part of my morning exploring <a title="ambient.garden" href="https://ambient.garden/">ambient.garden</a>, a work by a <a href="https://www.cusamusic.com/">music composer</a> and <a href="https://osar.fr/">programmer</a> Pierre Cusa.
+I’ve spent the better part of my morning exploring <a title="ambient.garden" href="https://ambient.garden/">ambient.garden</a>, a work by <a href="https://www.cusamusic.com/">music composer</a> and <a href="https://osar.fr/">programmer</a> Pierre Cusa.
 </p>
 <blockquote>
 <p>
