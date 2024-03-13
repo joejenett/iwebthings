@@ -14,7 +14,6 @@ comments:
 <p>This updated list starts with the original game by <a href="https://www.powerlanguage.co.uk/">Josh Wardle</a> and the two replicas mentioned in my previous post, followed by other replicas I’ve discovered since. I’d say <em>Wordle</em> is a thing - we’re having fun now!</p>
 <p><ul>
 <li><a href="https://twitter.com/powerlanguish/status/1488263944309731329">Wordle</a> <small>[via <a href="https://waxy.org/category/links/">Waxy.org</a>]</small></li>
-<li><a href="https://foldr.moe/hello-wordl/">hello wordl</a> <small>[via <a href="https://pinboard.in/u:briantrice">briantrice</a>]</small></li>
 <li><a href="https://octokatherine.github.io/word-master/">Word Master</a> <small>[via <a href="https://pinboard.in/u:mariusz">mariusz</a>]</small></li>
 <li><a href="https://swag.github.io/evil-wordle/">Evil Wordle</a> <small>[via <a href="https://pinboard.in/u:FiloSottile">FiloSottile</a>]</small></li>
 <li><a href="https://queerdle.com/">QUEERDLE</a> <small>[via <a href="https://pinboard.in/u:UnionStayshyn">UnionStayshyn</a>]</small></li>
