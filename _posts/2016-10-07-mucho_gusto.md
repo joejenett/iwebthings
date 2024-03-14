@@ -3,13 +3,12 @@ id: 79
 title: mucho gusto
 date: 2016-10-07T08:58:39-04:00
 author: joe jenett
-excerpt: |
+excerpt: |-
   
   <ul>
   <li><a title="baffle.js" href="https://camwiegert.github.io/baffle/">baffle.js</a><br />A tiny (~1.8kb) javascript library for obfuscating and revealing text in DOM elements.</li>
   <li><a title="Do I leak?" href="https://www.doileak.com/">Do I leak?</a><br />Your digital footprint might be giving you away...</li>
   <li><a title="Express" href="http://expressjs.com/">Express</a><br />Fast, unopinionated, minimalist web framework for Node.js</li>
-  <li><a title="Helium" href="http://heliumfloats.com/">Helium</a><br />A floating browser window for OS X</li>
   <li><a title="hledger" href="http://hledger.org/">hledger</a><br />Simple, precise, plain text accounting.</li>
   <li><a title="rscss" href="http://rscss.io/">rscss</a><br />Styling CSS without losing your sanity</li>
   <li><a title="Rspamd" href="https://rspamd.com/">Rspamd</a><br />Fast, free and open-source spam filtering system.</li>
@@ -24,7 +23,7 @@ permalink: /mucho_gusto/
 classic-editor-remember:
   - classic-editor
 complete_open_graph:
-  - 'a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}'
+  - a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}
 categories:
   - links
   - miscellany
@@ -35,8 +34,6 @@ categories:
     Your digital footprint might be giving you away&#8230;
   * [Express](http://expressjs.com/ "Express")  
     Fast, unopinionated, minimalist web framework for Node.js
-  * [Helium](http://heliumfloats.com/ "Helium")  
-    A floating browser window for OS X
   * [hledger](http://hledger.org/ "hledger")  
     Simple, precise, plain text accounting.
     Font-size based on your screen-size&#8230; In pure css please.
