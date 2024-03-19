@@ -18,6 +18,6 @@ I’ve been rediscovering some amazing sites linked to in the past but this morn
 
 The bonus is that since I first linked to the site in 2014, the author used the site to help their favorite cat rescue surpass its fundraising goals.
 
-Damn! I love this job!
+Damn, I love this job!
 
 <a href="https://brid.gy/publish/mastodon"></a>
