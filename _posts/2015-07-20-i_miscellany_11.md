@@ -11,7 +11,6 @@ excerpt: |-
   <li><a title="Metalsmith" href="http://www.metalsmith.io/">Metalsmith</a></li>
   <li><a title="Kagura" href="http://www.kagura.cc/">Kagura</a></li>
   <li><a title="Putting people first" href="http://blog.experientia.com/">Putting people first</a>  </li>
-  <li><a title="Pintsize" href="http://pintsize.io/">Pintsize</a></li>
   <li><a title="Emoji Unicode Tables" href="http://apps.timwhitlock.info/emoji/tables/unicode">Emoji Unicode Tables</a></li>
   <li><a title="TodoTxtMac" href="http://mjdescy.github.io/TodoTxtMac/">TodoTxtMac</a></li>
   <li><a title="Wikimedia blog" href="http://blog.wikimedia.org/">Wikimedia blog</a></li>
@@ -31,7 +30,6 @@ categories:
   * [We The Protesters](http://www.wetheprotesters.org/ "We The Protesters")
   * [Metalsmith](http://www.metalsmith.io/ "Metalsmith")
   * [Kagura](http://www.kagura.cc/ "Kagura")
-  * [Pintsize](http://pintsize.io/ "Pintsize")
   * [Emoji Unicode Tables](http://apps.timwhitlock.info/emoji/tables/unicode "Emoji Unicode Tables")
   * [TodoTxtMac](http://mjdescy.github.io/TodoTxtMac/ "TodoTxtMac")
   * [Wikimedia blog](http://blog.wikimedia.org/ "Wikimedia blog")
