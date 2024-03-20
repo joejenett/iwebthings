@@ -30,7 +30,6 @@ Updated 07/4/16
   * [Qubes OS Project](https://www.qubes-os.org/ "Qubes OS Project")
   * [simpl.info](http://simpl.info/ "simpl.info")
   * [The State of Obesity](http://stateofobesity.org/ "The State of Obesity")
-  * [Groundswell](http://www.pdot.org/ "Groundswell")
   * [TextMate Manual](http://manual.textmate.org/ "TextMate Manual")
   * [Quickies](http://quickies.seriot.ch/ "Quickies")
   * [MultiMarkdown Guide](https://rawgit.com/fletcher/human-markdown-reference/master/index.html "MultiMarkdown Guide")
