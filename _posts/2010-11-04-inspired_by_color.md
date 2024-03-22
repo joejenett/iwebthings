@@ -3,9 +3,9 @@ id: 11
 title: inspired by color
 date: 2010-11-04T10:33:31-04:00
 author: joe jenett
-excerpt: |
+excerpt: |-
   
-  <p><a href="http://bulltown.com/colorspeak/1/">Colorspeak</a> was created back in 1999 and is surely in need of a redesign. I'm regularly inspired by its unique content, all created by the site's visitors &ndash; a random sampling:</p>
+  <p><a href="http://joejenett.com/colorspeak/1/">Colorspeak</a> was created back in 1999 and is surely in need of a redesign. I'm regularly inspired by its unique content, all created by the site's visitors &ndash; a random sampling:</p>
   <div style="background:#ff0000;color:#ffffcc;padding:12px;margin:6px;">
   <p style="text-decoration:underline;">"exposure" by Rikatrix</p>
   this is the color that tells all of my secrets, exposes my insecurities, and demands my need for attention.
@@ -28,7 +28,7 @@ permalink: /inspired_by_color/
 classic-editor-remember:
   - classic-editor
 complete_open_graph:
-  - 'a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}'
+  - a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}
 categories:
   - i-webthings
 ---
