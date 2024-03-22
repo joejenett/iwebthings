@@ -108,16 +108,16 @@ function closeDirectories() {
 </summary>
 <ul>
 <li><a title="Blogroll.org" href="https://blogroll.org/">Ye Olde Blogroll</a></li>
-<li><a title="The Forest" href="https://theforest.link/">The Forest</a> (<a title="The Forest-random" href="https://theforest.link/go-for-a-walk/">random</a>)</li>
-<li><a title="Gossip’s Web" href="https://gossipsweb.net/">Gossip’s Web</a> (<a title="Gossip’s Web-random" href="https://gossipsweb.net/random">random</a>)</li>
+<li><a title="The Forest" href="https://theforest.link/">The Forest</a> </li>
+<li><a title="Gossip’s Web" href="https://gossipsweb.net/">Gossip’s Web</a> </li>
 <li><a title="href.cool" href="https://href.cool/">href.cool</a></li>
 <li><a title="HrefHunt!" href="https://www.kickscondor.com/hrefhunt/">HrefHunt!</a></li>
 <li><a title="Hyperlink Node Directory" href="https://nodes.indieseek.xyz/">Hyperlink Node Directory</a></li>
 <li><a title="Indieseek.xyz Directory" href="https://indieseek.xyz/links/">Indieseek.xyz Directory</a></li>
 <li><a title="Blogroll - jlelse’s Blog" href="https://jlelse.blog/blogroll">Blogroll - jlelse’s Blog</a></li>
-<li><a title="Marginalia Search" href="https://search.marginalia.nu/">Marginalia Search</a> (<a title="Marginalia Search - browse:random" href="https://search.marginalia.nu/explore/random">browse:random</a>)</li>
+<li><a title="Marginalia Search" href="https://search.marginalia.nu/">Marginalia Search</a></li>
 <li><a title="(Marijn’s Linkroll) | The Satyrs’ Forest 🍇" href="https://marijn.uk/linkroll/">Linkroll | The Satyrs’ Forest 🍇</a></li>
-<li><a title="Mataroa Collection" href="https://collection.mataroa.blog/">Mataroa Collection</a> (<a title="Mataroa Collection-random" href="https://collection.mataroa.blog/random/">random</a>)</li>
+<li><a title="Mataroa Collection" href="https://collection.mataroa.blog/">Mataroa Collection</a></li>
 <li><a title="Maya's subscriptions" href="https://maya.land/blogroll.opml">Maya's subscriptions</a></li>
 <li><a title="Mojeek" href="https://www.mojeek.com/">Mojeek</a></li>
 <li><a title="Peelopaalu - Directory" href="https://peelopaalu.neocities.org/">Peelopaalu - Directory</a></li>
