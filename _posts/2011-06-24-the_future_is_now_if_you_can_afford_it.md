@@ -24,7 +24,7 @@ kind:
   - Article
 ---
 <p>
-  <a href="http://www.lytro.com/">Lytro Light Field Camera</a><br /> <a href="http://www.lytro.com/"><img style="border: none; margin: 8px 0;" src="/images/lytro.jpg" alt="Lytro Light Field Camera" /></a><br /> &#8220;Our mission is to change photography forever, making conventional cameras a thing of the past.&#8221;
+  <a href="https://raytrix.de/">Lytro Light Field Camera</a><br /> <a href="https://raytrix.de/"><img style="border: none; margin: 8px 0;" src="/images/lytro.jpg" alt="Lytro Light Field Camera" /></a><br /> &#8220;Our mission is to change photography forever, making conventional cameras a thing of the past.&#8221;
 </p>
 
 <p style="padding-top: 24px;">
