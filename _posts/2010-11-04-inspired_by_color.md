@@ -32,7 +32,7 @@ complete_open_graph:
 categories:
   - i-webthings
 ---
-[Colorspeak](http://joejenett.com/colorspeak/1/) was created back in 1999 and is surely in need of a redesign. I&#8217;m regularly inspired by its unique content, all created by the site&#8217;s visitors – a random sampling:
+[Colorspeak](http://joejenett.com/colorspeak/1/) was created back in 1999 and is surely in need of a redesign. I&#8217;m regularly inspired by its unique content, all created by the site’s visitors – a random sampling:
 
 <div style="background: #ff0000; color: #ffffcc; padding: 12px; margin: 6px;">
   <p style="text-decoration: underline;">
