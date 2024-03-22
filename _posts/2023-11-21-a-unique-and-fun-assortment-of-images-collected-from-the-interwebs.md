@@ -14,7 +14,7 @@ categories:
   - graphics
 ---
 <p>
-<img src="/images/snipe-approved.png" title="Snipe, the collection’s creator likes ’em"  alt="snipe-approved" width="64" style="position:relative;float:right;margin:0 64px 0 6px;width:64px;"><a href="snipe-approved.png" title=""></a><a title="GitHub - snipe/awesome-emoji" href="https://github.com/snipe/awesome-emoji/">awesome-emoji</a>
+<img src="/images/snipe-approved.png" title="Snipe, the collection’s creator likes ’em"  alt="snipe-approved" width="64" style="position:relative;float:right;margin:0 64px 0 6px;width:64px;"><a title="GitHub - snipe/awesome-emoji" href="https://github.com/snipe/awesome-emoji/">awesome-emoji</a>
 <br>[<a href="https://pinboard.in/u:fileformat">fileformat</a>]
 </p>
 <p>
