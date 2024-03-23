@@ -17,7 +17,6 @@ comments: true
 <ul class="links">
 	<li><a title="Juice" href="https://garden.bradwoods.io/notes/design/juice">Juice</a> <a href="https://pinboard.in/u:bensauer">📌</a><br>“What is Juice in software development. What is Game Feel &amp; how it can it be used in non-game software. How software can fulfil emotional requirements. How to create software with soul. Examples of Juice on the web.”</li>
 	<li><a title="Indie Microblogging by Manton Reece" href="https://book.micro.blog/">Indie Microblogging</a> <a href="https://pinboard.in/u:axodys">📌</a><br>“It’s time for a return to what made the web great.”</li>
-	<li><a title="Find used fonts on any website" href="https://fonty.io/">Fonty.io</a> <a href="https://pinboard.in/u:angusm">📌</a><br>“Enter a website URL and our tool will analyze the fonts used on the site and display them for you to view.”</li>
 </ul>
 <p>Thanks for visiting.</p>
 <p><small>(updated 04/14/23)</small></p>
