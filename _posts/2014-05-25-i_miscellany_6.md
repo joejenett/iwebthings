@@ -26,9 +26,6 @@ categories:
   * [Muse: the brain sensing headband](http://www.choosemuse.com/ "Muse: the brain sensing headband") <small>$ *</small> 
     > Muse is the brain sensing headband that helps you do more with your mind with training sessions designed to reduce your stress and improve your emotional strength by teaching you to calm and settle your mind. 
 
-  * [Media Queries](http://mediaqueri.es/ "Media Queries") <small>*a</small> 
-    > A collection of inspirational websites using media queries and responsive web design. 
-
 <div style="border-top:1px dashed #999;padding-top:6px;padding-left:24px;">
   <small><br /> *a &#8211; Ads or affiliate links<br /> *f &#8211; Freemium<br /> $ &#8211; Commercial<br /> * &#8211; This is not an endorsement.<br /> </small>
 </div>
