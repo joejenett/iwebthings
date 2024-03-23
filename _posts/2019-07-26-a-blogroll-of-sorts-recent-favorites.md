@@ -27,7 +27,6 @@ kind:
   * [Black & White or Color?](http://www.bw-color.com/)
   * [Brad Enslen](https://ramblinggit.com/)
   * [but she’s a girl…](https://www.rousette.org.uk/)
-  * [Coping Mechanism](https://copingmechanism.com/)
   * [Desenfocado](http://www.desenfocado.com/)
   * [.documenting.the.obvious](https://dothob.wordpress.com/)
   * [erasing.org](https://erasing.org/)
