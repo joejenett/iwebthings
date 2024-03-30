@@ -1,0 +1,21 @@
+---
+layout: post
+title: easily amused 03-30-24
+date: 2024-03-30 08:49:14 -0400
+author: joe jenett
+category: 
+permalink: /easily-amused-03-30-24/
+slug: easily-amused-03-30-24
+summary: is this my next face?
+comments: true
+categories:
+  - fun
+  - generators
+---
+#### Wanna know what I love about the web?
+<img src="https://iwebthings.joejenett.com/images/face.png" alt="" width="80" style="position:relative;float:right;margin:8px;">
+When I bump into a minimal site that let’s me generate another random image until the perfect one hits me in the face, just call me happy joe. You are possibly one of the few who have witnessed my next web face. What’s not to love about <a title="Ugly Avatar" href="https://txstc55.github.io/ugly-avatar/">Ugly Avatar</a>!
+
+You can thank <a href="https://pinboard.in/u:zero1infinity">zero1infinity</a> for this gem.
+
+<a href="https://brid.gy/publish/mastodon"></a>
