@@ -19,7 +19,7 @@ In my opinion, the dailywebthing archives is an organized, easy-to-use directory
 
 Of course, that all means little unless the site is somewhat free of bad links (which, to me, would include links to sites with annoying ‘features’ or a significant amount of commercial content).
 
-While perfection is impossible when it comes to managing bad links, I can safely say the archives are at least 98% free of bad links. The reality is that 1 to 1.5% of its current links may go bad over the next 30 days (an intelligent guess based on my records).
+Perfection is impossible when it comes to managing links. I can safely say the archives are at least 98% free of bad links. The reality is that 1-1.5% of its current links may go bad over the next 30 days (an intelligent guess based on my records).
 
 Fortunately, I love doing what I do and if any of it is useful or enjoyable to you (even if in a small way), I’m happy and feel I’ve met my mission.
 
