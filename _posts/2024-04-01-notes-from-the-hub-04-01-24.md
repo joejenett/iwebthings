@@ -17,7 +17,7 @@ Since I created the dailywebthing archives almost a year ago (sounds better than
 
 In my opinion, the dailywebthing archives is an organized, easy-to-use directory to resources, ideas, and personal websites personally curated over a period of more than 23 years (currently about 8600 active links). 
 
-Of course, that all means little unless the site is somewhat free of bad links (which, to me, would include links to sites with annoying ‘features’ or a significant amount of commercial content).
+Of course, that all means little unless the site is somewhat free of bad links (which, to me, would include links to sites with annoying ‘features’ or a significant amount of commercial content, not to mention those pesky monetized redirects by domain parkers).
 
 Perfection is impossible when it comes to managing links. I can safely say the archives are at least 98% free of bad links. The reality is that 1-1.5% of its current links may go bad over the next 30 days (an intelligent guess based on my records).
 
