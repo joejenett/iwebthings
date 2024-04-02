@@ -12,7 +12,7 @@ categories:
   - search
   - directories
 ---
-I’m tickled to see this one is back online. I removed it from the dailywebthing archives last week due to a 503 error that persisted for several days. The successor of the Open Directory Project (which later became DMOZ) is still here - whoopee!
+I’m tickled to see this one is back online. I removed it from the dailywebthing archives last week due to a 503 error (Service Unavailable) that persisted for several days. The successor of the Open Directory Project (which later became DMOZ) is still here - whoopee!
 
 <a title="Curlie - The Collector of URLs" href="https://curlie.org/">Curlie - The Collector of URLs</a>
 
