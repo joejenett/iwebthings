@@ -15,9 +15,8 @@ categories:
 I’m tickled to see this one is back online. I removed it from the dailywebthing archives last week due to a 503 (Service Unavailable) error that persisted for several days. The successor of the Open Directory Project (which later became DMOZ) is still here - whoopee!
 
 <a title="Curlie - The Collector of URLs" href="https://curlie.org/">Curlie - The Collector of URLs</a>
-
 <p>
-<small>Update 04/03/24: The site appears to be down again this morning - 504 Gateway Time-out error. Fingers crossed. I’ll be watching this one and decided to keep the link active for now.</small>
+<small>Update 04/03/24: Appears to be down again - 504 Gateway Time-out - watching...</small>
 </p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
