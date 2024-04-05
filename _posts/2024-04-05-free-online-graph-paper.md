@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘free online graph paper”
+title: ‘free online graph paper’
 date: 2024-04-05 09:50:21 -0400
 author: joe jenett
 category: 
