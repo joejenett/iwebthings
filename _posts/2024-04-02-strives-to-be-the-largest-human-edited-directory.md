@@ -16,7 +16,7 @@ I’m tickled to see this one is back online. I removed it from the dailywebthin
 
 <a title="Curlie - The Collector of URLs" href="https://curlie.org/">Curlie - The Collector of URLs</a>
 <p>
-<small>Update 04/03/24: Appears to be down again - 504 Gateway Time-out - watching...<br>Update 04/04/24: Still down.</small> 😒
+<small>Update 04/03/24: Appears to be down again - 504 Gateway Time-out - watching...<br>Update 04/04/24: Still down.<br>Update 04/11/24: Down again - patiently hoping they fix it.</small> 😒
 </p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
