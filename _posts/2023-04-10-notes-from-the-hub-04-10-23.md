@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  notes from the hub 04-10-23
-date:   2023-04-10 18:56:48 -0400
+title: notes from the hub 04-10-23
+date: 2023-04-10 18:56:48 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  - i-webthings
+  - about
 permalink: /notes-from-the-hub-04-10-23/
 slug: notes-from-the-hub-04-10-23
 summary: 

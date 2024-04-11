@@ -10,6 +10,7 @@ summary:
 comments: true
 categories:
   - i-webthings
+  - about
 ---
 I’ll have to shamelessly borrow a song title from one of my favorite artists to make a point here.
 
