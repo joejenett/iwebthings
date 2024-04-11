@@ -214,7 +214,7 @@ article, .home {
 	border: 1px solid #a3b8cc;
 	background-color: var(--hbg-color);
 	border-radius: 8px;
-	padding: 0 24px;
+	padding: 0 22px;
 }
 article.archive-item {
 	border: none;
@@ -490,9 +490,6 @@ div.hcard-display {
 	font-weight:600;
 }
 
-article, .home {
-	padding:0 22px;
-}
 
 
 @media only screen and (max-width:768px) {
