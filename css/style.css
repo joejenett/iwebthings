@@ -214,15 +214,17 @@ article, .home {
 	border: 1px solid #a3b8cc;
 	background-color: var(--hbg-color);
 	border-radius: 8px;
-	padding: 0 18px 0 22px;
+	padding: 0 24px;
 }
 article.archive-item {
 	border: none;
 	background-color: var(--hbg-color);
 	border-radius: 0;
-	padding: 0 20px 0 22px;
+	padding: 0 24px;
 }
-
+div#archives div.archive-group article.archive-item li {
+	padding:  0 14px 0 0;
+}
 .post-title {
 	font-size:32px;
 	font-weight:600;
