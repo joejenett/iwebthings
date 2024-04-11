@@ -220,7 +220,7 @@ article.archive-item {
 	border: none;
 	background-color: var(--hbg-color);
 	border-radius: 0;
-	padding: 0 24px;
+	padding: 0 22px;
 }
 
 .post-title {
