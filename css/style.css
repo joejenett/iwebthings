@@ -214,13 +214,13 @@ article, .home {
 	border: 1px solid #a3b8cc;
 	background-color: var(--hbg-color);
 	border-radius: 8px;
-	padding: 0 22px;
+	padding: 0 20px 0 22px;
 }
 article.archive-item {
 	border: none;
 	background-color: var(--hbg-color);
 	border-radius: 0;
-	padding: 0 22px;
+	padding: 0 20px 0 22px;
 }
 
 .post-title {
