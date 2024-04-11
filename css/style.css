@@ -490,7 +490,9 @@ div.hcard-display {
 	font-weight:600;
 }
 
-
+article, .home {
+	padding:0 22px;
+}
 
 
 @media only screen and (max-width:768px) {
