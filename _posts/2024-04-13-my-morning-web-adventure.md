@@ -23,9 +23,9 @@ As usual, I wanted to know more about this newly-found toy and checked the sourc
 
 I was hoping the site’s title might shed some light. Forskningsrådet is the Norwegian name for <a title="The Research Council of Norway" href="https://www.forskningsradet.no/en/">The Research Council of Norway</a>. 
 
-That didn't satisfy my curiousity so I decided to see what I could find out about “dubins,” which appears in the site’s url. I learned about <a title="Dubins path - Wikipedia" href="https://en.wikipedia.org/wiki/Dubins_path">Dubins path</a>, having to do with mathematicians’ quest to find the shortest optimal path for wheeled robots to keep moving forward. Whoa!
+That didn't satisfy my curiousity so I decided to see what I could find out about “dubins,” which appears in the site’s url. I learned about <a title="Dubins path - Wikipedia" href="https://en.wikipedia.org/wiki/Dubins_path">Dubins path</a>, having to do with mathematicians’ quests to find the shortest optimal path for wheeled robots to keep moving forward. Whoa!
 
-I also found a few other related sites in the process:
+I found a few other related links in the process:
 
 <a title="Lester Dubins - Wikipedia" href="https://en.wikipedia.org/wiki/Lester_Dubins">Lester Dubins (1920-2010)</a><br><a title="Shortest Path for the Dubins Car - Wolfram Demonstrations Project" href="https://demonstrations.wolfram.com/ShortestPathForTheDubinsCar/">Shortest Path for the Dubins Car</a><br><a title="GitHub - gieseanw/Dubins" href="https://github.com/gieseanw/Dubins">Dubins: Generate paths for a Dubins car of arbitrary turning radius</a>
 
