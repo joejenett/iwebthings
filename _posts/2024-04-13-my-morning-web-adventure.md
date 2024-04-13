@@ -6,8 +6,12 @@ author: joe jenett
 category: 
 permalink: /my-morning-web-adventure/
 slug: my-morning-web-adventure
-summary: 
+summary: color me distracted and curious
 comments: true
+categories:
+  - hub
+  - curiosities
+  - generators
 ---
 I’m a sucker for online generators. Early this morning, I decided to explore one I recently bumped into:
 
