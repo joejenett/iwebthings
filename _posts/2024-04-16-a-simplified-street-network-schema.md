@@ -12,6 +12,6 @@ categories:
   - places
   - data
 ---
-<a title="osm2streets Street Explorer" href="https://a-b-street.github.io/osm2streets/index.html#12.63/42.79447/-83.25338/0/1">StreetExplorer</a> <small>(<a href="https://github.com/a-b-street/osm2streets">github</a>)</small><br>[<a href="https://pinboard.in/u:jarek">jarek</a>]
+<a title="osm2streets Street Explorer" href="https://a-b-street.github.io/osm2streets/index.html">StreetExplorer</a> <small>(<a href="https://github.com/a-b-street/osm2streets">github</a>)</small><br>[<a href="https://pinboard.in/u:jarek">jarek</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
