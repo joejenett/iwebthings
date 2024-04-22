@@ -6,7 +6,7 @@ author: joe jenett
 category: 
 permalink: /linkylove-webpath-04-22-24/
 slug: linkylove-webpath-04-22-24
-summary: 
+summary: serendipity perhaps
 comments: true
 categories:
   - linkylove
