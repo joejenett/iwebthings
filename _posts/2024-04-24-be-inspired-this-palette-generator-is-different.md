@@ -6,7 +6,7 @@ author: joe jenett
 category: 
 permalink: /be-inspired-this-palette-generator-is-different/
 slug: be-inspired-this-palette-generator-is-different
-summary: a color generator that’s different
+summary: 
 comments: true
 categories:
   - color
