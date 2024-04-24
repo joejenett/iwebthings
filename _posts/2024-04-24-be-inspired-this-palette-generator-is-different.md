@@ -14,10 +14,8 @@ categories:
   - generators
   - inspiration
 ---
-<a title="AI color palette generator | Deblank Colors" href="https://deblank.com/colors">AI color palette generator</a><br> [<a href="https://pinboard.in/u:thulstrup">thulstrup</a>]
-
+<a title="AI color palette generator | Deblank Colors" href="https://deblank.com/colors">AI color palette generator</a><br>[<a href="https://pinboard.in/u:thulstrup">thulstrup</a>]
 <p style="font-size:.8em;">
-Note: “This site is protected by reCAPTCHA and the Google<a href="[https://policies.google.com/privacy](view-source:https://policies.google.com/privacy)">Privacy Policy</a> and <a href="[https://policies.google.com/terms](view-source:https://policies.google.com/terms)">Terms of Service</a> apply.”
+Note: “This site is protected by reCAPTCHA and the Google <a href="[https://policies.google.com/privacy](view-source:https://policies.google.com/privacy)">Privacy Policy</a> and <a href="[https://policies.google.com/terms](view-source:https://policies.google.com/terms)">Terms of Service</a> apply.”
 </p>
-
 <a href="https://brid.gy/publish/mastodon"></a>
