@@ -20,7 +20,7 @@ Avatars are <a href="https://iwebthings.joejenett.com/easily-amused-03-30-24/">f
 
 Playing with it got me thinking about a few other avatar generators I’ve shared in the past:
 <ul>
-<li><a title="Create your own avatar online" href="https://avatarmaker.com/">Avatar Maker - Create your own avatar online</a></li>
+<li><a title="Create your own avatar online" href="https://avatarmaker.com/">Avatar Maker</a></li>
 <li><a title="Avatar generator playground" href="https://boringavatars.com/">Boring Avatars</a></li>
 <li><a title="Free Avatar Maker Online" href="https://avamake.com/">Ava Maker</a></li>
 </ul>
