@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'“Just a linkblog...”'"
+title: “Just a linkblog...”
 date: 2024-04-30 08:09:58 -0400
 author: joe jenett
 category: 
