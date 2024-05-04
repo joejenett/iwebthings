@@ -12,12 +12,12 @@ categories:
   - search
   - directories
 ---
-I’m tickled to see this one is back online. I removed it from the dailywebthing archives last week due to a 503 (Service Unavailable) error that persisted for several days. The successor of the Open Directory Project (which later became DMOZ) is still here - whoopee!
 
-<a title="Curlie - The Collector of URLs" href="https://curlie.org/">Curlie - The Collector of URLs</a>
 <p>
-<small>Update 04/03/24: Appears to be down again - 504 Gateway Time-out - watching...<br>Update 04/04/24: Still down.<br>Update 04/11/24: Down again - patiently hoping they fix it.</small> 😒<br>
-Update 04/17/24: It’s back - yay!
+Sorry but the site that was featured in this post was unreachable for a significant amount of time throughout the month of April, 2024. Though I was tickled to bring it back recently, I've been regularly checking it and decided to remove the link permanently. 
+
+Thanks,
+Joe
 </p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
