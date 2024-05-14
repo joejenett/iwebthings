@@ -10,7 +10,7 @@
   <author>
     <name>joe jenett</name>
   </author>
-  <rights>2010-2023 © joe jenett. Some rights reserved.</rights>
+  <rights>2010-2024 © joe jenett. Some rights reserved.</rights>
 
   {% for post in site.posts limit:7 %}
   <entry>
