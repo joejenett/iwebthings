@@ -6,7 +6,7 @@ author: joe jenett
 category: 
 permalink: /resource-explorer-05-14-24-regular-expressions/
 slug: resource-explorer-05-14-24-regular-expressions
-summary: "&lt;!--joe crawls out of the rabbit hole --&gt;"
+summary: joe crawls out of the rabbit hole
 comments: true
 categories:
   - lists
