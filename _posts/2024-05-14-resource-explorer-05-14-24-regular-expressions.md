@@ -4,8 +4,8 @@ title: "resource.explorer.05-14-24: regular expressions"
 date: 2024-05-14 10:09:21 -0400
 author: joe jenett
 category: 
-permalink: /resource-explorer-05-14-24-regular expressions/
-slug: resource-explorer-05-14-24-regular expressions
+permalink: /resource-explorer-05-14-24-regular-expressions/
+slug: resource-explorer-05-14-24-regular-expressions
 summary: "&lt;!--joe crawls out of the rabbit hole --&gt;"
 comments: true
 categories:
