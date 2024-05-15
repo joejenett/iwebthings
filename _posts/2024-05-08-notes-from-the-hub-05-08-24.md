@@ -14,7 +14,10 @@ categories:
 ---
 revised 05/14/24:
 
-Our key hosting provider recently notified us that our server will be physically moved to a new data center on May 17, 2024. They advised that moving to the new ‘state-of-the-art’ facility will bring a number of ‘world-class improvements.’ I’m most impressed to hear the new facility “has been recognized for its sustainability efforts as an L.A. Green Business.”
+05/15/24 10:45 AM:
+We’ve now been notified that the move has taken place successfully as originally planned.
+
+Our key hosting provider recently notified us that our server will be physically moved to a new data center on May 14, 2024. They advised that moving to the new ‘state-of-the-art’ facility will bring a number of ‘world-class improvements.’ I’m most impressed to hear the new facility “has been recognized for its sustainability efforts as an L.A. Green Business.”
 
 Not all of the <em>webthings</em> will be affected, as shown below.
 
