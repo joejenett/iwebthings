@@ -8,6 +8,9 @@ permalink: /recently-noticed-05-17-24/
 slug: recently-noticed-05-17-24
 summary: 
 comments: true
+categories:
+  - lists
+  - miscellany
 ---
 <ul class="links">
 	<li><a title="BUKMARK.CLUB" href="https://bukmark.club/"><small>BUKMARK.CLUB</small></a> <a href="https://pinboard.in/u:ramblinggit">📌</a><blockquote><p>To be eligible for a listing in this directory, a website must have a curated collection of bookmarks and/or links to other websites.</p></blockquote></li>
