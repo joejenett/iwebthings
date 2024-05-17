@@ -12,9 +12,9 @@ categories:
   - about
   - i-webthings
 ---
-update 05/16/24 4:26 PM: We’ve now been notified (yet again) that the move will be taking place on the evening of May 17, 2024. There has been so much confusion in communicating with it’s customers about the move that I’ve decided to cross my fingers that the move will be occurring sometime soon, if at all, and ignore the whole matter moving forward.
+update 05/16/24 4:26 PM: We’ve now been notified (yet again) that the move will be taking place on the evening of May 17, 2024. There has been so much confusion on my web host’s part in communicating with it’s customers about the move that I’ve decided to cross my fingers, hoping the move will be occurring sometime soon, if at all, and ignore the whole matter moving forward.
 
-This post has taken a beating - for that, I apologize.
+This post has taken a beating - sorry ’bout that..
 
 update 05/15/24 10:45 AM:
 We’ve now been notified that the move has taken place successfully as originally planned.
