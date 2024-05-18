@@ -28,7 +28,7 @@ Not all of the <em>webthings</em> will be affected, as shown below.
 These sites are on a different server and will not be affected:
 <ul>
 <li>i.webthings hub (<a href="https://iwebthings.joejenett.com/">https://iwebthings.joejenett.com/</a>)</li>
-<li>simply. (<a href="https://simply.joejenett.com/">https://simply.joejenett.com/</a></li>
+<li>simply. (<a href="https://simply.joejenett.com/">https://simply.joejenett.com/</a>)</li>
 <li>joe. ideas. (<a href="https://ideas.joejenett.com/">https://ideas.joejenett.com/</a>)</li>
 <li>joe. brainstormer. (<a href="https://brainstormer.joejenett.com/">https://brainstormer.joejenett.com/</a>)</li>
 </ul>
