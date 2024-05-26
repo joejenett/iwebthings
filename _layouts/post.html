@@ -15,16 +15,19 @@ layout: default
 </div>
 </div> 
 <header class="post-header">
-<h1 class="post-title p-name" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>
+<h1 class="post-title p-name entry-title" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>
 <div class="post-meta">
 <a href="{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {{ page.date | date: date_format }}
 </time></a>
-{%- if page.author -%}• <span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo p-author h-card  hcard-photo" width="24" height="24" style="position:relative;top:-3px;">
+<address class="author vcard">
+{%- if page.author -%}• <a href="/"><span itemprop="author" itemscope itemtype="http://schema.org/Person"> <img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo p-author h-card  hcard-photo" width="24" height="24" style="position:relative;top:-3px;">
 <span class="p-author h-card p-name" itemprop="name">{{ page.author }}
 </span>
 </span>
+</a>
+</address>
 {%- endif -%}
 <span class="post-categories">• posted in:
 {% if post %}
