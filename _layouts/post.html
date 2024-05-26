@@ -17,7 +17,7 @@ layout: default
 <header class="post-header">
 <h1 class="post-title p-name entry-title" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}</h1>
 <div class="post-meta">
-<a class="url u-url" href="{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+<a class="url u-url u-uid uid bookmark" href="{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {{ page.date | date: date_format }}
 </time></a>
