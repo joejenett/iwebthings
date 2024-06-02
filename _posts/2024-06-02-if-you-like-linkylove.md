@@ -6,7 +6,7 @@ author: joe jenett
 category: 
 permalink: /if-you-like-linkylove/
 slug: if-you-like-linkylove
-summary: 
+summary: …I made you a button.
 comments: true
 categories:
   - i-webthings
