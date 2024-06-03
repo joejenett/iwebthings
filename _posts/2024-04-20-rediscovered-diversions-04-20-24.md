@@ -13,7 +13,6 @@ categories:
   - diversions
 ---
 <ul class="linkylove">
-	<li><a title="Words with Grandma - Daily Word Game" href="https://wordswithgrandma.com/">Words with Grandma</a></li>
 	<li><a title="My 90’s TV!" href="https://90s.myretrotvs.com/">My 90’s TV!</a></li>
 	<li><a title="NYC Tree Map" href="https://tree-map.nycgovparks.org/">NYC Tree Map</a></li>
 	<li><a title="wordways" href="https://wordways.us/">wordways</a></li>
