@@ -14,7 +14,7 @@ categories:
   - explore
 ---
 <ul class="links">
-	<li><a title="text-mode.org" href="https://text-mode.org/?page_id=510">random | text-mode.org</a> <a href="https://pinboard.in/u:">📌</a><br>“Text graphics: ASCII, PETSCII and its distant relatives.”</li>
+	<li><a title="text-mode.org" href="https://text-mode.org/?page_id=510">random | text-mode.org</a> <a href="https://pinboard.in/u:arnicas">📌</a><br>“Text graphics: ASCII, PETSCII and its distant relatives.”</li>
 	<li><a title="Maggie Appleton" href="https://maggieappleton.com/ambient-copresence">Ambient Co-presence</a> <a href="https://pinboard.in/u:cogdog">📌</a><br>“Creating a subtle, peripheral, and synchronous sense of shared space and context on the web”</li>
 	<li><a title="A Website Is A Room" href="https://a-website-is-a-room.net/">A Website Is A Room</a>  <a title="source" href="https://dwt-archives.joejenett.com/06-09-21/"><span style="color:blue;">&#8678;</span></a><br>“...I realized that certain websites give me a sense of shelter and rest more than others.” </li>
 </ul>
