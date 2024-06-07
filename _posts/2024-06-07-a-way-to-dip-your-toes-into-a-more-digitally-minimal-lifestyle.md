@@ -13,6 +13,6 @@ categories:
   - alternatives
   - iOS
 ---
-<a title="Turn your iPhone into a dumb phone · Dumbph" href="https://dumbph.com/turn-iphone-into-dumb-phone/#minimal-homescreen-launcher">Turn your iPhone into a dumb phone</a><br>[<a title="hbroadbent" href="https://news.ycombinator.com/user?id=hbroadbent">hbroadbent</a>]
+<a title="Turn your iPhone into a dumb phone · Dumbph" href="https://dumbph.com/turn-iphone-into-dumb-phone/">Turn your iPhone into a dumb phone</a><br>[<a title="hbroadbent" href="https://news.ycombinator.com/user?id=hbroadbent">hbroadbent</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
