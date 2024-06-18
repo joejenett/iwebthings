@@ -14,4 +14,6 @@ categories:
 <iframe src="https://f-brain.glitch.me/embed"
   style="border: none; width: 100%; height: 200px; overflow: hidden"
   frameborder="0"></iframe>
-  <a href="https://brid.gy/publish/mastodon"></a>
+(thanks <a title="FakeBrain | Clickbait for everyone!" href="https://f-brain.glitch.me/">FakeBrain</a>)
+
+<a href="https://brid.gy/publish/mastodon"></a>
