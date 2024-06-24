@@ -15,6 +15,8 @@ categories:
 <a title="GitHub - hackerb9/lsix" href="https://github.com/hackerb9/lsix">lsix</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
 <blockquote><p>Shows thumbnails in terminal using <a href="https://en.wikipedia.org/wiki/Sixel" rel="nofollow">sixel</a>
 graphics.</p></blockquote>
-Not all terminals are compatible - a list of compatible terminals is provided. Works great in iTerm2 on my mac.
+“<a title="Please note..." href="https://github.com/hackerb9/lsix?tab=readme-ov-file#your-terminal-must-support-sixel-graphics">Your Terminal must support Sixel graphics.</a>” 
+
+A  list of compatible terminals is provided. Works great in iTerm2 on my mac.
 
 <a href="https://brid.gy/publish/mastodon"></a>
