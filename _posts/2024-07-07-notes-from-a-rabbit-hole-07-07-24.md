@@ -14,7 +14,7 @@ categories:
 ---
 Sorry to report that the cli software I linked to originally in this post appears to be broken. For me, anyway.
 
-One thing I’ve learned is when one jumps into a rabbit hole, they need to know when to jump back out. After spending several hours simply trying to get the software to work, I decided to do just that. I’ve left that rabbit hole.
+One thing I’ve learned is when one jumps into a rabbit hole, they need to know when to jump back out. After spending several hours simply trying to get the software to work, I decided to do just that.
 
 In case I’m right about there being something wrong with the software, I’ve decided to remove the link. So it goes. Oh well.
 
