@@ -18,6 +18,6 @@ One thing I’ve learned is when one jumps into a rabbit hole, they need to know
 
 In case I’m right about there being something wrong with the software, I’ve decided to remove the link. So it goes. Oh well.
 
-For now, I just say I’ve using <a title="DB Browser for SQLite" href="https://sqlitebrowser.org/">DB Browser for SQLite</a> for years and like it. It’s an installed app with a graphical user interface and it works great. So much for having something similar to use in the terminal. One less rabbit hole to deal with, thank you very much.
+For now, I’ll just say I’ve using <a title="DB Browser for SQLite" href="https://sqlitebrowser.org/">DB Browser for SQLite</a> for years and like it. It’s an installed app with a graphical user interface and it works great. So much for having something similar to use in the terminal. One less rabbit hole to deal with, thank you very much.
 
 <a href="https://brid.gy/publish/mastodon"></a>
