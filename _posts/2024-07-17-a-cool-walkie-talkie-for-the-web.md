@@ -28,7 +28,9 @@ I set up a channel at <a title="Overtalk / iwebthings" href="https://overtalk.io
 
 Needless to say, this cool idea inspired me to tinker a bit with the idea of embedding the channel here at the <em>hub</em>.  
 
-Though it worked fine in later versions of Firefox, Safari, and Vivaldi, my idea for adding the embedded channel didn’t work in some other browsers, such as the older version of Waterfox I use (because it still has certain useful features that Firefox did away with). So. I tried a new approach - see the button at the top of the sidebar (it’s experimental for now).
+Though it worked fine in later versions of Firefox, Safari, and Vivaldi, my idea for adding the embedded channel didn’t work in some other browsers, such as the older version of Waterfox I use (because it still has certain useful features that Firefox did away with). 
+
+So. I tried a new approach - see the button at the top of the sidebar (it’s experimental for now). Whether you try the embedded version or the original channel (linked below), you need to allow microphone access to use it.
 
 <a href="https://overtalk.io/iwebthings">Say hi</a> if ya like. 😎
 
