@@ -30,7 +30,7 @@ Needless to say, this cool idea inspired me to tinker a bit with the idea of emb
 
 Though it worked fine in later versions of Firefox, Safari, and Vivaldi, my idea for adding the embedded channel didn’t work in some other browsers, such as the older version of Waterfox I use (because it still has certain useful features that Firefox did away with). 
 
-So. I tried a new approach - see the button at the top of the sidebar (it’s experimental for now). Whether you try the embedded version or the original channel (linked below), you need to allow microphone access to use it.
+So. I tried a new approach - see the button at the top of the sidebar (or down there on the sidebar if you’re viewing the site on your phone). This new approach is experimental for now. Whether you try the embedded version or the original channel (linked below), you need to allow microphone access to use it.
 
 <a href="https://overtalk.io/iwebthings">Say hi</a> if ya like. 😎
 
