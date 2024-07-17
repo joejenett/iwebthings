@@ -34,6 +34,6 @@ So. I tried a new approach - see the button at the top of the sidebar (it’s ex
 
 <a href="https://overtalk.io/iwebthings">Say hi</a> if ya like. 😎
 
-<p class="note">Note: Updated 07/17/24, 8:20 AM)</p>
+<p class="note">Note: Updated 07/17/24, 8:20 AM</p>
 <a href="https://brid.gy/publish/mastodon"></a>
 <a href="https://brid.gy/publish/mastodon"></a>
