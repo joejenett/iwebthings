@@ -6,26 +6,8 @@ layout: default
 {%- if page.title -%}
 <h1 class="page-heading">{{ page.title }}</h1>
 {%- endif -%}
+	-->
 
- <style>
-     :popover-open {
-        width: 300px;
-        height: 300px;
-        position: absolute;
-        inset: unset;
-        bottom:100px;
-        right: 100px;
-        margin: 0;
-      }
-    </style>
-	
-<div style="position:relative;float:right;font-size:.9em;max-width:260px;margin: 12px 0 0 0;">
-	<button popovertarget="my-popover">toggle the audio channel</button>	
-	<div popover id="my-popover">
-	<iframe src="https://overtalk.io/iwebthings" allow=" microphone;" seamless width="300" height="300"></iframe>
-	</div>
-</div>
--->
 <iframe src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;margin-top:18px;"></iframe>
 	
 <div style="margin-top:36px;">
@@ -130,3 +112,12 @@ $('#result').html(output);
 -->
 </div>
 </div>
+
+<!--
+	<div style="position:relative;float:right;font-size:.9em;max-width:260px;margin: 12px 0 0 0;">
+	<button popovertarget="my-popover">toggle the audio channel</button>	
+	<div popover id="my-popover">
+	<iframe src="https://overtalk.io/iwebthings" allow=" microphone;" seamless width="300" height="300"></iframe>
+	</div>
+</div>
+-->

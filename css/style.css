@@ -310,7 +310,7 @@ div#archives div.archive-group article.archive-item li {
 #page {
 	min-width: 1000px;
 }
-.welcome {
+.welcome, #toggler, #my-channel {
 	padding:0 18px 4px 18px;
 	border: 1px solid #a3b8cc;
 	border-radius:8px;

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " a cool ‘walkie-talkie for the web’"
-date: 2024-07-16 18:49:07 -0400
+date: 2024-07-17 06:19:19 -0400
 author: joe jenett
 category: 
 permalink: /a-cool-walkie-talkie-for-the-web/
@@ -28,8 +28,10 @@ I set up a channel at <a title="Overtalk / iwebthings" href="https://overtalk.io
 
 Needless to say, this cool idea inspired me to tinker a bit with the idea of embedding the channel here at the <em>hub</em>.  
 
-Though it worked fine in later versions of Firefox, Safari, and Vivaldi, my idea for adding the embedded channel didn’t work in some other browsers, such as the older version of Waterfox I use (because it still has certain useful features that Firefox did away with). So. No embedded version for now.
+Though it worked fine in later versions of Firefox, Safari, and Vivaldi, my idea for adding the embedded channel didn’t work in some other browsers, such as the older version of Waterfox I use (because it still has certain useful features that Firefox did away with). So. I tried a new approach - see the button at the top of the sidebar (it’s experimental for now).
 
 <a href="https://overtalk.io/iwebthings">Say hi</a> if ya like. 😎
+
+<p class="note">Note: Updated 07/17/24, 8:20 AM)</p>
 <a href="https://brid.gy/publish/mastodon"></a>
 <a href="https://brid.gy/publish/mastodon"></a>

@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}" prefix="og: https://ogp.me/ns#">
-
+<style>
+#my-channel {
+	display:none;
+}
+</style>
 {%- include head.html -%}
 
 <body id="top">
@@ -22,9 +26,14 @@
 
 			<div class="twof">
 				<div class="thesidebar">
+					<div id="toggler" style="height:30px;padding-top:6px;">
+					<button onclick="gotalk()">toggle audio chat</button>
+					</div>
+					<div id="my-channel" style="text-align:center;padding:12px 0 6px 0;">
+						<iframe src="https://overtalk.io/iwebthings" allow=" microphone;" seamless width="300" height="300"></iframe>
+					</div>
 					<div class="welcome" style="padding-bottom:6px;">
 						<div class="p-spot">
-						
 						</div>
 						<span style="float:right;margin-left:6px;margin-top:-6px;">
 							<a title="iwebthings at pinboard" href="https://pinboard.in/u:iwebthings/"><img src="/images/pinboard.png" alt="iwebthings at pinboard" style="max-width:18px;"></a>
@@ -67,7 +76,7 @@
 						</div>
 					</div>
 					<div class="welcome" style="text-align:center;padding-top:4px;margin-bottom:12px;">
-						<a title="i.webthings, an independent and noncommercial web initiative" href="https://iwebthings.joejenett.com/"><img src="/images/iwt-button.png" alt="" width="88" style="margin:2px;"></a><a title="it’s personal. and micro. — simply." href="https://simply.joejenett.com/"><img src="/images/simply-button.png" alt="" width="88" style="margin:2px;"></a><a title="an eclectic selection of sites to explore, curated by a fellow human" href="https://directory.joejenett.com/"><img src="/images/iwd.png" alt="" width="88" style="margin:2px;"></a><br><a title="a pile of tasty miscellany" href="https://wiki.joejenett.com/"><img src="/images/jenett-wiki.png" alt="" width="88" style="margin:2px;"></a><a title="a new take" href="https://bulltown.joejenett.com/"><img src="/images/b22button.png" alt="" width="88" style="margin:2px;"></a><a title="joe’s little digital garden" href="https://ideas.joejenett.com/"><img src="/images/ji.png" alt="" width="88" style="margin:2px;"></a><br><a title="a combined collection of posts from the dailywebthing linkport and dailywebthing daily pointers, spanning several decades" href="https://dwt-archives.joejenett.com/"><img src="/images/dwt-archives.png" alt="" width="88" style="margin:2px;"></a><a title="This is where my web lives." href="https://joejenett.com/"><img src="/images/aka.png" alt="" width="88" style="margin:2px;"></a><a title="joe’s new brainstormer" href="https://brainstormer.joejenett.com/"><img src="/images/joe.brainstormer.png" alt="" width="88" style="margin:2px;"></a>
+						<a title="i.webthings, an independent and noncommercial web initiative" href="https://iwebthings.joejenett.com/"><img src="/images/iwt-button.png" alt="" width="88" style="margin:2px;"></a><a title="it’s personal. and micro. — simply." href="https://simply.joejenett.com/"><img src="/images/simply-button.png" alt="" width="88" style="margin:2px;"></a><a title="an eclectic selection of sites to explore, curated by a fellow human" href="https://directory.joejenett.com/"><img src="/images/iwd.png" alt="" width="88" style="margin:2px;"></a><br><a title="a pile of tasty miscellany" href="https://wiki.joejenett.com/"><img src="/images/jenett-wiki.png" alt="" width="88" style="margin:2px;"></a><a title="a new take" href="https://bulltown.2022.joejenett.com/"><img src="/images/b22button.png" alt="" width="88" style="margin:2px;"></a><a title="joe’s little digital garden" href="https://ideas.joejenett.com/"><img src="/images/ji.png" alt="" width="88" style="margin:2px;"></a><br><a title="a combined collection of posts from the dailywebthing linkport and dailywebthing daily pointers, spanning several decades" href="https://dwt-archives.joejenett.com/"><img src="/images/dwt-archives.png" alt="" width="88" style="margin:2px;"></a><a title="This is where my web lives." href="https://joejenett.com/"><img src="/images/aka.png" alt="" width="88" style="margin:2px;"></a><a title="joe’s new brainstormer" href="https://brainstormer.joejenett.com/"><img src="/images/joe.brainstormer.png" alt="" width="88" style="margin:2px;"></a>
 						
 						
 					</div>
@@ -102,7 +111,7 @@
 								</ul>
 								<ul class="aka-sep-right">	
 									<li><a title="an eclectic selection of sites to explore, curated by a fellow human" href="https://directory.joejenett.com/">i.webthings directory</a></li>
-									<li><a title="a new take" href="https://bulltown.joejenett.com/">bulltown.<small>2022</small></a></li>
+									<li><a title="a new take" href="https://bulltown.2022.joejenett.com/">bulltown.<small>2022</small></a></li>
 									<li><a title="joe’s little digital garden" href="https://ideas.joejenett.com/">🌱 𝚓𝚘𝚎. 𝚒𝚍𝚎𝚊𝚜.</a></li>
 								</ul>
 							</div>
@@ -166,6 +175,16 @@
 			fuzzy: false,
 			exclude: ['Welcome']
 		})
+	</script>
+	<script>
+		function gotalk() {
+  var x = document.getElementById("my-channel");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+} 
 	</script>
 </body>
 </html>
