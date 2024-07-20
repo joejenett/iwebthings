@@ -36,5 +36,6 @@ Please pardon our dust as I continue to work out some details regarding placemen
 
 <a href="https://overtalk.io/iwebthings">Say hi</a> if ya like. 😎
 
-<p class="note">Note: Updated 07/17/24, 8:20 AM<br><span class="note">Note: Updated 07/20/24, 8:20 AM</span></p>
-<a href="https://brid.gy/publish/mastodon"></a><a href="https://brid.gy/publish/mastodon"></a>
+<span class="note">Note: Updated 07/17/24, 8:20 AM</span><br><span class="note">Note: Updated 07/20/24, 8:01 AM</span>
+<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"></a>
