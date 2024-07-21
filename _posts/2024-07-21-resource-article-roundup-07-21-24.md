@@ -8,6 +8,9 @@ permalink: /resource-article-roundup-07-21-24/
 slug: resource-article-roundup-07-21-24
 summary: Sunday morning resources
 comments: true
+categories:
+  - resources
+  - lists
 ---
 <ul class="links">
 	<li><a title="Alicia Sykes's Blog" href="https://www.aliciasykes.com/blog/cli-tools-you-cant-live-without-">CLI tools you can't live without 🔧</a>  <a title="source" href="https://www.aliciasykes.com/blog/one-line-web-server-"> <span style="color:blue;">&#8678;</span></a> <a href="https://pinboard.in/u:fileformat">📌</a><blockquote><p>As developers, we spend a lot of our time in the terminal. There's a lot of helpful CLI tools, which can make your life in the command line easier, faster and generally more fun...</p></blockquote></li>
