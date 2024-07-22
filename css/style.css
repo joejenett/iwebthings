@@ -53,6 +53,11 @@ ul.select li {
 	float:right;
 	margin:24px;
 }
+.status {
+	position:relative;
+	float:right;
+	margin:0;
+}
 .p-spot {
 	margin-bottom:18px;
 }
