@@ -11,7 +11,7 @@ comments: true
 categories:
   - i-webthings
 ---
-Just a quick note. If the site looks a little odd, please empty your cache. Some of my recent changes may require that, depending on which browser you’re using.
+Just a quick note. If the homepage looks a little odd, please empty your cache. Some of my recent changes may require that, depending on which browser you’re using.
 
 Thanks for stopping by.
 
