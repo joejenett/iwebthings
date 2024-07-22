@@ -57,6 +57,12 @@ ul.select li {
 	position:relative;
 	float:right;
 	margin:0;
+	border:none;
+}
+#statusframe {
+	max-width: 140px; 
+	/*transform:scale(0.75);*/
+	border:none;
 }
 .p-spot {
 	margin-bottom:18px;
