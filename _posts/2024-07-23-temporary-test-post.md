@@ -14,7 +14,7 @@ categories:
 This is a temporary post which will be deleted shortly.
 
 <p>
-<a `class="u-in-reply-to" title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮" href="https://bulltown.joejenett.com/071424/">𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | new and improved</a>
+<a class="u-in-reply-to" title="𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮" href="https://bulltown.joejenett.com/071424/">𝗯𝘂𝗹𝗹𝘁𝗼𝘄𝗻.𝟮𝟬𝟮𝟮 | new and improved</a>
 </p>
 
 <a href="https://brid.gy/publish/mastodon"></a>
