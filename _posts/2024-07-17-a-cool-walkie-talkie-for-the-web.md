@@ -13,7 +13,9 @@ categories:
   - p2p
 ---
 <script>
-if (document.referrer=="") {document.write('<div id=\"backer\" style\="margin-bottom:12px;]\"><a href=\"/\">&lt;-- back</a></div>
+if (document.referrer=="") {
+	document.write('<div id=\"backer\" style\="margin-bottom:12px;]\"><a href=\"/\">&lt;-- back</a></div>
+}
 </script>
 So cool! I’m excited to share this puppy.
 
