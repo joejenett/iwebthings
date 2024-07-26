@@ -13,12 +13,13 @@ categories:
   - p2p
 ---
 
-Update 07/25/24: TL:DR 
-<p>
+<p style="border:1px solid #ddd;">
+	Update 07/25/24: TL:DR<br>
 	After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as this page remains open in your browser. 😎
 </p>
+<p>
 So cool! I’m excited to share this puppy.
-
+</p>
 <a title="Overtalk / A free walkie-talkie for the web." href="https://overtalk.io/">Overtalk</a>, made by a <em>web enthusiast</em> named <a title="Vasanth.V" href="https://vasanthv.github.io/">Vasanth</a>...
 
 <blockquote>
