@@ -12,7 +12,9 @@ categories:
   - ideas
   - p2p
 ---
-<div id="backer"><a href="/">&lt;-- back</a></div>
+<script>
+if (document.referrer=="") {document.write('<div id=\"backer\" style\="margin-bottom:12px;]\"><a href=\"/\">&lt;-- back</a></div>
+</script>
 So cool! I’m excited to share this puppy.
 
 <a title="Overtalk / A free walkie-talkie for the web." href="https://overtalk.io/">Overtalk</a>, made by a <em>web enthusiast</em> named <a title="Vasanth.V" href="https://vasanthv.github.io/">Vasanth</a>...
