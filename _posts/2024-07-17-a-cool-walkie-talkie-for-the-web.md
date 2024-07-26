@@ -13,7 +13,7 @@ categories:
   - p2p
 ---
 <script>
-if (document.referrer=="") {
+if (document.referrer == "https://iwebthings.joejenett.com/") {
 	document.write('<div id=\"backer\" style\="margin-bottom:12px;]\"><a href=\"/\">&lt;-- back</a></div>
 }
 </script>
