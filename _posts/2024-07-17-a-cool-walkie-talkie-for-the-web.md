@@ -12,7 +12,7 @@ categories:
   - ideas
   - p2p
 ---
-<p><a href="javascript:history.go(-2)">&lt;-- back</a></p>
+<div id="backer"><a href="/">&lt;-- back</a></div>
 So cool! I’m excited to share this puppy.
 
 <a title="Overtalk / A free walkie-talkie for the web." href="https://overtalk.io/">Overtalk</a>, made by a <em>web enthusiast</em> named <a title="Vasanth.V" href="https://vasanthv.github.io/">Vasanth</a>...
