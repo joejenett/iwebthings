@@ -45,7 +45,7 @@ After playing with the cute little Neko a bit, I remember something my buddy <a 
 A home for everyone's blog and post rolls.
 </p>
 </blockquote>
-<p>The URL, <em>blogroll.club</em> reminded me of <a title="Hi Ray!)" href="https://blogroll.org/"><em>blogroll.org</em></a> - both sites are fine starting points for a little web exploring, imo.
+<p>The domain, <em>blogroll.club</em> reminded me of <a title="Hi Ray!)" href="https://blogroll.org/"><em>blogroll.org</em></a> - both sites are fine starting points for a little web exploring, imo.
 </p>
 <p>
 At blogroll.club, I discovered <a title="Hey friends! — httpster.io" href="https://httpster.io/">httpster.io</a> (which oddly enough, reminded me of <a title="Website Design Inspiration | Httpster" href="https://httpster.net/"><em>httpster.net</em></a>, but I digress).  One of Sami’s recent posts caught my attention:
