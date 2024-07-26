@@ -13,11 +13,15 @@ categories:
   - p2p
 ---
 
-<p style="border:1px solid #ddd;padding:6px;">
-	Update 07/25/24: TL:DR<br>
-	After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as the homepage remains open in your browser. 😎 <br>
-	[<a href="/">home</a>]
+<div style="border:1px solid #ddd;padding:6px;">
+	<p>
+		Update 07/25/24: TL:DR<br>
+	After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as the homepage remains open in your browser. 😎
 </p>
+<p>
+	(<a href="#" onclick="history.go(-1)">back</a>)
+</p>
+</div>
 <p>
 So cool! I’m excited to share this puppy.
 </p>
