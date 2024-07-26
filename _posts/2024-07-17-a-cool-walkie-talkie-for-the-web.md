@@ -13,7 +13,7 @@ categories:
   - p2p
 ---
 
-<div style="border:1px solid #ddd;padding:6px;">
+<div style="border: 1px solid #a3b8cc;border-radius:8px;padding:6px;">
 	<p>
 		Update 07/25/24: TL:DR - After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as the homepage remains open in your browser. 😎
 </p>
