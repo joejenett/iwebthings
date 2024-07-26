@@ -536,6 +536,9 @@ div.hcard-display {
 	.nomobile {
 		display:none;
 	}
+	#backer {
+		display:none;
+	}
 	#tabletop {
 		font-size:.9em;
 		padding:6px 3px 14px 3px;
