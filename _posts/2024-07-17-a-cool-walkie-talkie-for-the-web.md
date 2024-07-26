@@ -15,11 +15,10 @@ categories:
 
 <div style="border:1px solid #ddd;padding:6px;">
 	<p>
-		Update 07/25/24: TL:DR<br>
-	After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as the homepage remains open in your browser. 😎
+		Update 07/25/24: TL:DR - After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as the homepage remains open in your browser. 😎
 </p>
 <p>
-	(<a href="#" onclick="history.go(-1)">back</a>)
+	(<a href="#" onclick="history.back()">back</a>)
 </p>
 </div>
 <p>
