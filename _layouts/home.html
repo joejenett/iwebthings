@@ -1,6 +1,7 @@
 ---
 layout: default-sp
 ---
+
 <div class="home h-feed">
 <!--
 {%- if page.title -%}
@@ -8,7 +9,7 @@ layout: default-sp
 {%- endif -%}
 	-->
 	<div id="toggler" style="height:30px;padding: 3px 10px 6px 0;border-bottom:1px solid #ddd;">
-		<button title="toggle the walkie-talkie" onclick="gotalk()" style="border-radius:4px;box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;background-color:#fff;padding:1px;"><img src="/images/walkietalkie-r.png" alt=""></button>  <span style="font-size:.7em;margin-top:-4px;line-height:1.3em;"> &nbsp;&larr; click 2x to start - <span style=""><a href="https://iwebthings.joejenett.com/a-cool-walkie-talkie-for-the-web/">info</a> | <a href="https://overtalk.io/privacy">privacy</a></span></span>
+		<button title="toggle the walkie-talkie" onclick="gotalk()" style="border-radius:4px;box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;background-color:#fff;padding:1px;"><img src="/images/walkietalkie-r.png" alt=""></button>  <span style="font-size:.7em;margin-top:-4px;line-height:1.3em;"> &nbsp;&larr; click 2x to start - <span style=""><!-- <a href="https://iwebthings.joejenett.com/a-cool-walkie-talkie-for-the-web/">info</a> --><a href="/a-cool-walkie-talkie-for-the-web/" onclick="explain()"><span aria-label="After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as this page remains open in your browser. 😎" data-microtip-position="bottom-right" data-microtip-size="large" role="tooltip">info</span></a> | <a href="https://overtalk.io/privacy">privacy</a></span></span>
 	</div>
 	<div id="my-channel" style="text-align:center;padding:12px 0 6px 0;">
 		<iframe src="https://overtalk.io/iwebthings" allow=" microphone;" seamless width="300" height="300"></iframe>
@@ -90,7 +91,11 @@ layout: default-sp
 {%- endfor -%}
 </div>
 <p style="margin:0 0 18px 0;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
-
+<script>
+	function explain() {
+		document.write('After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as this page remains open in your browser. 😎<p><a href=\"javascript:history.go(-1)\">back</a></p>')
+	}
+</script>
 <!--
 <script type="text/javascript">
 $().ready(function(){
