@@ -15,7 +15,7 @@ categories:
 
 <p style="border:1px solid #ddd;padding:6px;">
 	Update 07/25/24: TL:DR<br>
-	After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as this page remains open in your browser. 😎 <br>
+	After starting the walkie-talkie and joining (which includes allowing microphone access), anyone shown as ‘online’ will hear you when you speak (press and hold the ‘talk’ button). You’ll be shown as ‘online’ as long as the homepage remains open in your browser. 😎 <br>
 	[<a href="/">home</a>]
 </p>
 <p>
