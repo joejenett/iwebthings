@@ -19,8 +19,6 @@ categories:
     Live comparison of how to get current viewport size and device dimensions in JavaScript and jQuery.
   * [Inferno](https://infernojs.org/ "Inferno")  
     An extremely fast React-like JavaScript library for building modern user interfaces.
-  * [Progressive Web Apps: The definitive collection of resources](https://dev.opera.com/articles/pwa-resources/ "Progressive Web Apps: The definitive collection of resources")  
-    Want to get started with progressive web apps, but not sure where to start?
   * [Photon](http://photonkit.com/ "Photon")  
     The fastest way to build beautiful Electron apps using simple HTML and CSS
   * [styled-components](https://styled-components.com/ "styled-components")  
