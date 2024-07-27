@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  Obsidian Release v1.0
-date:   2022-10-14 16:55:32 -0400
+title: Obsidian Release v1.0
+date: 2022-10-14 16:55:32 -0400
 author: joe jenett
 category:
-  -  tools
-permalink:  /obsidian-release-v1.0/
+  - tools
+  - obsidian
+permalink: /obsidian-release-v1.0/
 slug: obsidian-release-v1.0
-summary:
-comments: 
+summary: 
+comments:
 ---
 <p>For the record, I like the new look and feel of <a title="Obsidian 1.0" href="https://obsidian.md/1.0">Obsidian 1.0</a>. 
 </p>
