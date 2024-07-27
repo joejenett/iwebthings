@@ -18,6 +18,6 @@ categories:
 A frictionless peer-to-peer audio chat app for the web that can be embedded in any web page.
 </p>
 </blockquote>
-07/27/24: The experiment has reached its conclusion.
+<small>07/27/24: The experiment has reached its conclusion.</small>
 <a href="https://brid.gy/publish/mastodon"></a>
 <a href="https://brid.gy/publish/mastodon"></a>
