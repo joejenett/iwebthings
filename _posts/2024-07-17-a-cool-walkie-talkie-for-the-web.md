@@ -18,6 +18,6 @@ categories:
 A frictionless peer-to-peer audio chat app for the web that can be embedded in any web page.
 </p>
 </blockquote>
-<small>07/27/24: The experiment has reached its conclusion.</small>
+<small>07/27/24: My experiment with embedding Overtalk has ended. It works well, imo.</small>
 <a href="https://brid.gy/publish/mastodon"></a>
 <a href="https://brid.gy/publish/mastodon"></a>
