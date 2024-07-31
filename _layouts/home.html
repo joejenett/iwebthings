@@ -86,28 +86,7 @@ layout: default
 <p style="margin:0 0 18px 0;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
 
 <!--
-<script type="text/javascript">
-$().ready(function(){
-$.getJSON( "https://webmention.io/api/mentions?token=LwcEKlppPl7YfzUjG6LWDQ",
-function( mydata ) {
-console.log(mydata);
-var output = '';
-$.each(mydata.links, function(i, v) {
-if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Mentions: ';
-}
-});
-$.each(mydata.links, function(i, v) {
-if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
-output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
-}
-});
-output += '<div>';
-$('#result').html(output);
-});	
-});
-</script>
-<div id="result"></div>
+
 -->
 </div>
 </div>
