@@ -171,12 +171,12 @@
 					console.log(mydata);
 					var output = '';
 					$.each(mydata.links, function(i, v) {
-					if (v.target.search('https://iwebthings.joejenett.com/') == 1) {
+					if (v.target.search (match("https://iwebthings.joejenett.com/")) != -1) {
 					output = '<div style="border-top:1px solid #ddd;margin-bottom:24px;">Homepage Mentions: ';
 					}
 					});
 					$.each(mydata.links, function(i, v) {
-					if (v.target.search('https://iwebthings.joejenett.com/') == 1) {
+					if (v.target.search(match("https://iwebthings.joejenett.com/")) != -1){
 					output += '<a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /></a> ';
 					}
 					});
