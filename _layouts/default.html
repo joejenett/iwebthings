@@ -165,7 +165,7 @@
 						-->
 					<p><a href="#top">back to top</a></p>
 					
-						<!--
+<!--						
 					<script>
 	$().ready(function(){
 		$.getJSON( "https://webmention.io/api/mentions?token=5y4LXGZUBH1H527DJ-1f9g",
@@ -173,7 +173,7 @@
 			console.log(mydata);
 			var output = '';
 			$.each(mydata.links, function(i, v) {
-				if (v.target.search === "https://iwebthings.joejenett.com/") {
+				if (v.target.search(new RegExp(/{{ page.url }}/i)) != -1) {
 				output = 'Reactions: <br />';
 			}
 			});
@@ -189,7 +189,6 @@
 </script>
 <div id="result0"></div>
 -->
-
 				</div>
 			</div>
 		</div>
