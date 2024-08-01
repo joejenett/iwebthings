@@ -12,7 +12,7 @@ categories:
   - linkylove
 ---
 <p style="margin-bottom:36px;">
-<a title="it started at the button wall" href="https://bulltown.2022.joejenett.com/links/"><img src="/images/b22surf.png" alt=""></a>
+<a title="it started at the button wall" href="https://bulltown.joejenett.com/links/"><img src="/images/b22surf.png" alt=""></a>
 </p>
 <ul class="linkylove">
 <li><a title="Frills’s internet emporium" href="https://frills.dev/"><img src="/images/frills.png" alt="Frills’s internet emporium" width="88" height="31"><br>Frills’s internet emporium</a> &rarr;</li>

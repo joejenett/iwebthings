@@ -48,7 +48,7 @@ comments: true
 				bulltown.2022
 			</div>
 			<div class="cell">
-				<a href="https://bulltown.2022.joejenett.com/">https://bulltown.2022.joejenett.com/</a>
+				<a href="https://bulltown.joejenett.com/">https://bulltown.joejenett.com/</a>
 			</div>
 		</div>
 		<div class="record">

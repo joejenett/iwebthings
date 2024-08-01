@@ -37,7 +37,7 @@ The following active sites reside on the soon-to-be moved server and are expecte
 <ul>
 <li>i.webthings directory (<a href="https://directory.joejenett.com/">https://directory.joejenett.com/</a>)</li>
 <li>jenett.wiki (<a href="https://wiki.joejenett.com/">https://wiki.joejenett.com/</a>)</li>
-<li>bulltown 2022 (<a href="https://bulltown.2022.joejenett.com/">https://bulltown.2022.joejenett.com/</a>)</li>
+<li>bulltown 2022 (<a href="https://bulltown.joejenett.com/">https://bulltown.joejenett.com/</a>)</li>
 <li>dailywebthing archives (<a href="https://dwt-archives.joejenett.com/">https://dwt-archives.joejenett.com/</a>)</li>
 <li>a.k.a. joe jenett (<a href="https://joejenett.com/">https://joejenett.com/</a>)</li>
 </ul>

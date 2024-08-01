@@ -16,5 +16,5 @@ comments: true
 	<li><a title="erin" href="https://gensoukai.net/">if i stumble, they're gonna eat me alive</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="Aelyn" href="https://aelysia.net/"><small>A E L Y S I A   ❰ d o t ❱   N E T</small></a><br>&#8618; <a title="cloudplane collective directory" href="https://dir.aelysia.net/"><small>❰  C L O U D P L A N E  ❱</small>  ◦  Collective Directory</a></li>
 </ul>
-<p><a href="https://bulltown.2022.joejenett.com/#buttons"><img src="https://iwebthings.joejenett.com/images/b22.jpg" alt="" width="36"></a></p>
+<p><a href="https://bulltown.joejenett.com/links"><img src="/images/b22.jpg" alt="" width="36"></a></p>
 <a href="https://brid.gy/publish/mastodon"></a>
