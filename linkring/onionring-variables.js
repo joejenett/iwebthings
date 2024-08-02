@@ -14,7 +14,7 @@ var sites = [
 'https://bulltown.joejenett.com/',
 'https://joejenett.com/',
 'https://wiki.joejenett.com/',
-'https://ideas.joejenett.com/
+'https://ideas.joejenett.com/'
 ];
 
 //the name of the ring
