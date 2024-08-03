@@ -13,7 +13,7 @@ categories:
   - ai
   - fun
 ---
-I gotta be honest. I’m hesitant to share AI-related links. What with all the hype and controversy about artists’ rights and aggressive robots! Then I bump into something <a title="rateloaf.com" href="https://rateloaf.com/">Rate my Loaf</a> which allows you to “rate how well your cat sits like bread.” As it turns out, I learn that one of my long lost feline friends resembles an almost perfect French loaf! Who knew!
+I gotta be honest. I’m hesitant to share AI-related links. What with all the hype and controversy about artists’ rights and aggressive robots! Then I bump into  <a title="rateloaf.com" href="https://rateloaf.com/">Rate my Loaf</a> which allows you to “rate how well your cat sits like bread.” As it turns out, I learn that one of my long lost feline friends resembles an almost perfect French loaf! Who knew!
 
 Here’s the kitty in question (because I know at least one of you who wants to see more pics like this on the web, wink wink nudge nudge):
 
