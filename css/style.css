@@ -75,16 +75,16 @@ div.hold-meta {
 .post-link, .post-title, li, p, .post-content, .e-content {
 	font-family: Helvetica, Arial, sans-serif;
 }
-a, div.post-list a, missing a {
+a, div.post-list a, #missing a {
 	color: #286c80;
 	text-decoration: none;
 	font-weight:600;
 }
-a:visited, div.post-list a:visited, missing a:visited {
+a:visited, div.post-list a:visited, #missing a:visited {
 	color: #286c80;
 
 }
-a:hover, div.post-list a:hover, missing a:hover {
+a:hover, div.post-list a:hover, #missing a:hover {
 	color: #222;
 	text-decoration: underline; 
 }
