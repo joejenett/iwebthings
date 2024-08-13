@@ -11,6 +11,7 @@ comments: true
 categories:
   - games
   - macOS
+  - fun
 ---
 <a title="Mowglii - Snk for Mac" href="https://www.mowglii.com/snk/">Snk for Mac</a> <small>(macOS 11+)</small><br>[<a title="source" href="https://pinboard.in/u:hazm8">hazm8</a>]
 
