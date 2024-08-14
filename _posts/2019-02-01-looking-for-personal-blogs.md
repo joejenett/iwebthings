@@ -26,9 +26,6 @@ categories:
       <a title="Hoarded Ordinaries" href="https://hoardedordinaries.wordpress.com/">Hoarded Ordinaries</a>
     </li>
     <li>
-      <a title="Granola Shotgun" href="https://granolashotgun.com/">Granola Shotgun</a>
-    </li>
-    <li>
       <a title="Easily Distracted" href="https://blogs.swarthmore.edu/burke/">Easily Distracted</a>
     </li>
     <li>
