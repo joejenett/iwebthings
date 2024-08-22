@@ -14,7 +14,7 @@ categories:
 ---
 <a title="Introduction to my Journals and Notebooks - Aywren's Nook | Gaming & Geek Blog" href="https://aywren.com/2024/08/07/introduction-to-my-journals-and-notebooks/">Aywren's Nook:<br>Introduction to my Journals and Notebooks</a>
 <p>
-<img src="/images/eguy.png" alt="" width="28" style="poistion:relative;float:right;">
+<img src="/images/eguy.png" alt="" width="28" style="position:relative;float:right;">
 👏💡📔
 </p>
 <a href="https://brid.gy/publish/mastodon"></a>
