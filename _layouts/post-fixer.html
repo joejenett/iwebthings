@@ -1,0 +1,135 @@
+---
+layout: default
+---
+<article style="margin-top:-11px;" class="post h-entry hentry" itemscope itemtype="http://schema.org/BlogPosting">
+<div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+<div style="width:50%;">
+{% if page.previous.url %}
+<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+{% endif %}
+</div>
+<div style="width:50%;text-align:right;">
+{% if page.next.url %}
+<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+{% endif %}
+</div>
+</div> 
+<header class="post-header">
+	<h1 class="post-title p-name entry-title" style="margin-top:18px;" itemprop="name headline">{{ page.title | escape }}
+	</h1>
+	<p class="post-meta">
+		<span class="h-card">
+			<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+				{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+				{{ page.date | date: date_format }}
+			</time></a>
+			{%- if page.author -%}• <span class="author p-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://iwebthings.joejenett.com/" rel="author"><img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="u-photo photo" width="24" height="24" style="vertical-align:middle" itemprop="image"></a>
+				<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
+			</span>
+
+			{%- endif -%}
+			<span class="post-categories">• posted in:
+				{% if post %}
+				{% assign categories = post.categories %}
+				{% else %}
+				{% assign categories = page.categories %}
+				{% endif %}
+				{% for category in categories %}
+				<a class="p-category" href="/categories/#{{category|slugize}}">{{category}}</a>
+				{% unless forloop.last %}&nbsp;{% endunless %}
+				{% endfor %}
+			</span>
+		</p>
+	</span>
+</header>
+<div class="post-content e-content" itemprop="articleBody">
+{{ content }}
+</div>
+<div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+  <div style="width:50%;">
+    {% if page.previous.url %}
+    <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+    {% endif %}
+  </div>
+  <div style="width:50%;text-align:right;">
+    {% if page.next.url %}
+    <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+    {% endif %}
+  </div>
+</div> 
+<script>
+	$().ready(function(){
+		$.getJSON( "https://webmention.io/api/mentions?token=5y4LXGZUBH1H527DJ-1f9g",
+		function( mydata ) {
+			console.log(mydata);
+			var output = '';
+			$.each(mydata.links, function(i, v) {
+				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+				output = 'Reactions: <br />';
+			}
+			});
+        		$.each(mydata.links, function(i, v) {
+        		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+               		output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /><br />' + v.data.author.name + '</a></p> ';
+               	}
+    	});
+    		output += ' ';
+    		$('#result2').html(output);
+		});	
+	});
+</script>
+<div id="result2"></div>
+<script>
+	$().ready(function(){
+		$.getJSON( "https://webmention.io/api/mentions?token=Hk9-dBDdNDqQh9UECT5hdg",
+		function( mydata ) {
+			console.log(mydata);
+			var output = '';
+			$.each(mydata.links, function(i, v) {
+				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+				output = 'Reactions: <br />';
+			}
+			});
+        		$.each(mydata.links, function(i, v) {
+        		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+               		output += '<p><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="" width="48" /><br />' + v.data.author.name + '</a></p> ';
+               	}
+    	});
+    		output += ' ';
+    		$('#result').html(output);
+		});	
+	});
+</script>
+<div id="result"></div>
+
+{%- if page.comments == true -%}
+<div id="comments-intro">
+<p style="margin-top:18px;"><span style="font-weight:600;">Comments:</span><br />Comments are moderated. You can post a comment (with your name if you like) without logging in. Log in with Matrix is optional.<br /><small>(Powered by <a href="https://cactus.chat/" title="">Cactus Comments</a>)</small>
+</p>
+<p>
+As always, you can also <a href="https://joejenett.com/contact/">contact me</a> with your comments or send webmentions. <p><span style="font-weight:500;">I appreciate your feedback.</span></p>
+</p> 
+</div>
+
+<div id="comment-section"></div>
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "iwebthings.joejenett.com",
+  commentSectionId: "{{ page.slug }}"
+})
+</script>
+<noscript>Please enable JavaScript to view comments.</noscript>
+{%- endif -%}
+
+{%- if page.comments != true -%}
+<p style="margin-top:12px;">Comments closed.</p>
+{%- endif -%}
+
+<p style="text-align:center;margin-top:24px;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
+
+<a class="u-url hidden" style="display:none;" href="{{ page.url | relative_url }}">u-url</a>
+
+</article>
