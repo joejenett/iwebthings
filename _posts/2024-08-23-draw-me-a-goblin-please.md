@@ -6,7 +6,7 @@ author: joe jenett
 category: 
 permalink: /draw-me-a-goblin-please/
 slug: draw-me-a-goblin-please
-summary: 
+summary: a minimal pixel drawing tool
 comments: true
 categories:
   - generators
