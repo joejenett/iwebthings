@@ -11,6 +11,7 @@ comments: true
 categories:
   - hub
   - linkylove
+  - select
 ---
 <ul class="linkylove">
 	<li><a title="John’s World Wide Wall Display" href="https://johnjohnston.info/blog/">John</a></li>
