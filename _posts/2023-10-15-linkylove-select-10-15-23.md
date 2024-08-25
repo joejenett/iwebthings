@@ -11,6 +11,7 @@ comments: true
 categories:
   - linkylove
   - curiosities
+  - select
 ---
 <p>a joe-centric selection of <em>curiosities</em>, gleaned from the <a href="https://directory.joejenett.com/">i.webthings directory</a>:</p>
 <ul class="linkylove">

@@ -21,7 +21,7 @@ categories:
 kind:
   - Article
 ---
-So, I&#8217;m reading an ad-ridden article on a major technology-related site connected to a major university featuring &#8220;the most interesting stories from other sites&#8221; this week. It leads me to an an-ridden article on a major news site, under which I find the following choice selection of _crap ads_:
+So, I&#8217;m reading an ad-ridden article on a major technology-related site connected to a major university featuring &#8220;the most interesting stories from other sites&#8221; this week. It leads me to an ad-ridden article on a major news site, under which I find the following choice selection of _crap ads_:
 
 <img style="border: none;" src="/images/incredible.jpg" alt="incredible" /> 
 
