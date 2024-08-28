@@ -10,6 +10,8 @@ summary: …I made you a button.
 comments: true
 categories:
   - i-webthings
+  - linkylove
+  - about
 ---
 ...I made you a button.
 
