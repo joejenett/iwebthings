@@ -12,7 +12,7 @@ comments:
 ---
 [David R. MacIver](https://notebook.drmaciver.com/) has posted 27 _thoughts_ this month, each one a well written glimpse into his life - well written stuff.
 
-[Amit Gawande](https://www.amitgawande.com/) started a [30Day challenge](https://www.amitgawande.com/categories/30day/) on January 7 - pictures taken on morning walks - nice!
+[Amit Gawande](https://www.amitgawande.com/) started a [30Day challenge](https://mb.amitgawande.com/categories/30day/) on January 7 - pictures taken on morning walks - nice!
 
 I enjoy futzing around in GarageBand and so does [Paul Bausch](https://www.onfocus.com/2022/01/8293/music-tiny-metal) - 3 _Tiny Metal_ pieces - _just enough metal before bed_™.
 
