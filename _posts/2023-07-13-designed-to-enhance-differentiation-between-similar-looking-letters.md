@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  ‘designed to enhance differentiation between similar-looking letters’
-date:   2023-07-13 06:41:15 -0400
+title: ‘designed to enhance differentiation between similar-looking letters’
+date: 2023-07-13 06:41:15 -0400
 author: joe jenett
 category:
-  -  dev
-  -  type
+  - dev
+  - type
+  - cli
 permalink: /designed-to-enhance-differentiation-between-similar-looking-letters/
 slug: designed-to-enhance-differentiation-between-similar-looking-letters
 summary: 
