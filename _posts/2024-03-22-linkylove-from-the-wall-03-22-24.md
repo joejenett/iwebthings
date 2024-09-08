@@ -12,7 +12,6 @@ comments: true
 <ul class="linkylove">
 	<li><a title="‘Xanthe Tynehorne’" href="https://satyrs.eu/">The Satyrs’ Forest 🍇</a></li>
 	<li><a title="mala" href="https://ophanimkei.com/">hello purveyors of heaven</a></li>
-	<li><a title="Q" href="https://mausoleum.me/">m a u s o l e u m . m e</a></li>
 	<li><a title="erin" href="https://gensoukai.net/">if i stumble, they're gonna eat me alive</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="Aelyn" href="https://aelysia.net/"><small>A E L Y S I A   ❰ d o t ❱   N E T</small></a><br>&#8618; <a title="cloudplane collective directory" href="https://dir.aelysia.net/"><small>❰  C L O U D P L A N E  ❱</small>  ◦  Collective Directory</a></li>
 </ul>
