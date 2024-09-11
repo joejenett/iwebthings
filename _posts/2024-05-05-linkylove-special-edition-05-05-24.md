@@ -15,7 +15,7 @@ categories:
 	Special thanks today to <a title="the museum of alexandra" href="https://xandra.cc/">alexandra’s</a> <a title="32-Bit Cafe" href="https://discourse.32bit.cafe/">32-Bit Cafe</a>, where I discovered all of ’em...
 </p>
 <ul class="linkylove">
-	<li><a title="★ Nickolox's Web Corner ★" href="https://nickolox.neocities.org/">★ Nickolox's Web Corner ★</a></li>
+	<li><a title="★ Nickolox's Web Corner ★" href="https://nickolox.com/">★ Nickolox's Web Corner ★</a></li>
 	<li><a title="The Mainframe Homepage" href="https://sinclair-speccy.github.io/The-Mainframe/">The Mainframe Homepage</a></li>
 	<li><a title="Coby Cat's Abode" href="https://cobycat.neocities.org/">Coby Cat's Abode</a></li>
 	<li><a title="Melvian’s Little Corner" href="https://melvian.xyz/">Melvian’s Little Corner</a></li>
