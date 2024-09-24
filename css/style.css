@@ -26,9 +26,11 @@ a.mastodon-share {
     padding: .5em;
     background: #bdeeff;
     color: #fff;
+	font-size:.9em;
+	line-height:1.1em;
     text-decoration: none;
     border-radius: 0.5em;
-    margin: 1em 0;
+    margin: .5em 0 1em 0;
 }
 a.mastodon-share:hover, a.mastodon-share:focus {
     background: #51d8ff;
