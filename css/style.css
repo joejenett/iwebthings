@@ -21,6 +21,27 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+a.mastodon-share {
+    display: inline-block;
+    padding: .5em;
+    background: #bdeeff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 0.5em;
+    margin: 1em 0;
+}
+a.mastodon-share:hover, a.mastodon-share:focus {
+    background: #51d8ff;
+    color: #fff;
+}
+button.mastodon-edit {
+    font-family: inherit;
+    font-size: 1.3em;
+    border: none;
+    cursor: pointer;
+    background: transparent;
+    transform: rotate(90deg);
+}
 .fancy-underline {
 	background-image: linear-gradient(120deg, #cc95c0,#dbd4b4,#7aa1d2 100%);
 	background-repeat: no-repeat;
