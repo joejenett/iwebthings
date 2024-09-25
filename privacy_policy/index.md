@@ -22,6 +22,7 @@ Joe Jenett a/k/a i.webthings (“us”, “we”, or “our”) operates the web
   * <a href="https://directory.joejenett.com/" class="url" rel="noopener noreferrer">https://directory.joejenett.com/</a>,
   * <a href="https://simply.joejenett.com/" class="url" rel="noopener noreferrer">https://simply.joejenett.com/</a>,
   * <a href="https://bulltown.joejenett.com/" class="url" rel="noopener noreferrer">https://bulltown.joejenett.com/</a>,
+  * <a href="https://bulltown.neocities.org/" class="url" rel="noopener noreferrer">https://bulltown.neocities.org/</a>,
   * <a href="https://wiki.joejenett.com/" class="url" rel="noopener noreferrer">https://wiki.joejenett.com/</a>,
   * <a href="https://joe.joejenett.com/" class="url" rel="noopener noreferrer">https://ideas.joejenett.com/</a>,
   * <a href="https://dwt-archives.joejenett.com/" class="url" rel="noopener noreferrer">https://dwt-archives.joejenett.com/</a>,
