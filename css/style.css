@@ -21,6 +21,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.iwt a:hover img {
+	transform:scale(1.1);
+}
 a.mastodon-share {
     display: inline-block;
     padding: .5em;
