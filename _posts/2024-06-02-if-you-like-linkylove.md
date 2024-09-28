@@ -16,7 +16,7 @@ categories:
 ...I made you a button.
 
 <span  class="iwt">
-<img src="https://iwebthings.joejenett.com/images/linkylove.png" alt="" width="88">
+<a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="https://iwebthings.joejenett.com/images/linkylove.png" alt="" width="88"></a>
 </span>
 
 <textarea style="width:100%;height:90px;">
