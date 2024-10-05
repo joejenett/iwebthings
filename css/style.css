@@ -159,8 +159,7 @@ span.hide-name.p-name {
 	font-size:.9em;
 	font-style:italic;	
 }
-
-div.cactus-comment-avatar-placeholder {
+/*div.cactus-comment-avatar-placeholder {
 	background-color:#faffff;
 }
 div.cactus-comment-avatar-placeholder::before {
@@ -169,7 +168,35 @@ div.cactus-comment-avatar-placeholder::before {
 
 div.cactus-comment-avatar img {
 	max-width:none;
+}*/
+
+div.cactus-editor span textarea.cactus-editor-textarea {
+	padding:6px;
+	margin-top:-3px;
 }
+div.cactus-editor div.cactus-editor-below div.cactus-editor-name span input {
+	padding:2px;
+	height:1.25rem;
+}
+div.cactus-comment-avatar-placeholder {
+	background-color:#fff9e6;
+}
+div.cactus-comment-avatar-placeholder::before {
+	content:"";
+}
+
+div.cactus-comment-avatar img {
+	display:none;
+}
+div.cactus-editor div.cactus-editor-below div.cactus-editor-buttons button.cactus-button {
+	padding-block:0;
+	font-weight:500;
+	font-size:.8em;
+}
+div.cactus-comments-container div.cactus-comments-list div.cactus-comment div.cactus-comment-content {
+	font-size:.95em;
+}
+
 .syndy {
 	font-size:.8em;
 	font-style: italic;
