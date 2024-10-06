@@ -13,6 +13,6 @@ slug: create-responsive-and-beautiful-layouts
 summary: 
 comments: true
 ---
-<a title="BentoGrid.js" href="https://mariohamann.github.io/bentogrid.js/">BentoGrid.js</a><br>[<a title="marcohamersma" href="https://pinboard.in/u:marcohamersma">marcohamersma</a>]
+<a title="BentoGrid.js" href="https://bentogrid.mariohamann.com/">BentoGrid.js</a><br>[<a title="marcohamersma" href="https://pinboard.in/u:marcohamersma">marcohamersma</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
