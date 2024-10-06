@@ -224,8 +224,19 @@ h1.post-title {
 #result {
 	/*border-top: 1px solid #ddd;
 	border-bottom: 1px solid #ddd;*/
-	margin-top: 24px;
-	font-size:.9em;
+	/*margin-top: 24px;
+	font-size:.9em;*/
+}
+#result, #result2 {
+padding-top:18px;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size:.9em;
+font-weight:600;
+}
+#result p, #result p a, #result2 p, #result2 p a {
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size:.9em;
+font-weight:600;
 }
 #result li {
 	list-style:none;
