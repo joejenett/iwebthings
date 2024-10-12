@@ -7,7 +7,7 @@ category:
 permalink: /nifty-tips-and-tricks-related-to-system-and-apps/
 slug: nifty-tips-and-tricks-related-to-system-and-apps
 summary: ‘Last updated for iOS 17’
-comments: true
+comments: false
 categories:
   - tips
   - iOS

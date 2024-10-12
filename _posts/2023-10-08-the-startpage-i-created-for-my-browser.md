@@ -3,12 +3,11 @@ layout: post
 title: “the startpage I created for my browser :)”
 date: 2023-10-08 09:47:41 -0400
 author: joe jenett
-category:
-  - 
+category: 
 permalink: /the-startpage-i-created-for-my-browser/
 slug: the-startpage-i-created-for-my-browser
 summary: an accordion based startpage
-comments: true
+comments: false
 categories:
   - browsers
   - startpage

@@ -7,7 +7,7 @@ category:
 permalink: /linkylove-select-10-15-23/
 slug: linkylove-select-10-15-23
 summary: a joe-centric selection of curiosities
-comments: true
+comments: false
 categories:
   - linkylove
   - curiosities

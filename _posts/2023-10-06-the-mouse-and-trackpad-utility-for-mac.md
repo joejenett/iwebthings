@@ -3,12 +3,11 @@ layout: post
 title: “The mouse and trackpad utility for Mac.”
 date: 2023-10-06 17:29:40 -0400
 author: joe jenett
-category:
-  - 
+category: 
 permalink: /the-mouse-and-trackpad-utility-for-mac/
 slug: the-mouse-and-trackpad-utility-for-mac
 summary: 
-comments: true
+comments: false
 categories:
   - software
   - macOS

@@ -7,7 +7,7 @@ category:
 permalink: /recently-noticed-10-17-23/
 slug: recently-noticed-10-17-23
 summary: 
-comments: true
+comments: false
 categories:
   - lists
   - miscellany
