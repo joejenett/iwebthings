@@ -7,7 +7,7 @@ category:
 permalink: /linkylove-inspired-07-08-24/
 slug: linkylove-inspired-07-08-24
 summary: goodies aplenty
-comments: true
+comments: false
 categories:
   - linkylove
   - inspiration

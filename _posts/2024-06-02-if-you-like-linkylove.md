@@ -7,7 +7,7 @@ category:
 permalink: /if-you-like-linkylove/
 slug: if-you-like-linkylove
 summary: …I made you a button.
-comments: true
+comments: false
 categories:
   - i-webthings
   - linkylove

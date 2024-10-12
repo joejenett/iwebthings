@@ -7,7 +7,7 @@ category:
 permalink: /i-webthings-needs-an-avatars-category-dammit/
 slug: i-webthings-needs-an-avatars-category-dammit
 summary: fun with avatars
-comments: true
+comments: false
 categories:
   - avatars
   - fun

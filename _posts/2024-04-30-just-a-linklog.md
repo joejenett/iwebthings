@@ -7,7 +7,7 @@ category:
 permalink: /just-a-linklog/
 slug: just-a-linklog
 summary: 👏
-comments: true
+comments: false
 categories:
   - explore
   - links

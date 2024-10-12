@@ -7,7 +7,7 @@ category:
 permalink: /resource-explorer-05-14-24-regular-expressions/
 slug: resource-explorer-05-14-24-regular-expressions
 summary: <!--joe crawls out of the rabbit hole -->
-comments: true
+comments: false
 categories:
   - lists
   - resources

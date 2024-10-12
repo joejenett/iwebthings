@@ -7,7 +7,7 @@ category:
 permalink: /notes-from-the-hub-07-22-24/
 slug: notes-from-the-hub-07-22-24
 summary: 
-comments: true
+comments: false
 categories:
   - i-webthings
 ---

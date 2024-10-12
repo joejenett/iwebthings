@@ -7,7 +7,7 @@ category:
 permalink: /dedicated-to-all-things-self-hosted/
 slug: dedicated-to-all-things-self-hosted
 summary: 
-comments: true
+comments: false
 categories:
   - software
   - resources

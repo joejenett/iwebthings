@@ -7,7 +7,7 @@ category:
 permalink: /build-something-useful-and-people-will-find-it/
 slug: build-something-useful-and-people-will-find-it
 summary: something new from Bridgy Fed
-comments: true
+comments: false
 categories:
   - tools
   - fediverse

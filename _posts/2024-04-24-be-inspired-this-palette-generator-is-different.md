@@ -7,7 +7,7 @@ category:
 permalink: /be-inspired-this-palette-generator-is-different/
 slug: be-inspired-this-palette-generator-is-different
 summary: 
-comments: true
+comments: false
 categories:
   - color
   - ai

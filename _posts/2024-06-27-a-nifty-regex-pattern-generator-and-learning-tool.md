@@ -7,7 +7,7 @@ category:
 permalink: /a-nifty-regex-pattern-generator-and-learning-tool/
 slug: a-nifty-regex-pattern-generator-and-learning-tool
 summary: we ❤️ useful tools
-comments: true
+comments: false
 categories:
   - tools
   - generators

@@ -7,7 +7,7 @@ category:
 permalink: /recently-noticed-04-11-24/
 slug: recently-noticed-04-11-24
 summary: more to explore
-comments: true
+comments: false
 categories:
   - lists
   - miscellany

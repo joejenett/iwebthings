@@ -7,7 +7,7 @@ category:
 permalink: /new-features-coming-to-css/
 slug: new-features-coming-to-css
 summary: 
-comments: true
+comments: false
 categories:
   - design
   - dev

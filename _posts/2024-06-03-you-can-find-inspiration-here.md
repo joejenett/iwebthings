@@ -7,7 +7,7 @@ category:
 permalink: /you-can-find-inspiration-here/
 slug: you-can-find-inspiration-here
 summary: awww....
-comments: true
+comments: false
 categories:
   - resources
   - gratis

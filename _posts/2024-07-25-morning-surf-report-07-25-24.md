@@ -7,7 +7,7 @@ category:
 permalink: /morning-surf-report-07-25-24/
 slug: morning-surf-report-07-25-24
 summary: 
-comments: true
+comments: false
 categories:
   - miscellany
   - ideas

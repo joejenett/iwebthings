@@ -7,7 +7,7 @@ category:
 permalink: /resource-article-roundup-07-21-24/
 slug: resource-article-roundup-07-21-24
 summary: Sunday morning resources
-comments: true
+comments: false
 categories:
   - resources
   - lists
