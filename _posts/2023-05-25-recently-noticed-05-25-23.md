@@ -9,7 +9,7 @@ category:
 permalink: /recently-noticed-05-25-23/
 slug: recently-noticed-05-25-23
 summary: 
-comments: true
+comments: false
 ---
 <ul class="links">
 	<li><a title="Strawberry - JavaScript Framework" href="https://strawberry.quest/">Strawberry</a> <a href="https://pinboard.in/u:roger">📌</a><br>“Zero-dependency, build-free framework for the artisanal web.”</li>

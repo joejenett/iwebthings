@@ -8,7 +8,7 @@ category:
 permalink: /open-this-on-your-phone-its-fun/
 slug: open-this-on-your-phone-its-fun
 summary: 
-comments: true
+comments: false
 ---
 <a title="Water" href="https://oimo.io/works/water/">Water</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
 

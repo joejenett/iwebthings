@@ -8,7 +8,7 @@ category:
 permalink: /button-surf-linkylove-08-28-23/
 slug: button-surf-linkylove-08-28-23
 summary: 
-comments: true
+comments: false
 ---
 <p>
 This one’s for button lovers...

@@ -8,7 +8,7 @@ category:
 permalink: /noteworthy-tools-09-22-23/
 slug: noteworthy-tools-09-22-23
 summary: 
-comments: true
+comments: false
 categories:
   - lists
   - tools

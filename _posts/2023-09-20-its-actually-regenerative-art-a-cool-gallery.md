@@ -8,7 +8,7 @@ category:
 permalink: /its-actually-regenerative-art-a-cool-gallery/
 slug: its-actually-regenerative-art-a-cool-gallery
 summary: 
-comments: true
+comments: false
 categories:
   - art
   - generators

@@ -8,7 +8,7 @@ category:
 permalink: /san-franciscans-have-the-advantage-in-this-game/
 slug: san-franciscans-have-the-advantage-in-this-game
 summary: How many streets can you name?
-comments: true
+comments: false
 categories:
   - places
   - games

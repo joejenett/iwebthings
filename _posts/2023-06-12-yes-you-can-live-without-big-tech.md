@@ -10,7 +10,7 @@ category:
 permalink: /yes-you-can-live-without-big-tech/
 slug: yes-you-can-live-without-big-tech
 summary: 
-comments: true
+comments: false
 ---
 <a title="The Opt Out Project" href="https://www.optoutproject.net/">The Opt Out Project</a>
 <blockquote><p>If data is the new oil, then I'm here to help you go electric.</p></blockquote>

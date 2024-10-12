@@ -9,7 +9,7 @@ category:
 permalink: /list-recently-noticed-04-18-23/
 slug: list-recently-noticed-04-18-23
 summary: 
-comments: true
+comments: false
 ---
 <ul class="links">
 	<li><a title="Byobu" href="https://www.byobu.org/">Byobu</a> <a class="normaltext" title="source" href="https://search.marginalia.nu/explore/random"><img src="/images/left-arrow.png" alt="" width="18"></a><br>‘open source text-based window manager and terminal multiplexer’</li>

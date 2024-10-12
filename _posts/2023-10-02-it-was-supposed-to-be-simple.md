@@ -8,7 +8,7 @@ category:
 permalink: /it-was-supposed-to-be-simple/
 slug: it-was-supposed-to-be-simple
 summary: 
-comments: true
+comments: false
 categories:
   - testmonkey
 ---

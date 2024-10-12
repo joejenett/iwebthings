@@ -10,7 +10,7 @@ category:
 permalink: /a-simple-and-minimalistic-terminal-file-manager/
 slug: a-simple-and-minimalistic-terminal-file-manager
 summary: 
-comments: true
+comments: false
 ---
 <p>
 <a title="GitHub - antonmedv/walk: Terminal file manager" href="https://github.com/antonmedv/walk">GitHub - antonmedv/walk: Terminal file manager</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]

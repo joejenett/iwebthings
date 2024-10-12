@@ -11,7 +11,7 @@ category:
 permalink: /designed-to-make-responsive-accessible-and-scalable-CSS-development-simple-and-predictable/
 slug: designed-to-make-responsive-accessible-and-scalable-CSS-development-simple-and-predictable
 summary: 
-comments: true
+comments: false
 ---
 <a title="turretcss" href="https://turretcss.com/">turretcss</a><br>[<a title="ascarida" href="https://pinboard.in/u:ascarida">ascarida</a>]
 

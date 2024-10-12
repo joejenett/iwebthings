@@ -8,7 +8,7 @@ category:
 permalink: /latest-data-and-insights/
 slug: latest-data-and-insights
 summary: 
-comments: true
+comments: false
 categories:
   - resources
   - initiatives

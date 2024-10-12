@@ -11,7 +11,7 @@ category:
 permalink: /an-intuitive-experience-for-creating-beautiful-slide-decks/
 slug: an-intuitive-experience-for-creating-beautiful-slide-decks
 summary: 
-comments: true
+comments: false
 ---
 <a title="Marp: Markdown Presentation Ecosystem" href="https://marp.app/">Marp: Markdown Presentation Ecosystem</a> <a href="https://pinboard.in/u:tremolo">📌</a>
 

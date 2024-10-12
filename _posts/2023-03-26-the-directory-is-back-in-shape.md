@@ -8,7 +8,7 @@ category:
 permalink: /the-directory-is-back-in-shape/
 slug: the-directory-is-back-in-shape
 summary: 
-comments: true
+comments: false
 ---
 If you recently encountered navigation issues at the <a href="https://directory.joejenett.com/">i.webthings directory</a>, I’m sorry for the inconvenience. It’s good to go now. 
 

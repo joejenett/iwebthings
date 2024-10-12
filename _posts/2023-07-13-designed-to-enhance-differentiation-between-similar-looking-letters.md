@@ -10,7 +10,7 @@ category:
 permalink: /designed-to-enhance-differentiation-between-similar-looking-letters/
 slug: designed-to-enhance-differentiation-between-similar-looking-letters
 summary: 
-comments: true
+comments: false
 ---
 <a title="GitHub - 0xType/0xProto: Free and Open-source font for programming." href="https://github.com/0xType/0xProto">0xProto: Free and Open-source font for programming.</a><br> [<a href="https://pinboard.in/u:mikael">mikael</a>]
 

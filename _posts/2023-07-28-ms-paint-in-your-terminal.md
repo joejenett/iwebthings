@@ -10,7 +10,7 @@ category:
 permalink: /ms-paint-in-your-terminal/
 slug: ms-paint-in-your-terminal
 summary: 
-comments: true
+comments: false
 ---
 <a title="1j01/textual-paint: :art" href="https://github.com/1j01/textual-paint">Textual Paint</a> <small>(requires Python)</small><br>[<a href="https://pinboard.in/u:angusf">angusf</a>]
 

@@ -8,7 +8,7 @@ category:
 permalink: /linkylove-dev-blogs-09-09-23/
 slug: linkylove-dev-blogs-09-09-23
 summary: 
-comments: true
+comments: false
 categories:
   - linkylove
   - dev

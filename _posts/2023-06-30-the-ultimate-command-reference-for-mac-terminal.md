@@ -10,7 +10,7 @@ category:
 permalink: /the-ultimate-command-reference-for-mac-terminal/
 slug: the-ultimate-command-reference-for-mac-terminal
 summary: 
-comments: true
+comments: false
 ---
 <a title="Mac Commands" href="https://www.maccommands.com/">Mac Commands</a><br>[<a title="tedw" href="https://pinboard.in/u:tedw">tedw</a>]
 

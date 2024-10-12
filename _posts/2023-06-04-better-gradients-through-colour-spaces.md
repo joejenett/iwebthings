@@ -11,7 +11,7 @@ category:
 permalink: /better-gradients-through-colour-spaces/
 slug: better-gradients-through-colour-spaces
 summary: 
-comments: true
+comments: false
 ---
 <a title="Polychroma" href="https://polychroma.app/">Polychroma</a><br>[<a title="eoghanm" href="https://pinboard.in/u:eoghanm">eoghanm</a>]
 
