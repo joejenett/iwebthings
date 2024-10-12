@@ -7,7 +7,7 @@ category:
 permalink: /who-needs-resources-and-tools-when-ya-got-typewriters/
 slug: who-needs-resources-and-tools-when-ya-got-typewriters
 summary: You’re welcome...😎
-comments: true
+comments: false
 categories:
   - giggles
   - diversions

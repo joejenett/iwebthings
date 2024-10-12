@@ -7,7 +7,7 @@ category:
 permalink: /a-big-list-of-things-you-can-say-to-siri/
 slug: a-big-list-of-things-you-can-say-to-siri
 summary: who knew!
-comments: true
+comments: false
 categories:
   - iOS
   - resources

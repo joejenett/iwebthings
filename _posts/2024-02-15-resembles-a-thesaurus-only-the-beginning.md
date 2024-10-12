@@ -7,7 +7,7 @@ category:
 permalink: /resembles-a-thesaurus-only-the-beginning/
 slug: resembles-a-thesaurus-only-the-beginning
 summary: 
-comments: true
+comments: false
 categories:
   - words
   - resources

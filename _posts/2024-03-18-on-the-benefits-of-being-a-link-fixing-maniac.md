@@ -7,7 +7,7 @@ category:
 permalink: /on-the-benefits-of-being-a-link-fixing-maniac/
 slug: on-the-benefits-of-being-a-link-fixing-maniac
 summary: rediscovery is the prize
-comments: true
+comments: false
 categories:
   - giggles
   - i-webthings

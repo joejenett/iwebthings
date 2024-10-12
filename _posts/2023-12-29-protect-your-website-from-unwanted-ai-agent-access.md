@@ -7,7 +7,7 @@ category:
 permalink: /protect-your-website-from-unwanted-ai-agent-access/
 slug: protect-your-website-from-unwanted-ai-agent-access
 summary: an ‘ecosystem of autonomous chatbots and data scrapers’
-comments: true
+comments: false
 categories:
   - ai
   - security

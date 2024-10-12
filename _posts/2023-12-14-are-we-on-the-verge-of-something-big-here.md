@@ -7,7 +7,7 @@ category:
 permalink: /are-we-on-the-verge-of-something-big-here/
 slug: are-we-on-the-verge-of-something-big-here
 summary: worth a few minutes of your time, imo
-comments: true
+comments: false
 categories:
   - fediverse
   - social

@@ -7,7 +7,7 @@ category:
 permalink: /linkylove-a-few-personal-faves-11-03-23/
 slug: linkylove-a-few-personal-faves-11-03-23
 summary: explore a few of my favorites
-comments: true
+comments: false
 categories:
   - hub
   - linkylove

@@ -7,7 +7,7 @@ category:
 permalink: /inspired-by-wordle-but-for-color-enthusiasts/
 slug: inspired-by-wordle-but-for-color-enthusiasts
 summary: Can you guess today’s hex color?
-comments: true
+comments: false
 categories:
   - games
   - color

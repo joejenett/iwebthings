@@ -7,7 +7,7 @@ category:
 permalink: /linkylove-from-the-wall-03-22-24/
 slug: linkylove-from-the-wall-03-22-24
 summary: 
-comments: true
+comments: false
 ---
 <ul class="linkylove">
 	<li><a title="‘Xanthe Tynehorne’" href="https://satyrs.eu/">The Satyrs’ Forest 🍇</a></li>

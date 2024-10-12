@@ -7,7 +7,7 @@ category:
 permalink: /wanna-fancy-css-underline-and-hover-effect/
 slug: wanna-fancy-css-underline-and-hover-effect
 summary: it’s fancy schmancy
-comments: true
+comments: false
 categories:
   - css
   - generators

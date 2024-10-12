@@ -7,7 +7,7 @@ category:
 permalink: /linkylove-inspired-12-10-23/
 slug: linkylove-inspired-12-10-23
 summary: 
-comments: true
+comments: false
 categories:
   - linkylove
   - inspiration

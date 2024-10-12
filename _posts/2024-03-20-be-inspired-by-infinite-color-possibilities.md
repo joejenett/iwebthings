@@ -7,7 +7,7 @@ category:
 permalink: /be-inspired-by-infinite-color-possibilities/
 slug: be-inspired-by-infinite-color-possibilities
 summary: ‘Radial Background Generator’
-comments: true
+comments: false
 categories:
   - color
   - generators

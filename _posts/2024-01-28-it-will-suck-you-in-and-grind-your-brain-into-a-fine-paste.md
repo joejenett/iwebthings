@@ -7,7 +7,7 @@ category:
 permalink: /it-will-suck-you-in-and-grind-your-brain-into-a-fine-paste/
 slug: it-will-suck-you-in-and-grind-your-brain-into-a-fine-paste
 summary: ‘an old-school text adventure’
-comments: true
+comments: false
 categories:
   - giggles
   - curiosities

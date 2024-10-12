@@ -7,7 +7,7 @@ category:
 permalink: /recently-noticed-01-30-24/
 slug: recently-noticed-01-30-24
 summary: I was left speechless... 😎
-comments: true
+comments: false
 categories:
   - lists
   - miscellany

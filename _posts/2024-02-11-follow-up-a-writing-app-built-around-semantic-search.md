@@ -7,7 +7,7 @@ category:
 permalink: /follow-up-a-writing-app-built-around-semantic-search/
 slug: follow-up-a-writing-app-built-around-semantic-search
 summary: watch out! joe was inspired...
-comments: true
+comments: false
 categories:
   - inspiration
   - follow-up

@@ -7,7 +7,7 @@ category:
 permalink: /a-mind-boggling-musical-forest/
 slug: a-mind-boggling-musical-forest
 summary: music made with code
-comments: true
+comments: false
 categories:
   - music
   - dev

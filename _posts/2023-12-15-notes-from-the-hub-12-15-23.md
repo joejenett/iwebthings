@@ -7,7 +7,7 @@ category:
 permalink: /notes-from-the-hub-12-15-23/
 slug: notes-from-the-hub-12-15-23
 summary: 
-comments: true
+comments: false
 categories:
   - about
   - i-webthings

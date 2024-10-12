@@ -7,7 +7,7 @@ category:
 permalink: /learn-the-foundations-of-the-svg-syntax-step-by-step/
 slug: learn-the-foundations-of-the-svg-syntax-step-by-step
 summary: Wbo knew it could be so simple!
-comments: true
+comments: false
 categories:
   - svg
   - resources

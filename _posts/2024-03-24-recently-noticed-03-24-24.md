@@ -7,7 +7,7 @@ category:
 permalink: /recently-noticed-03-24-24/
 slug: recently-noticed-03-24-24
 summary: a mix of tools and diversions
-comments: true
+comments: false
 categories:
   - lists
   - miscellany

@@ -7,7 +7,7 @@ category:
 permalink: /that-time-I-photographed-my-meals-every-day-for-about-a-year/
 slug: that-time-I-photographed-my-meals-every-day-for-about-a-year
 summary: food porn for characters like me... 😜
-comments: true
+comments: false
 categories:
   - giggles
   - photography

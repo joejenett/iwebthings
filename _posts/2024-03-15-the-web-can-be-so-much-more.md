@@ -7,7 +7,7 @@ category:
 permalink: /the-web-can-be-so-much-more/
 slug: the-web-can-be-so-much-more
 summary: 
-comments: true
+comments: false
 categories:
   - viewpoints
   - web

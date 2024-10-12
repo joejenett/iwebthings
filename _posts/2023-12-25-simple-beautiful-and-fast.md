@@ -7,7 +7,7 @@ category:
 permalink: /simple-beautiful-and-fast/
 slug: simple-beautiful-and-fast
 summary: color converter (HEX, RGB, HSL and CMYK)
-comments: true
+comments: false
 categories:
   - resources
   - color

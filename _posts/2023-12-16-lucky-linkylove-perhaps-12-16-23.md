@@ -7,7 +7,7 @@ category:
 permalink: /lucky-linkylove-perhaps-12-16-23/
 slug: lucky-linkylove-perhaps-12-16-23
 summary: some interesting people today...
-comments: true
+comments: false
 ---
 <ul class="linkylove">
 	<li><a title="Felix" href="https://felix.plesoianu.ro/links/">Bounty of bookmarks</a> <span title="led to site shown below">&#8594;</span></li>
