@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘command-line tool to convert images into ascii art ’
+title: ‘command-line tool to convert images into ascii art’
 date: 2024-10-13 16:39:53 -0400
 author: joe jenett
 category: 
