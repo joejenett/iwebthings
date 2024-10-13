@@ -4,7 +4,7 @@ title: ‘command-line tool to convert images into ascii art’
 date: 2024-10-13 16:39:53 -0400
 author: joe jenett
 category: 
-permalink: /command-line-tool-to-convert-images-into-ascii-art /
+permalink: /command-line-tool-to-convert-images-into-ascii-art/
 slug: command-line-tool-to-convert-images-into-ascii-art
 summary: make ascii art
 comments: true
