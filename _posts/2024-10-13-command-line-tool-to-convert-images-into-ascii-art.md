@@ -13,6 +13,6 @@ categories:
   - graphics
   - tools
 ---
-<a title="GitHub - TheZoraiz/ascii-image-converter">ascii-image-converter</a><br>[<a title="source" href="https://pinboard.in/u:amitp">amitp</a>]
+<a href="https://github.com/TheZoraiz/ascii-image-converter" title="GitHub - TheZoraiz/ascii-image-converter">ascii-image-converter</a><br>[<a title="source" href="https://pinboard.in/u:amitp">amitp</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
