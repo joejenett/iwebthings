@@ -19,7 +19,6 @@ categories:
 <li><a title="The Cosmos | Pixel Moondust ☽☾" href="https://pixelmoondust.neocities.org/"><img src="/images/pixelmoondust.jpg" alt="The Cosmos | Pixel Moondust ☽☾" width="88" height="31"><br>The Cosmos | Pixel Moondust ☽☾</a> &rarr;</li>
 <li><a title="manyface world" href="https://manyface.neocities.org/"><img src="/images/manyface.png" alt="manyface world" width="88" height="31"><br>manyface world</a> &rarr;</li>
 <li><a title="Small World: An Artist Directory for the Small Web" href="https://smallworld.mizuki.world/"><img src="/images/smallworld.png" alt="Small World: An Artist Directory for the Small Web" width="88" height="31"><br>Small World: An Artist Directory for the Small Web</a> &rarr;</li>
-<li><a title="the flames of disaster" href="https://crisis.city/"><img src="/images/crisiscity.png" alt="the flames of disaster" width="88" height="31"><br>the flames of disaster</a> &rarr;</li>
 <li><a title="✩ VIRTUAL OBSERVER ✩" href="https://virtualobserver.moe/"><img src="/images/virtualobserver.png" alt="✩ VIRTUAL OBSERVER ✩" width="88" height="31"><br>✩ VIRTUAL OBSERVER ✩</a> &rarr;</li>
 <li><a title="DOKODEMO" href="https://dokode.moe/"><img src="/images/dokodemo.jpg" alt="DOKODEMO" width="88" height="31"><br>DOKODEMO</a> &rarr;</li>
 <li><a title="devils’ den" href="https://devils.gay/"><img src="/images/devils-gay.jpg" alt="devils’ den" width="88" height="31"><br>devils’ den</a></li>
