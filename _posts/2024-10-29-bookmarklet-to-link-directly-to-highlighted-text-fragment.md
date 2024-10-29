@@ -4,8 +4,8 @@ title: bookmarklet to link directly to highlighted ‘text fragment’
 date: 2024-10-29 08:26:30 -0400
 author: joe jenett
 category: 
-permalink: /bookmarklet-to-link-directly to-highlighted-text-fragment/
-slug: bookmarklet-to-link-directly to-highlighted-text-fragment
+permalink: /bookmarklet-to-link-directly-to-highlighted-text-fragment/
+slug: bookmarklet-to-link-directly-to-highlighted-text-fragment
 summary: coolest bookmarklet ever, imo
 comments: true
 categories:
