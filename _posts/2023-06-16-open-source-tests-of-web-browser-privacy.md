@@ -12,6 +12,6 @@ slug: open-source-tests-of-web-browser-privacy
 summary: 
 comments: false
 ---
-<a title="PrivacyTests.org: open-source tests of web browser privacy" href="https://privacytests.org/">PrivacyTests.org</a><br>[<a href="https://paulopinto.page/2023/06/15/learn-more-about.html">Paulo Pinto</a>]
+<a title="PrivacyTests.org: open-source tests of web browser privacy" href="https://privacytests.org/">PrivacyTests.org</a>
 <p><a href="https://privacytests.org/about.html#full-disclosure-and-transparency">Arthur Edelstein</a> (the project’s author):</p><blockquote><p>Several months after first publishing the website, I became an employee of Brave, where I contribute to Brave's browser privacy engineering efforts. </p></blockquote>
 <a href="https://brid.gy/publish/mastodon"></a>
