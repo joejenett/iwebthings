@@ -7,7 +7,7 @@ category:
 permalink: /draw-me-a-goblin-please/
 slug: draw-me-a-goblin-please
 summary: a minimal pixel drawing tool
-comments: true
+comments: false
 categories:
   - generators
   - fun

@@ -7,7 +7,7 @@ category:
 permalink: /for-cat-lovers/
 slug: for-cat-lovers
 summary: wink wink nudge nudge
-comments: true
+comments: false
 categories:
   - giggles
   - ai

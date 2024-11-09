@@ -7,7 +7,7 @@ category:
 permalink: /design-and-dev-list-08-15-24/
 slug: design-and-dev-list-08-15-24
 summary: design and dev resources
-comments: true
+comments: false
 ---
 <ul class="links">
 	<li><a title="built for GitHub by GitHub" href="https://primer.style/">Primer Design System</a> <a title="source" href="https://pinboard.in/u:fileformat">📌</a><blockquote><p>Principles, standards, and usage guidelines for designing GitHub interfaces.</p></blockquote></li>

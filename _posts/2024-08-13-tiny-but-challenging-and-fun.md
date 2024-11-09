@@ -7,7 +7,7 @@ category:
 permalink: /tiny-but-challenging-and-fun/
 slug: tiny-but-challenging-and-fun
 summary: ‘tiny game of snake’ for mac
-comments: true
+comments: false
 categories:
   - games
   - macOS

@@ -7,7 +7,7 @@ category:
 permalink: /notable-rarities-08-25-24/
 slug: notable-rarities-08-25-24
 summary: joe likes these! 😎
-comments: true
+comments: false
 categories:
   - lists
   - miscellany

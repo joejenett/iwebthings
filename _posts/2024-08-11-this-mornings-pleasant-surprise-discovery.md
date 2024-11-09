@@ -7,7 +7,7 @@ category:
 permalink: /this-mornings-pleasant-surprise-discovery/
 slug: this-mornings-pleasant-surprise-discovery
 summary: Thanks for sharing!
-comments: true
+comments: false
 categories:
   - cli
   - tools
