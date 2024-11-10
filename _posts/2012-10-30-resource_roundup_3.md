@@ -49,5 +49,4 @@ Design/Dev
 Icons 
 
   * [Jigsoar icons](http://www.jigsoaricons.com/)
-  * [Social Media Icons](http://paulrobertlloyd.com/2009/06/social_media_icons/)
   * [RRZE Icon Set](http://rrze-icon-set.berlios.de/gallery.html)

@@ -13,7 +13,7 @@ categories:
   - resources
   - directories
 ---
-<a title="Self-Hosted Applications and Alternatives" href="https://selfh.st/apps/">Self-Hosted Applications and Alternatives</a> <small>(<a href="https://selfh.st/apps-about/">FAQ</a>)</small><br>[<a href="https://pinboard.in/u:tdjones">tdjones</a>]
+<a title="Self-Hosted Applications and Alternatives" href="https://selfh.st/apps/">Self-Hosted Applications and Alternatives</a> <br>[<a href="https://pinboard.in/u:tdjones">tdjones</a>]
 
 Aside from the directory, the site also features a blog, podcast, surveys, and newsletter.
 <a href="https://brid.gy/publish/mastodon"></a>

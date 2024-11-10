@@ -31,7 +31,6 @@ categories:
   * [Qwertycards &#8211; for easy to remember very strong passwords](https://www.qwertycards.com/ "Qwertycards - for easy to remember very strong passwords") <small>$</small>
   * [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
   *  [Submarine Cable Map](http://www.submarinecablemap.com/ "Submarine Cable Map") <small>*p</small>
-  * [roomchat.co](http://roomchat.co/ "roomchat.co")
   * [twister &#8211; P2P microblogging platform](http://twister.net.co/ "twister - P2P microblogging platform") <small>*</small>
   * [A Survival Guide for the Small Mail Server](http://www.spamhaus.org/news/article/719/a-survival-guide-for-the-small-mail-server "A Survival Guide for the Small Mail Server")
   * [Sass Guidelines](http://sass-guidelin.es/ "Sass Guidelines")

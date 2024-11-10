@@ -36,7 +36,6 @@ kind:
   * [Jj’s web stream](https://jj.isgeek.net/)
   * [ᛝ ᛝ ᛝ — lucid.](https://sphygm.us/)
   * [Recclective](https://recclective.com/)
-  * [Daniel Rosenberg](https://danielrosenbergdesign.com/)
   * [The Little Chord Chart](http://vexflow.com/vexchords/)
   * [Alice Bartlett](http://alicebartlett.co.uk/)
   * [a foolish consistency](https://afc.letterspace.org/)

@@ -15,7 +15,6 @@ comments: false
 <ul>
 <li><a title="wik · PyPI - command based wiki" href="https://pypi.org/project/wik/">wik</a> <span style="font-size: .9em;">(requires Python3)</span> <small>(<a href="https://github.com/yashsinghcodes/wik">github</a>)</small></li>
 <li><a title="Strudel REPL - live coding platform to write dynamic music pieces in the browser" href="https://strudel.tidalcycles.org/">Strudel REPL</a></li>
-<li><a title="Cool Symbols and Fancy Text to Copy Paste 😍 Fancy Symbols ♡¸.•* " href="https://fancysymbol.com/">Cool Symbols and Fancy Text to Copy Paste 😍 Fancy Symbols ♡¸.•* </a></li>
 <li><a title="Glaze: Protecting Artists from Style Mimicry" href="https://glaze.cs.uchicago.edu/index.html">Glaze: Protecting Artists from Style Mimicry</a></li>
 </ul>
 <p><span style="font-style:italic;font-weight:500;">dailywebthing daily pointers</span><br>3/16/23 - 3/19/23</p>
