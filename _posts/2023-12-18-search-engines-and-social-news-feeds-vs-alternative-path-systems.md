@@ -22,9 +22,7 @@ About a week ago, I <a href="https://iwebthings.joejenett.com/linkylove-inspired
 <p>
 The article is written by two contributors to <a title="Syllabus" href="https://syllabusproject.org/">Syllabus</a>, a project by <a title="Sean Nash" href="https://senash.com/">Sean Nash</a>, which in addition to his “ongoing research into subterranean worlds,” includes content by a long list of contributors. It’ll take some time, but I’ll soon be exploring the Syllabus project and Sean’s other work <em>much</em> further.
 </p>
-<p>
-In the meantime, I’ve got a feeling you’re gonna like the article I linked to today. You might also like this indirectly related link, a <a title="neorings.org" href="https://neorings.org/webrings">little gem</a> recently shared by my friend <a href="https://pinboard.in/u:ramblinggit">Brad</a> (thank you sir!). 
-</p>
+
 
 
 

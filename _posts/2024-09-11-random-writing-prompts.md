@@ -12,6 +12,6 @@ categories:
   - ideas
   - blogging
 ---
-<a title="Blog Prompts" href="https://blogprompts.fyi/">Blog Prompts</a><br>[<a href="https://mastodon.social/@rscottjones/113108946644397221">R Scott Jones</a> &lt; <a href="https://social.lol/@amerpie">Lou Plummer</a>]
+<a title="Blog Prompts" href="https://blogprompts.fyi/">Blog Prompts</a><br>[<a href="https://mastodon.social/@rscottjones/">R Scott Jones</a> &lt; <a href="https://social.lol/@amerpie">Lou Plummer</a>]
 
 <a href="https://brid.gy/publish/mastodon"></a>
