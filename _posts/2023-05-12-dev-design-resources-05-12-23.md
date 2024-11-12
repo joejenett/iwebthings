@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  dev.design.resources 05-12-23
-date:   2023-05-12 11:44:45 -0400
+title: dev.design.resources 05-12-23
+date: 2023-05-12 11:44:45 -0400
 author: joe jenett
 category:
-  -  dev
-  -  design
-  -  resources
-  -  list
+  - dev
+  - design
+  - resources
+  - lists
 permalink: /dev-design-resources-05-12-23/
 slug: dev-design-resources-05-12-23
 summary: 
