@@ -13,7 +13,7 @@ categories:
 ---
 For those of you who explore _iwebthings’_ Pinboard bookmarks, I’m currently working on improving the collection’s organization. While troubleshooting recent syncing issues, I decided to clean it up a bit at the same time.
 
-I’m gradually reviewing and repopulating the bookmarks. In the end, updating the Pinboard bookmarks should be a smoother and faster process.
+I’m gradually reviewing and repopulating the bookmarks. In the end, updating Pinboard bookmarks should be a faster, smoother, and more frequent process.
 
 Yay!
 
