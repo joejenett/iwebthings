@@ -8,6 +8,8 @@ permalink: /notes-from-the-hub-11-25-24/
 slug: notes-from-the-hub-11-25-24
 summary: 
 comments: true
+categories:
+  - i-webthings
 ---
 For those of you who explore _iwebthings’_ Pinboard bookmarks, I’m currently working on improving the collection’s organization. While troubleshooting recent syncing issues, I decided to clean it up a bit at the same time.
 
