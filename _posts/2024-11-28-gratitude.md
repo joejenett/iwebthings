@@ -15,6 +15,8 @@ categories:
 ---
 If you observe it, Happy Thanksgiving! 🍗
 
+I simply must start by saying how grateful I am for my partner Kim. Without her, this webthing of mine would not have even been possible.
+
 The web is amazing. I’m thankful for the people encountered and how I‘ve benefitted from the wealth of knowledge and ideas it provides. I don’t think there’s a better way for me to celebrate than to share <span style="font-weight:500;color:#205666;">(just a few of the many)</span> people and sites I’m thankful for:
 
 <ul>
@@ -29,8 +31,6 @@ The web is amazing. I’m thankful for the people encountered and how I‘ve ben
 <li><a title="Wikipedia, the free encyclopedia" href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li>
 </ul>
 This list represents only a fraction of the many web people and sites I’m thankful for (but they’re at top of mind). If you’re reading this, I’m grateful you’re here - add yourself to the the top of the list!
-
-I’d be remiss not to mention how grateful I am for my partner Kim (who makes my webthing possible).
 <p style="font-size:1.4em;font-style:italic;">Thank you all!</p>
 
 
