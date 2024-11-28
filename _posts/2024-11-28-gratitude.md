@@ -30,7 +30,7 @@ The web is amazing. I’m thankful for the people encountered and how I‘ve ben
 <li> <a title="Pinboard - Social Bookmarking For Introverts" href="https://pinboard.in/">Pinboard</a></li>
 <li><a title="Wikipedia, the free encyclopedia" href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li>
 </ul>
-This list represents only a fraction of the many web people and sites I’m thankful for (but they’re at top of mind). If you’re reading this, I’m grateful you’re here - add yourself to the the top of the list!
+This list represents only a fraction of the many web people and sites I’m thankful for (but they’re at top of mind). If you’re reading this, I’m grateful you’re here - add yourself to the top of the list!
 <p style="font-size:1.4em;font-style:italic;">Thank you all!</p>
 
 
