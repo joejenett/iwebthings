@@ -607,7 +607,7 @@ div.hcard-display {
 		display:none;
 	}
 	#announcer {
-	max-width:280px;
+	max-width:330px;
 }
 	#tabletop {
 		font-size:.9em;
@@ -678,7 +678,12 @@ div.hcard-display {
 
 @media only screen and (max-width:431px) {
 	#announcer {
-	max-width:240px;
+	max-width:320px;
+}
+}
+@media only screen and (max-width:390px) {
+	#announcer {
+	max-width:260px;
 }
 }
 #webmentions {
