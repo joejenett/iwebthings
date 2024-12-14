@@ -21,6 +21,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+#announcer {
+	width:350px;
+}
 .iwt a:hover img {
 	transform:scale(1.1);
 }
@@ -603,6 +606,9 @@ div.hcard-display {
 	#backer {
 		display:none;
 	}
+	#announcer {
+	max-width:280px;
+}
 	#tabletop {
 		font-size:.9em;
 		padding:6px 3px 14px 3px;
@@ -670,8 +676,11 @@ div.hcard-display {
 	}
 }
 
-
-
+@media only screen and (max-width:431px) {
+	#announcer {
+	max-width:240px;
+}
+}
 #webmentions {
 	margin: 0;
 	position: relative;
