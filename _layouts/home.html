@@ -34,10 +34,10 @@ function doit() {
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {% if post.title != "" %}
 <div style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
-<h3 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
+<h2 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
 <a class="post-link" href="{{ post.url | relative_url }}">
 {{ post.title | escape }}</a> 
-</h3>
+</h2>
 <div class="hold-meta">
 <span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
 <span class="post-meta"><!--<img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo p-author h-card" width="24" height="24" style="position:relative;top:-3px;">--></span>
