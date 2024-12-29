@@ -27,4 +27,4 @@ I come out of my little exploration having gained new insights into and heighten
 </p>
 [via <a href="https://pinboard.in/u:nelson">nelson</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

@@ -20,4 +20,4 @@ categories:
 	<li><a title="Online Background Noises • Relaxing Sounds • Noise Masking" href="https://noises.online/">Noises Online</a> <a href="https://pinboard.in/u:theblueone">📌</a><blockquote><p>The idea behind an online background noise machine like this website, is to make use of the noises you like to mask the noises you dislike. The concept is simple, works extremely well, and does not require expensive equipment, such as active noise cancelling headphones.</p></blockquote><p>Site is made by the creator of <a title="Stéphane" href="https://mynoise.net/">myNoise ®</a>, offered as “a much simpler alternative to myNoise, offering the same audio quality through the easiest user interface one can think of.”</p></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

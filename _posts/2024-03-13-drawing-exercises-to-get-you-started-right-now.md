@@ -17,4 +17,4 @@ categories:
 <blockquote><p>The basic craft of drawing is about two things: you learn to control your hand and to see.</p></blockquote>
 [<a href="https://pinboard.in/u:angusm">angusm</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

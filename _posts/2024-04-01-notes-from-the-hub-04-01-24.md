@@ -26,4 +26,4 @@ Fortunately, I love doing what I do and if any of it is useful or enjoyable to y
 
 Thanks for reading this.
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

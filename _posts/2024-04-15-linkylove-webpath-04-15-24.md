@@ -17,4 +17,4 @@ categories:
 	<li><a title="Iyoxh" href="https://iyoxh.com/">Iyoxh</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="the castle" href="https://princss.online/">the castle</a></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

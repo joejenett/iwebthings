@@ -32,4 +32,4 @@ I should warn you - though Nomad Hypertext works on the fly as you create and wr
 
 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

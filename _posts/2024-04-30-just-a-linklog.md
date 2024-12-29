@@ -16,4 +16,4 @@ categories:
 <blockquote><p>...mainly for <strong>articles</strong> and individual <strong>blog posts</strong> that I find and want to share.</p></blockquote>
 👏 kudos &rarr; Brad! 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

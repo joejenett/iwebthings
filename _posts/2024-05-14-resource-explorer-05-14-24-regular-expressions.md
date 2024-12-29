@@ -27,4 +27,4 @@ categories:
 <p>
 	&lt;!--joe crawls out of the rabbit hole --&gt;
 </p>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

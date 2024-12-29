@@ -13,4 +13,4 @@ comments: false
 
 <small>Note: Promotional vehicle.</small>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

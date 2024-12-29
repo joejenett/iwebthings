@@ -19,4 +19,4 @@ categories:
 	<li><a title="Resources List for the Personal Web" href="https://discourse.32bit.cafe/t/resources-list-for-the-personal-web/49">Resources List for the Personal Web</a> <br>“This list is to help guide and help those who are in every stage of their web-building journey on the personal web.”<br>Thanks for including us! –<em>joe</em></li>
 	<li><a title="Cassidy Williams" href="https://blog.cassidoo.co/post/human-curation/">I miss human curation</a> <a href="https://pinboard.in/u:shiflett">📌</a><br>“Where are my internet friends? And where are their weird blogs?”<br>&lt;!-- joe refrains from responding, thank you. 😎 --&gt;</li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
