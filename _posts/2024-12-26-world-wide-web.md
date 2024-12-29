@@ -18,4 +18,4 @@ categories:
 
 <blockquote><p>Web experiments, explainers, code snippets by <a href="https://artlung.com/">Joe Crawford</a> since 1996. Some current. Some out of date. You can follow the site <a href="https://lab.artlung.com/feed.xml">feed</a> and the code in the <a href="https://github.com/artlung/lab.artlung.com">GitHub repository</a>.</p></blockquote>
 😎 I like!
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(crossposted to mastodon)</small></a>
