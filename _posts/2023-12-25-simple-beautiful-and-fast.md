@@ -18,4 +18,4 @@ categories:
 <a title="Convert colors between formats HEX, RGB, HSL and CMYK." href="https://convertacolor.com/">Convert a Color</a><br>[<a href="https://pinboard.in/u:cogdog">cogdog</a>]
 </p>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

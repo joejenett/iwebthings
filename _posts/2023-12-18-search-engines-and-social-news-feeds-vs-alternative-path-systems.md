@@ -28,4 +28,4 @@ The article is written by two contributors to <a title="Syllabus" href="https://
 
 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

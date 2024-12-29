@@ -19,4 +19,4 @@ Note to self: Puns may indeed be the lowest form of humor.
 
 All kidding aside - it’s an impressive collection. 😎
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

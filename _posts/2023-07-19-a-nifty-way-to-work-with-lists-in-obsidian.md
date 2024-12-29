@@ -18,4 +18,4 @@ comments: false
 <small>(available as “Outliner" in Obsidian>Settings>Community plugins)
 </small></p>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

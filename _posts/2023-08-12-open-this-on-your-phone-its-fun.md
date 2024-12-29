@@ -13,4 +13,4 @@ comments: false
 <a title="Water" href="https://oimo.io/works/water/">Water</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
 
 <small>Pretty cool!</small> 😎
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

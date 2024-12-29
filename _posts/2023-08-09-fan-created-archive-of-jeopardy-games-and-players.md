@@ -14,4 +14,4 @@ comments: false
 ---
 <a title="J! Archive" href="https://j-archive.com/">J! Archive</a><br><a href="https://pinboard.in/u:tdjones">tdjones</a>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

@@ -15,4 +15,4 @@ comments: false
 	<li><a title="James Walker" href="https://walkah.social/walkah">walkah.social</a></li>
 	<li><a title="Flynn Salazar" href="https://njoqi.me/">njoqi</a></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

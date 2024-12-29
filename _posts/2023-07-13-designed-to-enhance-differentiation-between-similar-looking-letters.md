@@ -14,4 +14,4 @@ comments: false
 ---
 <a title="GitHub - 0xType/0xProto: Free and Open-source font for programming." href="https://github.com/0xType/0xProto">0xProto: Free and Open-source font for programming.</a><br> [<a href="https://pinboard.in/u:mikael">mikael</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

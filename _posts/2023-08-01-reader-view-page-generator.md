@@ -12,4 +12,4 @@ comments: false
 ---
 <a title="web0" href="https://web0.cc/">web0</a>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

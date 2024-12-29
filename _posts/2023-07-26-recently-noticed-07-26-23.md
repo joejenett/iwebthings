@@ -19,4 +19,4 @@ comments: false
 	<li><a title="Neocities - Command Line Interface" href="https://neocities.org/cli">The Neocities CLI</a> <a href="https://pinboard.in/u:skazka">📌</a><br>“Manage your site using a shell terminal”</li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

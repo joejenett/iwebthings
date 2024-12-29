@@ -18,4 +18,4 @@ categories:
 <p>
 <span style="font-size:1.8em;">👍</span>
 </p>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

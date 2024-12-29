@@ -21,4 +21,4 @@ categories:
 <img src="https://iwebthings.joejenett.com/images/newguy.png" width="36" style="vertical-align:middle;">  We like ’em too! 
 </p>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

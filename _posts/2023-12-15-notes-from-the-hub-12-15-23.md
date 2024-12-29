@@ -24,4 +24,4 @@ I’d like to think every new day is an opportunity to try out doing something i
 &ndash;<em>joe</em>
 </p>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
