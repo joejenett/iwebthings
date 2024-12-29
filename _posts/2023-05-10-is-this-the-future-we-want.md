@@ -13,4 +13,4 @@ summary:
 comments: false
 ---
 <a title="ethical.net - Artificial intelligence: who owns the future?" href="https://ethical.net/ethical/artificial-intelligence-who-owns-the-future/">Artificial intelligence: who owns the future?</a><br>[<a title="Adactio: Links" href="https://adactio.com/links/20159">Adactio: Links</a>]
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

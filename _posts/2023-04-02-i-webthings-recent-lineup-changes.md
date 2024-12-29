@@ -158,4 +158,4 @@ comments: false
 
 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

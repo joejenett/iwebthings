@@ -18,4 +18,4 @@ comments: false
 	<li><a title="mkws - A simple static site generator" href="https://mkws.sh/">mkws - A simple static site generator</a> <a href="https://pinboard.in/u:axehandle">📌</a></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
