@@ -34,4 +34,4 @@ comments: false
 <li><a title="radio free fedi - sounds from the fediverse to the universe" href="https://radiofreefedi.net/">radio free fedi</a></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

@@ -13,4 +13,4 @@ comments: false
 ---
 Liked: <a title="Blogging is kinda social" href="https://werd.io/2023/blogging-is-kinda-social">Blogging is kinda social</a><br>[via <a title="rosiesherry" href="https://pinboard.in/u:rosiesherry">rosiesherry</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
