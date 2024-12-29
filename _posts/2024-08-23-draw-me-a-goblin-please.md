@@ -16,4 +16,4 @@ categories:
 <blockquote><p>If you draw something with pixel pixel pixel pixel pixel pixel please share it with me! I’d love to see what folks make!</p></blockquote>
 [<a href="https://tenforward.social/@eli_oat/113008781752983530">@eli_oat</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

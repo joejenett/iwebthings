@@ -16,4 +16,4 @@ categories:
 <a title="One Million Screenshots" href="https://onemillionscreenshots.com/">One Million Screenshots</a><br>[<a href="https://waxy.org/2024/08/one-million-screenshots/">Waxy.org</a>]
 
 <p class="note">Note: Promotional vehicle.</p>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

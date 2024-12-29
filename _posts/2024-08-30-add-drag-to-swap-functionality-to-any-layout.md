@@ -22,4 +22,4 @@ Meet Swapy, a framework-agnostic tool that converts any layout into a <strong>dr
 </blockquote>
 [<a title="source" href="https://pinboard.in/u:zero1infinity">zero1infinity</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

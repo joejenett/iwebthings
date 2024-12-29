@@ -59,4 +59,4 @@ Sometimes the <a href="https://hevonen.httpster.io/">silly things</a> make it al
 <p>
 Not a bad morning, thank you...
 </p>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

@@ -19,5 +19,5 @@ A frictionless peer-to-peer audio chat app for the web that can be embedded in a
 </p>
 </blockquote>
 <small>07/27/24: My experiment with embedding Overtalk has ended. It works well, imo.</small>
-<a href="https://brid.gy/publish/mastodon"></a>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

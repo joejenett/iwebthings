@@ -15,4 +15,4 @@ Just a quick note. If the homepage looks a little odd, please empty your cache. 
 
 Thanks for stopping by.
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

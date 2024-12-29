@@ -23,4 +23,4 @@ an open source HTML5 game engine that empowers developers and designers to focus
 </blockquote>
 [<a href="https://pinboard.in/u:sdellis">sdellis</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

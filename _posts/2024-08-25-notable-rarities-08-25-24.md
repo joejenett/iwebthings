@@ -21,4 +21,4 @@ categories:
 	<li><a title="CSS 3D Clouds" href="https://spite.github.io/CSS3DClouds/">CSS 3D Clouds</a> <a title="source" href="https://pinboard.in/u:zero1infinity">📌</a><blockquote><p>An experiment on creating volumetric 3d-like clouds with CSS3 3D Transforms and a bit of Javascript.</p></blockquote></li>
 </ul>
 joe likes these! 😎
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

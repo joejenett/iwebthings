@@ -17,4 +17,4 @@ categories:
 
 ★ ★ ★ ★ ★ <span style="font-size:1.2em;">😎</span>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

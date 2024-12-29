@@ -28,4 +28,4 @@ Thanks!
 
 <small>(Updated 2024-08-28 11:41:45 -0400)</small>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

@@ -14,4 +14,4 @@ categories:
 ---
 <a title="Radio Shack Catalog Archive (1939-2011)" href="https://www.radioshackcatalogs.com/">Radio Shack Catalog Archive (1939-2011)</a><br>[<a title="source" href="https://pinboard.in/u:mateja">mateja</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

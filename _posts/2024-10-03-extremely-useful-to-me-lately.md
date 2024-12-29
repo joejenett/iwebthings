@@ -17,4 +17,4 @@ categories:
 <a title="Responsively App - A web developer's browser" href="https://responsively.app/">Responsively App - A web developer's browser</a> (ads)
 
 <span style="font-size:2em;">👍</span>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
