@@ -21,4 +21,4 @@ comments: false
 <li><a title="nostr.info \- What is going on in the world of nostr. Stats, Charts, Live Monitors, Resources, …" href="https://nostr.info/">nostr.info</a></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

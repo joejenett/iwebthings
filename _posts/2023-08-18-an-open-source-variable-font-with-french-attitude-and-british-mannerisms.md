@@ -14,4 +14,4 @@ comments: false
 ---
 <a title="Bricolage Grotesque — Free &amp; Open Source Variable Font" href="https://ateliertriay.github.io/bricolage/">Bricolage Grotesque</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

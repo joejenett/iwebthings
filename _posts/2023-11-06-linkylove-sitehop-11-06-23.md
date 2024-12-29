@@ -19,4 +19,4 @@ categories:
 	<li><a title="†Tainted Wingz†" href="https://taintedwings.xyz/">Tainted Wingz</a> <span title="led to site shown below">⇾</span></li>
 	<li><a title="Red Velvet - definitely NOT a diary" href="https://redvelvet.cc/">Red Velvet</a></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

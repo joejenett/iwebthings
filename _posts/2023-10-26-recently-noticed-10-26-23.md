@@ -19,4 +19,4 @@ categories:
 	<li><a title="Simple tabs" href="https://www.mayank.co/blog/tabs/">Simple tabs</a> <a href="https://pinboard.in/u:thulstrup">📌</a><br>“...a simple implementation of tabs in vanilla JavaScript. The goal? Styleable and accessible.”</li>
 	<li><a title="ScreenPlay - Free Open Source Wallpaper, Widgets & Wallpaper Engine" href="https://screen-play.app/">ScreenPlay</a> <a href="https://pinboard.in/u:devnall">📌</a><br>“...an Open Source Live-Wallpaper app for Windows and OSX”</li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

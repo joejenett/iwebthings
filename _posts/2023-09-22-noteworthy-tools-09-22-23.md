@@ -20,4 +20,4 @@ categories:
 	<li><a title="Regular Expression Analyser" href="https://michael.homer.nz/Tools/Regex/">Regular Expression Analyser</a> <a href="https://pinboard.in/u:dusko">📌</a><br>“This tool visualises regular expressions as both nondeterministic and deterministic finite automata...”</li>
 	<li><a title="The perfect drawing tool - Ralph Ammer" href="https://ralphammer.com/the-perfect-drawing-tool/">The perfect drawing tool</a> <a href="https://pinboard.in/u:angusf">📌</a><br>“The emotional rollercoaster I experience in art supply stores can be summarised in one word: greed.”</li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

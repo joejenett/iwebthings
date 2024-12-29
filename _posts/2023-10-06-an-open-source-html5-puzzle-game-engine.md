@@ -16,4 +16,4 @@ categories:
 ---
 <a title="PuzzleScript" href="https://www.puzzlescript.net/">PuzzleScript</a><br>[<a href="https://pinboard.in/u:arnicas">arnicas</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

@@ -28,4 +28,4 @@ categories:
 	<li><a title="Ɀeus’ Stadt" href="https://zeusofthecrows.github.io/stadt/">Ɀeus</a></li>
 	<li><a title="Garden" href="https://foreverliketh.is/">🪴 ～ foreverliketh.is</a></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
