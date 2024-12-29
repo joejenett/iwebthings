@@ -19,4 +19,4 @@ graphics.</p></blockquote>
 
 A  list of compatible terminals is provided. Works great in iTerm2 on my mac.
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

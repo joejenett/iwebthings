@@ -20,4 +20,4 @@ In case I’m right about there being something wrong with the software, I’ve 
 
 For now, I’ll just say I’ve using <a title="DB Browser for SQLite" href="https://sqlitebrowser.org/">DB Browser for SQLite</a> for years and like it. It’s an installed app with a graphical user interface and it works great. So much for having something similar to use in the terminal. One less rabbit hole to deal with, thank you very much.
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

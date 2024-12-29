@@ -21,4 +21,4 @@ categories:
 	<li><a title="SizeOf.Life" href="https://sizeof.life/">Size Of Life</a></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

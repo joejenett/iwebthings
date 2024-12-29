@@ -15,4 +15,4 @@ categories:
 ---
 <a title="Word Tools" href="https://jawj.github.io/wordtools/">Word Tools</a> <small>(<a href="https://github.com/jawj/wordtools">github</a>)</small><br>[<a href="https://pinboard.in/u:tdjones">tdjones</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

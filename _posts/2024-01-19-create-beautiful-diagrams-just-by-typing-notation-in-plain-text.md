@@ -18,4 +18,4 @@ categories:
 [<a href="https://pinboard.in/u:ajdavis">ajdavis</a>]
 
 Amazing what a little math notation can lead to... 😎
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

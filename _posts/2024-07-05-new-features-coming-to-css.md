@@ -15,4 +15,4 @@ categories:
 ---
 <a title="New magic for animations in CSS | Chase McCoy" href="https://chsmc.org/2024/05/css-animations/">New magic for animations in CSS</a><br>[<a href="https://pinboard.in/u:zero1infinity">zero1infinity</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

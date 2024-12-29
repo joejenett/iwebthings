@@ -25,4 +25,4 @@ I’ve got a whole bunch of newly-discovered web things on my plate to further e
 
 
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
