@@ -20,4 +20,4 @@ comments: false
 	<li><a title="The Contrast Triangle" href="https://contrast-triangle.com/">The Contrast Triangle</a> <a href="https://pinboard.in/u:garrettc">📌</a><br>“A three-way color contrast checker for when you remove underlines from links.”</li>
 	<li><a title="ColorKit | Color Blending Tool" href="https://colorkit.io/">ColorKit</a><br>“...generates color scales by mixing the shades between two colors. Enter a start and end color, and choose the number of blend steps, to reveal the stepped gradient.”</li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

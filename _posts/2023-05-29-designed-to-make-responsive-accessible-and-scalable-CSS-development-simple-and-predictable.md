@@ -15,4 +15,4 @@ comments: false
 ---
 <a title="turretcss" href="https://turretcss.com/">turretcss</a><br>[<a title="ascarida" href="https://pinboard.in/u:ascarida">ascarida</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

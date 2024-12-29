@@ -17,4 +17,4 @@ comments: false
 	<li><a title="GitHub - poetaman/arttime" href="https://github.com/poetaman/arttime">arttime</a> <a href="https://pinboard.in/u:roger">📌</a><br>“a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰”</li>
 	<li><a title="ZOMBO" href="https://zombo.com/"><small>ZOMBO</small></a><br>Gotcha! (again) 😎</li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

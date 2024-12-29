@@ -18,4 +18,4 @@ comments: false
 	<li><a title="Picture-in-picture all the things!" href="https://piphero.app/">PiPHero</a> <small>(macOS)</small><a href="https://pinboard.in/u:cmagnuson">📌</a><br>“The macOS menu bar app to picture-in-picture any window”</li>
 	<li><a title="Accessibility Personas" href="https://alphagov.github.io/accessibility-personas/">Accessibility Personas</a> <a class="normaltext" title="source" href="https://adactio.com/links/20219"><img src="/images/left-arrow.png" alt="" width="18"></a><br>“Experience the web as personas with access needs” <small>(<a href="https://accessibility.blog.gov.uk/2019/02/11/using-persona-profiles-to-test-accessibility/">more info</a>)</small></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

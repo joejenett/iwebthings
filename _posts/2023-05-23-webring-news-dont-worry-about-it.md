@@ -13,4 +13,4 @@ comments: false
 ---
 <a title="Rebooting 🕸️💍 an IndieWeb webring" href="https://martymcgui.re/2023/05/20/rebooting--an-indieweb-webring/">Rebooting 🕸️💍 an IndieWeb webring</a>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

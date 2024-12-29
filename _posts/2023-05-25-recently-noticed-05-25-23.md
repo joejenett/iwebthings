@@ -19,4 +19,4 @@ comments: false
 	<li><a title="GitHub - charmbracelet/vhs" href="https://github.com/charmbracelet/vhs">vhs</a> <a href="https://pinboard.in/u:brennen">📌</a><br>“Your CLI home video recorder 📼"</li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

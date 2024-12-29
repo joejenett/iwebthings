@@ -12,4 +12,4 @@ comments: false
 ---
 <a title="GitHub - weiweihuanghuang/fragment-mono: Helvetica Monospace Coding Font" href="https://github.com/weiweihuanghuang/fragment-mono">Fragment Mono: Helvetica Monospace Coding Font</a> <small>(<a href="https://github.com/weiweihuanghuang/fragment-mono/releases/tag/1.011">downloads</a>)</small><br>[<a title="dusko" href="https://pinboard.in/u:dusko">dusko</a>]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

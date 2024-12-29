@@ -19,4 +19,4 @@ comments: false
 	<li><a title="The Condiment Packet Gallery" href="https://www.condimentpacket.com/">The Condiment Packet Gallery</a> <a href="https://pinboard.in/u:dcompute">📌</a><br>“A historical archive of flexible portion control sauce packets.”</li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
