@@ -9,8 +9,8 @@ slug: heres-to-serendipity-thanks-John
 summary: discovery - a beautiful thing
 comments: false
 categories:
-  - explore
   - directories
+  - exploring
 ---
 <p>
 <a title="discovery - a beautiful thing" href="https://diagram.website/">Diagram Website – An internet map</a><br>[<a href="https://pinboard.in/u:philapple">philapple</a>]

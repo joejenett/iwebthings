@@ -11,7 +11,7 @@ comments: false
 categories:
   - lists
   - miscellany
-  - explore
+  - exploring
 ---
 <ul class="links">
 	<li><a title="text-mode.org" href="https://text-mode.org/?page_id=510">random | text-mode.org</a> <a href="https://pinboard.in/u:arnicas">📌</a><br>“Text graphics: ASCII, PETSCII and its distant relatives.”</li>

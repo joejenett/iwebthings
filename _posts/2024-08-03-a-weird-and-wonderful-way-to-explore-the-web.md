@@ -9,9 +9,9 @@ slug: a-weird-and-wonderful-way-to-explore-the-web
 summary: ‘1,048,576 homepage screenshots’
 comments: false
 categories:
-  - explore
   - odd
   - web
+  - exploring
 ---
 <a title="One Million Screenshots" href="https://onemillionscreenshots.com/">One Million Screenshots</a><br>[<a href="https://waxy.org/2024/08/one-million-screenshots/">Waxy.org</a>]
 

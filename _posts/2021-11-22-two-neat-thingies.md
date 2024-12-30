@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  two neat thingies
-date:   2021-11-22 16:48:10 -0400
+title: two neat thingies
+date: 2021-11-22 16:48:10 -0400
 author: joe jenett
 category:
-  -  explore
+  - exploring
 permalink: /two-neat-thingies/
 slug: two-neat-thingies
 ---

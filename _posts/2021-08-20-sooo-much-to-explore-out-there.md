@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "sooo much to explore out there..."
-date:   2021-08-20 08:41:00 -0400
+title: sooo much to explore out there...
+date: 2021-08-20 08:41:00 -0400
 author: joe jenett
 category:
   - i-webthings
-  - explore
+  - exploring
 permalink: /sooo-much-to-explore-out-there/
 slug: much-to-explore
 ---

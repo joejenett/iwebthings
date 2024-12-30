@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  our growing directory
-date:   2021-11-26 15:25:40 -0400
+title: our growing directory
+date: 2021-11-26 15:25:40 -0400
 author: joe jenett
 category:
-  -  i-webthings-directory
-  -  explore
+  - i-webthings-directory
+  - exploring
 permalink: /our-growing-directory/
 slug: our-growing-directory
 ---

@@ -9,8 +9,8 @@ slug: just-a-linklog
 summary: 👏
 comments: false
 categories:
-  - explore
   - links
+  - exploring
 ---
 <a title="by Brad Enslen" href="https://linkpunk.micro.blog/">Link Punk: A Linkblog</a>
 <blockquote><p>...mainly for <strong>articles</strong> and individual <strong>blog posts</strong> that I find and want to share.</p></blockquote>
