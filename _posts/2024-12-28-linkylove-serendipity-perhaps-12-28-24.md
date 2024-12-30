@@ -23,4 +23,4 @@ categories:
 	Big thanks to <a href="https://pinboard.in/u:ramblinggit">Brad</a>, <a href="https://pinboard.in/u:mikael">mikael</a>, and <a href="https://pinboard.in/u:maroonblazer">maroonblazer</a> too!
 </p>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

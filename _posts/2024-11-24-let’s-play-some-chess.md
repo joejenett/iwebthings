@@ -13,4 +13,4 @@ categories:
 ---
 <a title="PawnPush - a new challenger every day to defeat" href="https://pawnpush.com/">PawnPush</a><br>[<a title="source" href="https://pinboard.in/u:tdjones">tdjones</a>, of course! 😎]
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

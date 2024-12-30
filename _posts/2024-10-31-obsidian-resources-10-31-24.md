@@ -20,4 +20,4 @@ categories:
 	<li><a title="GitHub - Magic-wei/obsidian_wiki_template: ...personal wiki or note-taking system template..." href="https://github.com/Magic-wei/obsidian_wiki_template">Obsidian Wiki Template</a> <a title="source" href="https://pinboard.in/u:dusko">📌</a><blockquote><p>This is a personal wiki or note-taking system template based on Obsidian which works on top of a local folder of plain text Markdown files. </p></blockquote></li>
 	<li><a title="GitHub - chrisgrieser/shimmering-obsidian: Alfred Workflow with dozens of features for controlling your Obsidian vault." href="https://github.com/chrisgrieser/shimmering-obsidian">Shimmering Obsidian 🎩</a><blockquote><p><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">⭐ <span style="font-weight:300;text-decoration:underline;">Featured in the Alfred Gallery.</span></a></p></blockquote></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

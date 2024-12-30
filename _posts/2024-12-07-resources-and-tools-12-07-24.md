@@ -21,4 +21,4 @@ categories:
 	<li><a title="GitHub - cdleon/awesome-terminals" href="https://github.com/cdleon/awesome-terminals">awesome-terminals</a> (a long list) <a title="source" href="https://pinboard.in/u:tdjones">📌</a><blockquote><p>Terminal Emulators [and Tools]</p></blockquote></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

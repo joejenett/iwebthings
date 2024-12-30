@@ -16,4 +16,4 @@ categories:
 
 <small>(appears to work in Chrome, Firefox, and Safari)</small>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
