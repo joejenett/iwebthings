@@ -173,5 +173,5 @@ Ray
 <p style="font-size:.8em;">Thanks Ray! Color me blushing...
 </p>
 </div>
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

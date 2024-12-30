@@ -16,5 +16,5 @@ comments:
 <p style="text-decoration:line-through;">Being curious as you are, go play with the button over there on the sidebar. Are you thinking what I’m thinking? If you decide you’d like to be part of this experiment, do let me know. A network is in order.  You know who you are - let’s make some noise! (And please tell your friends.) 😎</p>
 <p style="font-weight:500;font-size:.9em;">Update 10/09/22: The <em>we.Link</em> project has been discontinued for now.</p>
 <p style="font-weight:500;font-size:.9em;">Update 11/05/22: The <em>i.w linkring</em> project has been reimplemented.</p>
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

@@ -20,5 +20,5 @@ And if you feel like _exploring_, [Marginalia Search](https://search.marginalia.
 
 Stay warm and enjoy your Sunday!
 
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

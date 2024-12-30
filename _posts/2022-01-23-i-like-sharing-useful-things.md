@@ -52,5 +52,5 @@ I do very much appreciate O's crossplatformabilty (is that a word?) because I us
 Ray
 </p>
 </div>
-<a href="https://brid.gy/publish/twitter"></a>
+<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>
