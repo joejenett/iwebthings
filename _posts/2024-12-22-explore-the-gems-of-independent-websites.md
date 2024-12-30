@@ -10,7 +10,7 @@ summary: 👍
 comments: true
 categories:
   - search
-  - explore
+  - exploring
 ---
 <a title="RawWeb" href="https://rawweb.org/">RawWeb</a><br>[<a title="source" href="https://pinboard.in/u:roger">roger</a>]
 
