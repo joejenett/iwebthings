@@ -28,4 +28,4 @@ The site’s about page also reminded of something else useful for those interes
 
 😎 Happy New Year y’all<strong>!</strong>
 
-<a href="https://brid.gy/publish/mastodon"></a>
+<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
