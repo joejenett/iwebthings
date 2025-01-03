@@ -53,7 +53,10 @@ function doit() {
 <a href="{{ site.baseurl }}categories/#{{category|slugize}}">{{category}}</a>
 {% unless forloop.last %}&nbsp;{% endunless %}
 {% endfor %}
-</span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
+</span>
+<!--
+<span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
+-->
 </div>
 {%- if site.show_excerpts -%}
 {{ post.excerpt }}
@@ -83,7 +86,10 @@ function doit() {
 <a href="{{ site.baseurl }}/categories#{{category|slugize}}">{{category}}</a>
 {% unless forloop.last %}&nbsp;{% endunless %}
 {% endfor %}
-</span><span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
+</span>
+<!--
+<span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
+-->
 </div>
 </li>
 {% endif %}
