@@ -8,6 +8,8 @@ permalink: /notes-from-the-hub-01-03-25/
 slug: /notes-from-the-hub-01-03-25/
 summary: 
 comments: true
+categories:
+  - i-webthings
 ---
 2025! For each of us, may it be the best year ever!
 
