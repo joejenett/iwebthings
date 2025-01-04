@@ -16,4 +16,4 @@ categories:
 <blockquote><p>Find people to talk to or collaborate with by searching across the /about, /ideas and /now pages of 7584 personal websites.</p></blockquote>
 [<a href="https://pinboard.in/u:kc5tja">kc5tja</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

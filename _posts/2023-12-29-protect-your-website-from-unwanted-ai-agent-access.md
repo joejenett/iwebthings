@@ -16,4 +16,4 @@ categories:
 
 <a title="Dark Visitors - A list of known AI agents on the internet" href="https://darkvisitors.com/">Dark Visitors</a><br>[<a href="https://pinboard.in/u:zero1infinity">zero1infinity</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

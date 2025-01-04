@@ -25,4 +25,4 @@ Okay. so an Italian sub is not a hoagie but they are at least cousins and the si
 <img title="yummy" src="https://ideas.joejenett.com/images/goodstart.png" width="300" alt="yummy sub">
 </p>
 <small><em>Doin’ it for the fun, baby!</em></small>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

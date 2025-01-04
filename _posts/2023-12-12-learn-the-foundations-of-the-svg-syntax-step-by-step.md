@@ -17,4 +17,4 @@ categories:
 <p>
 The brief time I spent reading just a few of the tutorials, I found answers to a number of questions I've always had about <abbr title="Scalable Vector Graphics">SVG</abbr> coding. In my opinion, a well-written primer that should be useful to anyone who wants to learn the basics or fill in some gaps in their existing knowledge of the syntax. Bravo! 😎
 </p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

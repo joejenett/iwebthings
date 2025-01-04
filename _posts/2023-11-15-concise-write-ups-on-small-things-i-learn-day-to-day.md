@@ -15,4 +15,4 @@ categories:
 ---
 <a title="GitHub - jbranchaud/til: :memo: Today I Learned" href="https://github.com/jbranchaud/til#readme">:memo: Today I Learned</a><br>[<a title="brennen" href="https://pinboard.in/u:brennen">brennen</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

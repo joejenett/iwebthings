@@ -16,4 +16,4 @@ I was considering several cool color tools and newly discovered curiosities for 
 
 <a title="The Boston Typewriter Orchestra | A collective endeavor which engages in rhythmic typewriter manipulation combined with elements of performance, comedy and satire. BTO aims to entertain the masses while providing an outlet for the creative urges of its members. *BTO promises to protect customer confidentiality with the utmost vigilance while remaining irreverent at all times." href="http://www.bostontypewriterorchestra.com/">The Boston Typewriter Orchestra</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

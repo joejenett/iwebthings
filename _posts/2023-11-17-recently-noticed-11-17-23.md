@@ -20,4 +20,4 @@ categories:
 	<li><a title="MDwiki" href="https://dynalon.github.io/mdwiki/">MDwiki</a> <a href="https://pinboard.in/u:kme">📌</a><br>“...a CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client.”</li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

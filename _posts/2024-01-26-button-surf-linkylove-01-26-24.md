@@ -16,4 +16,4 @@ categories:
 	<li><a title="coffeebug's website" href="https://midifreak.online/"><img src="/images/coffeebug.jpg" alt="coffeebug's website" width="88" height="31"></a><br><a title="coffeebug's website" href="https://midifreak.online/">coffeebug's website</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="cyberdragon" href="http://www.cyberdragon.digital/"><img src="/images/cyberdragon.png" alt="cyberdragon" width="88" height="31"></a><br><a title="cyberdragon" href="http://www.cyberdragon.digital/">cyberdragon</a> <span title="led to site shown below"></span></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

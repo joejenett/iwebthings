@@ -29,4 +29,4 @@ If you’re reading this, you already know how much I appreciate your interest. 
 In a nutshell, what we’ve been calling <em>social media</em> has greatly distorted the true meaning of <em>social</em> and has been harmful to both the web and society. The exciting part is that the Fediverse just might be the key to building a true ‘Peopleverse.’  <span style="text-decoration:line-through;color:#999;">All of this excites  me - I simply must make time soon to explore it further ’cause it leaves me so inspired.</span>
 </p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
