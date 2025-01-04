@@ -22,4 +22,4 @@ comments:
 <li><a href="https://inkdroid.org/2022/11/20/t-dot-co/">inkdroid.org: ‘t.co’</a><br>That Twitter archive you downloaded contains only shortened links (t.co) – this article shares two Python tools for fixing that.</li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

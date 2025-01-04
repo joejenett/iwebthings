@@ -12,4 +12,4 @@ comments: false
 ---
 If you recently encountered navigation issues at the <a href="https://directory.joejenett.com/">i.webthings directory</a>, I’m sorry for the inconvenience. It’s good to go now. 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

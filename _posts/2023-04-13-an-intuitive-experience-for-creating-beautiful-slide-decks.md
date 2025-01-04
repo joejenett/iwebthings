@@ -15,4 +15,4 @@ comments: false
 ---
 <a title="Marp: Markdown Presentation Ecosystem" href="https://marp.app/">Marp: Markdown Presentation Ecosystem</a> <a href="https://pinboard.in/u:tremolo">📌</a>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

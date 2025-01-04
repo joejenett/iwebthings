@@ -15,4 +15,4 @@ comments: false
 ---
 <a title="BentoGrid.js" href="https://bentogrid.mariohamann.com/">BentoGrid.js</a><br>[<a title="marcohamersma" href="https://pinboard.in/u:marcohamersma">marcohamersma</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
