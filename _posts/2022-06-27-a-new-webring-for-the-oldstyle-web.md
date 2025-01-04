@@ -22,5 +22,5 @@ A webring for non-commercial personal pages be they static homepages or blogs or
 <p>
 Needless to say, I submitted <em>bulltown.2022</em> as soon as I knew about the webring. It was a good fit and I”m hoping to see some other <em>retrostyle</em> sites come onboard. Like Brad said, “it’s kind of lonely” at the moment. If the shoe fits, please <a href="https://indieseek.xyz/webring/" title="">apply to be included</a>! 
 </p>
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

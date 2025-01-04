@@ -11,5 +11,5 @@ summary: go explore silly!
 ---
 ...you might try <a title="the dailywebthing: exploring something cool" href="https://dwt-archives.joejenett.com/?s=exploring+something+cool">exploring something cool</a>. Enjoy your day!
 
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

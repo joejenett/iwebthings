@@ -19,5 +19,5 @@ comments:
 <p>If you have a directory, blogroll or some other <em>linking</em> site, I might want to invite you to join my little network. I know of several readers with sites I’d love to include. If you have a directory-like site and you’re willing to add a few lines of code to your site, please <a href="https://joejenett.com/contact/">let me know</a>. </p>
 <p>Cheers!</p>
 	
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>

@@ -11,5 +11,5 @@ slug: an-interesting-chat
 Ethan Zuckerman of <a href="https://publicinfrastructure.org/">The Initiative for Digital Public Infrastructure</a> talks to <a href="https://publicinfrastructure.org/podcast/42-maciej-ceglowski" title="Reimagining the Internet podcast">Maciej Ceglowski (Pinboard)</a> - definitely worth a listen in my opinion. Enjoy.
 
 [via <a title="eli-oat" href="https://pinboard.in/u:eli-oat">eli-oat</a>]
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
 <data class="p-bridgy-omit-link" value="false"></data>
