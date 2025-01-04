@@ -24,4 +24,4 @@ This one’s for button lovers...
 <a href="https://bulltown.joejenett.com/"><img alt="bulltown.2022" src="https://iwebthings.joejenett.com/images/b22button.png" width="88" style="margin-bottom:9px;"></a> ⇾ <a title="rose dryad (v.2)" href="https://rosedryad.com/"><picture><source srcset="https://iwebthings.joejenett.com/images/rosedryad.gif" type="image/gif" media="(prefers-reduced-motion: no-preference)"><img src="https://iwebthings.joejenett.com/images/rosedryad.jpg" alt="rose dryad (v.2)" width="88" style="margin-bottom:9px;" height="31"></picture></a> ⇾ <a title="the museum of alexandra" href="https://xandra.cc/"><img src="https://iwebthings.joejenett.com/images/xandra.png" alt="the museum of alexandra" width="88" style="margin-bottom:9px;" height="31" /></a> ⇾  <a title="maya.land" href="https://maya.land/"><img src="https://iwebthings.joejenett.com/images/maya-land.gif" alt="maya.land" width="88" style="margin-bottom:9px;" height="31" /></a>
 </p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

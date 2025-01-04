@@ -23,4 +23,4 @@ categories:
 	<li><a title='“Welcome to Zombo.com!”' href="https://zombo.com/">ZOMBO</a></li>
 </ul>
 <p><img src="https://iwebthings.joejenett.com/images/newguy.png" alt="" width="28"></p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

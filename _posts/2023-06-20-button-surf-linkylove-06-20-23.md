@@ -18,4 +18,4 @@ comments: false
 	<li><a title="Danppun inside the Web" href="https://danppun.neocities.org/">Danppun inside the Web</a> <span title="led to site shown below">⇾</span></li>
 	<li><a title="tiger carnival" href="https://bisuko.neocities.org/">tiger carnival</a> <span title="led to site shown below">⇾</span></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

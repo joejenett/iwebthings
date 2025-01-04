@@ -15,4 +15,4 @@ comments: false
 ---
 <a title="Polychroma" href="https://polychroma.app/">Polychroma</a><br>[<a title="eoghanm" href="https://pinboard.in/u:eoghanm">eoghanm</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

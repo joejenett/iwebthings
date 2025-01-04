@@ -15,7 +15,7 @@ categories:
 <a title="LinearMouse" href="https://linearmouse.app/">LinearMouse</a> <small>(<a href="https://github.com/linearmouse/linearmouse">github</a>)</small><br>[<a href="https://pinboard.in/u:zero1infinity">zero1infinity</a>]
 <p class="note">Note: This is not an endorsement.</p>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
 
 <p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
 Previous Comments:

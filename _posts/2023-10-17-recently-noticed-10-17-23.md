@@ -19,4 +19,4 @@ categories:
 	<li><a title="News - Mojeek" href="https://www.mojeek.com/news">News - Mojeek</a> <a class="normaltext" title="source" href="https://mastodon.social/@Mojeek/111245586494075527"><img src="https://iwebthings.joejenett.com/images/left-arrow.png" alt="" width="18"></a> <a class="normaltext" title="source" href="https://mastodon.social/@bradenslen"><img src="https://iwebthings.joejenett.com/images/left-arrow.png" alt="" width="18"></a><br>“Mojeek News got a ⚠️  <small>MAJOR</small> ⚠️ update...”</li>
 	<li><a title="GitHub - ycd/dstp" href="https://github.com/ycd/dstp">dstp</a> <a href="https://pinboard.in/u:jugglebird">📌</a><br>“run common networking tests against your site”</li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

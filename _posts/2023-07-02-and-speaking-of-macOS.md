@@ -16,4 +16,4 @@ comments: false
 <p>and, from the same author:</p>
 <p><a title="macOS tips and tricks" href="https://saurabhs.org/macos-tips">macOS tips and tricks</a></p>
 <p></p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

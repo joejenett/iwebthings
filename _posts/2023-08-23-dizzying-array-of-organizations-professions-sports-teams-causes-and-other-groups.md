@@ -14,4 +14,4 @@ comments: false
 ---
 <a title="All of the 8,291 License Plates in America" href="https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/">All of the 8,291 License Plates in America</a><br>[<a href="https://pinboard.in/u:ftofani">ftofani</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

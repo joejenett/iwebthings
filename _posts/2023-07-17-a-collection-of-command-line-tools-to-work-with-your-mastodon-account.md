@@ -14,4 +14,4 @@ comments: false
 ---
 <p><a title="GitHub - muesli/mastotool" href="https://github.com/muesli/mastotool">mastotool</a><br>[<a title="jaygooby" href="https://pinboard.in/u:jaygooby">jaygooby</a>]</p>
 <p>Search your fediverse posts and get stats - works well for me on the mac via homebrew. 😎</p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

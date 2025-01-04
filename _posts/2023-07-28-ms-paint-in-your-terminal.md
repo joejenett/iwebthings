@@ -14,4 +14,4 @@ comments: false
 ---
 <a title="1j01/textual-paint: :art" href="https://github.com/1j01/textual-paint">Textual Paint</a> <small>(requires Python)</small><br>[<a href="https://pinboard.in/u:angusf">angusf</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

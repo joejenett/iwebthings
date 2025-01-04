@@ -18,4 +18,4 @@ categories:
 <blockquote><p>Track climate change, global warming and greenhouse gas emissions. Explore the latest data and insights. Share and make an impact!</p></blockquote>
 [<a href="https://pinboard.in/u:ftofani">ftofani</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

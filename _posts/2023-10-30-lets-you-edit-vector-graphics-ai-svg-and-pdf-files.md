@@ -14,4 +14,4 @@ categories:
 ---
 <a title="Vectorpea | Online Vector Editor (Beta)" href="https://www.vectorpea.com/">Vectorpea | Online Vector Editor (Beta)</a><br>[<a href="https://pinboard.in/u:fileformat">fileformat</a>]
 <p class="note">Note: Freemium (free version is planned to have ads).</p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

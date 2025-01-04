@@ -18,4 +18,4 @@ comments: false
 	<li><a title="Commit Mono. Neutral programming typeface." href="https://commitmono.com/">Commit Mono. Neutral programming typeface.</a> <a href="https://pinboard.in/u:ssorc">📌</a><br>“an anonymous and neutral coding font focused on creating a better reading experience”</li>
 	<li><a title="GitHub - johnkerl/miller: Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" href="https://github.com/johnkerl/miller">Miller</a> <small>(<a href="https://miller.readthedocs.io/en/6.8.0/">docs</a>)</small> <a href="https://pinboard.in/u:effulgence">📌</a><br>“Miller is a command-line tool for querying, shaping, and reformatting data files in various formats including CSV, TSV, JSON, and JSON Lines.”</li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

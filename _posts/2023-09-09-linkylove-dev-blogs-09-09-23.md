@@ -21,4 +21,4 @@ categories:
 	<li><a title="James Hague" href="https://prog21.dadgum.com/">Programming in the 21st Century</a> <a href="https://pinboard.in/u:dusko">📌</a></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

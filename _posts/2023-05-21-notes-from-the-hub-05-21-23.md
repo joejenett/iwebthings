@@ -18,4 +18,4 @@ Earlier this month, thorough testing and fixing of links was also completed at t
 Yay!
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
