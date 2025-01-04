@@ -17,4 +17,4 @@ I’m gradually reviewing and repopulating the bookmarks. In the end, updating P
 
 Yay!
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

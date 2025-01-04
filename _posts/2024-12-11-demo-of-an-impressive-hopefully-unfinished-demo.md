@@ -25,4 +25,4 @@ In the meantime, I took a screenshot and removed the background to make the demo
 <p style="font-size:.90em;">
 Cheers!
 </p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

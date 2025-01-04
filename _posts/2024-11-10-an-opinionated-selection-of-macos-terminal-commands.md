@@ -17,4 +17,4 @@ categories:
 
 Related: <a title="An A-Z Index of the Apple macOS command line - SS64 Command line reference" href="https://ss64.com/mac/">An A-Z Index of the Apple macOS command line</a> (<a href="https://dwt-archives.joejenett.com/list-recently-noticed-54/"><small>2012</small></a>)
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

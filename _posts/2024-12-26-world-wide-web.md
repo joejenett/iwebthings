@@ -19,5 +19,5 @@ categories:
 <blockquote><p>Web experiments, explainers, code snippets by <a href="https://artlung.com/">Joe Crawford</a> since 1996. Some current. Some out of date. You can follow the site <a href="https://lab.artlung.com/feed.xml">feed</a> and the code in the <a href="https://github.com/artlung/lab.artlung.com">GitHub repository</a>.</p></blockquote>
 😎 I like!
 <p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
 </p>

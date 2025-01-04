@@ -26,4 +26,4 @@ We don't host your site or charge you anything. Upload your songs and preview yo
 
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

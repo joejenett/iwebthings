@@ -14,4 +14,4 @@ categories:
 ---
 <a title="po-ru.com" href="https://po-ru.com/2024/12/01/subscribing-to-feeds-that-cloudflare-blocks">Subscribing to feeds that Cloudflare blocks</a><br>[<a title="source" href="https://pinboard.in/u:roger">roger</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

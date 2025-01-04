@@ -37,4 +37,4 @@ This list represents only a fraction of the many web people and sites I’m than
 
 
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
