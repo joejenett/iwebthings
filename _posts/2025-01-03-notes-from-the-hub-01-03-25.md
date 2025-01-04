@@ -42,6 +42,4 @@ In addition, <em>the dailywebthings archives</em> site is virtually free of bad 
 
 Cheers!
 
-
-
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
