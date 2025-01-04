@@ -22,4 +22,4 @@ You do not need Webmentions to be part of the “IndieWeb”. The only real “r
 </blockquote>
 \[[32-Bit Café](https://discourse.32bit.cafe/t/one-of-us-shellsharks-com/1277)\]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

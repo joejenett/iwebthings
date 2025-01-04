@@ -23,4 +23,4 @@ We encourage you to view the HTML source code for each work to discover new ways
 
 <img src="https://iwebthings.joejenett.com/images/eguy.png" alt="" width="24" style="vertical-align:middle;margin-top:-4px;"> Superb!
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

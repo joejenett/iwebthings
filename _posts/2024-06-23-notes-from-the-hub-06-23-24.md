@@ -18,4 +18,4 @@ I ran into something touching (and relatable) yesterday:<br><a title="%Title%" h
 
 Thanks for being here - have a great day!
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

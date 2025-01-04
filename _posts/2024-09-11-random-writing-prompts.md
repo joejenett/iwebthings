@@ -14,4 +14,4 @@ categories:
 ---
 <a title="Blog Prompts" href="https://blogprompts.fyi/">Blog Prompts</a><br>[<a href="https://mastodon.social/@rscottjones/">R Scott Jones</a> &lt; <a href="https://social.lol/@amerpie">Lou Plummer</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

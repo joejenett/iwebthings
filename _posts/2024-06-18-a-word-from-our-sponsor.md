@@ -16,4 +16,4 @@ categories:
   frameborder="0"></iframe>
 (thanks <a title="FakeBrain | Clickbait for everyone!" href="https://f-brain.glitch.me/">FakeBrain</a>)
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

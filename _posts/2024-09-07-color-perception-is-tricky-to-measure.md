@@ -19,4 +19,4 @@ Getting outlier results doesn't mean there's anything wrong with your vision. It
 </blockquote>
 [<a href="https://frills.dev/bookmarks/">Frills</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

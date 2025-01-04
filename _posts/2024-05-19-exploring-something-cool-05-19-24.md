@@ -15,4 +15,4 @@ categories:
 ---
 <a title="zk | A plain text note-taking assistant" href="https://zk-org.github.io/zk/">zk | A plain text note-taking assistant</a> <small> (<a href="https://github.com/zk-org/zk">github</a>)</small><br>[<a href="https://pinboard.in/u:devnall">devnall</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

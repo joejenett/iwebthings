@@ -17,4 +17,4 @@ comments: false
 	<li><a title="SupportsCSS" href="https://supportscss.dev/">SupportsCSS</a> <a title="source" href="https://pinboard.in/u:roger">📌</a><blockquote><p>Live, in-browser detection of modern CSS support for selectors, features, and at-rules. </p></blockquote></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

@@ -23,4 +23,4 @@ categories:
 	<li><a title="GitHub - 9001/copyparty" href="https://github.com/9001/copyparty">💾🎉 copyparty</a> <small>(<a href="https://a.ocv.me/pub/demo/">read-only demo server</a>)</small> <a href="https://pinboard.in/u:solari">📌</a><blockquote><p>Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps</p></blockquote></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
