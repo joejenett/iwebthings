@@ -16,4 +16,4 @@ categories:
 
 <a title="Fit-to-Width Text: A New Technique" href="https://kizu.dev/fit-to-width/">Fit-to-Width Text: A New Technique</a><br>[<a title="source" href="https://pinboard.in/u:roger">roger</a>]
 <p><img src="https://iwebthings.joejenett.com/images/newguy.png" alt="" width="28"></p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

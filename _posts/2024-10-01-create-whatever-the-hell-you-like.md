@@ -14,4 +14,4 @@ categories:
 ---
 <a title="The web we want: A beginner’s guide to the IndieWeb · Paul Robert Lloyd" href="https://paulrobertlloyd.com/2024/201/s1/peckham_digital/">The web we want: A beginner’s guide to the IndieWeb</a><br>[<a title="source" href="https://adactio.com/links/21442">Adactio</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

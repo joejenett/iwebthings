@@ -14,4 +14,4 @@ categories:
 ---
 <a title="osm2streets Street Explorer" href="https://a-b-street.github.io/osm2streets/index.html">StreetExplorer</a> <small>(<a href="https://github.com/a-b-street/osm2streets">github</a>)</small><br>[<a href="https://pinboard.in/u:jarek">jarek</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

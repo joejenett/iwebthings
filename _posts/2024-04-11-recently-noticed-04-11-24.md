@@ -20,4 +20,4 @@ categories:
 	<li><a title="Jan - Turn your computer into an AI computer" href="https://jan.ai/">Jan</a> <a href="https://pinboard.in/u:peterkaminski">📌</a><br>“...opinionated software on what AI should be”</li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

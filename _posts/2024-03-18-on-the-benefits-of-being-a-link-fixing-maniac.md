@@ -20,4 +20,4 @@ The bonus is that since I first linked to the site in 2014, the author used the 
 
 Damn, I love this job!
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

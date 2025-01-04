@@ -20,4 +20,4 @@ categories:
 	<li><a title="The Void – Underground Music Radio" href="https://thevoidrad.io/">The Void – Underground Music Radio</a> <a href="https://pinboard.in/u:sdellis">📌</a><br>“This is your default pre and after party radio, so tune in now!”</li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

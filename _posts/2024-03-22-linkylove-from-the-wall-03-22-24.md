@@ -16,4 +16,4 @@ comments: false
 	<li><a title="Aelyn" href="https://aelysia.net/"><small>A E L Y S I A   ❰ d o t ❱   N E T</small></a><br>&#8618; <a title="cloudplane collective directory" href="https://dir.aelysia.net/"><small>❰  C L O U D P L A N E  ❱</small>  ◦  Collective Directory</a></li>
 </ul>
 <p><a href="https://bulltown.joejenett.com/links"><img src="/images/b22.jpg" alt="" width="36"></a></p>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

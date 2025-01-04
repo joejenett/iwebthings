@@ -26,4 +26,4 @@ Playing with it got me thinking about a few other avatar generators I’ve share
 </ul>
 Enjoy!
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

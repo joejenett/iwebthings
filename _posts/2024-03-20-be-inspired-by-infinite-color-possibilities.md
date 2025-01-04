@@ -15,4 +15,4 @@ categories:
 ---
 <a title="Gradientor - A minimalist, beautiful Radial Background Generator" href="https://gradientor.app/">Gradientor</a><br>[<a href="https://pinboard.in/u:chrismasters">chrismasters</a>]
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

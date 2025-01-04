@@ -17,4 +17,4 @@ categories:
 	<li><a title="Rail (that fox)" href="https://flufftech.net/">Rail (that fox)</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="The web site of awawa" href="https://awawa.neocities.org/">The web site of awawa</a></li>
 </ul>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

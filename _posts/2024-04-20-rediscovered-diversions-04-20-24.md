@@ -18,4 +18,4 @@ categories:
 	<li><a title="wordways" href="https://wordways.us/">wordways</a></li>
 	<li><a title="Wall art generator - Rasterbator" href="https://rasterbator.net/">The Rasterbator</a></li>
 	</ul>
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

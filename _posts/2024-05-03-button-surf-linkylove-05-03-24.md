@@ -24,4 +24,4 @@ categories:
 <li><a title="devils’ den" href="https://devils.gay/"><img src="/images/devils-gay.jpg" alt="devils’ den" width="88" height="31"><br>devils’ den</a></li>
 </ul>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

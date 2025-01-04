@@ -17,4 +17,4 @@ categories:
 
 😎 <small>Exemplifies the power of open-source, imho...</small>
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

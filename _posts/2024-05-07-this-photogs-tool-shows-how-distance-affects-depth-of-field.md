@@ -18,4 +18,4 @@ Related: <a title="Hyperfocal distance - Wikipedia" href="https://en.wikipedia.o
 
 Nicely done!
 
-<a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+<a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
