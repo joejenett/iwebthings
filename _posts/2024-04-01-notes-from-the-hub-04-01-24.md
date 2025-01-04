@@ -27,3 +27,15 @@ Fortunately, I love doing what I do and if any of it is useful or enjoyable to y
 Thanks for reading this.
 
 <a href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
+
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
+Previous Comments:
+</p>
+
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">4/1/24</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><strong>C.C</strong>
+Your web things are so much fun to follow! Thanks for putting in the work to document and archive the links. I can't get them elsewhere!
+</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">4/2/24</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://iwebthings.joejenett.com/">Joe</a>
+You’re welcome! Appreciate your feedback.</p>

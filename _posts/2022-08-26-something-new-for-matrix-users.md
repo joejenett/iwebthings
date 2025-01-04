@@ -19,5 +19,21 @@ comments:
 <p>Please let me know, if for no other reason, to see if my fancy new commenting system works. Thanks.</p>
 
 
-<a href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:16px;border-top:1px solid #ddd;margin-top:24px;">
+Previous Comments:
+</p>
+
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:500;font-size:16px;">8/29/22</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://www.unseensounds.com/">Poorchop</a>
+I have tried giving Matrix a chance but I can't peel myself away from IRC. I wish that more people still used it but it seems like nothing will bring people back to it. Nevertheless, the new system that you have here is pretty neat. I was refraining from commenting with your previous setup but this is more enticing.</p>
+
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><a href="https://iwebthings.joejenett.com/">joe jenett</a>
+Hey Poorchop - thanks. The GitHub only approach didn't sit right with me either. Now you've got me thinking about IRC which is a good thing. 'cause there's a way to create a bridge between Matrix and IRC (which I'll be looking into soon). Have a great day!
+</p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;"><strong>@_snoonet_jenett:matrix.org</strong>
+<a href="https://iwebthings.joejenett.com/">joe jenett</a>
+
+: hello from IRC (and thanks Poorchop)
+</p>
+
 <data class="p-bridgy-omit-link" value="false"></data>
