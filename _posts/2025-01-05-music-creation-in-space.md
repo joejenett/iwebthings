@@ -20,7 +20,7 @@ Last night, I revisited an old fave, a little musical toy called <a title="PLINK
 addictive, meditative, music creation in space
 </p>
 </blockquote>
-Note: I also discovered that the above work best in Safari and Chrome. 
+Note: I also discovered the above sites work best in Safari and Chrome. 
 
 Firefox: not so much.
 
