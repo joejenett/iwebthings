@@ -20,6 +20,10 @@ Last night, I revisited an old fave, a little musical toy called <a title="PLINK
 addictive, meditative, music creation in space
 </p>
 </blockquote>
-If you dig in, you’ll find other musical toys and while I don’t typically link to commercial portfolios, I’ll just say the information link will get you there - but be warned, you may be astounded...
+Note: I also discovered that the above work best in Safari and Chrome. 
+
+Firefox: not so much.
+
+If you dig in a little, you’ll find other musical toys and while I don’t typically link to commercial portfolios, I’ll just say the information link will get you there - but be warned, you may be astounded...
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
