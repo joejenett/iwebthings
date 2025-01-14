@@ -13,7 +13,7 @@ categories:
   - tools
   - demo
 ---
-<img src="/images/easy-screenshot.png" alt="a shot of this post" style="position:relative;float:right;" width="160">
+<img src="/images/easy-screenshot.png" alt="a shot of this post" style="position:relative;float:right;margin-right:1rem;" width="150">
 <a title="shot-scraper - a command-line utility for taking automated screenshots of websites" href="https://shot-scraper.datasette.io/en/stable/">shot-scraper</a><br>[<a title="source" href="https://pinboard.in/u:jshwlkr">jshwlkr</a>]
 
 😎 Excellent documentation!
