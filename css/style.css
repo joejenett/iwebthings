@@ -591,9 +591,8 @@ div.hcard-display {
 		width:99%;	
 	}
 	.twof {
-		/*width:100%;*/
-		margin-left: 160px;
-		margin-right: 160px;
+		width:100%;
+		
 	}
 	.thesidebar {
 		position:relative;
