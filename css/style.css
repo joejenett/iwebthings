@@ -680,7 +680,7 @@ div.hcard-display {
 	.thesidebar {
 		position:relative;
 		left:-8px;
-		padding-top:24px;
+		padding-top:0;
 	}
 }
 @media only screen and (max-width:600px) {
