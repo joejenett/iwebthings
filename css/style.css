@@ -685,12 +685,12 @@ div.hcard-display {
 }
 @media only screen and (max-width:600px) {
 	.thesidebar {
-	padding: 0 100px;
+	margin: 0 100px;
 	}
 
 @media only screen and (max-width:540px) {
 	.thesidebar {
-		padding: 0 70px;
+		margin: 0 70px;
 	}
 }
 
