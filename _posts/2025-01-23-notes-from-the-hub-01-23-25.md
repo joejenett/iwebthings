@@ -11,11 +11,11 @@ comments: true
 ---
 Over the last few weeks, I’ve been working hard to optimize the <em>webthings</em> for mobile. What’s different this time is I’ve been testing my sites at 8 different screen sizes using the <a title="Responsively App - A web developer's browser" href="https://responsively.app/"><em>Responsively</em> browser</a> - what an amazing tool!
 
-It all started when I came to the realization that testing only on my own mobile devices is insufficient. Testing my recent improvements to the button walls and <a href="https://bulltown.joejenett.com/images/">images</a> at <em>bulltown</em> at the wider number of screen sizes opened my eyes. After fixing bulltown I decided to move on to the other <em>webthings</em>.
+The project started when I came to the realization that testing only on my own mobile devices had been insufficient. Testing my recent improvements to the button walls and <a href="https://bulltown.joejenett.com/images/">images</a> at <em>bulltown</em> at the wider number of screen sizes opened my eyes. After fixing bulltown I decided to move on to the other <em>webthings</em>.
 
 <img src="/images/responsively.png" alt="" with="100%">
 
-Many other devices fall into the screen sizes used, and I’m pleased to say the mobile experience for the following <em>webthings</em> is now greatly improved:
+Many other devices fall into the screen sizes used, and I’m pleased to say the mobile experience for each of the following <em>webthings</em> is now greatly improved:
 <ul style="font-size:.95em;">
 <li><a href="https://iwebthings.joejenett.com/">i.webthings hub</a></li>
 <li><a href="https://directory.joejenett.com/">i.webthings directory</a></li>
