@@ -19,4 +19,7 @@ categories:
 	<li><a title="Triplit" href="https://triplit.com/">Triplit</a> <a title="source" href="https://pinboard.in/u:tdjones">📌</a><blockquote><p>...a new daily word game where you must guess three words based on three clues and three starting letters.</p></blockquote></li>
 	<li><a title="Social Web Foundation – Towards a bigger, better fediverse" href="https://socialwebfoundation.org/">Social Web Foundation</a> <a title="source" href="https://pinboard.in/u:mikael">📌</a><blockquote><p>...working with technologists and the public to build a new global town square that works for everyone.</p></blockquote></li>
 </ul>
+<div id="resultsp" style="margin-top:36px;"><span style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.75em;">missed by script:</span><br><p><a href="https://toot.community/@jenett/113866850761722440#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.8em;">Pamela</span></a></p> </div>
+
+
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

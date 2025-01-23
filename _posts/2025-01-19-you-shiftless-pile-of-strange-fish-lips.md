@@ -27,5 +27,6 @@ Okay, so the web ain’t only about the fun - here’s a few other goodies from 
 
 <span style="font-size:1.65em;">🙏🏻</span>
 
+<div id="resultsp"><span style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.75em;">missed by script:</span><br><p><a href="https://toot.community/@jenett/113866850761722440#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.8em;">Pamela</span></a></p> </div>
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
