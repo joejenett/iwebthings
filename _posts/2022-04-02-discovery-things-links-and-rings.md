@@ -112,7 +112,6 @@ function closeDirectories() {
 <li><a title="Gossip’s Web" href="https://gossipsweb.net/">Gossip’s Web</a> </li>
 <li><a title="href.cool" href="https://href.cool/">href.cool</a></li>
 <li><a title="HrefHunt!" href="https://www.kickscondor.com/hrefhunt/">HrefHunt!</a></li>
-<li><a title="Hyperlink Node Directory" href="https://nodes.indieseek.xyz/">Hyperlink Node Directory</a></li>
 <li><a title="Indieseek.xyz Directory" href="https://indieseek.xyz/links/">Indieseek.xyz Directory</a></li>
 <li><a title="Blogroll - jlelse’s Blog" href="https://jlelse.blog/blogroll">Blogroll - jlelse’s Blog</a></li>
 <li><a title="Marginalia Search" href="https://search.marginalia.nu/">Marginalia Search</a></li>

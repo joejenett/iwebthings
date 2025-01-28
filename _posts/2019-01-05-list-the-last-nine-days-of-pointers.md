@@ -36,7 +36,6 @@ kind:
   * [Erik Bernacchi](http://eeerik.com/ "Erik Bernacchi") <small><i>(new)</i></small> [⬅](http://href.cool/ "Href.cool")
   * [Gratuitous Web Presence](http://garciabuxton.com/ "Gratuitous Web Presence")
   * [Real Life](https://reallifemag.com/ "Real Life")
-  * [Hyperlink Node Directory](https://nodes.indieseek.xyz/ "Hyperlink Node Directory") <small><i>(new)</i></small>
   * [Bon Hae Koo](https://bonhaekoo.com/ "Bon Hae Koo")
   * [mimi smartypants](https://mimismartypants.com/ "mimi smartypants")
   * [Meteuphoric](https://meteuphoric.com/ "Meteuphoric") [⬅](https://href.cool/ "Href.cool")
