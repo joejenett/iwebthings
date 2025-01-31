@@ -112,13 +112,13 @@ a, div.post-list a, .missed a {
 	text-decoration: none;
 	font-weight:600;
 }
-a:visited, div.post-list a:visited, .missed a:visited {
-	color: #6998a6;
-
-}
 a:hover, div.post-list a:hover, .missed a:hover {
 	color: #222;
 	text-decoration: underline; 
+}
+a:visited, div.post-list a:visited, .missed a:visited {
+	color: #6998a6;
+
 }
 div.post-list div h2 {
 	font-weight:500;
