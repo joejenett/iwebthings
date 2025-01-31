@@ -13,7 +13,7 @@ Over the last few weeks, I’ve been working hard to optimize the <em>webthings<
 
 The project started when I came to the realization that testing only on my own mobile devices had been insufficient. Testing my recent improvements to the button walls and <a href="https://bulltown.joejenett.com/images/">images</a> at <em>bulltown</em> at the wider number of screen sizes opened my eyes. After fixing bulltown I decided to move on to the other <em>webthings</em>.
 
-<img src="/images/responsively.png" alt="" with="100%">
+<img src="/images/responsively.png" alt="" width="100%">
 
 Many other devices fall into the screen sizes used, and I’m pleased to say the mobile experience for each of the following <em>webthings</em> is now greatly improved:
 <ul style="font-size:.95em;">
