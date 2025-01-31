@@ -108,7 +108,7 @@ div.hold-meta {
 	font-family: Helvetica, Arial, sans-serif;
 }
 a, div.post-list a, .missed a {
-	color: #286c80;
+	color: #376f7f;
 	text-decoration: none;
 	font-weight:600;
 }
@@ -117,7 +117,7 @@ a:hover, div.post-list a:hover, .missed a:hover {
 	text-decoration: underline; 
 }
 a:visited, div.post-list a:visited, .missed a:visited {
-	color: #6998a6;
+	color: #5f8c99;
 
 }
 div.post-list div h2 {
