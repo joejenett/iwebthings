@@ -692,7 +692,11 @@ div.hcard-display {
 	}
 }
 
+
 @media only screen and (max-width:476px) {
+	img#respect {
+		display:none;
+	}
 	.nomobile {
 		display:none;
 	}
