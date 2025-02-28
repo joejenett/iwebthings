@@ -15,6 +15,6 @@ categories:
 ---
 <a title="[Bracket City]" href="https://bracket.city/">[Bracket City]</a>
 
-Via <a href="https://waxy.org/2025/02/bracket-city/">Waxy.org</a>, describing it as a:
+Found via <a href="https://waxy.org/2025/02/bracket-city/">Waxy.org</a>, described as:
 <blockquote><p>clever daily web game to reveal a historical news headline by answering nested clues of bracketed words</p></blockquote>
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
