@@ -12,7 +12,7 @@ categories:
   - miscellany
   - giggles
   - fun
-reaction: <p><a href="https://toot.community/@jenett/113855839089080154#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.8em;">Pamela</span></a></p>
+reaction: <p><a href="https://toot.community/@jenett/113855839089080154#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.9rem;">Pamela</span></a></p>
 ---
 Thanks <a href="https://pinboard.in/u:ramblinggit">B</a><a href="https://indieseek.xyz/links/">r</a><a href="https://ramblinggit.com/">a</a><a href="https://linkpunk.micro.blog/">d</a> for reminding me how much fun the web can be (always has been) - I’m a sucker for such random thingies:
 

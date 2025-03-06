@@ -11,7 +11,7 @@ comments: true
 categories:
   - lists
   - miscellany
-reaction: <p><a href="https://toot.community/@jenett/113866850761722440#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.8em;">Pamela</span></a></p>
+reaction: <p><a href="https://toot.community/@jenett/113866850761722440#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.9rem;">Pamela</span></a></p>
 ---
 <ul class="links">
 	<li><a title="Wikenigma - an Encyclopedia of Unknowns " href="https://wikenigma.org.uk/">Wikenigma</a>  <a title="source" href="https://waxy.org/2025/01/wikenigma/"><span style="color:blue;">&#8678;</span></a><blockquote><p>...a unique wiki-based resource specifically dedicated to <strong>documenting fundamental gaps in human knowledge</strong>.</p></blockquote></li>

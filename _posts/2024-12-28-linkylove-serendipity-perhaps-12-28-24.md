@@ -10,7 +10,7 @@ summary:
 comments: true
 categories:
   - linkylove
-reaction: "<span style=\"font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.75em;\">Reactions:</span><br><p><a href=\"https://toot.community/@jenett/113731197470105180\"><img src=\"https://static.toot.community/cache/accounts/avatars/110/518/200/626/994/894/original/100f4d4f4cc6e7ff.png\" alt=\"\" width=\"48\"><br><span style=\"font-size:.8em;\">alexandra</span></a></p>"
+reaction: "<span style=\"mrgin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.75em;\">Reactions:</span><br><p><a href=\"https://toot.community/@jenett/113731197470105180\"><img src=\"https://static.toot.community/cache/accounts/avatars/110/518/200/626/994/894/original/100f4d4f4cc6e7ff.png\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">alexandra</span></a></p>"
 ---
 <p>
 	Shout-out to my friend John, who <a href="https://johnjohnston.info/blog/life-in-links-55/">once called me</a> “a serendipity engine.” Hence, the title (<span style="font-weight:600;color:#666;">greatly appreciated</span>). Btw, he’s got plenty of <a href="https://johnjohnston.info/blog/tag/links/">links</a> himself! Dontcha feel lucky?
