@@ -25,7 +25,5 @@ Simulate millions of independent particles in realtime with this physics sandbox
 [via <a title="#tdc4819 #ds106  Make Digital Dust | The DS106 Daily Create" href="https://daily.ds106.us/tdc4819/">Make Digital Dust | The DS106 Daily Create</a>]
 </p>
 
-
-
-
+<style>.post-content {margin-bottom: -30px;}</style>
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
