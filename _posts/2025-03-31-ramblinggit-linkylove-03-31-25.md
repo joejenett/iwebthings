@@ -10,7 +10,7 @@ summary: 🍩 𝘺𝘶𝘮𝘮𝘺 𝘥𝘰𝘯𝘶𝘵𝘴! 🍩
 comments: false
 categories:
   - linkylove
-reaction: "div style=\"margin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.9rem;\">Reactions:</div><p><a href=\"https://toot.community/@jenett/114257290498806802#favorited-by-109326597713827183\"><img src=\"https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">Pamela</span></a></p>"
+reaction: "<div style=\"margin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.9rem;\">Reactions:</div><p><a href=\"https://toot.community/@jenett/114257290498806802#favorited-by-109326597713827183\"><img src=\"https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">Pamela</span></a></p>"
 ---
 <p>
 	Thanks to my buddy <a title="source" href="https://pinboard.in/u:ramblinggit">Brad</a> for this big batch of linkylove!
