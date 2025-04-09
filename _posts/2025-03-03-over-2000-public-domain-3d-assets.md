@@ -11,7 +11,6 @@ comments: false
 categories:
   - graphics
   - resources
-reaction: <p><a href="https://toot.community/@jenett/114098925720521858#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.9rem;">Pamela</span></a></p>
 ---
 <a title="ambientCG - CC0 Textures, HDRIs and Models" href="https://ambientcg.com/">ambientCG</a><br>[<a title="source" href="https://pinboard.in/u:arnicas">arnicas</a>]
 

@@ -12,7 +12,6 @@ categories:
   - lists
   - dev
   - resources
-reaction: <p><a href="https://toot.community/@jenett/114087731895535893#favorited-by-109326597713827183"><img src="https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png" alt="" width="48"><br><span style="font-size:.9rem;">Pamela</span></a></p>
 ---
 <a title="by Patrick Brosset" href="https://patrickbrosset.com/lab/navigating-the-web-platform/">Navigating the Web Platform Cheatsheet</a>
 <blockquote>

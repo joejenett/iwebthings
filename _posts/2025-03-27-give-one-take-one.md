@@ -11,7 +11,6 @@ comments: false
 categories:
   - amusing
   - ideas
-reaction: "<div style=\"margin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.9rem;\">Reactions:</div><p><a href=\"https://toot.community/@jenett/114234793184706477#favorited-by-109326597713827183\"><img src=\"https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">Pamela</span></a></p>"
 ---
 <a title="by Callum Thompson" href="https://www.dearnextvisitor.com/">Dear Next Visitor...</a>
 

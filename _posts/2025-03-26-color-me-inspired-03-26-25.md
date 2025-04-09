@@ -11,7 +11,6 @@ comments: false
 categories:
   - inspiration
   - curiosities
-reaction: "<div style=\"margin-top:36px;margin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.9rem;\">Reactions:</div><p><a href=\"https://toot.community/@jenett/114229010362510072#favorited-by-109326597713827183\"><img src=\"https://static.toot.community/cache/accounts/avatars/112/757/571/850/957/359/original/71a15e19bfc75e90.png\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">Pamela</span></a></p>"
 ---
 <div style="width:80px;position:relative;float:right;margin:6px;text-align:center;">
 <a href="https://www.kodub.com/apps/dustsim?load=ds0c1bYzBCcAwDAMnCpxSPJcF3h_6iCkl-Cd00pWKEgAkXgFeAgt8ImBZiaP7NUHR9xPbaVm5B-jnN8Jka-NTX4qB3o4X"><span class="freezeframe"><img src="/images/finlittle.gif" alt="" width="80"></span></a><br><a href="https://bulltown.joejenett.com/evolve/"><span style="font-size:1.6em;position:relative;top:16px;">💡</span></a>
