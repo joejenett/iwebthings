@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<article style="margin-top:-11px;" class="post h-entry hentry" itemscope itemtype="http://schema.org/BlogPosting">
-<div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<div style="width:50%;">
+<article class="post h-entry hentry elevenup" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="postnav">
+<div class="fifty">
 {% if page.previous.url %}
 <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
 {% endif %}
 </div>
-<div style="width:50%;text-align:right;">
+<div class="fifty right">
 {% if page.next.url %}
 <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
 {% endif %}
@@ -75,48 +75,21 @@ layout: default
 <div id="resultsp" style="margin-top:-24px;">
 	{{ page.reaction }}
 </div>
-<div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-  <div style="width:50%;">
+<div class="postnav">
+  <div class="fifty">
     {% if page.previous.url %}
     <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
     {% endif %}
   </div>
-  <div style="width:50%;text-align:right;">
+  <div class="fifty right">
     {% if page.next.url %}
     <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
     {% endif %}
   </div>
-</div> 
-<!--
-{%- if page.comments == true -%}
-<div id="comments-intro">
-<p style="margin-top:18px;"><span style="font-weight:600;">Comments:</span><br />Comments are moderated. You can post a comment (with your name if you like) without logging in. Log in with Matrix is optional.<br /><small>(Powered by <a href="https://cactus.chat/" title="">Cactus Comments</a>)</small>
-</p>
-<p>
-As always, you can also <a href="https://joejenett.com/contact/">contact me</a> with your comments or send webmentions. <br /><span style="font-weight:500;">I appreciate your feedback.</span>
-</p> 
 </div>
 
-<div id="comment-section"></div>
-<script>
-initComments({
-  node: document.getElementById("comment-section"),
-  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
-  serverName: "cactus.chat",
-  siteName: "simply.joejenett.com",
-  commentSectionId: "{{ page.slug }}"
-})
-</script>
-<noscript>Please enable JavaScript to view comments.</noscript>
-{%- endif -%}
+<p style="font-size:.7em;text-align:center;"><a class="u-url hidden" href="{{ page.url | relative_url }}">(permalink)</a></p>
 
-{%- if page.comments != true -%}
-<p style="margin-top:12px;">Comments closed.</p>
-{%- endif -%}
--->
 
-<p style="text-align:center;margin-top:24px;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
-
-<a class="u-url hidden" style="display:none;" href="{{ page.url | relative_url }}">u-url</a>
-
+<p style="text-align:center;margin-top:12px;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
 </article>

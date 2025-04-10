@@ -21,6 +21,24 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.elevenup {
+	margin-top:-11px;
+}
+.postnav {
+	display:flex;
+	font-size:.75em;
+	font-weight:400;
+	border-top:1px dashed #ccc;
+	border-bottom:1px dashed #ccc;
+	margin:18px 0;
+	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.fifty {
+	width:50%;
+}
+.right {
+	text-align:right;
+}
 #respect {
 	position:relative;
 	float:right;

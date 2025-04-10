@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<article style="margin-top:-11px;" class="post h-entry hentry" itemscope itemtype="http://schema.org/BlogPosting">
-<div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-<div style="width:50%;">
+<article class="post h-entry hentry elevenup" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="postnav">
+<div class="fifty">
 {% if page.previous.url %}
 <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
 {% endif %}
 </div>
-<div style="width:50%;text-align:right;">
+<div class="fifty right">
 {% if page.next.url %}
 <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
 {% endif %}
@@ -72,13 +72,13 @@ layout: default
 <div id="result0" style="margin-bottom:48px;"></div>
 
 
-<div style="display:flex;font-size:.75em;font-weight:400;border-top:1px dashed #ccc;border-bottom:1px dashed #ccc;margin:12px 0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
-  <div style="width:50%;">
+<div class="postnav">
+  <div class="fifty">
     {% if page.previous.url %}
     <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
     {% endif %}
   </div>
-  <div style="width:50%;text-align:right;">
+  <div class="fifty right">
     {% if page.next.url %}
     <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
     {% endif %}
