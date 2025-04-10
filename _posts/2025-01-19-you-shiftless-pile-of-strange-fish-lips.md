@@ -12,7 +12,6 @@ categories:
   - miscellany
   - giggles
   - fun
-reaction: "<div style=\"margin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:.9rem;\">Reactions:</div><p><a href=\"https://toot.community/@jenett/113855839089080154/reblogs\"><img src=\"https://static.toot.community/cache/accounts/avatars/109/326/597/713/827/183/original/c442790693c58a6f.gif\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">Brad Enslen</span></a></p>"
 ---
 Thanks <a href="https://pinboard.in/u:ramblinggit">B</a><a href="https://indieseek.xyz/links/">r</a><a href="https://ramblinggit.com/">a</a><a href="https://linkpunk.micro.blog/">d</a> for reminding me how much fun the web can be (always has been) - I’m a sucker for such random thingies:
 

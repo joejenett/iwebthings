@@ -46,6 +46,31 @@ layout: default
 {{ content }}
 </div>
 
+
+<script>
+	$().ready(function(){
+		$.getJSON( "https://webmention.io/api/links?target=https://iwebthings.joejenett.com{{ page.permalink }}",
+		function( mydata ) {
+			console.log(mydata);
+			var output = '';
+			$.each(mydata.links, function(i, v) {
+				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+						output = '<div style="margin:18px 0 9px 0;font-size:1rem;font-weight:600;">Reactions: </div>';
+			}
+			});
+        		$.each(mydata.links, function(i, v) {
+        		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
+               		output += '<p style="font-size:.9rem"><a href="' + v.source + '"><img src="' + v.data.author.photo + '" alt="webmention source" width="48" /><br />' + v.data.author.name + '</a></p> ';
+               	}
+    	});
+    		output += ' ';
+    		$('#result0').html(output);
+		});	
+	});
+</script>
+<div id="result0" style="margin-bottom:48px;"></div>
+
+<!--
 <script>
 	$().ready(function(){
 		$.getJSON( "https://webmention.io/api/mentions?token=5y4LXGZUBH1H527DJ-1f9g",
@@ -90,7 +115,7 @@ layout: default
 	});
 </script>
 <div id="result"></div>
-
+-->
 
 <div id="resultsp" style="margin-top:-24px;">
 	{{ page.reaction }}
