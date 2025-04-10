@@ -18,7 +18,7 @@ layout: default
 {%- for post in site.posts -%}
 {% assign count = count | plus:1 %}
 {% if count == 1 %}
-{%- include postnav.html -%}
+{%- include postnav-home.html -%}
 {% endif %}
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {% if post.title != "" %}
