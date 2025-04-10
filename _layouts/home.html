@@ -13,15 +13,8 @@ function doit() {
 }
 </script>
 <div class="home h-feed">
-<!--
-{%- if page.title -%}
-<h1 class="page-heading">{{ page.title }}</h1>
-{%- endif -%}
-	-->
-	<!--<p onclick="javascript:doit()">-->
-<img id="respect" src="/images/respect-ukraine.png" title="Ukraine Deserves our Respect" alt="Ukraine Deserves our Respect" width="90" style="position:relative;float:right;margin-top:19px;width:90px;">
-<iframe id="announcer" title="i.webthings announcments" src="https://joejenett.com/announce/announce.html" style="width:350px;max-height:75px;border:none;margin-top:18px;"></iframe>
-<!--<span style="font-size:1.5em;position:relative;top:-28px;margin-bottom:0;">🎁</span></p>-->
+<img id="respect" src="/images/respect-ukraine.png" title="Ukraine Deserves our Respect" alt="Ukraine Deserves our Respect" width="90">
+<iframe id="announcer" title="i.webthings announcments" src="https://joejenett.com/announce/announce.html"></iframe>
 <div style="margin-top:36px;">
 	{{ content }}
 
@@ -41,7 +34,6 @@ function doit() {
 </h2>
 <div class="hold-meta">
 <span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
-<span class="post-meta"><!--<img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo p-author h-card" width="24" height="24" style="position:relative;top:-3px;">--></span>
 • <span class="post-meta p-author h-card">joe jenett
 </span>
 <span class="post-meta post-categories">• posted in:
@@ -55,9 +47,6 @@ function doit() {
 {% unless forloop.last %}&nbsp;{% endunless %}
 {% endfor %}
 </span>
-<!--
-<span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
--->
 </div>
 {%- if site.show_excerpts -%}
 {{ post.excerpt }}
@@ -72,9 +61,7 @@ function doit() {
 {%- endif -%}
 <div style="position:relative;top:-4px;">
 <span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
-<!--
-<span class="post-meta"><img alt="" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="avatar avatar-40 photo u-photo" width="24" height="24" style="position:relative;top:-3px;"></span>
--->
+
 • <span class="post-meta p-author h-card">joe jenett
 </span>
 <span class="post-meta post-categories">• posted in:
@@ -88,9 +75,6 @@ function doit() {
 {% unless forloop.last %}&nbsp;{% endunless %}
 {% endfor %}
 </span>
-<!--
-<span class="post-meta"> &nbsp; (<a title="comment on this post" href="{{ post.url | relative_url }}#comments">comments</a>)</span>
--->
 </div>
 </li>
 {% endif %}
@@ -103,10 +87,6 @@ function doit() {
 {%- endfor -%}
 </div>
 <p style="margin:0 0 18px 0;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="{{ "/feed.atom" | relative_url }}">subscribe via RSS</a></p>
-
-<!--
-
--->
 </div>
 </div>
 	

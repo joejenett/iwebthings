@@ -21,8 +21,17 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+#respect {
+	position:relative;
+	float:right;
+	margin-top:19px;
+	width:90px;
+}
 #announcer {
 	width:350px;
+	max-height:75px;
+	border:none;
+	margin-top:18px;
 }
 .iwt a:hover img {
 	transform:scale(1.1);
