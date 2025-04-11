@@ -7,20 +7,21 @@
 
 	{%- include header.html -%}
 
-	
-		
-	
+
+		<main class="page-content" aria-label="Content">	
+		<div class="wrapper">
 			<div class="onef">
 				<div style="padding-right:18px;">
 					<label for="search-input" style="display:none;">search</label>
 					<input type="text" id="search-input" placeholder="search posts">
 					<br>
 					<div id="results-container"></div>
-					<main class="page-content" aria-label="Content">
+
 				</div>
 				{{ content }}
 			</div>
-			</main>
+			
+
 
 			<div class="twof">
 				<div class="thesidebar">
@@ -149,7 +150,7 @@
 					</p>
 			</div>
 		</div>
-<!-- </main> -->
+</main>
 	<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 	<script>
 		SimpleJekyllSearch({
