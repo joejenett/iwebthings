@@ -26,21 +26,21 @@ layout: default
 			{%- if page.author -%}• <span class="author p-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://iwebthings.joejenett.com/" rel="author"><img alt="author's homepage" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="u-photo photo" width="24" height="24" style="vertical-align:middle;" itemprop="image"></a>
 				<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
 			</span>
+		</span>
 
-			{%- endif -%}
-			<span class="post-categories">• posted in:
-				{% if post %}
-				{% assign categories = post.categories %}
-				{% else %}
-				{% assign categories = page.categories %}
-				{% endif %}
-				{% for category in categories %}
-				<a class="p-category" href="/categories/#{{category|slugize}}">{{category}}</a>
-				{% unless forloop.last %}&nbsp;{% endunless %}
-				{% endfor %}
-			</span>
-		</p>
-	</span>
+		{%- endif -%}
+		<span class="post-categories">• posted in:
+			{% if post %}
+			{% assign categories = post.categories %}
+			{% else %}
+			{% assign categories = page.categories %}
+			{% endif %}
+			{% for category in categories %}
+			<a class="p-category" href="/categories/#{{category|slugize}}">{{category}}</a>
+			{% unless forloop.last %}&nbsp;{% endunless %}
+			{% endfor %}
+		</span>
+	</p>
 </header>
 <div class="post-content e-content" itemprop="articleBody">
 {{ content }}
