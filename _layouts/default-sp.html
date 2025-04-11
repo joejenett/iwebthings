@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}" prefix="og: https://ogp.me/ns#">
-<style>
-#my-channel {
-	display:none;
-}
-</style>
 <link rel="stylesheet" type="text/css" href="/css/microtip.css" />
 <style>
 :root {
@@ -29,22 +24,15 @@
 				<div style="padding-right:18px;">
 					<label for="search-input" style="display:none;">search</label>
 					<input type="text" id="search-input" placeholder="search posts">
-					<br/>
+					<br>
 					<div id="results-container"></div>
 				</div>
 				{{ content }}
 			</div>
+		</main>
 
 			<div class="twof">
 				<div class="thesidebar">
-					<!--
-						<div id="toggler" style="height:30px;padding: 3px 10px 6px 8px;">
-					<button title="toggle the walkie-talkie" onclick="gotalk()" style="border-radius:4px;box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;background-color:#fff;padding:1px;"><img src="/images/walkietalkie-r.png" alt=""></button>  <span style="font-size:.75em;position:relative;float:right;margin-top:-4px;line-height:1.3em;">&larr; click button 2x to start<br><span style="margin-left:36px;"><a href="https://iwebthings.joejenett.com/a-cool-walkie-talkie-for-the-web/">info</a> | <a href="https://overtalk.io/privacy">privacy</a></span></span>
-					</div>
-					<div id="my-channel" style="text-align:center;padding:12px 0 6px 0;">
-						<iframe src="https://overtalk.io/iwebthings" allow=" microphone;" seamless width="300" height="300"></iframe>
-					</div>
-					 -->
 					<div class="welcome" style="padding-bottom:6px;">
 						<div class="p-spot">
 						</div>
@@ -111,7 +99,7 @@
 					<div class="sidefoot-aka">
 						<div id="aka">
 							<div id="aka-header">
-								<a title="i.webthings, an independent and noncommercial web initiative" href="https://iwebthings.joejenett.com/"><img id="slug" src="/images/rightslugger.png" alt="" /></a><br />
+								<a title="i.webthings, an independent and noncommercial web initiative" href="https://iwebthings.joejenett.com/"><img id="slug" src="/images/rightslugger.png" alt=""></a><br />
 							</div>
 							<div class="aka-sep">
 								currently active
@@ -179,7 +167,7 @@
 				</div>
 			</div>
 		</div>
-	</main>
+	
 
 	<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 	<script>
