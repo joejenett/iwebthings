@@ -24,5 +24,5 @@ categories:
 <p>
 😎 <span style="font-size:.9em;font-weight:500;font-style:italic;">Thank you shiny Pinboard network!</span> ❤️
 </p>
-<a class=" u-syndication syndication" href="https://toot.community/@jenett/114325559256661560"></a>
+<a class="u-syndication syndication" href="https://toot.community/@jenett/114325559256661560"></a>
 <a href="https://brid.gy/publish/mastodon"></a>
