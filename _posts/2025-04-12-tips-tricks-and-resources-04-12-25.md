@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions
 title: tips, tricks, and resources 04-12-25
 date: 2025-04-12 10:40:00 -0400
 author: joe jenett
@@ -13,6 +13,7 @@ categories:
   - tips
   - resources
   - lists
+reaction: "<div style=\"margin-bottom:9px;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:600;font-size:1rem;\">Reactions:</div><p><a href=\"https://toot.community/@jenett/114325559256661560\"><img src=\"https://static.toot.community/cache/accounts/avatars/109/326/597/713/827/183/original/c442790693c58a6f.gif\" alt=\"\" width=\"48\"><br><span style=\"font-size:.9rem;\">Brad Enslen</span></a></p>"
 ---
 <ul class="links">
 	<li><a title="by Lean" href="https://leanrada.com/notes/pure-css-halftone/">Creating a halftone effect with CSS</a> <a title="source" href="https://pinboard.in/u:ascarida">📌</a><blockquote><p>Here’s a quick halftone effect (i.e. a retro printed look) using CSS with only one div at the minimum.</p></blockquote></li>
