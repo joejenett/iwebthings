@@ -21,6 +21,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.center {
+	text-align:center;
+}
 .elevenup {
 	margin-top:-11px;
 }
