@@ -13,7 +13,7 @@ layout: default
 <div>
 	{{ content }}
 
-<div class="post-list" style="margin-bottom:48px;">
+<div class="post-list fortyeight-b">
 {% assign count = 0 %}
 {%- for post in site.posts -%}
 {% assign count = count | plus:1 %}
@@ -22,8 +22,8 @@ layout: default
 {% endif %}
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 {% if post.title != "" %}
-<div style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
-<h2 style="position:relative;top:-16px;margin-bottom:2px;letter-spacing:-1px;">
+<div class="postlist-sep">
+<h2 class="postlist-post-title">
 <a class="post-link" href="{{ post.url | relative_url }}">
 {{ post.title | escape }}</a> 
 </h2>
@@ -50,11 +50,11 @@ layout: default
 {% endif %}
 
 {% if post.title == "" %}
-<li style="margin-bottom:48px;border-bottom:1px solid #ddd;padding-bottom:6px;">
+<li class="postlist-sep">
 {%- if site.show_excerpts -%}
 {{ post.excerpt }}
 {%- endif -%}
-<div style="position:relative;top:-4px;">
+<div class="topless-four">
 <span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
 
 • <span class="post-meta p-author h-card">joe jenett
@@ -83,7 +83,7 @@ layout: default
 </div>
 
 
-<p style="margin:0 0 18px 0;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="/feed.atom">subscribe via RSS</a></p>
+<p class="rss-subscribe eighteen-b"><a href="/archive/">browse the archive</a> | <a href="/feed.atom">subscribe via RSS</a></p>
 </div>
 </div>
 	
