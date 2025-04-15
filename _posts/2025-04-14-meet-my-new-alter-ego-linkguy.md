@@ -12,7 +12,7 @@ summary: Call me silly...
 comments: false
 ---
 <p>
-Call me silly, but my new alter ego, <em>linkguy</em> will soon be appearing in various posts from the <em>webthings</em>. For the sake of clarity, I’d like to introduce him at full size so he’ll be more recognizable to you at reduced size:
+Call me silly, but my new alter ego, <em>linkguy</em> will soon be appearing in various posts on the <em>webthings</em>. For the sake of clarity, I’d like to introduce him at full size so he’ll be more recognizable to you when reduced:
 </p>
 <p class="center">
 <img title="ain’t he cute?" src="/images/elguy.png" alt="" width="180">
