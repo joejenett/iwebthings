@@ -21,11 +21,32 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.topless-four {
+	position:relative;
+	top:-4px;
+}
+.postlist-sep {
+	margin-bottom:36px;
+	border-bottom:1px solid #ddd;
+	padding-bottom:6px;
+}
+.postlist-post-title {
+	position:relative;
+	top:-18px;
+	margin-bottom:2px;
+	letter-spacing:-1px;"
+}
 .center {
 	text-align:center;
 }
 .elevenup {
 	margin-top:-11px;
+}
+.eighteen-b {
+	margin:0 0 18px 0;
+}
+.fortyeight-b {
+	margin-bottom:48px;
 }
 .postnav {
 	display:flex;
