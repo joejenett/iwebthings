@@ -73,10 +73,9 @@ body {
 	text-align:right;
 }
 #respect {
-	position:relative;
-	float:right;
-	margin-top:19px;
-	width:90px;
+	text-align:center;
+	margin-top:36px;
+	width:120px;
 }
 #announcer {
 	width:350px;
