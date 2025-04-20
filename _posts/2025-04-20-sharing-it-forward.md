@@ -10,6 +10,10 @@ category:
 permalink: /sharing-it-forward/
 slug: sharing-it-forward
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114372151905303514
 ---
 Kudos to Jan Wildeboer for the information shared in the following post - it was so useful to me, I’ve implemented it on several recent posts:
 
