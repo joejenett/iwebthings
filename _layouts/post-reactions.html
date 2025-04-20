@@ -24,7 +24,7 @@ layout: default
 	</h1>
 	<p class="post-meta">
 		<span class="h-card">
-			<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date }}" itemprop="datePublished">
+			<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
 				{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 				{{ page.date | date: date_format }}
 			</time></a>
