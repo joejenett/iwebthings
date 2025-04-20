@@ -22,10 +22,11 @@ body {
 	font-kerning: normal;
 }
 #load-comment {
-	border:none;
-	background: #a8ecff;
+	border:1px solid #51d8ff;
+	background: #cbf3ff;
 	color: #000;
 	padding:2px 4px;
+	border-radius:6px;
 }
 .ninerem {
 	font-size:.9rem;
