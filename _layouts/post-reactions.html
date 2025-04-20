@@ -77,7 +77,7 @@ layout: default
 <div id="result0" style="margin-bottom:48px;"></div>
 
 <div style="margin-bottom:36px;">
-{%- if page.comments -%}
+{%- if page.comments.host -%}
 	{%- include fediverse_comments.html -%}
 {%- endif -%}
 </div>
