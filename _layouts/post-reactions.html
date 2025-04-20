@@ -75,9 +75,13 @@ layout: default
 	});
 </script>
 <div id="result0" style="margin-bottom:48px;"></div>
+
+{% if post.comments %}
 <div style="margin-bottom:72px;">
 {%- include fediverse_comments.html -%}
 </div>
+{% endif %}
+
 <div id="resultsp" style="margin-top:-24px;">
 	{{ page.reaction }}
 </div>
