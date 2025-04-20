@@ -7,7 +7,7 @@ category:
 permalink: /a-simple-rgb-color-guessing-game/
 slug: a-simple-rgb-color-guessing-game
 summary: simply fun 😎
-comments: false
+
 categories:
   - games
   - color

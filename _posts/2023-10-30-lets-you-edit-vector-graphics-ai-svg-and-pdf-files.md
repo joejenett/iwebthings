@@ -7,7 +7,7 @@ category:
 permalink: /lets-you-edit-vector-graphics-ai-svg-and-pdf-files/
 slug: lets-you-edit-vector-graphics-ai-svg-and-pdf-files
 summary: 
-comments: false
+
 categories:
   - tools
   - svg

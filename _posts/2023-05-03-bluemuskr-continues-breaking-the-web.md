@@ -8,7 +8,7 @@ category:
 permalink: /bluemuskr-continues-breaking-the-web/
 slug: bluemuskr-continues-breaking-the-web
 summary: 
-comments: false
+
 ---
 <p>recent victims:<br><a title="BELONG" href="https://belong.io/">BELONG</a> and <a href="https://johnjohnston.info/blog/re-tdc4124-ds106-is-today-the-day-it-all-breaks/">Daily Create</a></p>
 

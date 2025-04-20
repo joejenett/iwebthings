@@ -7,7 +7,7 @@ category:
 permalink: /inspired-by-boggle-scrabble-and-wordle/
 slug: inspired-by-boggle-scrabble-and-wordle
 summary: a(nother) game from tdjones
-comments: false
+
 categories:
   - games
   - words

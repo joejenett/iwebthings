@@ -7,7 +7,7 @@ category:
 permalink: /a-word-from-our-sponsor/
 slug: a-word-from-our-sponsor
 summary: it’s not what you think
-comments: false
+
 categories:
   - giggles
 ---

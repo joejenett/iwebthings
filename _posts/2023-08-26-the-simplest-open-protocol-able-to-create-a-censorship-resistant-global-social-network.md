@@ -10,7 +10,7 @@ category:
 permalink: /the-simplest-open-protocol-able-to-create-a-censorship-resistant-global-social-network/
 slug: the-simplest-open-protocol-able-to-create-a-censorship-resistant-global-social-network
 summary: 
-comments: false
+
 ---
 <p><a title="nostr Resources" href="https://nostr-resources.com/">nostr Resources</a><br>[<a href="https://pinboard.in/u:solari">solari</a>]</p>
 <p>

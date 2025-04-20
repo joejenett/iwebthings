@@ -7,7 +7,7 @@ category:
 permalink: /create-discover-and-share/
 slug: create-discover-and-share
 summary: 🥁
-comments: false
+
 categories:
   - music
   - generators

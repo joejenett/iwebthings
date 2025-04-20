@@ -9,7 +9,7 @@ category:
 permalink: /recently-noticed-07-26-23/
 slug: recently-noticed-07-26-23
 summary: 
-comments: false
+
 ---
 <ul class="links">
 	<li><a title="The Blob Toy" href="https://oimo.io/works/blob/">The Blob Toy</a> <a href="https://pinboard.in/u:angusf">📌</a><br>This post is gonna take a while ’cause I’m still playing with the blob thingy. 😎</li>

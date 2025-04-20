@@ -7,7 +7,7 @@ category:
 permalink: /a-unique-and-fun-assortment-of-images-collected-from-the-interwebs/
 slug: a-unique-and-fun-assortment-of-images-collected-from-the-interwebs
 summary: yeah, we like custom emoji too!
-comments: false
+
 categories:
   - emoji
   - fun

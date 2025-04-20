@@ -7,7 +7,7 @@ category:
 permalink: /how-many-chickens-can-you-rescue/
 slug: how-many-chickens-can-you-rescue
 summary: 🐓🐓🐓
-comments: false
+
 categories:
   - fun
   - games

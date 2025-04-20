@@ -7,7 +7,7 @@ category:
 permalink: /and-they-say-that-a-hoagie-can-save-us/
 slug: and-they-say-that-a-hoagie-can-save-us
 summary: a marvelous hoagie manual
-comments: false
+
 categories:
   - giggles
   - food

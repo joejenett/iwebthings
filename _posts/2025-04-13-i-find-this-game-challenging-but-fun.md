@@ -7,7 +7,7 @@ category:
 permalink: /i-find-this-game-challenging-but-fun/
 slug: i-find-this-game-challenging-but-fun
 summary: a word puzzle game
-comments: false
+
 categories:
   - games
   - words

@@ -7,7 +7,7 @@ category:
 permalink: /a-long-list-of-links-about-linking/
 slug: a-long-list-of-links-about-linking
 summary: interesting ideas here
-comments: false
+
 categories:
   - lists
   - linking

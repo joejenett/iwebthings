@@ -9,7 +9,7 @@ category:
 permalink: /meet-my-new-alter-ego-linkguy/
 slug: meet-my-new-alter-ego-linkguy
 summary: Call me silly...
-comments: false
+
 ---
 <p>
 Call me silly, but my new alter ego, <em>linkguy</em> will soon be appearing in various posts on the <em>webthings</em>. For the sake of clarity, I’d like to introduce him at full size so he’ll be more recognizable to you when reduced:

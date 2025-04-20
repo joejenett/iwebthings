@@ -7,7 +7,7 @@ category:
 permalink: /find-words-with-unknown-letters/
 slug: find-words-with-unknown-letters
 summary: nifty!
-comments: false
+
 categories:
   - tools
   - words

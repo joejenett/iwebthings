@@ -7,7 +7,7 @@ category:
 permalink: /exploring-something-cool-05-19-24/
 slug: exploring-something-cool-05-19-24
 summary: ‘A plain text note-taking assistant’
-comments: false
+
 categories:
   - cli
   - open-source

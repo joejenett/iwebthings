@@ -7,7 +7,7 @@ category:
 permalink: /create-beautiful-diagrams-just-by-typing-notation-in-plain-text/
 slug: create-beautiful-diagrams-just-by-typing-notation-in-plain-text
 summary: 
-comments: false
+
 categories:
   - graphics
   - generators

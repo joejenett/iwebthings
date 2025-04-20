@@ -7,7 +7,7 @@ category:
 permalink: /the-mouse-and-trackpad-utility-for-mac/
 slug: the-mouse-and-trackpad-utility-for-mac
 summary: 
-comments: false
+
 categories:
   - software
   - macOS

@@ -9,7 +9,7 @@ category:
 permalink: /attn-fellow-human-curators/
 slug: attn-fellow-human-curators
 summary: explore the web, silly!
-comments: false
+
 ---
 <p>So. You've got a directory (wink wink) or a blogroll (nudge nudge)! What do we have in common?</p>
 <p style="font-size:1.45em;font-weight:700;">we.Link.</p>

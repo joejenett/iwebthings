@@ -10,7 +10,7 @@ category:
 permalink: /linkylove-diversions-08-14-23/
 slug: linkylove-diversions-08-14-23
 summary: 
-comments: false
+
 ---
 <ul class="linkylove">
 	<li><a title="the uncolouring book" href="https://lines.potato.horse/">the uncolouring book</a> <a class="normaltext" title="source" href="https://waxy.org/2023/08/the-uncolouring-book/"><img src="https://iwebthings.joejenett.com/images/left-arrow.png" alt="" width="18"></a></li>

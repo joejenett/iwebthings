@@ -7,7 +7,7 @@ category:
 permalink: /a-nested-clue-puzzle-game/
 slug: a-nested-clue-puzzle-game
 summary: challenging fun
-comments: false
+
 categories:
   - games
   - words

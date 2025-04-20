@@ -7,7 +7,7 @@ category:
 permalink: /an-invitation-for-unity/
 slug: an-invitation-for-unity
 summary: 
-comments: false
+
 categories:
   - art
   - ideas

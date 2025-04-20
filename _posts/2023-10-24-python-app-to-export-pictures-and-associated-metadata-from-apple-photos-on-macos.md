@@ -7,7 +7,7 @@ category:
 permalink: /python-app-to-export-pictures-and-associated-metadata-from-apple-photos-on-macos/
 slug: python-app-to-export-pictures-and-associated-metadata-from-apple-photos-on-macos
 summary: 
-comments: false
+
 categories:
   - cli
   - software

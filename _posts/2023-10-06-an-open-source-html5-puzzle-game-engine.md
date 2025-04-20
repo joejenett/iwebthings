@@ -7,7 +7,7 @@ category:
 permalink: /an-open-source-html5-puzzle-game-engine/
 slug: an-open-source-html5-puzzle-game-engine
 summary: make a game
-comments: false
+
 categories:
   - open-source
   - games

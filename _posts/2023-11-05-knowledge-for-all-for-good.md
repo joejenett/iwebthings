@@ -7,7 +7,7 @@ category:
 permalink: /knowledge-for-all-for-good/
 slug: knowledge-for-all-for-good
 summary: 
-comments: false
+
 categories:
   - news
   - fediverse

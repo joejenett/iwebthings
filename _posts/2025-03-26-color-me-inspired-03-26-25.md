@@ -7,7 +7,7 @@ category:
 permalink: /color-me-inspired-03-26-25/
 slug: color-me-inspired-03-26-25
 summary: (contains animation)
-comments: false
+
 categories:
   - inspiration
   - curiosities

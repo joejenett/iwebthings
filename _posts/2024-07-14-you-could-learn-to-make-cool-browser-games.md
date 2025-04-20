@@ -7,7 +7,7 @@ category:
 permalink: /you-could-learn-to-make-cool-browser-games/
 slug: you-could-learn-to-make-cool-browser-games
 summary: 
-comments: false
+
 categories:
   - games
   - dev

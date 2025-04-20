@@ -9,7 +9,7 @@ category:
 permalink: /a-nifty-way-to-work-with-lists-in-obsidian/
 slug: a-nifty-way-to-work-with-lists-in-obsidian
 summary: 
-comments: false
+
 ---
 <p>
 <a title="GitHub - vslinko/obsidian-outliner: Work with your lists like in Workflowy or RoamResearch" href="https://github.com/vslinko/obsidian-outliner">Obsidian Outliner</a><br>[<a title="ebouchut" href="https://pinboard.in/u:ebouchut">ebouchut</a>]

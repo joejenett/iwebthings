@@ -7,7 +7,7 @@ category:
 permalink: /not-just-one-journal-but-many/
 slug: not-just-one-journal-but-many
 summary: 👏💡📔
-comments: false
+
 categories:
   - ideas
   - alternatives

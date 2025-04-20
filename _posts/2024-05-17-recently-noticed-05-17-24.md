@@ -7,7 +7,7 @@ category:
 permalink: /recently-noticed-05-17-24/
 slug: recently-noticed-05-17-24
 summary: 
-comments: false
+
 categories:
   - lists
   - miscellany

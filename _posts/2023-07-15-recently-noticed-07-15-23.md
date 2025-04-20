@@ -9,7 +9,7 @@ category:
 permalink: /recently-noticed-07-15-23/
 slug: recently-noticed-07-15-23
 summary: 
-comments: false
+
 ---
 <ul class="links">
 	<li><a title="Darek Kay" href="https://darekkay.com/blog/rss-styling/">Style your RSS feed</a> <a href="https://pinboard.in/u:raygrasso">📌</a><br>“With all the social media walled gardens, I hope for RSS to become more popular.”</li>

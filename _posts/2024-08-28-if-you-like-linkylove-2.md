@@ -7,7 +7,7 @@ category:
 permalink: /if-you-like-linkylove-2/
 slug: if-you-like-linkylove-2
 summary: joe’s been goofin’ off again
-comments: false
+
 categories:
   - i-webthings
   - linkylove

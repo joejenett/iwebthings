@@ -10,7 +10,7 @@ category:
 permalink: /download-customize-edit-and-personalize/
 slug: download-customize-edit-and-personalize
 summary: 
-comments: false
+
 ---
 <a title="Iconbuddy - 100K+ open source icons" href="https://iconbuddy.app/">Iconbuddy - 100K+ open source icons</a><br>[<a title="sansaid" href="https://pinboard.in/u:sansaid">sansaid</a>]
 

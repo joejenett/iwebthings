@@ -7,7 +7,7 @@ category:
 permalink: /like-ls-but-for-images/
 slug: like-ls-but-for-images
 summary: image thumbnails in the terminal - nice!
-comments: false
+
 categories:
   - software
   - cli

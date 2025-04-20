@@ -7,7 +7,7 @@ category:
 permalink: /this-photogs-tool-shows-how-distance-affects-depth-of-field/
 slug: this-photogs-tool-shows-how-distance-affects-depth-of-field
 summary: nicely done
-comments: false
+
 categories:
   - photography
   - tools

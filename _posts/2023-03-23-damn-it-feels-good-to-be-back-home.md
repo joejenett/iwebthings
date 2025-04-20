@@ -8,7 +8,7 @@ category:
 permalink: /damn-it-feels-good-to-be-back-home/
 slug: damn-it-feels-good-to-be-back-home
 summary: 
-comments: false
+
 ---
 Welcome back to the <em>real</em> home of the i-webthings hub. Nice to see you again...
 

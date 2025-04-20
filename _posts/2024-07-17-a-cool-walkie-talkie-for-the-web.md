@@ -7,7 +7,7 @@ category:
 permalink: /a-cool-walkie-talkie-for-the-web/
 slug: a-cool-walkie-talkie-for-the-web
 summary: can we talk?
-comments: false
+
 categories:
   - ideas
   - p2p

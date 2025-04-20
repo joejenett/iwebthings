@@ -7,7 +7,7 @@ category:
 permalink: /notes-from-a-rabbit-hole-07-07-24/
 slug: notes-from-a-rabbit-hole-07-07-24
 summary: 
-comments: false
+
 categories:
   - software
   - cli

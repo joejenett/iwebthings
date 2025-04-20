@@ -8,7 +8,7 @@ category:
 permalink: /i-webthings-recent-lineup-changes/
 slug: i-webthings-recent-lineup-changes
 summary: 
-comments: false
+
 ---
 <p>The server failure a few weeks ago was an opportunity to reorganize the <em>webthings</em> to help improve server performance and content longevity. In the process, many individual site improvements were implemented. For clarity, here’s a list of all the <em>webthings’</em> current URLs (updated 4/10/23):</p>
 <div id="tabletop">

@@ -7,7 +7,7 @@ category:
 permalink: /assemble-the-target-word-using-the-fewest-spins-possible/
 slug: assemble-the-target-word-using-the-fewest-spins-possible
 summary: It’s challenging and fun! 😎
-comments: false
+
 categories:
   - games
   - words

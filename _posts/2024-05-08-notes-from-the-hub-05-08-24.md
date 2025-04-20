@@ -7,7 +7,7 @@ category:
 permalink: /notes-from-the-hub-05-08-24/
 slug: notes-from-the-hub-05-08-24
 summary: on the coming server move
-comments: false
+
 categories:
   - about
   - i-webthings

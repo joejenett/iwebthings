@@ -7,7 +7,7 @@ category:
 permalink: /a-simplified-street-network-schema/
 slug: a-simplified-street-network-schema
 summary: 
-comments: false
+
 categories:
   - places
   - data

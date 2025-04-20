@@ -10,7 +10,7 @@ category:
 permalink: /and-speaking-of-macOS/
 slug: and-speaking-of-macOS
 summary: 
-comments: false
+
 ---
 <p><a title="Advanced macOS Commands" href="https://saurabhs.org/advanced-macos-commands">Advanced macOS Commands</a><br>[<a title="panoptican" href="https://pinboard.in/u:panoptican">panoptican</a>]</p>
 <p>and, from the same author:</p>

@@ -11,7 +11,7 @@ category:
 permalink: /create-responsive-and-beautiful-layouts/
 slug: create-responsive-and-beautiful-layouts
 summary: 
-comments: false
+
 ---
 <a title="BentoGrid.js" href="https://bentogrid.mariohamann.com/">BentoGrid.js</a><br>[<a title="marcohamersma" href="https://pinboard.in/u:marcohamersma">marcohamersma</a>]
 

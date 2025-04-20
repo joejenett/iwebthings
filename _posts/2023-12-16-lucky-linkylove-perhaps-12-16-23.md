@@ -7,7 +7,7 @@ category:
 permalink: /lucky-linkylove-perhaps-12-16-23/
 slug: lucky-linkylove-perhaps-12-16-23
 summary: some interesting people today...
-comments: false
+
 ---
 <ul class="linkylove">
 	<li><a title="Chuck Carroll" href="https://chuck.is/blogroll/">Blogroll | Chuck Carroll</a> <span title="led to site shown below">&#8594;</span></li>

@@ -7,7 +7,7 @@ category:
 permalink: /linkylove-webpath-04-15-24/
 slug: linkylove-webpath-04-15-24
 summary: just toolin’ down the road
-comments: false
+
 categories:
   - linkylove
 ---

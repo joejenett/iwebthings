@@ -8,7 +8,7 @@ category:
 permalink: /color-contrast-checker-for-modern-css-color-formats/
 slug: color-contrast-checker-for-modern-css-color-formats
 summary: 
-comments: false
+
 categories:
   - design
   - dev

@@ -7,7 +7,7 @@ category:
 permalink: /a-writing-app-built-around-semantic-search/
 slug: a-writing-app-built-around-semantic-search
 summary: Joe’s got a new brainstorming app!
-comments: false
+
 categories:
   - software
   - macOS

@@ -9,7 +9,7 @@ category:
 permalink: /list-recently-noticed-04-14-23/
 slug: list-recently-noticed-04-14-23
 summary: 
-comments: false
+
 ---
 <ul class="links">
 	<li><a title="She Changes Climate" href="https://www.shechangesclimate.org/">She Changes Climate</a> <a href="https://pinboard.in/u:manicoo">📌</a><br>“Enabling women in all their diversity, to lead just climate action globally.”</li>

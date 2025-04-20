@@ -7,7 +7,7 @@ category:
 permalink: /linkylove-webpath-04-22-24/
 slug: linkylove-webpath-04-22-24
 summary: serendipity perhaps
-comments: false
+
 categories:
   - linkylove
 ---

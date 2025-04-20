@@ -12,7 +12,7 @@ category:
 permalink: /generate-layered-smooth-shadows/
 slug: generate-layered-smooth-shadows
 summary: 
-comments: false
+
 ---
 <a title="Smooth shadow generator" href="https://smoothshadows.com/">Smooth shadow generator</a><br>[<a title="sachaa" href="https://pinboard.in/u:sachaa">sachaa</a>]
 <p>

@@ -7,7 +7,7 @@ category:
 permalink: /drawing-exercises-to-get-you-started-right-now/
 slug: drawing-exercises-to-get-you-started-right-now
 summary: back to schoolin’
-comments: false
+
 categories:
   - art
   - graphics

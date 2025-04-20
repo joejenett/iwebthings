@@ -7,7 +7,7 @@ category:
 permalink: /heres-to-serendipity-thanks-John/
 slug: heres-to-serendipity-thanks-John
 summary: discovery - a beautiful thing
-comments: false
+
 categories:
   - directories
   - exploring

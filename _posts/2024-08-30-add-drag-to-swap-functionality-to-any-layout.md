@@ -7,7 +7,7 @@ category:
 permalink: /add-drag-to-swap-functionality-to-any-layout/
 slug: add-drag-to-swap-functionality-to-any-layout
 summary: 
-comments: false
+
 categories:
   - dev
   - scripting

@@ -7,7 +7,7 @@ category:
 permalink: /the-startpage-i-created-for-my-browser/
 slug: the-startpage-i-created-for-my-browser
 summary: an accordion based startpage
-comments: false
+
 categories:
   - browsers
   - startpage

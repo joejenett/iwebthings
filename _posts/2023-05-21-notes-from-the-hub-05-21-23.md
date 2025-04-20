@@ -9,7 +9,7 @@ category:
 permalink: /notes-from-the-hub-05-21-23/
 slug: notes-from-the-hub-05-21-23
 summary: 
-comments: false
+
 ---
 Just to let you know I completed link testing and fixing here at the hub today. No link rot for now, thank you.
 

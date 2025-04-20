@@ -7,7 +7,7 @@ category:
 permalink: /strives-to-be-the-largest-human-edited-directory/
 slug: strives-to-be-the-largest-human-edited-directory
 summary: 
-comments: false
+
 categories:
   - search
   - directories

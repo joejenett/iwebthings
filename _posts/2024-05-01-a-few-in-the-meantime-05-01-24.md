@@ -7,7 +7,7 @@ category:
 permalink: /a-few-in-the-meantime-05-01-24/
 slug: a-few-in-the-meantime-05-01-24
 summary: when less is more
-comments: false
+
 categories:
   - lists
   - miscellany

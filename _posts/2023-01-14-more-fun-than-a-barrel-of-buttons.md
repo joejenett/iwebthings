@@ -9,7 +9,7 @@ category:
 permalink: /more-fun-than-a-barrel-of-buttons/
 slug:  more-fun-than-a-barrel-of-buttons
 summary: 
-comments: false
+
 ---
 <p>We’re getting there...</p>
 <p><a title="button walls are fun" href="https://bulltown.joejenett.com/links"><img src="/images/buttons.jpg" alt="button wall" width="400" style="padding:4px;border:1px solid #bcbcbc;"></a></p>

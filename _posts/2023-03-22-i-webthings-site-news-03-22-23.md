@@ -8,7 +8,7 @@ category:
 permalink: /i-webthings-site-news-03-22-23/
 slug: i-webthings-site-news-03-22-23
 summary: 
-comments: false
+
 ---
 <p>I’m still restoring some configurations lost due to the recent server failure. My hosting provider and I have been working hard over the last 4-5 days to get all my sites back online. Now that my sites are back, I’m working to restore everything else as it was before the fiasco.</p>
 <p>When the mess started, I decided to serve this site from GitHub Pages’ default URL, which allowed me to stay in touch with y’all after the rest of my web went down. Please bear in mind that this URL has been temporary as I try to restore things back to where they are. Depending on what I’m able to restore, this may end up being the hub’s permanent URL.</p>

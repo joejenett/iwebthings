@@ -7,7 +7,7 @@ category:
 permalink: /create-color-palettes-based-on-your-mood-with-ai/
 slug: create-color-palettes-based-on-your-mood-with-ai
 summary: 
-comments: false
+
 categories:
   - color
   - generators

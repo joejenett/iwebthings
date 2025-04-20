@@ -7,7 +7,7 @@ category:
 permalink: /a-weird-and-wonderful-way-to-explore-the-web/
 slug: a-weird-and-wonderful-way-to-explore-the-web
 summary: ‘1,048,576 homepage screenshots’
-comments: false
+
 categories:
   - odd
   - web

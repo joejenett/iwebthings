@@ -7,7 +7,7 @@ category:
 permalink: /linkylove-inspired-05-31-24/
 slug: linkylove-inspired-05-31-24
 summary: “Let’s choose to be different.”
-comments: false
+
 categories:
   - linkylove
   - inspiration

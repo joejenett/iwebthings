@@ -9,7 +9,7 @@ category:
 permalink: /recently-noticed-05-17-23/
 slug: recently-noticed-05-17-23
 summary: 
-comments: false
+
 ---
 <ul class="links">
 	<li><a title="GitHub - MaggieAppleton/digital-gardeners" href="https://github.com/MaggieAppleton/digital-gardeners/">digital-gardeners</a> <a href="https://pinboard.in/u:bigade">📌</a><br>“Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.”</li>

@@ -7,7 +7,7 @@ category:
 permalink: /give-one-take-one/
 slug: give-one-take-one
 summary: 
-comments: false
+
 categories:
   - amusing
   - ideas

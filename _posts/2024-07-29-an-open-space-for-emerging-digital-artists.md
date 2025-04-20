@@ -7,7 +7,7 @@ category:
 permalink: /an-open-space-for-emerging-digital-artists/
 slug: an-open-space-for-emerging-digital-artists
 summary: a curious new zine
-comments: false
+
 categories:
   - curiosities
   - words

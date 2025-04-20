@@ -7,7 +7,7 @@ category:
 permalink: /rediscovered-diversions-04-20-24/
 slug: rediscovered-diversions-04-20-24
 summary: enjoyed bumping into them again
-comments: false
+
 categories:
   - lists
   - diversions

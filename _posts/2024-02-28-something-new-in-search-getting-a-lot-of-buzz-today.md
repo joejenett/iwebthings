@@ -7,7 +7,7 @@ category:
 permalink: /something-new-in-search-getting-a-lot-of-buzz-today/
 slug: something-new-in-search-getting-a-lot-of-buzz-today
 summary: ”find people...”
-comments: false
+
 categories:
   - search
   - resources

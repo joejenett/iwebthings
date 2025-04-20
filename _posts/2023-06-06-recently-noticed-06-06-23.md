@@ -9,7 +9,7 @@ category:
 permalink: /recently-noticed-06-06-23/
 slug: recently-noticed-06-06-23
 summary: 
-comments: false
+
 ---
 <ul class="links">
 	<li><a title="GitHub - pedrozath/coltrane: 🎹🎸A music theory library with a command-line interface" href="https://github.com/pedrozath/coltrane">GitHub - pedrozath/coltrane: 🎹🎸A music theory library with a command-line interface</a> <a href="https://pinboard.in/u:gohai">📌</a></li>

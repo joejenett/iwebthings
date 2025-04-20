@@ -7,7 +7,7 @@ category:
 permalink: /notes-from-the-hub-07-01-24/
 slug: notes-from-the-hub-07-01-24
 summary: upcoming server maintenance
-comments: false
+
 categories:
   - about
   - i-webthings

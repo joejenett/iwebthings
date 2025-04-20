@@ -7,7 +7,7 @@ category:
 permalink: /a-way-to-dip-your-toes-into-a-more-digitally-minimal-lifestyle/
 slug: a-way-to-dip-your-toes-into-a-more-digitally-minimal-lifestyle
 summary: ‘simplify your screen time’
-comments: false
+
 categories:
   - ideas
   - alternatives

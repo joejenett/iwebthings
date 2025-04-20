@@ -8,7 +8,7 @@ category:
 permalink: /button-surf-linkylove-06-20-23/
 slug: button-surf-linkylove-06-20-23
 summary: 
-comments: false
+
 ---
 <p><a href="https://bulltown.joejenett.com/links"><img decoding="async" alt="b22 button surf" src="/images/b22surf.png" width="88"></a></p>
 <ul class="linkylove">

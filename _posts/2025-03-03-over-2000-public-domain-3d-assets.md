@@ -7,7 +7,7 @@ category:
 permalink: /over-2000-public-domain-3d-assets/
 slug: over-2000-public-domain-3d-assets
 summary: 
-comments: false
+
 categories:
   - graphics
   - resources

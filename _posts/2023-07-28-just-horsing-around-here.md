@@ -9,7 +9,7 @@ category:
 permalink: /just-horsing-around-here/
 slug: just-horsing-around-here
 summary: 
-comments: false
+
 ---
 <a title="Model Horse Collection - Aywren's Nook " href="https://aywren.com/horses/">Wren’s Stables</a>
 

@@ -7,7 +7,7 @@ category:
 permalink: /here-to-reclaim-the-throne-of-simplicity/
 slug: here-to-reclaim-the-throne-of-simplicity
 summary: “The Static Site Generator you’re going to love.”
-comments: false
+
 categories:
   - software
 ---

@@ -8,7 +8,7 @@ category:
 permalink: /just-another-simple-test/
 slug: just-another-simple-test
 summary: 
-comments: false
+
 categories:
   - testmonkey
 ---

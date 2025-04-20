@@ -7,7 +7,7 @@ category:
 permalink: /though-you-could-not-dress-the-chickens/
 slug: though-you-could-not-dress-the-chickens
 summary: and the fun goes on...
-comments: false
+
 categories:
   - giggles
   - fun

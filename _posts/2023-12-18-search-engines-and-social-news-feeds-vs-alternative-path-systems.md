@@ -7,7 +7,7 @@ category:
 permalink: /search-engines-and-social-news-feeds-vs-alternative-path-systems/
 slug: search-engines-and-social-news-feeds-vs-alternative-path-systems
 summary: You never know what you’ll find...
-comments: false
+
 categories:
   - web
   - alternatives

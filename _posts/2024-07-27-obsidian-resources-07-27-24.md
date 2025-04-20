@@ -7,7 +7,7 @@ category:
 permalink: /obsidian-resources-07-27-24/
 slug: obsidian-resources-07-27-24
 summary: an assortment of related resources
-comments: false
+
 categories:
   - lists
   - resources

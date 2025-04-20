@@ -7,7 +7,7 @@ category:
 permalink: /smolweb-gemini-and-lowtech/
 slug: smolweb-gemini-and-lowtech
 summary: 
-comments: false
+
 categories:
   - initiatives
   - web

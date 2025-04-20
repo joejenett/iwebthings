@@ -7,7 +7,7 @@ category:
 permalink: /morning-notables-resources-05-27-24/
 slug: morning-notables-resources-05-27-24
 summary: perhaps something useful for ya
-comments: false
+
 categories:
   - lists
   - resources

@@ -7,7 +7,7 @@ category:
 permalink: /a-cheatsheet-for-web-developers/
 slug: a-cheatsheet-for-web-developers
 summary: 
-comments: false
+
 categories:
   - lists
   - dev

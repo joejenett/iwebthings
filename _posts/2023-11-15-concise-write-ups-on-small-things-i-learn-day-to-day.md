@@ -7,7 +7,7 @@ category:
 permalink: /concise-write-ups-on-small-things-i-learn-day-to-day/
 slug: concise-write-ups-on-small-things-i-learn-day-to-day
 summary: ‘1349 TILs and counting...’
-comments: false
+
 categories:
   - design
   - dev

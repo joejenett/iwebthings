@@ -9,7 +9,7 @@ category:
 permalink: /recently-noticed-06-18-23/
 slug: recently-noticed-06-18-23
 summary: 
-comments: false
+
 ---
 <ul class="links">
 	<li><a title="Aether" href="https://getaether.net/">Aether</a> <a href="https://pinboard.in/u:basemaly">📌</a><br>“Peer-to-peer ephemeral public communities”</li>
