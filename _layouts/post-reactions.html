@@ -28,8 +28,8 @@ layout: default
 				{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 				{{ page.date | date: date_format }}
 			</time></a>
-			{%- if page.author -%}• <span class="author p-author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid" href="https://iwebthings.joejenett.com/" rel="author"><img alt="author's homepage" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="u-photo photo" width="24" height="24" style="vertical-align:middle;" itemprop="image"></a>
-				<a class="url uid u-url u-uid fn p-name" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
+			{%- if page.author -%}• <span class="author p-author h-card" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid p-author h-hcard" href="https://iwebthings.joejenett.com/" rel="author"><img alt="author's homepage" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="u-photo photo" width="24" height="24" style="vertical-align:middle;" itemprop="image"></a>
+				<a class="url uid u-url u-uid fn p-name p-author h-card" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
 			</span>
 		</span>
 
