@@ -27,11 +27,11 @@ layout: default
 {% if post.title != "" %}
 <div class="postlist-sep">
 <h2 class="postlist-post-title">
-<a class="post-link u-url" href="https://iwebthings.joejenett.com{{ post.url }}">
+<a class="post-link u-url" href="{{ site.url }}{{ post.url }}">
 {{ post.title | escape }}</a> 
 </h2>
 <div class="hold-meta">
-<span class="post-meta"><a rel="feed" href="https://iwebthings.joejenett.com{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+<span class="post-meta"><a rel="feed" href="{{ site.url }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
 • <span class="post-meta p-author h-card">joe jenett
 </span>
 <span class="post-meta post-categories">• posted in:
@@ -58,7 +58,7 @@ layout: default
 {{ post.excerpt }}
 {%- endif -%}
 <div class="topless-four">
-<span class="post-meta"><a rel="feed" href="https://iwebthings.joejenett.com{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+<span class="post-meta"><a rel="feed" href="{{ site.url }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
 
 • <span class="post-meta p-author h-card">joe jenett
 </span>
