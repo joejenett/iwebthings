@@ -21,6 +21,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.ninerem {
+	font-size:.9rem;
+}
 .onefiveem {
 	margin-top:1.5em;
 }
