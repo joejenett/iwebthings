@@ -76,11 +76,12 @@ layout: default
 </script>
 <div id="result0" style="margin-bottom:48px;"></div>
 
-{% if post.comments %}
 <div style="margin-bottom:72px;">
+{% if post.comments != "" %}
 {%- include fediverse_comments.html -%}
-</div>
 {% endif %}
+</div>
+
 
 <div id="resultsp" style="margin-top:-24px;">
 	{{ page.reaction }}
