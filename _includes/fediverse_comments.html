@@ -1,5 +1,5 @@
 <section class="page__comments">
-  <h4 class="page__comments-title">COMMENTS</h4>
+  <h4 class="page__comments-title">Comments</h4>
   <p>You can use your <a href="https://joinmastodon.org">Mastodon</a> or other ActivityPub account to comment on this article by replying to the associated <a class="link" href="https://{{ page.comments.host }}/@{{ page.comments.username }}/{{ page.comments.id }}">post</a>.</p>
   <p id="mastodon-comments-list">
     <button id="load-comment" class="btn btn--twitter">Load comments from Mastodon</button>
@@ -54,7 +54,7 @@
                           <a itemprop= "url" href="${reply.uri}" rel="nofollow">${reply.created_at.substr(0, 10)}</a>
                         </p>
                         <div itemprop="text">${reply.content}</div>
-                        <div class="status">
+						<div class="status" style="display:none;">
                           <i class="fa fa-reply fa-fw"></i>${reply.replies_count}&nbsp;|&nbsp; 
                           <i class="fa fa-retweet fa-fw"></i>${reply.reblogs_count}&nbsp;|&nbsp;
                           <i class="fa fa-star fa-fw"></i>${reply.favourites_count}
