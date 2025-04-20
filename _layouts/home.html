@@ -7,7 +7,7 @@ layout: default
 }
 </style>
 
-<div class="home h-feed">
+<div class="home">
 	<div style="position:relative;float:right;margin:9px 0 9px 9px;">
 	<a href="https://simply.joejenett.com/adventures-of-a-donut-maker/"><img src="/images/donuts.png" alt="" height="70"></a>
 	</div>		
@@ -27,11 +27,11 @@ layout: default
 {% if post.title != "" %}
 <div class="postlist-sep">
 <h2 class="postlist-post-title">
-<a class="post-link" rel="feed" href="{{ post.url | relative_url }}">
+<a class="post-link" rel="alternative" type="text/mf2+html" href="https://iwebthings.joejenett.com{{ page.permalink }}">
 {{ post.title | escape }}</a> 
 </h2>
 <div class="hold-meta">
-<span class="post-meta"><a rel="feed" href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+<span class="post-meta"><a rel="feed" href="https://iwebthings.joejenett.com{{ page.permalink }}">{{ post.date | date: date_format }}</a></span>
 • <span class="post-meta p-author h-card">joe jenett
 </span>
 <span class="post-meta post-categories">• posted in:
@@ -58,7 +58,7 @@ layout: default
 {{ post.excerpt }}
 {%- endif -%}
 <div class="topless-four">
-<span class="post-meta"><a rel="feed" href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+<span class="post-meta"><a rel="feed" href="https://iwebthings.joejenett.com{{ page.permalink }}">{{ post.date | date: date_format }}</a></span>
 
 • <span class="post-meta p-author h-card">joe jenett
 </span>
