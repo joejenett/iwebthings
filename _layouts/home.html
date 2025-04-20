@@ -27,11 +27,11 @@ layout: default
 {% if post.title != "" %}
 <div class="postlist-sep">
 <h2 class="postlist-post-title">
-<a class="post-link" href="{{ post.url | relative_url }}">
+<a class="post-link" rel="feed" href="{{ post.url | relative_url }}">
 {{ post.title | escape }}</a> 
 </h2>
 <div class="hold-meta">
-<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+<span class="post-meta"><a rel="feed" href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
 • <span class="post-meta p-author h-card">joe jenett
 </span>
 <span class="post-meta post-categories">• posted in:
@@ -58,7 +58,7 @@ layout: default
 {{ post.excerpt }}
 {%- endif -%}
 <div class="topless-four">
-<span class="post-meta"><a href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
+<span class="post-meta"><a rel="feed" href="{{ site.baseurl }}{{ post.permalink }}">{{ post.date | date: date_format }}</a></span>
 
 • <span class="post-meta p-author h-card">joe jenett
 </span>
