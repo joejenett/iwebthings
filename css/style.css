@@ -21,6 +21,12 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+#load-comment {
+	border:none;
+	background: #a8ecff;
+	color: #000;
+	padding:2px 4px;
+}
 .ninerem {
 	font-size:.9rem;
 }

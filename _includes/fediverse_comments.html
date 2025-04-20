@@ -42,7 +42,7 @@
                   `<article id="comment-${reply.id }" class="js-comment comment" itemprop="comment" itemscope itemtype="http://schema.org/Comment">
                      <div class="js-comment comment">
                        <div class="comment__avatar-wrapper">
-                         <img class="comment__avatar" src="${escapeHtml(reply.account.avatar_static)}" height=60 width=60 alt="">
+                         <img class="comment__avatar" src="${escapeHtml(reply.account.avatar_static)}" height=48 width=48 alt="">
                        </div>
                        <div class="comment__content-wrapper">
                         <h3 class="comment__author" itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -50,10 +50,10 @@
                             <span class="ninerem">${reply.account.display_name}</span>
                           </a>
                         </h3>
-                        <p class="comment__date">
+                        <p class="comment__date ninerem">
                           <a itemprop= "url" href="${reply.uri}" rel="nofollow">${reply.created_at.substr(0, 10)}</a>
                         </p>
-                        <div itemprop="text">${reply.content}</div>
+                        <div class="ninerem" itemprop="text">${reply.content}</div>
 						<div class="status" style="display:none;">
                           <i class="fa fa-reply fa-fw"></i>${reply.replies_count}&nbsp;|&nbsp; 
                           <i class="fa fa-retweet fa-fw"></i>${reply.reblogs_count}&nbsp;|&nbsp;
