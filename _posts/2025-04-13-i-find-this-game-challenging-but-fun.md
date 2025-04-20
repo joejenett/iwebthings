@@ -7,7 +7,10 @@ category:
 permalink: /i-find-this-game-challenging-but-fun/
 slug: i-find-this-game-challenging-but-fun
 summary: a word puzzle game
-
+comments:
+  host: toot.community
+  username: jenett
+  id: 114330833579641977
 categories:
   - games
   - words

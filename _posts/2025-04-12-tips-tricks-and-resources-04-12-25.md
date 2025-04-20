@@ -8,6 +8,9 @@ permalink: /tips-tricks-and-resources-04-12-25/
 slug: tips-tricks-and-resources-04-12-25
 summary: 😎 Thank you shiny Pinboard network! ❤️
 comments:
+  host: toot.community
+  username: jenett
+  id: 114325559256661560
 categories:
   - hub
   - tips
