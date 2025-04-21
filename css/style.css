@@ -28,6 +28,9 @@ body {
 	padding:2px 4px;
 	border-radius:6px;
 }
+.bold {
+	font-weight:600;
+}
 .ninerem {
 	font-size:.9rem;
 }
