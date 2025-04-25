@@ -9,6 +9,10 @@ category:
 permalink: /experimental-drum-sequencer/
 slug: experimental-drum-sequencer
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114399543909246144
 ---
 <a title="by Michael Mior" href="https://michaelmior.github.io/rhythm-wheel/">Rhythm Wheel</a> <small>(<a href="https://github.com/michaelmior/rhythm-wheel">github</a>)</small><br>[<a title="source" href="https://pinboard.in/u:jugglebird">jugglebird</a>]
 
