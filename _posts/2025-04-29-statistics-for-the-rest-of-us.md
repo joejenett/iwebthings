@@ -8,6 +8,10 @@ category:
 permalink: /statistics-for-the-rest-of-us/
 slug: statistics-for-the-rest-of-us
 summary: ‘The problem is, nothing is certain.’
+comments:
+  host: toot.community
+  username: jenett
+  id: 114422434112646650
 ---
 <a title="Unsure Calculator by Filip Hracek" href="https://filiph.github.io/unsure/">Unsure Calculator</a>
 <blockquote>
