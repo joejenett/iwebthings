@@ -483,6 +483,7 @@ div#archives div.archive-group article.archive-item li {
 	background-color: var(--hbg-color);
 	text-align:left;
 	margin-bottom:9px;
+	margin-top:-2px;
 	font-size:.95em;
 }
 div.hcard-display {
