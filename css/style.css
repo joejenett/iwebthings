@@ -838,7 +838,7 @@ div.hcard-display {
 	}
 	#aka  {
 		left:0;
-		right:0;
+		min-width:100%;
 	}
 	.iwtblock {
 		margin: 0;
