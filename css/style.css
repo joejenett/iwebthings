@@ -784,9 +784,6 @@ div.hcard-display {
 
 
 @media only screen and (max-width:476px) {
-	.welcome-mobile {
-		margin-top:9px;
-	}
 	img#respect {
 		display:none;
 	}
