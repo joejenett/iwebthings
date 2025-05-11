@@ -9,6 +9,10 @@ category:
 permalink: /they-do-not-reason-the-way-humans-do/
 slug: they-do-not-reason-the-way-humans-do
 summary: they’re everywhere
+comments:
+  host: toot.community
+  username: jenett
+  id: 
 ---
 <a title="How to thrive in a ChatGPT world" href="https://thebullshitmachines.com/">Modern-Day Oracles or Bullshit Machines?</a>
 <blockquote>
