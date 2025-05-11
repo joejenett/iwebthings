@@ -51,6 +51,13 @@ body {
 .pointfiveem {
 	margin-top:0.5em;
 }
+#footban {
+	margin-top:0.5em;
+	text-align:center;
+}
+#footban.img {
+	 max-width:100%;
+}
 .topless-four {
 	position:relative;
 	top:-4px;
