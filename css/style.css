@@ -482,7 +482,7 @@ div#archives div.archive-group article.archive-item li {
 	border-radius:8px;
 	background-color: var(--hbg-color);
 	text-align:left;
-	margin-bottom:9px;
+	margin-bottom:8px;
 	margin-top:-2px;
 	font-size:.95em;
 }
