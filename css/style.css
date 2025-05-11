@@ -827,7 +827,7 @@ div.hcard-display {
 		padding:0;
 		margin:0;
 	}
-	.explore, .welcome, .sidefoot-credits {
+	div.hcard-display, .explore, .welcome, .sidefoot-credits, .iwtbutts {
 		position:relative;
 		left:8px;
 	}
