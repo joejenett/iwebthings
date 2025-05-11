@@ -872,5 +872,9 @@ div.hcard-display {
 	.twof {
 		width:99%;	
 	}
+	#footban {
+		position:relative;
+		left:2px;
+}
 }
 
