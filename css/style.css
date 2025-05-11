@@ -28,6 +28,14 @@ body {
 	padding:2px 4px;
 	border-radius:6px;
 }
+.iconlinks {
+	float:right;
+	margin-left:6px;
+	margin-top:-6px;
+}
+.pr-eighteen {
+	padding-right:18px;
+}
 .bold {
 	font-weight:600;
 }
@@ -474,17 +482,25 @@ div#archives div.archive-group article.archive-item li {
 	background-color: var(--hbg-color);
 	text-align:left;
 	margin-bottom:9px;
+	margin-top:0;
 	font-size:.95em;
 }
-.welcome-mobile {
-	padding:0 18px 4px 18px;
+.iwtbutts {
+	padding:4px 18px 4px 18px;
 	border: 1px solid #a3b8cc;
 	border-radius:8px;
 	background-color: var(--hbg-color);
-	text-align:left;
-	margin-bottom:8px;
-	margin-top:-2px;
+	text-align:center;
+	margin-bottom:12px;
+	margin-top:0;
 	font-size:.95em;
+}
+.alsolike {
+	 margin-top:18px;
+	 font-weight:500;
+	 border-top:1px solid #ededed;
+	 padding:2px 0 4px 0;
+	 font-size:.85em;
 }
 div.hcard-display {
 	background: var(--hbg-color);
@@ -785,6 +801,9 @@ div.hcard-display {
 
 
 @media only screen and (max-width:476px) {
+	.welcome {
+		margin-top:-2px;
+	}
 	img#respect {
 		display:none;
 	}
