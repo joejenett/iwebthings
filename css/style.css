@@ -569,7 +569,6 @@ div.hcard-display {
 }
 #aka {
 	position:relative;
-	/*top:2px;*/
 	padding:12px 4px 6px 4px;
 	border:1px solid #a3b8cc;
 	background-color: var(--hbg-color);
@@ -839,7 +838,7 @@ div.hcard-display {
 	}
 	#aka  {
 		left:0;
-		min-width:98%;
+		right:0;
 	}
 	.iwtblock {
 		margin: 0;
