@@ -12,7 +12,7 @@ summary: they’re everywhere
 comments:
   host: toot.community
   username: jenett
-  id: 
+  id: 114489018192584445
 ---
 <a title="How to thrive in a ChatGPT world" href="https://thebullshitmachines.com/">Modern-Day Oracles or Bullshit Machines?</a>
 <blockquote>
