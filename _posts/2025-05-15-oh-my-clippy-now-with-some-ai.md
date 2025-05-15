@@ -11,6 +11,10 @@ category:
 permalink: /oh-my-clippy-now-with-some-ai/
 slug: oh-my-clippy-now-with-some-ai
 summary: your very own bs machine 😎
+comments:
+  host: toot.community
+  username: jenett
+  id: 114512381152163821
 ---
 <a title="Clippy Desktop Assistant" href="https://felixrieseberg.github.io/clippy/">Clippy Desktop Assistant</a> <small>(<a href="https://github.com/felixrieseberg/clippy">github</a>)</small>
 <blockquote>
