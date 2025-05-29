@@ -8,6 +8,10 @@ category:
 permalink: /a-lovingly-crafted-handwriting-style-monospace-font/
 slug: a-lovingly-crafted-handwriting-style-monospace-font
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114591582464077458
 ---
 <a title="Annotation Mono" href="https://qwerasd205.github.io/AnnotationMono/">Annotation Mono</a>
 <blockquote>
@@ -19,4 +23,5 @@ The weight axis allows fine-grained selection of text weight from Thin to ExtraB
 </p>
 </blockquote>
 [<a title="source" href="https://pinboard.in/u:roger">roger</a>]
+
 <a href="https://brid.gy/publish/mastodon"></a>
