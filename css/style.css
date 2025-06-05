@@ -21,6 +21,17 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+#home-donuts {
+	position:relative;
+	float:right;
+	margin:9px 0 9px 9px;
+}
+#post-donuts {
+	position:relative;
+	float:right;
+	margin:-7px 0 9px 9px;
+}
+
 #load-comment {
 	border:1px solid #51d8ff;
 	background: #cbf3ff;
@@ -32,6 +43,9 @@ body {
 	float:right;
 	margin-left:6px;
 	margin-top:-6px;
+}
+.mt-eighteen {
+	margin-top:18px;
 }
 .pr-eighteen {
 	padding-right:18px;
