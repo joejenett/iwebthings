@@ -9,8 +9,9 @@ category:
 permalink: /try-it-you-might-like-it-a-lot/
 slug: try-it-you-might-like-it-a-lot
 summary: easier than you might think
+
 ---
-<a class="u-like of u-repost-of" title="You Can Make A Website" href="https://osteophage.neocities.org/essays/you-can-make-a-website">You Can Make A Website</a>
+<a title="You Can Make A Website" href="https://osteophage.neocities.org/essays/you-can-make-a-website">You Can Make A Website</a>
 <blockquote>
 <p>
 If you have any doubts, then you're the target audience of this guide. Many people hesitate or even write off the possibility of making a website due to common misconceptions, poorly-written instructions, or simply feeling unsure where to start. So to help you over those hurdles, this guide is designed to address some of those misconceptions, walk you through resolving certain mental blocks, and present you with some tutorials to help get you on your way. 
