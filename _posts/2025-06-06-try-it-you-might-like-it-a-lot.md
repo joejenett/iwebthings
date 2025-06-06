@@ -9,7 +9,10 @@ category:
 permalink: /try-it-you-might-like-it-a-lot/
 slug: try-it-you-might-like-it-a-lot
 summary: easier than you might think
-
+comments:
+  host: toot.community
+  username: jenett
+  id: 114637053724662134
 ---
 <a title="You Can Make A Website" href="https://osteophage.neocities.org/essays/you-can-make-a-website">You Can Make A Website</a>
 <blockquote>
