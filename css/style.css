@@ -21,6 +21,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.noshow, .noshow-two {
+	display:none;
+}
 #home-donuts {
 	position:relative;
 	float:right;

@@ -49,9 +49,22 @@ layout: default
 <div class="post-content e-content" itemprop="articleBody">
 {{ content }}
 </div>
-
-
-
+<!--
+	<script>
+	$().ready(function(){
+		$.getJSON( "https://webmention.io/api/links?target=https://iwebthings.joejenett.com{{ page.permalink }}",
+		function( mydata ) {
+			console.log(mydata);
+			var output = '';
+			$.each(mydata0.links, function(i, v) {
+				if (v.target.search(new RegExp(/{{ page.slug }}/i)) == -1) {
+					$(".noshow").css("display", "none");
+				}
+			}
+		});
+	});
+</script>
+-->
 <script>
 	$().ready(function(){
 		$.getJSON( "https://webmention.io/api/links?target=https://iwebthings.joejenett.com{{ page.permalink }}",
@@ -61,6 +74,8 @@ layout: default
 			$.each(mydata.links, function(i, v) {
 				if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 					output = '';
+					$('.noshow').css('display', 'block');
+					$('.noshow-two').css('display', 'block');
 				}
 			});
 			output += '<p style="clear:both;padding-top:12px;">Likes:</p>';
@@ -93,8 +108,8 @@ layout: default
 		});	
 	});
 </script>
-<div style="margin:18px 0 9px 0;font-size:1rem;font-weight:600;">Reactions: </div>
-<div id="result0" style="margin-bottom:48px;"></div>
+<div class="noshow-two" style="margin:18px 0 9px 0;font-size:1rem;font-weight:600;"><p>Reactions:</p></div>
+<div class="noshow" id="result0" style="margin-bottom:48px;"></div>
 
 
 <div style="padding-top:18px;margin-bottom:36px;clear:both;">
