@@ -19,7 +19,7 @@ layout: default
 	<a href="https://simply.joejenett.com/adventures-of-a-donut-maker/"><img src="/images/donuts.png" alt="" height="60"></a>
 </div>
 <header class="post-header">
-	<h1 class="post-title p-name entry-title" style="margin-top:18px;" itemprop="name headline"><a class="u-url" href="{{ site.url }}{{ page.permalink }}">{{ page.title | escape }}</a>
+	<h1 class="post-title p-name entry-title mt-eighteen" itemprop="name headline"><a class="u-url" href="{{ site.url }}{{ page.permalink }}">{{ page.title | escape }}</a>
 	</h1>
 	<p class="post-meta">
 		<span class="h-card">
@@ -49,22 +49,7 @@ layout: default
 <div class="post-content e-content" itemprop="articleBody">
 {{ content }}
 </div>
-<!--
-	<script>
-	$().ready(function(){
-		$.getJSON( "https://webmention.io/api/links?target=https://iwebthings.joejenett.com{{ page.permalink }}",
-		function( mydata ) {
-			console.log(mydata);
-			var output = '';
-			$.each(mydata0.links, function(i, v) {
-				if (v.target.search(new RegExp(/{{ page.slug }}/i)) == -1) {
-					$(".noshow").css("display", "none");
-				}
-			}
-		});
-	});
-</script>
--->
+
 <script>
 	$().ready(function(){
 		$.getJSON( "https://webmention.io/api/links?target=https://iwebthings.joejenett.com{{ page.permalink }}",
@@ -82,7 +67,7 @@ layout: default
 			$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 					if (v.activity.type =="like") {
-						output += '<div style="float:left;"><a href="' + v.source + '"><img style="margin:1px;" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
+						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
 					}
                	}
 			});
@@ -90,7 +75,7 @@ layout: default
 			$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 					if (v.activity.type =="repost") {
-						output += '<div style="float:left;"><a href="' + v.source + '"><img style="margin:1px;" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
+						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
 					}
                	}
 			});
@@ -98,7 +83,7 @@ layout: default
 			$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 					if (v.activity.type =="reply") {
-						output += '<div style="float:left;"><a href="' + v.source + '"><img style="margin:1px;" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
+						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
 					}
                	}
 			});
@@ -108,11 +93,11 @@ layout: default
 		});	
 	});
 </script>
-<div class="noshow-two" style="margin:18px 0 9px 0;font-size:1rem;font-weight:600;"><p>Reactions:</p></div>
-<div class="noshow" id="result0" style="margin-bottom:48px;"></div>
+<div id="reactions-head" class="noshow-two"><p>Reactions:</p></div>
+<div class="noshow" id="result0"></div>
 
 
-<div style="padding-top:18px;margin-bottom:36px;clear:both;">
+<div id="commentblock">
 {%- if page.comments.host -%}
 	{%- include fediverse_comments.html -%}
 {%- endif -%}
@@ -130,12 +115,12 @@ layout: default
   </div>
 </div>
 
-<p style="font-size:.7em;text-align:center;"><a class="u-url" href="https://iwebthings.joejenett.com{{ page.permalink }}">(permalink)</a></p>
+<p class="center fs-psevenem"><a class="u-url" href="https://iwebthings.joejenett.com{{ page.permalink }}">(permalink)</a></p>
 
 
-<p style="text-align:center;margin-top:12px;" class="rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="/feed.atom">subscribe via RSS</a></p>
+<p class="center mt-12 rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="/feed.atom">subscribe via RSS</a></p>
 </article>
 </div>
-<div style="text-align:center;">
+<div class="center">
 <img id="respect" src="/images/respect-ukraine.png" title="Ukraine Deserves our Respect" alt="Ukraine Deserves our Respect" width="120">
 </div>

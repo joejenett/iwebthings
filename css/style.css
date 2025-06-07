@@ -21,6 +21,28 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.fs-psevenem {
+	font-size: .7em;
+}
+.mt-12 {
+	margin-top:12px;
+}
+.m-1 {
+	margin:1px;
+}
+.f-left {
+	float:left;
+}
+#reactions-head {
+	 margin:18px 0 9px 0;
+	 font-size:1rem;
+	 font-weight:600;
+}
+#commentblock {
+	 padding-top:18px;
+	 margin-bottom:36px;
+	 clear:both;
+}
 .noshow, .noshow-two {
 	display:none;
 }
@@ -340,12 +362,14 @@ h1.post-title {
 	letter-spacing:-1px;
 	font-weight:700;
 }
+#result0 {
+	 margin-bottom:48px;
+}
 #result, #result2 {
 padding-top:18px;
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 font-size:.9rem;
 font-weight:600;
-
 }
 #result p, #result p a, #result2 p, #result2 p a, #result0 p, #result0 p a {
 font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
