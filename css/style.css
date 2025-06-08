@@ -187,9 +187,6 @@ body {
 	border:none;
 	margin-top:18px;
 }
-.iwt a:hover img {
-	transform:scale(1.1);
-}
 a.mastodon-share {
     display: inline-block;
     padding: .5em;
@@ -281,7 +278,9 @@ a:hover, div.post-list a:hover, .missed a:hover {
 }
 a:visited, div.post-list a:visited, .missed a:visited {
 	color: #5f8c99;
-
+}
+.iwtbutts a:hover img {
+	transform:scale(1.1);
 }
 div.post-list div h2 {
 	font-weight:500;
