@@ -16,6 +16,13 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.elguy {
+	position:relative;
+	float:right;
+	margin:18px;
+	width:40px;
+	
+}
 .nodisplay {
 	display:none;
 }
