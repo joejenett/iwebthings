@@ -17,6 +17,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.onepointfiveem {
+	font-size:1.5em;
+}
 .va-m {
 	vertical-align:middle;
 }
