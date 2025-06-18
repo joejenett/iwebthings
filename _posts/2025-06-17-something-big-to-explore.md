@@ -18,6 +18,6 @@ comments:
 Kudos to my friend <a href="https://indieseek.xyz/">Brad</a> who managed to add 60 <a href="https://indieseek.xyz/links/newposts.php">new listings</a> in the last month.
 </p>
 <p>
-Now go forth and <a href="https://indieseek.xyz/links/newposts.php">enjoy</a>!
+Explore and <a href="https://indieseek.xyz/links/newposts.php">enjoy</a>!
 </p>
 <a href="https://brid.gy/publish/mastodon"></a>
