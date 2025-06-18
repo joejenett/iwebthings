@@ -8,7 +8,7 @@ category:
   - exploring
 permalink: /something-big-to-explore/
 slug: something-big-to-explore
-summary: You go buddy!
+summary: 
 comments:
   host: toot.community
   username: jenett
