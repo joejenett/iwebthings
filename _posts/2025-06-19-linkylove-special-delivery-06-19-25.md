@@ -13,7 +13,7 @@ comments:
   username: jenett
   id: 114710818062401720
 ---
-<a href="https://neocities.org/"><img src="/images/iwhn.png" alt="" title=".𝘸𝘦𝘣𝘵𝘩𝘪𝘯𝘨𝘴 𝘭𝘰𝘷𝘦𝘴 𝘯𝘦𝘰𝘤𝘪𝘵𝘪𝘦𝘴!" width="88" style="position:relative;float:right;width:88px;margin:36px 3px 0 0;"></a>
+<a href="https://neocities.org/"><img class="postbuttonfloat" src="/images/iwhn.png" alt="" title="𝘪.𝘸𝘦𝘣𝘵𝘩𝘪𝘯𝘨𝘴 𝘭𝘰𝘷𝘦𝘴 𝘯𝘦𝘰𝘤𝘪𝘵𝘪𝘦𝘴!" width="88"></a>
 <ul class="linkylove">
 	<li><a title="Juglone" href="https://juglone.neocities.org/">Juglone</a> *<br>&#8618;<a href="https://juglone.neocities.org/journalpage1">journal</a><br>&#8618;<a href="https://juglone.neocities.org/tabs">Guitar Tabs</a></li>
 	<li><a title="Daniele" href="https://daniele63.com/">Daniele's Website</a><br>&#8618;<a title="Frutiger Aero Archive" href="https://frutigeraeroarchive.org/">Frutiger Aero Archive</a><br>&#8618;<a href="https://daniele63.com/coding_tricks">Coding Tricks</a></li>
