@@ -8,6 +8,10 @@ category:
 permalink: /linkylove-special-delivery-06-19-25/
 slug: linkylove-special-delivery-06-19-25
 summary: essence
+comments:
+  host: toot.community
+  username: jenett
+  id: 114710818062401720
 ---
 <a href="https://neocities.org/"><img src="/images/iwhn.png" alt="" title=".𝘸𝘦𝘣𝘵𝘩𝘪𝘯𝘨𝘴 𝘭𝘰𝘷𝘦𝘴 𝘯𝘦𝘰𝘤𝘪𝘵𝘪𝘦𝘴!" width="88" style="position:relative;float:right;width:88px;margin:36px 3px 0 0;"></a>
 <ul class="linkylove">
