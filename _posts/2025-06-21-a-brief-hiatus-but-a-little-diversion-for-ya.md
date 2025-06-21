@@ -9,6 +9,10 @@ category:
 permalink: /a-brief-hiatus-but-a-little-diversion-for-ya/
 slug: a-brief-hiatus-but-a-little-diversion-for-ya
 summary: find the treasure
+comments:
+  host: toot.community
+  username: jenett
+  id: 114721820003147618
 ---
 <a title="I be Captain Polly, and I'll help ye find the buried treasure!" href="https://canva-experimental.com/embed/view/capable-diamond">Pirate Coordinate Adventure</a><br>[<a title="source" href="https://pinboard.in/u:twwoodward">twwoodward</a>]
 
