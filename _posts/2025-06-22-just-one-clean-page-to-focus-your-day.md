@@ -13,7 +13,15 @@ summary:comments:
   username: jenett
   id: 114727373769359251
 ---
-<a href="https://ephe.app/landing">Ephe - Ephemeral Markdown Paper</a> <small>(<a href="https://github.com/unvalley/ephe">github</a>)</small>  <small>(<a href="https://github.com/unvalley/ephe/blob/main/.github/guide.md">guide</a>)</small><br>[<a title="source" href="https://pinboard.in/u:sansaid">sansaid</a>]
-<blockquote><p>No installs. No sign-up. No noise.
-You get one page, write what matters today.</p></blockquote>
+<p>
+	<a href="https://ephe.app/landing">Ephe - Ephemeral Markdown Paper</a> <small>(<a href="https://github.com/unvalley/ephe">github</a>)</small>  <small>(<a href="https://github.com/unvalley/ephe/blob/main/.github/guide.md">guide</a>)</small><br>[<a title="source" href="https://pinboard.in/u:sansaid">sansaid</a>]
+</p>
+<blockquote>
+	<p>
+		No installs. No sign-up. No noise.
+		You get one page, write what matters today.
+	</p>
+
+</blockquote>
+
 <a href="https://brid.gy/publish/mastodon"></a>
