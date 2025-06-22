@@ -8,7 +8,10 @@ category:
   - tools
 permalink: /just-one-clean-page-to-focus-your-day/
 slug: just-one-clean-page-to-focus-your-day
-summary:
+summary:comments:
+  host: toot.community
+  username: jenett
+  id: 114727373769359251
 ---
 <a href="https://ephe.app/landing">Ephe - Ephemeral Markdown Paper</a> <small>(<a href="https://github.com/unvalley/ephe">github</a>)</small>  <small>(<a href="https://github.com/unvalley/ephe/blob/main/.github/guide.md">guide</a>)</small><br>[<a title="source" href="https://pinboard.in/u:sansaid">sansaid</a>]
 <blockquote><p>No installs. No sign-up. No noise.
