@@ -8,7 +8,8 @@ category:
   - tools
 permalink: /just-one-clean-page-to-focus-your-day/
 slug: just-one-clean-page-to-focus-your-day
-summary:comments:
+summary:
+comments:
   host: toot.community
   username: jenett
   id: 114727373769359251
@@ -21,7 +22,6 @@ summary:comments:
 		No installs. No sign-up. No noise.
 		You get one page, write what matters today.
 	</p>
-
 </blockquote>
 
 <a href="https://brid.gy/publish/mastodon"></a>
