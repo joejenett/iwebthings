@@ -28,4 +28,7 @@ I have an odd fascination with finding traffic cones in unusual places, so I dec
 <p>
 Kinda fun, ya know.
 </p>
+<p>
+	(See y’all next week...)
+</p>
 <a href="https://brid.gy/publish/mastodon"></a>
