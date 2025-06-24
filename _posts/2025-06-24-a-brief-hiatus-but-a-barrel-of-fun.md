@@ -9,6 +9,10 @@ category:
 permalink: /a-brief-hiatus-but-a-barrel-of-fun/
 slug: a-brief-hiatus-but-a-barrel-of-fun
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114738519786824144
 ---
 <p>
 <a href="https://bulltown.joejenett.com/images/tipsy/" title="tipsy"><img class="va-m" src="/images/tipsy.png" alt="" height="50"></a> <a href="https://bulltown.joejenett.com/images/road-dreams/" title="road dreams"><img class="va-m" src="/images/road-dreams.png" alt="" height="50"></a> <a href="https://simply.joejenett.com/yes_i_love_road_barrels/" title="Yes, I love road barrels!"><img class="va-m" src="/images/highway_spaces_72.jpg" alt="" width="120" height="50"></a>
