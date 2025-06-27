@@ -579,7 +579,14 @@ div#archives div.archive-group article.archive-item li {
 	font-size:.95em;
 }
 .iwtbutts img {
-	margin:2px;
+	margin:1px;
+	max-width:66px;
+}
+.iwtbutts img.odd {
+	transform:skewY(3deg);
+}
+.iwtbutts img.even {
+	transform:skewY(-3deg);
 }
 .mb-eight-pt-12 {
 	margin-bottom:8px;
