@@ -569,7 +569,7 @@ div#archives div.archive-group article.archive-item li {
 	font-size:.95em;
 }
 .iwtbutts {
-	padding:4px 18px 4px 18px;
+	padding:9px 18px 9px 18px;
 	border: 1px solid #a3b8cc;
 	border-radius:8px;
 	background-color: var(--hbg-color);
