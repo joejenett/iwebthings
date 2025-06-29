@@ -26,6 +26,5 @@ categories:
 	<li><a title="maya.land" href="https://maya.land/">Maya</a></li>
 	<li><a title="Marty McGuire" href="https://martymcgui.re/">Marty</a></li>
 	<li><a title="Ɀeus’ Stadt" href="https://zeusofthecrows.github.io/stadt/">Ɀeus</a></li>
-	<li><a title="Garden" href="https://foreverliketh.is/">🪴 ～ foreverliketh.is</a></li>
 </ul>
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
