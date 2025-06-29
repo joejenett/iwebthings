@@ -15,6 +15,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.br24 {
+	border-radius:24px;
+}
 .postbuttonfloat {
 	position:relative;
 	float:right;
