@@ -42,6 +42,9 @@ body {
 	float:right;
 	margin:4px 0 1px 3px;
 }
+#isx img {
+	margin:1px 0;
+}
 .mini-18 {
 	max-width:18px;
 }
@@ -297,7 +300,7 @@ a:hover, div.post-list a:hover, .missed a:hover {
 a:visited, div.post-list a:visited, .missed a:visited {
 	color: #5f8c99;
 }
-.iwtbutts a:hover img {
+.iwtbutts a:hover img, .alsolike a:hover img {
 	transform:scale(1.1);
 }
 div.post-list div h2 {
