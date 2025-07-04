@@ -1,4 +1,4 @@
-.elguy-card {
+.card {
   position: relative;
   overflow: hidden;
   display: grid;
@@ -12,6 +12,7 @@
   max-width:140px;
   max-height:140px;
   border-radius:70px;
+  margin:auto;
 
   > * {
     grid-area: card;
