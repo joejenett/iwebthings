@@ -8,7 +8,7 @@ category:
   - scripting
 permalink: /glimmering-pixel-fun/
 slug: glimmering-pixel-fun
-summary:
+summary: this thang is cool 😎
 ---
 Thanks to <a title="source" href="https://pinboard.in/u:jshwlkr">jshwlkr@pinboard</a>, I came upon the following this morning:
 
