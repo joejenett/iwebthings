@@ -9,6 +9,10 @@ category:
 permalink: /glimmering-pixel-fun/
 slug: glimmering-pixel-fun
 summary: this thang is cool 😎
+comments:
+  host: toot.community
+  username: jenett
+  id: 114796178875041497
 ---
 Thanks to <a title="source" href="https://pinboard.in/u:jshwlkr">jshwlkr@pinboard</a>, I came upon the following this morning:
 
