@@ -1,0 +1,28 @@
+.elguy-card {
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  grid-template-areas: "card";
+  place-items: center;
+  aspect-ratio: 1/1;
+  /*border: 1px solid var(--surface-2);*/
+  isolation: isolate;
+  transition: border-color 200ms var(--ease-out);
+  user-select: none;
+  max-width:140px;
+  max-height:140px;
+  border-radius:70px;
+
+  > * {
+    grid-area: card;
+  }
+
+  svg, img {
+    position: relative;
+    z-index: 100;
+    /*width: 30%;*/
+    height: auto;
+    color: var(--surface-3);
+    transition: 300ms var(--ease-out);
+    transition-property: color, scale;
+  }
