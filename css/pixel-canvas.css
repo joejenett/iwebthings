@@ -1,3 +1,18 @@
+:root {
+  --space: 1rem;
+  --bg: #09090b;
+  --fg: #e3e3e3;
+  --surface-1: #101012;
+  --surface-2: #27272a;
+  --surface-3: #52525b;
+  --ease-out: cubic-bezier(0.5, 1, 0.89, 1);
+  --ease-in-out: cubic-bezier(0.45, 0, 0.55, 1);
+}
+
+* {
+  box-sizing: border-box;
+}
+
 .card {
   position: relative;
   overflow: hidden;
