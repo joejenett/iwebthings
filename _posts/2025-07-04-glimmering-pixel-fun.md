@@ -11,8 +11,6 @@ permalink: /glimmering-pixel-fun/
 slug: glimmering-pixel-fun
 summary:
 ---
-<link rel="stylesheet" type="text/css"  href="https://iwebthings.joejenett.com/css/pixel-canvas.css">
-
 Thanks to <a title="source" href="https://pinboard.in/u:jshwlkr">jshwlkr@pinboard</a>, I came upon the following this morning:
 
 <a title="The Pixel Canvas Shimmer Effect" href="https://ryanmulligan.dev/blog/pixel-canvas/">The Pixel Canvas Shimmer Effect</a> <small>(<a href="https://github.com/hexagoncircle/pixel-canvas">github</a>)</small>
