@@ -13,6 +13,36 @@
   box-sizing: border-box;
 }
 
+height,
+body {
+  height: 100%;
+}
+
+body {
+  display: grid;
+  color: var(--fg);
+  background: var(--bg);
+  padding: var(--space);
+  min-height: 100vh;
+}
+
+main {
+  display: grid;
+  grid-template-columns: repeat(var(--count, 1), 1fr);
+  gap: var(--space);
+  margin: auto;
+  inline-size: min(var(--max, 15rem), 100%);
+
+  @media (min-width: 25rem) {
+    --count: 2;
+    --max: 30rem;
+  }
+
+  @media (min-width: 45rem) {
+    --count: 4;
+    --max: 60rem;
+  }
+}
 
 .card {
   position: relative;
