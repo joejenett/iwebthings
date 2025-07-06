@@ -9,6 +9,10 @@ category:
 permalink: /attn-oldskool-gamer-girls-and-guys/
 slug: attn-oldskool-gamer-girls-and-guys
 summary: Who knew!
+comments:
+  host: toot.community
+  username: jenett
+  id: 114807653141975230
 ---
 <p>
 As young teens, Wren and Syn didn't know each other but had something in common: they loved the video game Final Fantasy IV. Oddly enough, they met online years later and became best friends, exploring each other’s takes on the worlds and characters of the game.
