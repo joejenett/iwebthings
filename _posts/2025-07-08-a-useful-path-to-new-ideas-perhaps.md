@@ -8,6 +8,10 @@ category:
 permalink: /a-useful-path-to-new-ideas-perhaps/
 slug: a-useful-path-to-new-ideas-perhaps
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114819902830592422
 ---
 <p>
 <a title="Pathfinder - Concept Explorer" href="https://www.matthewsiu.com/pathfinder">Pathfinder - Concept Explorer</a>
