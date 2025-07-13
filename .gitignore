@@ -17,3 +17,4 @@ linkring/onionring copy.css
 images/iwtlogo copy.png
 Gemfile.lock
 _layouts/post copy.html
+.obsidian/graph.json
