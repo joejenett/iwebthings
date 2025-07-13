@@ -10,6 +10,10 @@ category:
 permalink: /beat-beat-the-funky-funk-funk/
 slug: beat-beat-the-funky-funk-funk
 summary: just for fun!
+comments:
+  host: toot.community
+  username: jenett
+  id: 114845756130502171
 ---
 <p>
 This post’s title comes from the site’s footer.
