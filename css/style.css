@@ -7,13 +7,16 @@
 		--hbg-color: #fdffff;
 	}
 }
-
 body {
 	font: 400 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	color: #222;
 	background-color: #f8f8fa;
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
+}
+.ml-22lift {
+	margin-left:22px;
+	margin-top:-9px;
 }
 .br24 {
 	border-radius:24px;
