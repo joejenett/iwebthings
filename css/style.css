@@ -14,6 +14,16 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.ll36 {
+	position:relative;
+	float:right;
+	margin-right:36px;
+}
+.ll24 {
+	position:relative;
+	float:right;
+	margin-right:24px;
+}
 .ml-22lift {
 	margin-left:22px;
 	margin-top:-9px;
@@ -306,7 +316,7 @@ a:hover, div.post-list a:hover, .missed a:hover {
 a:visited, div.post-list a:visited, .missed a:visited {
 	color: #5f8c99;
 }
-.iwtbutts a:hover img, .alsolike a:hover img {
+.iwtbutts a:hover img, .iwt a:hover img, .alsolike a:hover img {
 	transform:scale(1.1);
 }
 div.post-list div h2 {
