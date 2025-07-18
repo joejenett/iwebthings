@@ -9,6 +9,10 @@ category:
 permalink: /because-news-is-broken/
 slug: because-news-is-broken
 summary: an alternative perhaps
+comments:
+  host: toot.community
+  username: jenett
+  id: 114874147236541632
 ---
 <p>
 <a title="Kite" href="https://kite.kagi.com/">Kite</a> <small>(<a href="https://github.com/kagisearch/kite-public">github</a>)</small>
