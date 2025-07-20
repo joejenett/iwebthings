@@ -7,6 +7,10 @@
 		--hbg-color: #fdffff;
 	}
 }
+.via {
+	font-size:1.5em;
+	color:blue;
+}
 body {
 	font: 400 18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 	color: #222;
