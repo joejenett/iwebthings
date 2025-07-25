@@ -19,7 +19,6 @@ comments:
 <li><a href="https://queerdle.com/">QUEERDLE</a> <small>[via <a href="https://pinboard.in/u:UnionStayshyn">UnionStayshyn</a>]</small></li>
 <li><a href="https://greenblocks.jordan.matelsky.com/">Green Blocks</a> <small>[via <a href="https://pinboard.in/u:tdjones">tdjones</a>]</small></li>
 <li><a href="https://edjefferson.com/letterle/">Letterle</a> <small>[via <a href="https://pinboard.in/u:inxilpro">inxilpro</a>]</small></li>
-<li><a href="https://phase-shell-vanilla.glitch.me/">Number 10</a> <small>[via <a href="https://pinboard.in/u:Fallingbadgers">Fallingbadgers</a>]</small></li>
 <li><a href="https://github.com/klipspringr/wordle-cli">wordle-cli</a> <small>[via <a href="https://pinboard.in/u:tdjones">tdjones</a>]</small></li>
 </ul></p> 
 <p>Kudos, Josh!</p>
