@@ -9,6 +9,10 @@ category:
 permalink: /just-wanted-to-show-off-a-cool-css-feature/
 slug: just-wanted-to-show-off-a-cool-css-feature
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114920126468052681
 ---
 <a title="by Angelika Cathor" href="https://angelika.me/2024/12/01/how-to-clamp-relative-color-lightness/">How to clamp the lightness of a relative color in CSS</a><br>[<a title="source" href="https://pinboard.in/u:jshwlkr">jshwlkr</a>]
 
