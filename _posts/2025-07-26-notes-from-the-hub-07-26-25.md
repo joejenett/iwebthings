@@ -17,7 +17,7 @@ Just finished a big link fixing project at  <a href="https://dwt-archives.joejen
 
 Though I hate to borrow a word from a certain cable giant’s advertising arsenal, I gotta say bulltown is booming.The amount of time spent maintaining its two versions and interacting in Neocities’ community is substantial and worth every minute of it! I’m grateful for the experience.
 
-Not much else to report at the moment ’cept that the <em>webthings</em> keep me busy (and out of trouble) and I’m down with that. 😎
+Not much else to report at the moment ’cept that the <em>webthings</em> are keepin’ me busy (and out of trouble) and I’m down with that. 😎
 
 Have a great weekend!
 
