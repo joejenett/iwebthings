@@ -8,6 +8,10 @@ category:
 permalink: /simple-to-learn-endlessly-challenging-to-master/
 slug: simple-to-learn-endlessly-challenging-to-master
 summary: a small number tile game
+comments:
+  host: toot.community
+  username: jenett
+  id: 114954011812791424
 ---
 <p>
 <a title="a small number tile game" href="https://equatile.com/">Equatile</a>
