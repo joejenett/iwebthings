@@ -7,7 +7,7 @@ category:
   - games
 permalink: /simple-to-learn-endlessly-challenging-to-master/
 slug: simple-to-learn-endlessly-challenging-to-master
-summary:
+summary: a small number tile game
 ---
 <p>
 <a title="a small number tile game" href="https://equatile.com/">Equatile</a>
