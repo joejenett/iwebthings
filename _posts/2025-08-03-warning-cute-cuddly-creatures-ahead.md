@@ -10,6 +10,10 @@ category:
 permalink: /warning-cute-cuddly-creatures-ahead/
 slug: warning-cute-cuddly-creatures-ahead
 summary: several bonus links included
+comments:
+  host: toot.community
+  username: jenett
+  id: 114965156668239276
 ---
 
 <p>
