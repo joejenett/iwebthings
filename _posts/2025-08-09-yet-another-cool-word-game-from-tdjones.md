@@ -9,6 +9,10 @@ category:
 permalink: /yet-another-cool-word-game-from-tdjones/
 slug: yet-another-cool-word-game-from-tdjones
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 114999746732837370
 ---
 <a href="https://blockle.au/">Blockle</a>
 <blockquote>
