@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.webpath-08-11-25/
 slug: linkylove.webpath-08-11-25
 summary: 🔗y❤️
+comments:
+  host: toot.community
+  username: jenett
+  id: 115010508062185788
 ---
 <p>
 	Just look what ya started <a href="https://indieseek.xyz/">Brad</a>!
