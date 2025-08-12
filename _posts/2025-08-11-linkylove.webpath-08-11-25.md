@@ -14,7 +14,7 @@ comments:
   id: 115010508062185788
 ---
 <p>
-<a href="https://indieseek.xyz/">Brad</a>’a link led to the rest of ’em:
+<a href="https://indieseek.xyz/">Brad</a>’s link led to the rest of ’em:
 </p>
 <ul class="linkylove">
 	<li><a title="Sakkie" href="https://prismatic.pink/">౨ৎ prismatic pink</a> <a title="source" href="https://pinboard.in/u:ramblinggit">📌</a> <span title="led to link shown below">&#8594;</span></li>
