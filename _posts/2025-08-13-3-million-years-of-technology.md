@@ -9,6 +9,10 @@ category:
 permalink: /3-million-years-of-technology/
 slug: 3-million-years-of-technology
 summary: huge timeline
+comments:
+  host: toot.community
+  username: jenett
+  id: 115021589168326917
 ---
 <a title="by Étienne Fortier-Dubois" href="https://www.historicaltechtree.com/">Historical Tech Tree</a><br>[<a title="source" href="https://pinboard.in/u:bekishore">bekishore</a>]
 
