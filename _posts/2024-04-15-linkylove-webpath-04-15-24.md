@@ -12,7 +12,6 @@ categories:
   - linkylove
 ---
 <ul class="linkylove">
-	<li><a title="Yamasztuka" href="https://yamasztuka.com/">Yamasztuka</a>  <a title="source" href="https://melankorin.net/"><span style="color:blue;">&#8678;</span></a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="7nonsense" href="https://7nonsense.neocities.org/">7nonsense</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="Iyoxh" href="https://iyoxh.com/">Iyoxh</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="the castle" href="https://princss.online/">the castle</a></li>
