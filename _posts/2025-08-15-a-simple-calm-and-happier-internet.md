@@ -9,6 +9,10 @@ category:
 permalink: /a-simple-calm-and-happier-internet/
 slug: a-simple-calm-and-happier-internet
 summary: a quick read...
+comments:
+  host: toot.community
+  username: jenett
+  id: 115034345055478195
 ---
 <a title="Alban's Blog" href="https://albanbrooke.com/the-beauty-of-a-text-only-webpage/">The beauty of a text only webpage</a><br>[via <a href="https://news.ycombinator.com/item?id=44913340">Hacker News</a> &lt; <a title="source" href="https://pinboard.in/u:cothrun">cothrun</a>]
 
