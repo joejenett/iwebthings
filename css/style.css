@@ -39,6 +39,13 @@ body {
 .br24 {
 	border-radius:24px;
 }
+.br8 {
+	border-radius:8px;
+}
+.br6 {
+	border-radius:6px;
+	border:1px solid #ddd;
+}
 .postbuttonfloat {
 	position:relative;
 	float:right;
