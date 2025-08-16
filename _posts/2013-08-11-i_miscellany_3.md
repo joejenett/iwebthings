@@ -3,11 +3,10 @@ id: 59
 title: i.miscellany.3
 date: 2013-08-11T07:45:15-04:00
 author: joe jenett
-excerpt: |
+excerpt: |-
   
   <ul>
   <li><a href="http://unsplash.com/">Unsplash</a></li>
-  <li><a href="https://www.leapmotion.com/">Leap Motion</a> <small>*$</small></li>
   <li><a href="http://blakeperdue.com/ios7-wireframe-kit/">iOS 7 Wireframe Kit</a></li>
   <li><a href="http://www.historyofinformation.com/index.php">From Cave Paintings to the Internet</a></li>
   <li><a href="http://clipgrab.org/">ClipGrab</a></li>
