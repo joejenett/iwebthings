@@ -120,8 +120,8 @@ function closeDirectories() {
 <li><a title="Maya's subscriptions" href="https://maya.land/blogroll.opml">Maya's subscriptions</a></li>
 <li><a title="Mojeek" href="https://www.mojeek.com/">Mojeek</a></li>
 <li><a title="Peelopaalu - Directory" href="https://peelopaalu.neocities.org/">Peelopaalu - Directory</a></li>
-<li><a title="Sadgrl Link Directory" href="https://sadgrl.online/links.html">Sadgrl Link Directory</a></li>
-<li><a title="Sadgrl.online - How to Surf the Web" href="https://sadgrl.online/cyberspace/surf-the-web.html">How to Surf the Web</a></li>
+<li><a title="Sadgrl Link Directory" href="https://sadgrl.online/links/">Sadgrl Link Directory</a></li>
+<li><a title="Sadgrl.online - How to Surf the Web" href="https://sadgrl.online/guides/surf/">How to Surf the Web</a></li>
 <li><a title="Links Archives – Waxy.org" href="https://waxy.org/category/links/">Waxy.org</a></li>
 </ul>
 <p><a href="#topper" onclick="javascript:closeDirectories()">⯅ collapse list</a></p>
