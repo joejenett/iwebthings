@@ -24,7 +24,6 @@ categories:
   - miscellany
 ---
   * [Unsplash](http://unsplash.com/)
-  * [Leap Motion](https://www.leapmotion.com/) <small>*$</small>
   * [iOS 7 Wireframe Kit](http://blakeperdue.com/ios7-wireframe-kit/)
   * [From Cave Paintings to the Internet](http://www.historyofinformation.com/index.php)
   * [ClipGrab](http://clipgrab.org/)
