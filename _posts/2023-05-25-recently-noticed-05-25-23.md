@@ -12,7 +12,6 @@ summary:
 
 ---
 <ul class="links">
-	<li><a title="Strawberry - JavaScript Framework" href="https://strawberry.quest/">Strawberry</a> <a href="https://pinboard.in/u:roger">📌</a><br>“Zero-dependency, build-free framework for the artisanal web.”</li>
 	<li><a title="CSS Color Extractor" href="http://www.css-color-extractor.com/">CSS Color Extractor</a> <a href="https://pinboard.in/u:tremolo">📌</a><br>“A free online tool to extract colors from CSS. Built for modern CSS...”</li>
 	<li><a title="Bridgetown: Next-Generation Progressive Site Generator" href="https://www.bridgetownrb.com/">Bridgetown</a> <a href="https://pinboard.in/u:rodrigotassinari">📌</a><br>“puts power back in the hands of individuals to create extraordinary things”</li>
 	<li><a title="Bookmarklet Maker" href="https://caiorss.github.io/bookmarklet-maker/">Bookmarklet Maker</a> <a href="https://pinboard.in/u:solari">📌</a><br>“Bookmarklet creator tool.”</li>

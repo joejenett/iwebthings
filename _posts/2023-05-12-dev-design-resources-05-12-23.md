@@ -14,7 +14,6 @@ summary:
 
 ---
 <ul class="links">
-	<li><a title="niui" href="https://niui.dev/">niui</a> <a href="https://pinboard.in/u:amjith">📌</a><br>“Lightweight, feature-rich, accessible front-end UI library.”</li>
 	<li><a title="Fixel Font" href="https://fixel.macpaw.com/">Fixel Font</a> <a href="https://pinboard.in/u:zero1infinity">📌</a><br>“a unique grotesque with a human touch”</li>
 	<li><a title="GitHub - rcarmo/sushy:" href="https://github.com/rcarmo/sushy">sushy</a> <a href="https://pinboard.in/u:tdjones">📌</a><br>“A wiki/blogging engine with a static file back-end.”</li>
 	<li><a title="The Contrast Triangle" href="https://contrast-triangle.com/">The Contrast Triangle</a> <a href="https://pinboard.in/u:garrettc">📌</a><br>“A three-way color contrast checker for when you remove underlines from links.”</li>

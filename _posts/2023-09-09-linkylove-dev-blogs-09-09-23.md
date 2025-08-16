@@ -14,7 +14,6 @@ categories:
   - dev
 ---
 <ul class="linkylove">
-	<li><a title="Robin Lange" href="https://gazoche.xyz/">Gazoche’s blog</a> <a href="https://pinboard.in/u:maxbarraclough">📌</a></li>
 	<li><a title="Flavien Bonvin" href="https://www.flavienbonvin.com/">Flavien Bonvin</a> <a href="https://pinboard.in/u:peterkaminski">📌</a></li>
 	<li><a title="Michael Rose" href="https://mademistakes.com/">Made Mistakes</a></li>
 	<li><a title="Hilman" href="https://onebite.dev/">OneBite.Dev</a> <a class="normaltext" title="source" href="https://personalsit.es/"><img src="https://iwebthings.joejenett.com/images/left-arrow.png" alt="" width="18"></a></li>

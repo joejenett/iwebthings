@@ -21,7 +21,6 @@ summary:
 <ul>
 <li><a title="Not By AI Badges — A Badge for Your AI-free Content" href="https://notbyai.fyi/">Not By AI Badges — A Badge for Your AI-free Content</a></li>
 <li><a title="faehnri.ch" href="https://faehnri.ch/">faehnri.ch</a></li>
-<li><a title="Opinionate.io" href="https://opinionate.io/">Opinionate.io</a></li>
 <li><a title="Lander" href="https://ehmorris.com/lander/">Lander</a></li>
 <li><a title="~" href="https://www.mirkodi.eu/">mirkodi.eu</a></li>
 <li><a title="Bored? Press the Bored Button!" href="https://www.boredbutton.com/">Bored? Press the Bored Button!</a></li>
@@ -31,7 +30,6 @@ summary:
 <li><a title="Lo-Fi Player" href="https://magenta.github.io/lofi-player/">Lo-Fi Player</a></li>
 <li><a title="Orb.Farm" href="https://orb.farm/">Orb.Farm</a></li>
 <li><a title="DevLorem" href="https://devlorem.kovah.de/">DevLorem</a></li>
-<li><a title="radio free fedi - sounds from the fediverse to the universe" href="https://radiofreefedi.net/">radio free fedi</a></li>
 </ul>
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
