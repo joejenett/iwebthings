@@ -14,8 +14,6 @@ At the moment, <a title="20+ years of resources and diversions" href="https://dw
 <span  class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" style="position:relative;float:right;margin:-8px 24px 0 0;"></a></span>
 It’s official - <a title="Re: if you like linkylove…" href="https://johnjohnston.info/blog/re-if-you-like-linkylove-re/">John likes <em>linkylove</em>.</a> Thank you sir!
 
-I ran into something touching (and relatable) yesterday:<br><a title="%Title%" href="https://schizophrenic.io/blog/i-love-you">I Love You</a>.
-
 Thanks for being here - have a great day!
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
