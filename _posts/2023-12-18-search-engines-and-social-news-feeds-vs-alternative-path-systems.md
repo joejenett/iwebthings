@@ -14,7 +14,7 @@ categories:
   - viewpoints
 ---
 <p>
-About a week ago, I <a href="https://iwebthings.joejenett.com/linkylove-inspired-12-10-23/">mentioned</a> that part of the web which is <em>off the beaten path</em>, waiting to be discovered, and how it motivates me to explore and share discovered links with you. So, I’m tickled to share something that drives the point home much better than I could ever hope to myself:
+About a week ago, I mentioned that part of the web which is <em>off the beaten path</em>, waiting to be discovered, and how it motivates me to explore and share discovered links with you. So, I’m tickled to share something that drives the point home much better than I could ever hope to myself:
 </p>
 <p>
 <a title="Taking an Internet Walk – Syllabus" href="https://syllabusproject.org/syllabus-for-taking-an-internet-walk/">Taking an Internet Walk</a><br>[<a href="https://pinboard.in/u:roger">roger</a>]
