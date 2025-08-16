@@ -34,5 +34,4 @@ kind:
   <li><a href="http://www.handprint.com/LS/CVS/color.html">color vision</a></li>
   <li><a href="http://cssprism.com/">CSS Prism</a></li>
   <li><a href="http://colorpx.com/">Color pixel wall - Colorpx</a></li>
-  <li><a href="http://hilbert.people.uic.edu/Glossary.html">Color Glossary</a></li>
   </ul>

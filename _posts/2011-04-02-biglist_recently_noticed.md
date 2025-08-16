@@ -30,7 +30,6 @@ All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](ht
   * [Bean: An OS X Word Processor](http://www.bean-osx.com/Bean.html)
   * [Urban Renewal](http://www.kreativekorp.com/software/fonts/urbanrenewal.shtml)
   * [Diagram.ly](http://www.diagram.ly/)
-  * [Myousic.me](http://myousic.me/)
   * [Organize your resources in an online binder &#8211; LiveBinders](http://livebinders.com/
   * [hitRECord](http://hitrecord.org/reel)
   * [ProcessWire](http://processwire.com/)

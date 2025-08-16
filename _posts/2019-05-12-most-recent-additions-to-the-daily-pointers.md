@@ -26,7 +26,6 @@ kind:
   * [Mark Christian](https://writing.markchristian.org/)
   * [Taiyo Onorato & Nico Krebs](https://tonk.ch/)
   * [David Ostrowski](http://www.david-ostrowski.com/)
-  * [Bloganueva](https://bloganueva.com/)
   * [HubLog](http://hublog.hubmed.org/)
   * [Odyssey](https://odyssey.neophilus.net/)
   * [Andy Earhole](https://warholcoverart.com/)

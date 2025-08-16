@@ -22,7 +22,6 @@ categories:
 	<li><a title="Miguel" href="https://outatlast.bearblog.dev/">My honest life</a></li>
 	<li><a title="bloftin2" href="https://bloftin2speaks.micro.blog/">bloftin2 speaks</a></li>
 	<li><a title="fox" href="https://empiressmp.gay/">empiressmp (dot) gay</a></li>
-	<li><a title="I’m Robert from Sweden." href="https://robertbirming.com/">Robert Birming</a></li>
 	<li><a title="N. Harrison Ripps" href="https://nharrisonripps.com/">N. Harrison Ripps</a></li>
 	<li><a title="The Internet’s Old Web Directory!" href="https://blue-pages.bitbucket.io/">The Blue Pages</a></li>
 </ul>

@@ -25,7 +25,6 @@ kind:
   * [Dog Photographer of the Year](http://www.dogphotographeroftheyear.org.uk/ "Dog Photographer of the Year")
   * [John James Audubon&#8217;s Birds of America](http://www.audubon.org/birds-of-america "John James Audubon's Birds of America")
   * [Rise to Run](https://www.risetorun.org/ "Rise to Run")
-  * [Image-to-Image Demo](https://affinelayer.com/pixsrv/ "Image-to-Image Demo")
   * [Profiling.is](http://profiling.is/ "Profiling.is")
   * [Flags of the World](https://fotw.info/flags/ "Flags of the World")
   * [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/ "Stanford Encyclopedia of Philosophy")
