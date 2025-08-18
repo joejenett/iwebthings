@@ -25,6 +25,6 @@ Link checking and fixing for <em>the dailywebthing archives</em>, <em>jenett.wik
 
 Take care y’all!
 
-
+Update 08/18/25: Remaining link checking and fixing is completed.  ✔
 
 <a href="https://brid.gy/publish/mastodon"></a>
