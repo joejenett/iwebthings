@@ -9,6 +9,10 @@ category:
 permalink: /no-noise-just-the-work/
 slug: no-noise-just-the-work
 summary: lessons learned...
+comments:
+  host: toot.community
+  username: jenett
+  id: 115072182120126673
 ---
 <a title="Blog" href="https://fabiansjournal.bearblog.dev/blog/">Fabián's Journal</a>
 <blockquote>
