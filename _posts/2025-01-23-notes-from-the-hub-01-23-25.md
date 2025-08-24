@@ -3,13 +3,14 @@ layout: post
 title: notes from the hub 01-23-25
 date: 2025-01-23 07:34:14 -0400
 author: joe jenett
-category: 
+category:
 permalink: /notes-from-the-hub-01-23-25/
 slug: notes-from-the-hub-01-23-25
-summary: 
+summary:
 comments: true
 categories:
-  - i-webthings
+  - about
+  - i.webthings
 ---
 Over the last few weeks, I’ve been working hard to optimize the <em>webthings</em> for mobile. What’s different this time is I’ve been testing my sites at 8 different screen sizes using the <a title="Responsively App - A web developer's browser" href="https://responsively.app/"><em>Responsively</em> browser</a> - what an amazing tool!
 
