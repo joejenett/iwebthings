@@ -17,7 +17,7 @@ complete_open_graph:
 mf2_syndication:
   - 'a:0:{}'
 categories:
-  - i-webthings
+  - i.webthings
 ---
 Learned a bit about ActivityPub and Bridgy Fed from Chris Aldrich&#8217;s [response](https://boffosocko.com/2019/02/09/mastodon-spam-wordpress-and-the-indieweb/ "Chris Aldrich") to Kicks&#8217; [link with comments](https://www.kickscondor.com/joe's-syndicated-links-considered-'spam'-by-some-mastodon-instance/) to my last post. After having completed some testing over the last few days, I&#8217;m pleased to say it looks like I would be able to give visitors of _the dailywebthing linkport_ and _dwt daily pointers_ an easy way to follow those sites from Mastodon, etc. if I ultimately decide to add it as a permanent feature.
 

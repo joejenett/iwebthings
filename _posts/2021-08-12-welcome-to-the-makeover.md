@@ -5,7 +5,7 @@ date:   2021-08-12 09:30:00 -0400
 author: joe jenett
 permalink: /welcome-to-the-makeover/
 categories:
-  - i-webthings
+  - i.webthings
 slug: to-the-makeover
 ---
 <p>Notice how fast the page loaded? I’ve migrated the hub from Wordpress to Jekyll - static pages with a bit of javascript and no database - it’s a lean machine.</p>

@@ -18,7 +18,7 @@ classic-editor-remember:
 complete_open_graph:
   - 'a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}'
 categories:
-  - i-webthings
+  - i.webthings
 ---
 In light of current events, I&#8217;ve severed all ties with Tumblr. As a result, linkscatter.joejenett.com is temporarily offline. I&#8217;ll be busy migrating its content to my own servers and hope to have it up and running again very soon. Sorry for the inconvenience. 
 

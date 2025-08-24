@@ -23,7 +23,7 @@ classic-editor-remember:
 complete_open_graph:
   - 'a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}'
 categories:
-  - i-webthings
+  - i.webthings
 ---
 I could have called this _the good, the bad, and the ugly_ but since that’s a little cliché and already taken, I’ll stick with _adventures._ I do this thing daily and every session brings both joy and annoyance and in between those two extremes are things that simply provoke thought and wonder. So here we go with a few things encountered just this morning…
 

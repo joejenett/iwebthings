@@ -4,7 +4,7 @@ title:  "thanks to these helpful resources"
 date:   2021-08-15 11:57:00 -0400
 author: joe jenett
 categories:
-  - i-webthings
+  - i.webthings
 
 slug: these-helpful-resources
 permalink: /thanks-to-these-helpful-resources/

@@ -5,7 +5,7 @@ date:   2021-07-31 09:54:00 -0400
 permalink: /a-note-on-feeds/
 author: joe jenett
 categories:
-  - i-webthings
+  - i.webthings
 ---
 <div style="border-bottom:1px solid #ccc;margin-bottom:12px;"><strong>Update</strong> 07/31/21 7:12 PM:<br />
 <p>As part of the ongoing project to simplify things, several of the feeds shown may change in the near future. In that case, <span style="text-decoration:line-through;">redirects for the feeds will be implemented and </span>I'll provide additional information here on the blog. Just wanted to give you a heads up. Thx.</p>

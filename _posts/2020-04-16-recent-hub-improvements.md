@@ -16,7 +16,7 @@ mf2_syndication:
   - 'a:1:{i:0;s:57:"https://twitter.com/iwebthings/status/1250840572354584582";}'
   - 'a:1:{i:0;s:57:"https://twitter.com/iwebthings/status/1250840572354584582";}'
 categories:
-  - i-webthings
+  - i.webthings
 kind:
   - Note
 ---

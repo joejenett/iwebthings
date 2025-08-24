@@ -16,7 +16,7 @@ complete_open_graph:
 mf2_syndication:
   - a:0:{}
 categories:
-  - i-webthings-directory
+  - i.webthings-directory
 kind:
   - Note
 ---

@@ -17,7 +17,7 @@ inline_featured_image:
 mf2_syndication:
   - 'a:0:{}'
 categories:
-  - i-webthings
+  - i.webthings
 kind:
   - Article
 ---

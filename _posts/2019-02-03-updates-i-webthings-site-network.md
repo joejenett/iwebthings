@@ -18,7 +18,7 @@ mf2_syndication:
   - 'a:1:{i:0;s:57:"https://twitter.com/iwebthings/status/1092165583171391493";}'
 image: /wp-content/uploads/2018/12/iwtlogo.png
 categories:
-  - i-webthings
+  - i.webthings
 ---
 <small>Update 02/07/19: Revisions below reflect changes made due to recently received feedback.</small>
 

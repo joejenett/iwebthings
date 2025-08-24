@@ -12,7 +12,7 @@ classic-editor-remember:
 complete_open_graph:
   - 'a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}'
 categories:
-  - i-webthings
+  - i.webthings
 ---
 So. After having finished the responsive redesign of [the dailywebthing](https://dwt-archives.joejenett.com/) recently (though some ongoing tweaking continues), I decided to do the same here. I&#8217;ll be testing new templates and implementing changes here on the live site for the next few days, so if you should encounter something funky, it&#8217;s probably temporary. And yes, I am having fun!
 

@@ -12,7 +12,7 @@ complete_open_graph:
 classic-editor-remember:
   - classic-editor
 categories:
-  - i-webthings
+  - i.webthings
 ---
 When I launched the _daily pointers_ back in 2000, every day brought an assortment of new personal (and other non-commercial) sites onto the web. Since that time, the number of sites going offline or stagnant has increased drastically while the number of new sites has similarly decreased. Needless to say, the original mission of the project has morphed into something quite different over time.
 

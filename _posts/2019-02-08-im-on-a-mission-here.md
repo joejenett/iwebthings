@@ -17,7 +17,7 @@ complete_open_graph:
 mf2_syndication:
   - 'a:0:{}'
 categories:
-  - i-webthings
+  - i.webthings
 ---
 _i.webthings_ is _an independent web and networking initiative._ Two of its projects, _the dailywebthing linkport_ and _dailywebthing daily pointers_, born of my long-term appreciation of the potential of hypertext and the medium, have similar motivations behind them. I've been curating and sharing links online since 1997 and have continually done so because I enjoy doing it so much and get to help others discover new things in the process. The _linkport_ and _daily pointers_ are in my blood.
 

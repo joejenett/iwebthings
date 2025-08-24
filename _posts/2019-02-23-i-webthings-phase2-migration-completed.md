@@ -17,7 +17,7 @@ mf2_syndication:
   - 'a:1:{i:0;s:57:"https://twitter.com/iwebthings/status/1099378381391622144";}'
   - 'a:1:{i:0;s:57:"https://twitter.com/iwebthings/status/1099378381391622144";}'
 categories:
-  - i-webthings
+  - i.webthings
 ---
 I&#8217;m tickled to announce that _i.webthings_ has been migrated to the  _i.webthings hub. All old permalinks and page links are redirecting accurately and comments/webmentions were carried over to their respective posts at the new location. <span style="text-decoration:line-through;">As a result of the migration, it&#8217;s now possible to follow _i.webthings_ on Mastodon.</span>
 

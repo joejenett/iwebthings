@@ -9,7 +9,7 @@ slug: if-you-like-linkylove
 summary: …I made you a button.
 
 categories:
-  - i-webthings
+  - i.webthings
   - linkylove
   - about
 ---
