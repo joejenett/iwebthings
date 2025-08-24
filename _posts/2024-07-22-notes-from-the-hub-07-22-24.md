@@ -3,13 +3,13 @@ layout: post
 title: notes from the hub 07-22-24
 date: 2024-07-22 09:17:16 -0400
 author: joe jenett
-category: 
+category:
 permalink: /notes-from-the-hub-07-22-24/
 slug: notes-from-the-hub-07-22-24
-summary: 
-
+summary:
 categories:
-  - i-webthings
+  - about
+  - i.webthings
 ---
 Just a quick note. If the homepage looks a little odd, please empty your cache. Some of my recent changes may require that, depending on which browser you’re using.
 

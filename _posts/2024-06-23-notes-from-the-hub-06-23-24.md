@@ -3,11 +3,12 @@ layout: post
 title: notes from the hub 06-23-24
 date: 2024-06-23 09:02:58 -0400
 author: joe jenett
-category: 
+category:
+  - about
+  - i.webthings
 permalink: /notes-from-the-hub-06-23-24/
 slug: notes-from-the-hub-06-23-24
 summary: Thank you sir!
-
 ---
 At the moment, <a title="20+ years of resources and diversions" href="https://dwt-archives.joejenett.com/">the dailywebthing archives</a> is free of bad links. At the current rate, approximately 30 of its 8,449 links will go bad in the next 18 days, so this might be a perfect time to go explore... <img src="/images/eguy.png" width="28" alt="" style="margin-top:-6px;">
 

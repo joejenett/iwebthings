@@ -3,14 +3,13 @@ layout: post
 title: notes from the hub 07-01-24
 date: 2024-07-01 11:12:35 -0400
 author: joe jenett
-category: 
+category:
 permalink: /notes-from-the-hub-07-01-24/
 slug: notes-from-the-hub-07-01-24
 summary: upcoming server maintenance
-
 categories:
   - about
-  - i-webthings
+  - i.webthings
 ---
 The operating system on our key server is expected to be upgraded tomorrow evening, July 2, 2024 at 10 p.m. EST. Some of the *webthings* may experience downtime lasting up to 4 hours.
 

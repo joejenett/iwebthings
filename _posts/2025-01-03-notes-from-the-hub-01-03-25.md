@@ -3,13 +3,14 @@ layout: post
 title: notes from the hub 01-03-25
 date: 2025-01-03 08:53:07 -0400
 author: joe jenett
-category: 
+category:
 permalink: /notes-from-the-hub-01-03-25/
 slug: /notes-from-the-hub-01-03-25/
-summary: 
+summary:
 comments: true
 categories:
-  - i-webthings
+  - about
+  - i.webthings
 ---
 2025! For each of us, may it be the best year ever!
 
