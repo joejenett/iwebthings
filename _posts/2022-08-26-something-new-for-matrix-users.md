@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  something new for Matrix users
-date:   2022-08-26 11:23:04 -0400
+title: something new for Matrix users
+date: 2022-08-26 11:23:04 -0400
 author: joe jenett
 category:
-  - i-webthings
   - social
+  - i.webthings
 permalink: /something-new-for-matrix-users/
 slug: something-new-for-matrix-users
 summary:
-comments: 
+comments:
 ---
 <p>I’ve discovered a lot of interesting things from  a guy named <a href="https://pinboard.in/u:mikael">mikael</a> - besides tons of cool pointers, I also discovered the Matrix protocol on his <a href="https://merveilles.town/@mikael">@mikael profile</a>. I hope he knows how much I appreciate him for all of that and for putting up with my using him a bit (about a month ago) to check out what communicating with Matrix was like. 🙏🏻</p>
 <p>Since then, I found a commenting system based on the Matrix protocol which allows visitors to post comments without having to log in (though Matrix users can log in if they prefer to follow the conversation in their Matrix client). I like that and decided to implement <a href="https://cactus.chat/">Cactus Comments</a> on this blog and at <em>simply</em>. And now, on to the new thing...</p>

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "notes on the makeover and feeds"
-date:   2021-08-12 16:47:00 -0400
+title: notes on the makeover and feeds
+date: 2021-08-12 16:47:00 -0400
 author: joe jenett
 category:
-  - i-webthings
+  - i.webthings
 permalink: /notes-on-the-makeover-and-feeds/
 slug: makeover-and-feeds
 ---
