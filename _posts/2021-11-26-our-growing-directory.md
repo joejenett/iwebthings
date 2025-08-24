@@ -4,8 +4,8 @@ title: our growing directory
 date: 2021-11-26 15:25:40 -0400
 author: joe jenett
 category:
-  - i-webthings-directory
   - exploring
+  - i.webthings-directory
 permalink: /our-growing-directory/
 slug: our-growing-directory
 ---
