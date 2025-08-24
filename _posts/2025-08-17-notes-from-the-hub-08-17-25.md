@@ -5,13 +5,14 @@ date: 2025-08-17T07:50:10 -0400
 author: joe jenett
 category:
   - about
+  - i.webthings
 permalink: /notes-from-the-hub-08-17-25/
 slug: notes-from-the-hub-08-17-25
 summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115044762538903024
+  id: 115044762538903020
 ---
 The bad news is I found over 40 bad links here in the <em>hub</em> a few days ago during a long-delayed link checking session. The good news they’re all gone now. Whew!
 
