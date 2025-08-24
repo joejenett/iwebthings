@@ -3,15 +3,15 @@ layout: post
 title: gratitude
 date: 2024-11-28 08:46:42 -0400
 author: joe jenett
-category: 
+category:
 permalink: /gratitude/
 slug: gratitude
 summary: just a few!
 comments: true
 categories:
-  - i-webthings
   - personal
   - select
+  - i.webthings
 ---
 If you observe it, Happy Thanksgiving! 🍗
 

@@ -3,15 +3,14 @@ layout: post
 title: 𝚒𝚏 𝚢𝚘𝚞 𝚕𝚒𝚔𝚎 𝚕𝚒𝚗𝚔𝚢𝚕𝚘𝚟𝚎...(𝟸)
 date: 2024-08-28 09:15:19 -0400
 author: joe jenett
-category: 
+category:
 permalink: /if-you-like-linkylove-2/
 slug: if-you-like-linkylove-2
 summary: joe’s been goofin’ off again
-
 categories:
-  - i-webthings
   - linkylove
   - about
+  - i.webthings
 ---
 ...there’s now a choice of buttons (joe’s been goofin’ off again):
 
