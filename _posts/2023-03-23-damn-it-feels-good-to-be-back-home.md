@@ -4,7 +4,7 @@ title:  damn, it feels good to be back home!
 date:   2023-03-23 16:03:39 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
 permalink: /damn-it-feels-good-to-be-back-home/
 slug: damn-it-feels-good-to-be-back-home
 summary: 

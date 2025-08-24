@@ -4,7 +4,7 @@ title:  from joe jenett aka iwebthings on behalf of the linkport
 date:   2022-11-20 09:30:11 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
   -  indieweb
   -  fediverse
 permalink: /from-joe-jenett-aka-i-webthings-on-behalf-of-the-linkport/

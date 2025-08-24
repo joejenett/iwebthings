@@ -4,7 +4,7 @@ title:  my simplification project vs. your bookmarks
 date:   2022-06-16 16:29:49 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
 permalink: /my-simplification–project-vs-your-bookmarks/
 slug: my-simplification–project-vs-your-bookmarks
 summary: ch-ch-ch-ch-changes...

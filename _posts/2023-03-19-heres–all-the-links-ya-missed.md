@@ -4,7 +4,7 @@ title:  here’s all the links ya missed
 date:  2023-03-19 17:19:44 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
 permalink: /heres–all-the-links-ya-missed/
 slug: heres–all-the-links-ya-missed
 summary: 

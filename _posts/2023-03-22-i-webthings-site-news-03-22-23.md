@@ -4,7 +4,7 @@ title:  i.webthings site news 03-22-23
 date:   2023-03-22 12:09:43 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
 permalink: /i-webthings-site-news-03-22-23/
 slug: i-webthings-site-news-03-22-23
 summary: 

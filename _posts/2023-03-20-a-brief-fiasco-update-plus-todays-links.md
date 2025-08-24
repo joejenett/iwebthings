@@ -4,7 +4,7 @@ title:  a brief fiasco update plus today’s links
 date:   2023-03-20 11:15:46 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
 permalink: /a-brief-fiasco-update-plus-todays-links/
 slug: a-brief-fiasco-update-plus-todays-links
 summary: 

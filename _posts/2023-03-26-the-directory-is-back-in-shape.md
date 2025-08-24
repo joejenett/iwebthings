@@ -4,7 +4,7 @@ title:  the directory is back in shape
 date:   2023-03-26 19:52:54 -0400
 author: joe jenett
 category:
-  -  i-webthings-directory
+  -  i.webthings-directory
 permalink: /the-directory-is-back-in-shape/
 slug: the-directory-is-back-in-shape
 summary: 

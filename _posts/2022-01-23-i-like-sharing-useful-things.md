@@ -4,7 +4,7 @@ title:  I like sharing useful things
 date:   2022-01-23 13:45:23 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
   -  tools
 permalink: /i-like-sharing-useful-things/
 slug: i-like-sharing-useful-things

@@ -4,7 +4,7 @@ title:  introducing i.needalink
 date:   2021-09-26 18:12:17 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
 permalink: /introducing-i-needlink/
 slug: introducing-i-needlink
 ---  

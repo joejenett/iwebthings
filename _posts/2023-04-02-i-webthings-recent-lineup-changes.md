@@ -4,7 +4,7 @@ title:  i.webthings - recent lineup changes
 date:   2023-04-02 09:37:43 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
 permalink: /i-webthings-recent-lineup-changes/
 slug: i-webthings-recent-lineup-changes
 summary: 

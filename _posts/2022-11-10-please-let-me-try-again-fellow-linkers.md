@@ -4,7 +4,7 @@ title:  please allow me to try again fellow linkers
 date:   2022-11-10 07:38:30 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
   - linking
 permalink: /please-allow-me-to-try-again-fellow-linkers/
 slug: please-allow-me-to-try-again-fellow-linkers

@@ -4,7 +4,7 @@ title:  is vs is not
 date:   2021-10-31 08:48:11 -0400
 author: joe jenett
 category:
-  -  i-webthings
+  -  i.webthings
   -  web
 permalink: /is-vs-is-not/
 slug: is-vs-is-not
