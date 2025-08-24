@@ -3,15 +3,13 @@ layout: post
 title: if you like linkylove...
 date: 2024-06-02 14:32:26 -0400
 author: joe jenett
-category: 
+category:
 permalink: /if-you-like-linkylove/
 slug: if-you-like-linkylove
 summary: …I made you a button.
-
 categories:
   - i.webthings
   - linkylove
-  - about
 ---
 ...I made you a button.
 

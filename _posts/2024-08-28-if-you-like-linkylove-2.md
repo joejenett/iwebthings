@@ -9,7 +9,6 @@ slug: if-you-like-linkylove-2
 summary: joe’s been goofin’ off again
 categories:
   - linkylove
-  - about
   - i.webthings
 ---
 ...there’s now a choice of buttons (joe’s been goofin’ off again):
