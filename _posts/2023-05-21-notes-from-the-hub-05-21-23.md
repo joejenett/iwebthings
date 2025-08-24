@@ -4,12 +4,11 @@ title: notes from the hub 05-21-23
 date: 2023-05-21 18:46:30 -0400
 author: joe jenett
 category:
-  - i-webthings
   - about
+  - i.webthings
 permalink: /notes-from-the-hub-05-21-23/
 slug: notes-from-the-hub-05-21-23
-summary: 
-
+summary:
 ---
 Just to let you know I completed link testing and fixing here at the hub today. No link rot for now, thank you.
 

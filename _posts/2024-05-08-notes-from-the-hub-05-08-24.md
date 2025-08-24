@@ -3,14 +3,13 @@ layout: post
 title: notes from the hub 05-08-24
 date: 2024-05-08 12:48:47 -0400
 author: joe jenett
-category: 
+category:
 permalink: /notes-from-the-hub-05-08-24/
 slug: notes-from-the-hub-05-08-24
 summary: on the coming server move
-
 categories:
   - about
-  - i-webthings
+  - i.webthings
 ---
 update 05/16/24 4:26 PM: We’ve now been notified (yet again) that the move will be taking place on the evening of May 17, 2024. There has been so much confusion on my web host’s part in communicating with it’s customers about the move that I’ve decided to cross my fingers, hoping the move will be occurring sometime soon, if at all, and ignore the whole matter moving forward.
 

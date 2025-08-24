@@ -3,14 +3,13 @@ layout: post
 title: notes from the hub 04-01-24
 date: 2024-04-01 11:10:30 -0400
 author: joe jenett
-category: 
+category:
 permalink: /notes-from-the-hub-04-01-24/
 slug: notes-from-the-hub-04-01-24
-summary: 
-
+summary:
 categories:
-  - i-webthings
   - about
+  - i.webthings
 ---
 I’ll have to shamelessly borrow a song title from one of my favorite artists to make a point here.
 
