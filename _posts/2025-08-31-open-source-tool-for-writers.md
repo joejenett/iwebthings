@@ -10,6 +10,10 @@ category:
 permalink: /open-source-tool-for-writers/
 slug: open-source-tool-for-writers
 summary: a viable alternative?
+comments:
+  host: toot.community
+  username: jenett
+  id: 115123382540325738
 ---
 <a title="Manuskript" href="https://www.theologeek.ch/manuskript/">Manuskript</a> <small>(<a href="https://github.com/olivierkes/manuskript">github</a>)</small>
 <blockquote>
