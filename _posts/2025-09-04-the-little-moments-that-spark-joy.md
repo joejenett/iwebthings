@@ -10,6 +10,10 @@ category:
 permalink: /the-little-moments-that-spark-joy/
 slug: the-little-moments-that-spark-joy
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 115146166231132726
 ---
 <a href="https://mundango.daverupert.com/">Mundango</a>
 <blockquote>
