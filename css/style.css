@@ -27,6 +27,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.mr-24 {
+	margin-right:24px;
+}
 .ll36 {
 	position:relative;
 	float:right;
