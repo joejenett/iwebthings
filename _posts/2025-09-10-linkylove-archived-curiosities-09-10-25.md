@@ -9,6 +9,10 @@ category:
 permalink: /linkylove-archived-curiosities-09-10-25/
 slug: linkylove-archived-curiosities-09-10-25
 summary: creative curiosities
+comments:
+  host: toot.community
+  username: jenett
+  id: 115180768938358223
 ---
 <ul class="linkylove">
 	<li class="lin"><a title="dwt-archives: 03/14/23" href="https://dwt-archives.joejenett.com/03-14-23/"><img src="/images/select.png" alt="" height="20"></a> <a title="eerie" href="https://corru.observer/">corru.observer</a></li>
