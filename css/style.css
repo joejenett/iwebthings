@@ -959,6 +959,9 @@ div.hcard-display {
 
 
 @media only screen and (max-width:476px) {
+	.post-link {
+		font-size:22px;
+	}
 	.welcome {
 		margin-top:8px;
 	}
