@@ -27,6 +27,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.lin {
+	list-style:none;
+}
 .mr-24 {
 	margin-right:24px;
 }
