@@ -959,7 +959,7 @@ div.hcard-display {
 
 
 @media only screen and (max-width:476px) {
-	.post-link, .entry-title {
+	.post-link, .entry-title, h1.post-title, h1 {
 		font-size:22px;
 	}
 	.welcome {
