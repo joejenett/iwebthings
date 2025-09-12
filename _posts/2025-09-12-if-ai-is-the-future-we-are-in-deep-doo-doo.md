@@ -9,6 +9,10 @@ category:
 permalink: /if-ai-is-the-future-we-are-in-deep-doo-doo
 slug: if-ai-is-the-future-we-are-in-deep-doo-doo
 summary: it’s a gas!
+comments:
+  host: toot.community
+  username: jenett
+  id: 115191468701891392
 ---
 
 <p>
