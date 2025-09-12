@@ -6,7 +6,7 @@ author: joe jenett
 category:
   - ai
   - giggles
-permalink: /if-ai-is-the-future-we-are-in-deep-doo-doo/
+permalink: /if-ai-is-the-future-we-are-in-deep-doo-doo
 slug: if-ai-is-the-future-we-are-in-deep-doo-doo
 summary: it’s a gas!
 ---
