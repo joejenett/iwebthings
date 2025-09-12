@@ -12,7 +12,7 @@ summary: it’s a gas!
 ---
 
 <p>
-So. Shall we begin?
+So. Shall we begin...
 </p>
 <blockquote><p><a href="https://infinipedia.ai/">Infinipedia</a> is an experiment with an infinite, self-writing, self-improving language-model generated wiki. You can rabbit-hole any concept, following links that are generated if they do not exist. Articles are periodically optimized using human and AI feedback, and a clustered visualization with text embeddings is provided to allow you to see related pages. </p></blockquote>
 <p>
