@@ -6,7 +6,7 @@ author: joe jenett
 category:
   - ai
   - giggles
-permalink: if-ai-is-the-future-we-are-in-deep-doo-doo/
+permalink: /if-ai-is-the-future-we-are-in-deep-doo-doo/
 slug: if-ai-is-the-future-we-are-in-deep-doo-doo
 summary: it’s a gas!
 ---
@@ -19,7 +19,7 @@ So. Shall we begin...
 [thanks <a title="source" href="https://pinboard.in/u:tdjones">tdjones</a>!]
 </p>
 <p>
-Naturally, to begin my scientific exploration into this newfound puppy, I started with <a title="Searched at Infinipedia" href="https://infinipedia.ai/wiki/Iwebthings.joejenett.com">Iwebthings.joejenett.com</a> (which led to <a title="Created at Infinipedia" href="https://infinipedia.ai/wiki/Joe_Jenett">Joe Jenett</a>).
+Naturally, to begin my scientific exploration into this newfound puppy, I started with <a title="Searched at Infinipedia" href="https://infinipedia.ai/wiki/Iwebthings.joejenett.com">iwebthings.joejenett.com</a> (which led to <a title="Created at Infinipedia" href="https://infinipedia.ai/wiki/Joe_Jenett">Joe Jenett</a>).
 </p>
 <p>
 I’m truly sorry to tell ya - though it comes up with a few facts, it’s about 98% total <strike>bullshit</strike> (oops - potty-mouth) fiction. 
