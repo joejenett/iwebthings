@@ -3,21 +3,21 @@ layout: default
 ---
 <div class="h-feed">
 <article class="post h-entry hentry elevenup" itemscope itemtype="http://schema.org/BlogPosting">
-<div class="postnav">
-<div class="fifty">
-{% if page.previous.url %}
-<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
-{% endif %}
-</div>
-<div class="fifty right">
-{% if page.next.url %}
-<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
-{% endif %}
-</div>
-</div> 
 <div id="post-donuts">
 	<a href="https://simply.joejenett.com/adventures-of-a-donut-maker/"><img src="/images/donuts.png" alt="" height="60"></a>
 </div>
+<div class="postnav">
+	<div class="fifty">
+		{% if page.previous.url %}
+		<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+		{% endif %}
+	</div>
+	<div class="fifty right">
+		{% if page.next.url %}
+		<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+		{% endif %}
+	</div>
+</div> 
 <header class="post-header">
 	<h1 class="post-title p-name entry-title mt-eighteen" itemprop="name headline"><a class="u-url" href="{{ site.url }}{{ page.permalink }}">{{ page.title | escape }}</a>
 	</h1>

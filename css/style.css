@@ -154,7 +154,7 @@ body {
 #post-donuts {
 	position:relative;
 	float:right;
-	margin:-7px 0 9px 9px;
+	margin:9px 0 18px 9px;
 }
 
 #load-comment {
@@ -235,6 +235,7 @@ body {
 	border-bottom:1px dashed #ccc;
 	margin:18px 0;
 	font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;
+	clear:both;
 }
 .postnav-home {
 	display:flex;
