@@ -8,6 +8,10 @@ category:
 permalink: /something-new-from-mastodon/
 slug: something-new-from-mastodon
 summary: 👍
+comments:
+  host: toot.community
+  username: jenett
+  id: 115248692308773407
 ---
 <a title="Mastodon Blog" href="https://blog.joinmastodon.org/2025/09/introducing-quote-posts/">Introducing quote posts </a>
 <blockquote>
