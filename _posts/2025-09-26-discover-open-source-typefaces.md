@@ -10,6 +10,10 @@ category:
 permalink: /discover-open-source-typefaces/
 slug: discover-open-source-typefaces
 summary: ‘a curated interactive lookbook’
+comments:
+  host: toot.community
+  username: jenett
+  id: 115270953904892867
 ---
 <p class="ll36 twoem">
 👍
