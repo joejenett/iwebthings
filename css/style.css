@@ -82,6 +82,13 @@ body {
 	width:40px;
 	
 }
+.elguytwo {
+	position:relative;
+	float:right;
+	margin:0 36px;
+	width:54px;
+	
+}
 .nodisplay {
 	display:none;
 }
