@@ -34,7 +34,6 @@ kind:
   * [Fractal Ontology](https://fractalontology.wordpress.com/ "Fractal Ontology")
   * [TypeSlab](http://typeslab.com/ "TypeSlab")
   * [Erik Bernacchi](http://eeerik.com/ "Erik Bernacchi") <small><i>(new)</i></small> [⬅](http://href.cool/ "Href.cool")
-  * [Gratuitous Web Presence](http://garciabuxton.com/ "Gratuitous Web Presence")
   * [Real Life](https://reallifemag.com/ "Real Life")
   * [Bon Hae Koo](https://bonhaekoo.com/ "Bon Hae Koo")
   * [mimi smartypants](https://mimismartypants.com/ "mimi smartypants")
