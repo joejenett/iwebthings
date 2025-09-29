@@ -10,6 +10,10 @@ category:
 permalink: /yo-fellow-button-wall-lovers/
 slug: yo-fellow-button-wall-lovers
 summary: “which link to click first??”
+comments:
+  host: toot.community
+  username: jenett
+  id: 115287531422116359
 ---
 Anyone who knows me knows I’m kind of a button wall nut. There’s almost 1,200 buttons on the <a href="https://bulltown.joejenett.com/links/"><em>bulltown</em> links page</a> and I’ve gotta admit I’m a bit obsessed with finding new ones almost daily. Love ’em!
 
