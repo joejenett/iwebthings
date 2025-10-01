@@ -10,6 +10,10 @@ category:
 permalink: /magic-awaits-you-outdoors/
 slug: magic-awaits-you-outdoors
 summary: food for thought
+comments:
+  host: toot.community
+  username: jenett
+  id: 115299023888116095
 ---
 <p>
 <a title="by Reilly Spitzfaden" href="https://reillyspitzfaden.com/posts/2025/09/september-indieweb-carnival/">September IndieWeb Carnival: Second-Person Birds</a>
