@@ -11,9 +11,19 @@
 	font-size:.9em;
 	margin:-12px 0 0 20px;
 }
+.pointnineem {
+	font-size:.9em;
+}
+.mw100 {
+	max-width:100%;
+	margin:1em 0;
+}
 .via {
 	font-size:1.5em;
 	color:blue;
+}
+.pt12 {
+	padding-top:12px;
 }
 .vdown {
 	color:#51d8ff;
