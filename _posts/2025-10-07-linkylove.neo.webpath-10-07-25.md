@@ -9,6 +9,10 @@ category:
 permalink: /linkylove.neo.webpath-10-07-25/
 slug: linkylove.neo.webpath-10-07-25
 summary: this one sure was fun!
+comments:
+  host: toot.community
+  username: jenett
+  id: 115333647155983289
 ---
 <ul class="linkylove">
 	<li><a href="https://freckleskies.neocities.org/">freckleskies</a> <span title="led to link shown below">&#8594;</span></li>
