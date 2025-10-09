@@ -18,7 +18,7 @@ categories:
 	<li><a title="★ Nickolox's Web Corner ★" href="https://nickolox.com/">★ Nickolox's Web Corner ★</a></li>
 	<li><a title="The Mainframe Homepage" href="https://sinclair-speccy.github.io/The-Mainframe/">The Mainframe Homepage</a></li>
 	<li><a title="Coby Cat's Abode" href="https://cobycat.neocities.org/">Coby Cat's Abode</a></li>
-	<li><a title="Melvian’s Little Corner" href="https://melvian.xyz/">Melvian’s Little Corner</a></li>
+	<li><a title="Melvian’s Little Corner" href="https://melvian.net/">Melvian’s Little Corner</a></li>
 	<li><a title="The web site of callmemanatee" href="https://callmemanatee.neocities.org/">The web site of callmemanatee</a></li>
 	<li><a title="You're entering a hidden room" href="https://velvet-boutique.neocities.org/">You're entering a hidden room</a></li>
 	<li><a title="Dabric" href="https://dabric.xyz/">Dabric</a><br>&#8618;<a title="Linkcircle - Dabric" href="https://dabric.xyz/post/linkcircle/">Linkcircle</a><div style="padding-left:18px;">“Another Javascript webring creator. Extremely easy to use as it just uses links.”</div></li>
