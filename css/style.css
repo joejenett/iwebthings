@@ -7,6 +7,15 @@
 		--hbg-color: #fdffff;
 	}
 }
+.enjoy {
+	font-style:italic;
+	font-weight:700;
+	color:#51d8ff;
+	filter:drop-shadow(1px 1px #296c80);
+	font-size:1.1rem;
+	letter-spacing:0.05em;
+	
+}
 .gray-70 {
 	filter: grayscale(70%);
 }
