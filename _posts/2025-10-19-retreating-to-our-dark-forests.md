@@ -9,6 +9,10 @@ category:
 permalink: /retreating-to-our-dark-forests/
 slug: retreating-to-our-dark-forests
 summary: a safe place?
+comments:
+  host: toot.community
+  username: jenett
+  id: 115402611567846357
 ---
 <a title="DFOS" href="https://www.dfos.com/">Dark Forest  Operating System</a><br>[<a title="source" href="https://pinboard.in/u:anonyth">anonyth</a>]
 
