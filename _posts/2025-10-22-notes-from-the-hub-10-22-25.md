@@ -9,6 +9,10 @@ category:
 permalink: /notes-from-the-hub-10-22-25/
 slug: notes-from-the-hub-10-22-25
 summary: "attn: Pinboarders"
+comments:
+  host: toot.community
+  username: jenett
+  id: 115419207990224385
 ---
 Due to ongoing issues with the software I’ve been using to upload batches of new bookmarks to Pinboard, I’ve recently made a change (for the better) in my workflow.
 
