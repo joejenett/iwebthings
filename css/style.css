@@ -16,6 +16,25 @@
 	letter-spacing:0.05em;
 	
 }
+.pblinks {
+	border: 1px solid #a3b8cc;
+	border-radius: 8px;
+	background: var(--hbg-color);
+	padding:8px 20px 4px 6px;
+	font-weight:400;
+	font-size:.8em;
+	text-align:left;
+	position: relative;
+	top: -4px;
+	margin-top:9px;
+}
+.pblinks h3 {
+	font-size:1rem;
+	font-weight:500;
+	font-style:italic;
+	margin-left:6px;
+	color:#222;
+}
 .gray-70 {
 	filter: grayscale(70%);
 }
