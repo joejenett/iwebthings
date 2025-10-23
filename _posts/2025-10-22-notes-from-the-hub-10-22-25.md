@@ -20,9 +20,9 @@ Instead of updating Pinboard periodically with batches of new bookmarks created 
 
 It’s more efficient and saves a lot of time - how refreshing!
 
-If yer interested, my 10 most recent Pinboard bookmarks are over there on the sidebar (experimental). 
+<a href="https://pinboard.in/u:iwebthings">Enjoy</a>!
 
-Enjoy!
+<small>(updated 10/23/25)</small>
 
 
 
