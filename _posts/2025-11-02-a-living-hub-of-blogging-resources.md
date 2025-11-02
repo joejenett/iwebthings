@@ -10,6 +10,10 @@ category:
 permalink: /a-living-hub-of-blogging-resources/
 slug: a-living-hub-of-blogging-resources
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 115480639128732761
 ---
 <p>
 <a title="by Robert Birming" href="https://robertbirming.com/links/">Blogging Tips &amp; Tools</a> <small>(<a href="https://robertbirming.com/about/">about</a>)</small>
@@ -23,9 +27,5 @@ For me, blogging is still the best way to capture thoughts, share small discover
 <p>
 [<a title="source" href="https://pinboard.in/u:koolinus">kOoLiNuS</a>]
 </p>
-
-
-
-
 
 <a href="https://brid.gy/publish/mastodon"></a>
