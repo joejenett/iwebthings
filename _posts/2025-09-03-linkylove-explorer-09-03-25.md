@@ -14,7 +14,6 @@ comments:
   id: 115140474289419953
 ---
 <ul class="linkylove">
-	<li><a title="Flonne Pocket ☆" href="https://vivarism.net/">🧃🧸🎈🌞 Vivarism 3.0! 🌞🧸🎈🧃</a><br>&#8618;<a title="    " href="https://vivarism.net/explore/web/">🌻 Cool Websites!</a>  <span title="led to all the links below" class="vdown">&#10507;</span></li>
 	<li><a href="https://laozhainan.de/">Laozhainan</a></li>
 	<li><a title="Kale" href="https://kalechips.net/">Kalechips</a></li>
 	<li><a title="faint" href="https://faintlymacabre.neocities.org/">faintly macabre</a></li>
