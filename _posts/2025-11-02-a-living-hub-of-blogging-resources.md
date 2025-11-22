@@ -28,4 +28,4 @@ For me, blogging is still the best way to capture thoughts, share small discover
 [<a title="source" href="https://pinboard.in/u:koolinus">kOoLiNuS</a>]
 </p>
 
-<p class="nodisplay"><a href="https://brid.gy/publish/mastodon"></a></p>
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>

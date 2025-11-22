@@ -27,4 +27,4 @@ Featuring Quote posts, a solution to missing replies, and more
 <p class="bold nineem">
 I like! 😎
 </p>
-<p class="nodisplay"><a href="https://brid.gy/publish/mastodon"></a></p>
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>

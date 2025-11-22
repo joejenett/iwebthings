@@ -27,4 +27,4 @@ We create engaging daily puzzles that blend logic and play, helping you think in
 
 
 
-<p class="nodisplay"><a href="https://brid.gy/publish/mastodon"></a></p>
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
