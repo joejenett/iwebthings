@@ -9,12 +9,12 @@ layout: default
 <div class="postnav">
 	<div class="fifty">
 		{% if page.previous.url %}
-		<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+		<a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
 		{% endif %}
 	</div>
 	<div class="fifty right">
 		{% if page.next.url %}
-		<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+		<a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
 		{% endif %}
 	</div>
 </div> 
@@ -105,12 +105,12 @@ layout: default
 <div class="postnav">
   <div class="fifty">
     {% if page.previous.url %}
-    <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+    <a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
     {% endif %}
   </div>
   <div class="fifty right">
     {% if page.next.url %}
-    <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+    <a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
     {% endif %}
   </div>
 </div>
@@ -122,5 +122,5 @@ layout: default
 </article>
 </div>
 <div class="center">
-<img id="respect" src="/images/respect-ukraine.png" title="Ukraine Deserves our Respect" alt="Ukraine Deserves our Respect" width="120">
+<img id="respect" src="/images/respect-ukraine.png" title="Respect Ukraine" alt="Ukraine Deserves our Respect" width="120">
 </div>

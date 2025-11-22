@@ -4,17 +4,17 @@ layout: default
 <div class="h-feed">
 <article class="post h-entry hentry elevenup" itemscope itemtype="http://schema.org/BlogPosting">
 <div id="post-donuts">
-	<a href="https://simply.joejenett.com/adventures-of-a-donut-maker/"><img src="/images/donuts.png" alt="" height="60"></a>
+	<a href="https://simply.joejenett.com/adventures-of-a-donut-maker/"><img src="/images/donuts.png" alt="adventures of a donut maker" height="60"></a>
 </div>
 <div class="postnav">
 <div class="fifty">
 {% if page.previous.url %}
-<a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+<a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
 {% endif %}
 </div>
 <div class="fifty right">
 {% if page.next.url %}
-<a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+<a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
 {% endif %}
 </div>
 </div> 
@@ -91,12 +91,12 @@ layout: default
 <div class="postnav">
   <div class="fifty">
     {% if page.previous.url %}
-    <a href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
+    <a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{page.previous.url}}">&larr; previous</a>
     {% endif %}
   </div>
   <div class="fifty right">
     {% if page.next.url %}
-    <a href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
+    <a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{page.next.url}}">next &rarr;</a>
     {% endif %}
   </div>
 </div>
