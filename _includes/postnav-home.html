@@ -1,12 +1,12 @@
 <div class="postnav-home">
 	<div class="fifty">
         {% if post.previous.url %}
-        <a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{post.previous.url}}">&larr; previous</a>
+        &larr; <a href="{{ site.baseurl }}{{post.previous.url}}">previous</a>
         {% endif %}
 	</div>
 	<div class="fifty right">
         {% if post.next.url %}
-        <a aria-hidden="true" tabindex="-1" href="{{ site.baseurl }}{{post.next.url}}">next &rarr;</a>
+        <a href="{{ site.baseurl }}{{post.next.url}}">next</a> &rarr;
         {% endif %}
 	</div>
 </div>
