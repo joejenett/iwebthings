@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 𝙧𝙚𝙨𝙤𝙪𝙧𝙘𝙚 𝙖𝙧𝙩𝙞𝙘𝙡𝙚 𝙧𝙤𝙪𝙣𝙙𝙪𝙥 07-21-24
+title: resource article roundup 07-21-24
 date: 2024-07-21 09:05:44 -0400
 author: joe jenett
 category: 
