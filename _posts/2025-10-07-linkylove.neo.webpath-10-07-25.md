@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 𝚕𝚒𝚗𝚔𝚢𝚕𝚘𝚟𝚎.𝚗𝚎𝚘.𝚠𝚎𝚋𝚙𝚊𝚝𝚑 𝟷𝟶-𝟶𝟽-𝟸𝟻
+title: linkylove.neo.webpath 10-07-25
 date: 2025-10-07T09:30:30 -0400
 author: joe jenett
 category:

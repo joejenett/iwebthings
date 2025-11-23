@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 𝚕𝚒𝚗𝚔𝚢𝚕𝚘𝚟𝚎.𝚊𝚛𝚌𝚑𝚒𝚟𝚎𝚍.𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚝𝚒𝚎𝚜 𝟶𝟿-𝟷𝟶-𝟸𝟻
+title: linkylove.archived.curiosities 09-10-25
 date: 2025-09-10T11:26:08 -0400
 author: joe jenett
 category:

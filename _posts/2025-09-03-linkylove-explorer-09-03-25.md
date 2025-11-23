@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 𝚕𝚒𝚗𝚔𝚢𝚕𝚘𝚟𝚎.𝚎𝚡𝚙𝚕𝚘𝚛𝚎𝚛 𝟶𝟿-𝟶𝟹-𝟸𝟻
+title: linkylove.explorer 09-03-25
 date: 2025-09-03T08:36:27 -0400
 author: joe jenett
 category:
