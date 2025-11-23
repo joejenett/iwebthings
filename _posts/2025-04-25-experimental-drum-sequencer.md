@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘🎼 experimental drum sequencer ’
+title: ‘🎼 experimental drum sequencer’
 date: 2025-04-25T12:14:55 -0400
 author: joe jenett
 category:

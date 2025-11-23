@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 𝚕𝚒𝚗𝚔𝚢𝚕𝚘𝚟𝚎.𝘴𝘱𝘦𝘤𝘪𝘢𝘭.𝘥𝘦𝘭𝘪𝘷𝘦𝘳𝘺 𝟶𝟼-𝟷𝟿-𝟸𝟻
+title: linkylove.special.delivery 06-19-25
 date: 2025-06-19T10:37:54 -0400
 author: joe jenett
 category:

@@ -1,6 +1,6 @@
 ---
 layout: post-reactions
-title: 𝖼𝗈𝗅𝗈𝗋 𝗆𝖾 𝗂𝗇𝗌𝗉𝗂𝗋𝖾𝖽 𝟢𝟥-𝟤𝟨-𝟤𝟧
+title: color me inspired 03-26-25
 date: 2025-03-26 07:54:22 -0400
 author: joe jenett
 category: 

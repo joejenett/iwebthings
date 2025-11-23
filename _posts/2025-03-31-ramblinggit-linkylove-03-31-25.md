@@ -1,6 +1,6 @@
 ---
 layout: post-reactions
-title: 𝚛𝚊𝚖𝚋𝚕𝚒𝚗𝚐𝚐𝚒𝚝.𝚕𝚒𝚗𝚔𝚢𝚕𝚘𝚟𝚎 𝟶𝟹-𝟹𝟷-𝟸𝟻
+title: ramblinggit.linkylove 03-31-25
 date: 2025-03-31 09:19:31 -0400
 author: joe jenett
 category: 

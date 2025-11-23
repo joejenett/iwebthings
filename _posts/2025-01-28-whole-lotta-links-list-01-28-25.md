@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 𝘸𝘩𝘰𝘭𝘦 𝘭𝘰𝘵𝘵𝘢 𝘭𝘪𝘯𝘬𝘴 𝘭𝘪𝘴𝘵 01-28-25
+title: whole lotta links list 01-28-25
 date: 2025-01-28 11:26:45 -0400
 author: joe jenett
 category: 

@@ -1,6 +1,6 @@
 ---
 layout: post-reactions
-title: "𝚕𝚒𝚗𝚔𝚢𝚕𝚘𝚟𝚎: 𝚜𝚎𝚛𝚎𝚗𝚍𝚒𝚙𝚒𝚝𝚢.𝚙𝚎𝚛𝚑𝚊𝚙𝚜 𝟷𝟸-𝟸𝟾-𝟸𝟺"
+title: "linkylove: serendipity.perhaps 12-24-24"
 date: 2024-12-28 10:22:23 -0400
 author: joe jenett
 category: 
