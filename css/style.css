@@ -1026,6 +1026,9 @@ div.hcard-display {
 	.post-link, .entry-title, h1.post-title, h1 {
 		font-size:22px;
 	}
+	#branding {
+		padding-left:9px;
+	}
 	.welcome {
 		margin-top:8px;
 	}
