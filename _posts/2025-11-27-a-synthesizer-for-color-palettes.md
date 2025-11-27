@@ -10,6 +10,10 @@ category:
 permalink: /a-synthesizer-for-color-palettes/
 slug: a-synthesizer-for-color-palettes
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 115622132546431218
 ---
 <p>
 <a href="https://colorpalette.pro/">Color Palette Pro</a>
