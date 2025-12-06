@@ -10,6 +10,10 @@ category:
 permalink: /retro-goodness/
 slug: retro-goodness
 summary: cool minimal backgrounds
+comments:
+  host: toot.community
+  username: jenett
+  id: 115673063147050903
 ---
 <p>
 <a title="Classic Mac OS System 1 Patterns" href="https://paulsmith.github.io/classic-mac-patterns/">Classic Mac OS System 1 Patterns</a> <small>(<a href="https://pauladamsmith.com/blog/2025/09/classic-mac-patterns.html">more info</a>)</small>
