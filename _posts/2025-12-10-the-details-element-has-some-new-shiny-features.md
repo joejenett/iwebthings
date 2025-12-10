@@ -11,6 +11,10 @@ category:
 permalink: /the-details-element-has-some-new-shiny-features/
 slug: the-details-element-has-some-new-shiny-features
 summary: can’t wait to play with it
+comments:
+  host: toot.community
+  username: jenett
+  id: 115696846239567698
 ---
 <p class="onepointfiveem gray-70 ll24">👍</p>
 <p>
