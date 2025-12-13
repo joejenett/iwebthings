@@ -1052,6 +1052,12 @@ div.hcard-display {
 	.post-link, .entry-title, h1.post-title, h1 {
 		font-size:22px;
 	}
+	#announcer {
+	width:260px;
+	}
+	#home-donuts {
+	margin:9px 0 9px 0;
+}
 	#branding {
 		padding-left:9px;
 	}
