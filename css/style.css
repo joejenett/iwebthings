@@ -14,6 +14,12 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.graynote {
+	font-size:.8em;
+	font-style:italic;
+	font-weight:600;
+	color:#777788;
+}
 .pbuser {
 	font-size: .6em;
 	text-transform: uppercase;
