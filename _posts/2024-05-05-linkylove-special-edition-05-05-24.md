@@ -16,7 +16,6 @@ categories:
 </p>
 <ul class="linkylove">
 	<li><a title="★ Nickolox's Web Corner ★" href="https://nickolox.com/">★ Nickolox's Web Corner ★</a></li>
-	<li><a title="The Mainframe Homepage" href="https://sinclair-speccy.github.io/The-Mainframe/">The Mainframe Homepage</a></li>
 	<li><a title="Coby Cat's Abode" href="https://cobycat.neocities.org/">Coby Cat's Abode</a></li>
 	<li><a title="Melvian’s Little Corner" href="https://melvian.net/">Melvian’s Little Corner</a></li>
 	<li><a title="The web site of callmemanatee" href="https://callmemanatee.neocities.org/">The web site of callmemanatee</a></li>
