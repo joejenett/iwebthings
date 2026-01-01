@@ -14,6 +14,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.threeem {
+	font-size: 3em;
+}
 .graynote {
 	font-size:.8em;
 	font-style:italic;
