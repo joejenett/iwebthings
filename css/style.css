@@ -214,8 +214,18 @@ blockquote, .post-meta {
 	max-width:16px;
 	margin-left:2px;
 }
+.mtminus-1 {
+	position:relative;
+	top:-1px;
+}
 .mt-12 {
 	margin-top:12px;
+}
+.mtminus-6 {
+	margin-top:-6px;
+}
+.mtminus-9 {
+	margin-top:-9px;
 }
 .mtminus-24 {
 	margin-top:-24px;
