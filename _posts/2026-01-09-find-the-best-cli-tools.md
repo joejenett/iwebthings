@@ -12,6 +12,10 @@ category:
 permalink: /find-the-best-cli-tools/
 slug: find-the-best-cli-tools
 summary: ‘Discover Open Source’
+comments:
+  host: toot.community
+  username: jenett
+  id: 115866076838834852
 ---
 <p>
 	<a title="Discover Trending Open Source Projects" href="https://itrending.top/">iTrending </a> &#8594; <a title="Discover Amazing CLI Tools & Terminal Applications" href="https://itrending.top/terminal/">Trending Terminal</a>
