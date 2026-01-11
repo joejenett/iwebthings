@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.webpath-01-11-26/
 slug: linkylove.webpath-01-11-26
 summary: Explore dem button walls!
+comments:
+  host: toot.community
+  username: jenett
+  id: 115876313328835710
 ---
 <ul class="linkylove">
 	<li><a title="shadsy" href="https://shadsy.net/">shadsy dot net</a> <span title="led to link shown below">&#8594;</span></li>
