@@ -67,7 +67,7 @@ layout: default
 			$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 					if (v.activity.type =="like") {
-						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1 br6" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
+						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1 br24" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
 					}
                	}
 			});
@@ -75,7 +75,7 @@ layout: default
 			$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 					if (v.activity.type =="repost") {
-						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1 br6" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
+						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1 br24" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
 					}
                	}
 			});
@@ -83,7 +83,7 @@ layout: default
 			$.each(mydata.links, function(i, v) {
         		if (v.target.search(new RegExp(/{{ page.slug }}/i)) != -1) {
 					if (v.activity.type =="reply") {
-						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1 br6" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
+						output += '<div class="f-left"><a href="' + v.source + '"><img class="m-1 br24" src="' + v.data.author.photo + '" alt="webmention source" width="48" /></a></div> ';
 					}
                	}
 			});
