@@ -91,7 +91,7 @@ blockquote, .post-meta {
 	filter: grayscale(90%);
 }
 .slight {
-	-size:1.25em;
+	font-size:1.25em;
 }
 .caveat {
 	font-size:.85em;
