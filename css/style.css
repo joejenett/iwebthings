@@ -14,6 +14,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+article.comment img {
+	border-radius:24px;
+}
 .threeem {
 	font-size: 3em;
 }
