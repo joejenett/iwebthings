@@ -14,7 +14,10 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
-article.comment img, .comment_avatar {
+.inote {
+	color:#51d8ff;
+}
+article.comment img .comment_avatar {
 	border-radius:24px;
 }
 .threeem {
