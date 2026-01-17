@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.webpath-01-17-26/
 slug: linkylove.webpath-01-17-26
 summary: fun one!
+comments:
+  host: toot.community
+  username: jenett
+  id: 115910629904660631
 ---
 <ul class="linkylove">
 	<li><a title="Ruben Verweij" href="https://kedara.eu/">Welcome to Kedara</a>  <a href="https://indieseek.xyz/" title="Indieseek.xyz Indie Web Directory"><img src="/images/brad.png" width="20" height="20" alt="Indieseek.xyz" class="va-m br24"></a> <span title="led to link shown below">&#8594;</span></li>
