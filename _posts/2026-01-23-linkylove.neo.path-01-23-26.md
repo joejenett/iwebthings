@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.neo.path-01-23-26/
 slug: linkylove.neo.path-01-23-26
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 115944969723037190
 ---
 <span  class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" class="ll24"></a></span>
 <ul class="linkylove">
