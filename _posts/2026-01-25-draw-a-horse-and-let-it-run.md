@@ -6,9 +6,13 @@ author: joe jenett
 category:
   - fun
   - odd
-permalink: /draw-a-horse-and-let-it-run/
-slug: draw-a-horse-and-let-it-run
+permalink: /‘draw a horse’ and let it run/
+slug: ‘draw a horse’ and let it run
 summary: silly fun break
+comments:
+  host: toot.community
+  username: jenett
+  id: 115956719838885237
 ---
 <a title="gradient.horse" href="https://gradient.horse/">gradient.horse</a>
 <blockquote>
