@@ -6,8 +6,8 @@ author: joe jenett
 category:
   - fun
   - odd
-permalink: /‘draw a horse’ and let it run/
-slug: ‘draw a horse’ and let it run
+permalink: /draw-a-horse-and-let-it-run/
+slug: draw-a-horse-and-let-it-run
 summary: silly fun break
 comments:
   host: toot.community
