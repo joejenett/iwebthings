@@ -10,17 +10,32 @@ category:
 permalink: /exploring-something-cool-01-27-26/
 slug: exploring-something-cool-01-27-26
 summary: hmm...
+comments:
+  host: toot.community
+  username: jenett
+  id: 115967189796880266
 ---
 <p>
-<a href="https://www.rss.style/">RSS.Style</a>
+	<a href="https://www.rss.style/">RSS.Style</a>
 </p>
 <blockquote>
-<p>
-Better <abbr title="User Experience (design)">UX</abbr> for your RSS and Atom feeds!
-</p>
+	<p>
+		Better <abbr title="User Experience (design)">UX</abbr> for your RSS and Atom feeds!
+	</p>
 </blockquote>
-<div class="note">Note: <ul><li>This is not an endoresement (yet).</li><li>“You can download the scripts and host them yourself.”</li></ul></div>
-<p>[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:amitp">amitp</a> ]
+<div class="note">
+	Note: 
+	<ul>
+		<li>
+			This is not an endorsement (yet).
+		</li>
+		<li>
+			“You can download the scripts and host them yourself.”
+		</li>
+	</ul>
+</div>
+<p>
+	[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:amitp">amitp</a> ]
 </p>
 
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
