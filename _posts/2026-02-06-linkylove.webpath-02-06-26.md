@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.webpath-02-06-26/
 slug: linkylove.webpath-02-06-26
 summary: 👍
+comments:
+  host: toot.community
+  username: jenett
+  id: 116025029300837759
 ---
 <ul class="linkylove">
 	<li><a title="Pudding!" href="https://puddingpudd.com/">Pudding's Cove</a> <span title="led to link shown below">&#8594;</span></li>
