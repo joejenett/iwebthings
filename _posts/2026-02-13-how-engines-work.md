@@ -8,6 +8,10 @@ category:
 permalink: /how-engines-work/
 slug: how-engines-work
 summary: well done!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116064525978158436
 ---
 <p>
 <a title="%Title%" href="https://animatedengines.com/">Animated Engines</a> <small>(<a href="https://animatedengines.com/about.html">about</a>)</small><br>[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:sdellis">sdellis</a> ]
