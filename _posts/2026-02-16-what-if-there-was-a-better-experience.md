@@ -9,6 +9,10 @@ category:
 permalink: /what-if-there-was-a-better-experience/
 slug: what-if-there-was-a-better-experience
 summary: great idea!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116081195318595240
 ---
 <p>
 <a href="https://subscribeopenly.net/">Subscribe Openly</a> <small>(<a href="https://github.com/capjamesg/subscribe-openly">github</a>)</small>
