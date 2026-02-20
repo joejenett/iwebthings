@@ -9,6 +9,10 @@ category:
 permalink: /make-a-meme/
 slug: make-a-meme
 summary: fun day at the hub
+comments:
+  host: toot.community
+  username: jenett
+  id: 116102962173157844
 ---
 <p>
 <a href="https://georapbox.github.io/meme-generator/">Meme Generator</a> <small>(<a href="https://github.com/georapbox/meme-generator">github</a>)</small>
