@@ -10,6 +10,10 @@ category:
 permalink: /for-tracking-everything-about-your-home/
 slug: for-tracking-everything-about-your-home
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116127276944392928
 ---
 <p>
 <a title="your house, in a terminal" href="https://micasa.dev/">micasa</a> <small>(<a href="https://github.com/cpcloud/micasa">github</a>)</small>
