@@ -15,9 +15,9 @@
   {% for post in site.posts limit:1 %}
   <entry>
     <title>{{ post.title }}</title>
-    <link href="https://iwebthings.joejenett.com{{ post.url }}"/>
+    <link href="https://iwebthings.joejenett.com{{ post.permalink }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
-    <id>https://iwebthings.joejenett.com{{ post.url }}</id>
+    <id>https://iwebthings.joejenett.com{{ post.permalink }}</id>
   </entry>
   {% endfor %}
 </feed>
