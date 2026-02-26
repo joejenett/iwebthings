@@ -39,4 +39,5 @@ comments:
 <p>
 	[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:arnicas">arnicas</a> ]
 </p>
+
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
