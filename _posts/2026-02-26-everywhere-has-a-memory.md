@@ -11,6 +11,10 @@ category:
 permalink: /everywhere-has-a-memory/
 slug: everywhere-has-a-memory
 summary: “Every memory deserves a place.”
+comments:
+  host: toot.community
+  username: jenett
+  id: 116137313015229099
 ---
 <p>
 <a title="by Gabe Szeto" href="https://amapof.us/">A Map Of Us – AMOU</a>
