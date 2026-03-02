@@ -1069,6 +1069,10 @@ div.hcard-display {
 	body {
 		padding:0 9px 0 14px;
 	}
+	.wp-block-image img {
+	max-width:220px;
+	max-height:220px;
+}
 	div.hcard-display, .explore {
 		margin:auto;	
 	}
@@ -1093,12 +1097,20 @@ div.hcard-display {
 	}
 }
 @media only screen and (max-width:600px) {
-	.thesidebar {
+.wp-block-image img {
+	max-width:163px;
+	max-height:163px;
+}
+.thesidebar {
 	margin: 0 100px;
 	}
 
 @media only screen and (max-width:540px) {
-	.thesidebar {
+	.wp-block-image img {
+	max-width:143px;
+	max-height:143px;
+}
+.thesidebar {
 		margin: 0 70px;
 	}
 }
@@ -1108,6 +1120,10 @@ div.hcard-display {
 	.post-link, .entry-title, h1.post-title, h1 {
 		font-size:22px;
 	}
+	.wp-block-image img {
+	max-width:110px;
+	max-height:110px;
+}
 	#announcer {
 	width:260px;
 	}
@@ -1187,4 +1203,27 @@ div.hcard-display {
 		left:2px;
 }
 }
-
+@media only screen and (max-width:440px) {
+	.wp-block-image img {
+	max-width:110px;
+	max-height:110px;
+}
+}
+@media only screen and (max-width:430px) {
+	.wp-block-image img {
+	max-width:106px;
+	max-height:106px;
+}
+}
+@media only screen and (max-width:414px) {
+	.wp-block-image img {
+	max-width:103px;
+	max-height:103px;
+}
+}
+@media only screen and (max-width:390px) {
+	.wp-block-image img {
+	max-width:94px;
+	max-height:94px;
+}
+}
