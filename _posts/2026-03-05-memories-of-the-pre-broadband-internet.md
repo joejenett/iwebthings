@@ -11,6 +11,10 @@ category:
 permalink: /memories-of-the-pre-broadband-internet/
 slug: memories-of-the-pre-broadband-internet
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116176692399515896
 ---
 <p>
 <a href="https://websafe2k16.com/">Websafe 2k16</a>
