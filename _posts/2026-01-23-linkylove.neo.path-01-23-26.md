@@ -19,7 +19,6 @@ comments:
 	<li><a title="Yuuko" href="https://aioi.neocities.org/">ITS AIOI!</a>  <span title="led to link shown below">&#8594;</span></li>
 	<li><a title=" Froyo ♫♪" href="https://wi-fi.neocities.org/">Wi-Fi Hotspot</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="Rookie's Room" href="https://spiralstaircase.neocities.org/">Rookie's Room</a> <span title="led to link shown below">&#8594;</span></li>
-	<li><a title="Jackie" href="https://foolsparadise.neocities.org/">It's a Fool's Paradise, Anyhow!</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="stephen" href="https://monchhichi.neocities.org/">monchhichi</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="kiki" href="https://cannibalpilled.neocities.org/">cannibalpilled {¬º-°}¬</a>  <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="sal" href="https://datoxicwaltz.neocities.org/"><small>THE CRYPT</small></a> <span title="led to link shown below">&#8594;</span></li>
