@@ -10,6 +10,10 @@ category:
 permalink: /multipurpose-classless-stylesheet/
 slug: multipurpose-classless-stylesheet
 summary: a cool starting point, imo
+comments:
+  host: toot.community
+  username: jenett
+  id: 116211138371084543
 ---
 <p>
 <a title="by Toheeb Ogunbiyi" href="https://github.com/Toheeb/base">Base.css</a>
