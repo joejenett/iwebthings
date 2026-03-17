@@ -16,7 +16,6 @@ comments:
 ---
 <ul class="linkylove">
 	<li class="lin"><a title="dwt-archives: 03/14/23" href="https://dwt-archives.joejenett.com/03-14-23/"><img src="/images/select.png" alt="" height="20"></a> <a title="eerie" href="https://corru.observer/">corru.observer</a></li>
-	<li class="lin"><a title="dwt-archives: sorry, a little late for Halloween" href="https://dwt-archives.joejenett.com/sorry-a-little-late-for-halloween/"><img src="/images/select.png" alt="" height="20"></a> <a title="your horror background noise generator" href="https://horrorli.fps.hu/">horrorli</a></li>
 	<li class="lin"><a title="dwt-archives: Oh my! (2)" href="https://dwt-archives.joejenett.com/oh-my-2/"><img src="/images/select.png" alt="" height="20"></a> <a title="excavated from the buried neighbourhoods of GeoCities" href="https://www.cameronsworld.net/">Cameron's World</a></li>
 	<li class="lin"><a title="dwt-archives: 01/15/09" href="https://dwt-archives.joejenett.com/01-15-09/"><img src="/images/select.png" alt="" height="20"></a> <a title="shrouded satori" href="https://www.slithers.net/">slithers.net</a></li>
 	<li class="lin"><a title="dwt-archives: ‘a music album published as a digital art project’" href="https://dwt-archives.joejenett.com/a-music-album-published-as-a-digital-art-project/"><img src="/images/select.png" alt="" height="20"></a> <a title="Clemens Wenger" href="https://physicsofbeauty.art/">Physics of Beauty</a></li>
