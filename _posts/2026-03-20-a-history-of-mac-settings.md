@@ -10,6 +10,10 @@ category:
 permalink: /a-history-of-mac-settings/
 slug: a-history-of-mac-settings
 summary: excellent, imo
+comments:
+  host: toot.community
+  username: jenett
+  id: 116261307999413885
 ---
 <p>
 <a title="by Marcin Wichary" href="https://aresluna.org/frame-of-preference/">Frame of preference </a>
