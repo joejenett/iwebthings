@@ -22,7 +22,6 @@ summary:
 <li><a title="Not By AI Badges — A Badge for Your AI-free Content" href="https://notbyai.fyi/">Not By AI Badges — A Badge for Your AI-free Content</a></li>
 <li><a title="faehnri.ch" href="https://faehnri.ch/">faehnri.ch</a></li>
 <li><a title="Lander" href="https://ehmorris.com/lander/">Lander</a></li>
-<li><a title="~" href="https://www.mirkodi.eu/">mirkodi.eu</a></li>
 <li><a title="Bored? Press the Bored Button!" href="https://www.boredbutton.com/">Bored? Press the Bored Button!</a></li>
 <li><a title="Grok TiddlyWiki — Build a deep, lasting understanding of TiddlyWiki" href="https://groktiddlywiki.com/read/">Grok TiddlyWiki</a></li>
 <li><a title="lofi air traffic control" href="https://www.lofiatc.com/">lofi air traffic control</a></li>

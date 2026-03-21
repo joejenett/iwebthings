@@ -40,7 +40,6 @@ jQuery
 
 Design/Dev 
 
-  * [Viewport resizer](http://lab.maltewassermann.com/viewport-resizer/)
   * [MySQL Tutorials](http://arachnoid.com/MySQL/)
   * [Validator S.A.C.](http://habilis.net/validator-sac/)
   * [CSScomb](http://csscomb.com/)
