@@ -12,7 +12,7 @@ summary: pleased, and thankful
 comments:
   host: toot.community
   username: jenett
-  id: 114920514442812640
+  id: 114920514442812648
 ---
 Just finished a big link fixing project at  <a href="https://dwt-archives.joejenett.com/">the dailywebthing archives</a>. When I created the site, there were over 8,900 posts, I’m pleased after all of the bad links fixed since then, there’s still 7,470 posts. That’s a whole lotta good links left to explore.
 
