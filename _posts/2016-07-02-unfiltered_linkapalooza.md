@@ -30,4 +30,3 @@ Updated 07/4/16
   * [The State of Obesity](http://stateofobesity.org/ "The State of Obesity")
   * [TextMate Manual](http://manual.textmate.org/ "TextMate Manual")
   * [Quickies](http://quickies.seriot.ch/ "Quickies")
-  * [MultiMarkdown Guide](https://rawgit.com/fletcher/human-markdown-reference/master/index.html "MultiMarkdown Guide")

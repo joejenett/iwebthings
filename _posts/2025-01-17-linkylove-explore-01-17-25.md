@@ -13,7 +13,7 @@ categories:
 ---
 <ul class="linkylove">
 	<li><a title="Lou Plummer, an incurable software collector" href="https://apps.louplummer.lol/"><img src="/images/appaddict.png" alt="" width="20" style="margin-top:-4px;"> AppAddict</a><br>&#8618;<a title="life and stuff" href="https://louplummer.lol/">Living Out Loud</a><br>&#8618;<a title="an old-fashioned links blog," href="https://linkage.lol/">Linkage</a> <span title="led to site shown below">&#8594;</span></li>
-	<li><a title="Brandon" href="https://krrd.ing/">krrd.ing</a> <a title="source" href="https://pinboard.in/u:ramblinggit">📌</a><br>&#8618;<a title="not all who wand3r are lost" href="https://wand3r.net/">wand3r</a><br>&#8618;<a title="Postroll | krrd.ing" href="https://krrd.ing/links/">Postroll</a> <span title="led to site shown below">&#8594;</span></li>
+	<li><a title="Brandon" href="https://krrd.ing/">krrd.ing</a> <a title="source" href="https://pinboard.in/u:ramblinggit">📌</a><br>&#8618;<a title="not all who wand3r are lost" href="https://wand3r.net/">wand3r</a><span title="led to site shown below">&#8594;</span></li>
 	<li><a title="Annie Mueller" href="https://anniemueller.com/">annie's blog</a><br>&#8618;<a title="annie's microblog" href="https://annie.micro.blog/">annie's microblog</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="Randy Botti" href="https://hawaiiboy.micro.blog/">@hawaiiboy</a></li>
 </ul>

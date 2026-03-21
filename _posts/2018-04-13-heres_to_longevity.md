@@ -30,7 +30,6 @@ Blogs:
   * [Quantum Tea](https://quantumtea.com/ "Quantum Tea")
   * [Biggest Apple](http://www.biggestapple.net/ "Biggest Apple")
   * [Notes from the Road](https://www.notesfromtheroad.com/ "Notes from the Road")
-  * [snowdeal](http://snowdeal.org/ "snowdeal.org")
   * [Waxy.org](https://waxy.org/ "Waxy.org")
   * [caitriona.net](http://www.caitriona.net/ "caitriona.net")
   * [Social Design Notes](https://backspace.com/notes/ "Social Design Notes")
