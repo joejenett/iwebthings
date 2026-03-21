@@ -33,7 +33,6 @@ kind:
   * [Flashing Palely in the Margins](https://www.inthemargins.ca/)
   * [From Whence, Fragment?](https://fromwhencefragment.com/)
   * [John Johnston](https://johnjohnston.info/blog/)
-  * [jottkah](http://blog.jottkah.de/)
   * [Kicks Condor](https://www.kickscondor.com/)
   * [lonita.net](http://www.lonita.net/)
   * [mimi smartypants](https://mimismartypants.com/)
