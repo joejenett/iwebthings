@@ -12,7 +12,6 @@ summary:
 comments: 
 ---
 <ul>
-<li><a href="https://michael-klein.github.io/medieval-cat-meme-generator/">King DerpCats most wondrous meme gen’rat’r</a><br>“ent’r thy text to maketh a dank meme!”</li>
 <li><a href="https://emojityper.com/">Emojityper</a><br>“Type words, get emoji 👍”</li>
 <li><a href="https://embed.im/snow/">Let it snow!</a><br>a little seasonal something – works well on darker backgrounds</li>
 <li><a href="https://iconsear.ch/">IconSearch</a><br>thousands of icons from over one hundred sources</li>
