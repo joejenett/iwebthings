@@ -8,8 +8,12 @@ category:
 permalink: /linkylove.webpath-03-29-26/
 slug: linkylove.webpath-03-29-26
 summary: 😎 Explore the web!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116313833990605776
 ---
-<span  class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" class="ll24"></a></span>
+<span class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" class="ll24"></a></span>
 <ul class="linkylove">
 	<li><a title="Shai" href="https://mypillowfort.net/">My Pillow Fort~ </a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="Max" href="https://maxpixels.moe/">[ ✿ max's apartment ✿ ]</a> <span title="led to link shown below">&#8594;</span></li>
