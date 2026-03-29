@@ -15,7 +15,7 @@ comments:
 ---
 <span class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" class="ll24"></a></span>
 <ul class="linkylove">
-	<li><a title="Shai" href="https://mypillowfort.net/">My Pillow Fort~ </a> <span title="led to link shown below">&#8594;</span></li>
+	<li><a title="Shai" href="https://mypillowfort.net/">My Pillow Fort~</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="Max" href="https://maxpixels.moe/">[ ✿ max's apartment ✿ ]</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="hal a.k.a. strider a.k.a. dave a.k.a. ren" href="https://s1nez.nekoweb.org/"><small>HOMESTUCK LOL</small>!</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="boxy" href="https://boxy.neocities.org/">boxy's totally tubular website!</a> <span title="led to link shown below">&#8594;</span></li>
