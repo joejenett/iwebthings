@@ -25,5 +25,4 @@ comments:
 	<li><a title="aver a.k.a. artimis" href="https://nullablevo.id.au/">nullableVoid*</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a href="https://wolfgirl.systems/">wolfgirl.systems</a></li>
 </ul>
-
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
