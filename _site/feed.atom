@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">i.webthings.hub</title>
+  <link type="application/atom+xml" href="https://iwebthings.joejenett.com/feed.atom" rel="self"/>
+  <link type="text/html" href="https://iwebthings.joejenett.com/" rel="alternate"/>
+  <updated>2026-03-31T10:19:35-04:00</updated>
+  <id>https://iwebthings.joejenett.com/full_content_feed</id>
+  <author>
+    <name>joe jenett</name>
+  </author>
+  <rights>2010-2026 © joe jenett. Some rights reserved.</rights>
+
+  
+  <entry>
+    <title>linkylove.webpath 03-29-26</title>
+    <link href="https://iwebthings.joejenett.com/linkylove.webpath-03-29-26/"/>
+    <updated>2026-03-29T14:00:56-04:00</updated>
+    <id>https://iwebthings.joejenett.com/linkylove.webpath-03-29-26/</id>
+    <content type="html">&lt;p&gt;&lt;span class=&quot;iwt&quot;&gt;&lt;a title=&quot;i.webthings linkylove&quot; href=&quot;https://iwebthings.joejenett.com/categories/#linkylove&quot;&gt;&lt;img src=&quot;/images/linkylove.png&quot; alt=&quot;linkylove&quot; width=&quot;88&quot; height=&quot;31&quot; class=&quot;ll24&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;linkylove&quot;&gt;
+	&lt;li&gt;&lt;a title=&quot;Shai&quot; href=&quot;https://mypillowfort.net/&quot;&gt;My Pillow Fort~&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Max&quot; href=&quot;https://maxpixels.moe/&quot;&gt;[ ✿ max&apos;s apartment ✿ ]&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;hal a.k.a. strider a.k.a. dave a.k.a. ren&quot; href=&quot;https://s1nez.nekoweb.org/&quot;&gt;&lt;small&gt;HOMESTUCK LOL&lt;/small&gt;!&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;boxy&quot; href=&quot;https://boxy.neocities.org/&quot;&gt;boxy&apos;s totally tubular website!&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://essem.space/&quot;&gt;Essem&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Jules&quot; href=&quot;https://notnite.com/&quot;&gt;notnite&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;eva&quot; href=&quot;https://eva.ac/&quot;&gt;eva&apos;s site&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;aver a.k.a. artimis&quot; href=&quot;https://nullablevo.id.au/&quot;&gt;nullableVoid*&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://wolfgirl.systems/&quot;&gt;wolfgirl.systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>twofer 03-28-26</title>
+    <link href="https://iwebthings.joejenett.com/twofer-03-28-26/"/>
+    <updated>2026-03-28T11:09:11-04:00</updated>
+    <id>https://iwebthings.joejenett.com/twofer-03-28-26/</id>
+    <content type="html">&lt;ul class=&quot;links&quot;&gt;
+	&lt;li&gt;
+		&lt;a href=&quot;https://defuddle.md/&quot;&gt;Defuddle&lt;/a&gt;
+		&lt;blockquote&gt;
+			&lt;p&gt;
+				Get the main content of any page as clean, readable Markdown.
+			&lt;/p&gt;
+		&lt;/blockquote&gt;
+			&lt;p&gt;
+				[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:mikael&quot;&gt;mikael&lt;/a&gt; + 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:tdjones&quot;&gt;tdjones&lt;/a&gt; ]
+			&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;a href=&quot;https://www.thesvg.org/&quot;&gt;theSVG - ...for Developers and Designers&lt;/a&gt;
+		&lt;blockquote&gt;
+			&lt;p&gt;
+				Search, copy, and ship 5,645+ brand SVG icons. Free, open-source library with npm packages, React components, CLI, CDN, and MCP server. Tree-shakeable, typed, zero config.
+			&lt;/p&gt;
+		&lt;/blockquote&gt;
+		&lt;p&gt;
+			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:vipom&quot;&gt;vipom&lt;/a&gt; ]
+		&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>mixed bag 03-26-26</title>
+    <link href="https://iwebthings.joejenett.com/mixed-bag-03-26-26/"/>
+    <updated>2026-03-26T14:56:48-04:00</updated>
+    <id>https://iwebthings.joejenett.com/mixed-bag-03-26-26/</id>
+    <content type="html">&lt;ul class=&quot;links&quot;&gt;
+	&lt;li&gt;		
+		&lt;a title=&quot;The lightweight, yet powerful CSV Editor. Now Free and Open Source.&quot; href=&quot;https://tablecruncher.com/&quot;&gt;Tablecruncher&lt;/a&gt;
+		&lt;blockquote&gt;
+			&lt;p&gt;
+				This free and powerful CSV editor helps you crunch all your tabular data. On Windows, macOS and Linux.
+			&lt;/p&gt;
+		&lt;/blockquote&gt;
+		&lt;p&gt;
+			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:cogdog&quot;&gt;cogdog&lt;/a&gt; ]
+		&lt;/p&gt;
+		&lt;p class=&quot;note&quot;&gt;
+			Note: This is not an endorsement.
+		&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;a href=&quot;https://arcade.pirillo.com/fontcrafter.html&quot;&gt;FontCrafter&lt;/a&gt;
+		&lt;blockquote&gt;
+			&lt;p&gt;
+				Turn your handwriting into an installable font — free, no account, no uploads. Works on every platform and the web. Print, write, scan, download.
+			&lt;/p&gt;
+		&lt;/blockquote&gt;
+		&lt;p&gt;
+			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:richie5um&quot;&gt;richie5um&lt;/a&gt; ]
+		&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;a href=&quot;https://famelack.com/&quot;&gt;Famelack&lt;/a&gt;
+		&lt;blockquote&gt;
+			&lt;p&gt;
+				Watch free live world TV and listen to online radio stations from around the world. No account, no signup, no ads. Stream global news, music, and culture...
+			&lt;/p&gt;
+		&lt;/blockquote&gt;
+		&lt;p&gt;
+			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:ideoforms&quot;&gt;ideoforms&lt;/a&gt; ]
+		&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;a href=&quot;https://timelinize.com/&quot;&gt;Timelinize - Everything at home&lt;/a&gt;
+		&lt;blockquote&gt;
+			&lt;p&gt;
+				Timelinize &lt;small&gt;(&quot;time-lynn-eyes&quot;)&lt;/small&gt; is an open source personal archival suite, designed for modern family history. It organizes all your data onto a single, unified timeline on your own computer.
+			&lt;/p&gt;
+		&lt;/blockquote&gt;
+		&lt;p&gt;
+			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:mikael&quot;&gt;mikael&lt;/a&gt; ]
+		&lt;/p&gt;
+		&lt;p class=&quot;note&quot;&gt;
+			Note: This is not an endorsement.
+		&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;a href=&quot;https://boing.greg.technology/&quot;&gt;Boing&lt;/a&gt; by &lt;a href=&quot;https://greg.technology/&quot;&gt;GReg TeChnoLogY&lt;/a&gt;
+		&lt;p class=&quot;twoem gray-70 center&quot;&gt;
+			😮
+		&lt;/p&gt;
+		&lt;p&gt;
+			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:roger&quot;&gt;roger&lt;/a&gt; ]
+		&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>twofer 03-24-26</title>
+    <link href="https://iwebthings.joejenett.com/twofer-03-24-26/"/>
+    <updated>2026-03-24T07:53:51-04:00</updated>
+    <id>https://iwebthings.joejenett.com/twofer-03-24-26/</id>
+    <content type="html">&lt;ul class=&quot;links&quot;&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.miniroll.app/&quot;&gt;Miniroll - Your blogroll, anywhere&lt;/a&gt;
+		&lt;blockquote&gt;
+			&lt;p&gt;
+				Create, manage, and share your blogroll. Import from OPML, embed anywhere, discover others.
+			&lt;/p&gt;
+		&lt;/blockquote&gt;
+		&lt;p&gt;
+			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:bradbarrish&quot;&gt;bradbarrish&lt;/a&gt; ]
+		&lt;/p&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://cmux.com/&quot;&gt;cmux — The terminal built for multitasking&lt;/a&gt; (macOS) &lt;small&gt;(&lt;a href=&quot;https://github.com/manaflow-ai/cmux&quot;&gt;github&lt;/a&gt;)&lt;/small&gt;
+		&lt;blockquote&gt;
+			&lt;p&gt;
+				Native macOS app built on Ghostty. Vertical tabs, notification rings when agents need attention, split panes, and a socket API for automation.
+			&lt;/p&gt;
+		&lt;/blockquote&gt;
+		&lt;p&gt;
+			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:thulstrup&quot;&gt;thulstrup&lt;/a&gt; ]
+		&lt;/p&gt;
+		&lt;p class=&quot;note&quot;&gt;
+			Note: This is not an endorsement.
+		&lt;/p&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>linkylove 03-22-26</title>
+    <link href="https://iwebthings.joejenett.com/linkylove-03-22-26/"/>
+    <updated>2026-03-22T15:47:19-04:00</updated>
+    <id>https://iwebthings.joejenett.com/linkylove-03-22-26/</id>
+    <content type="html">&lt;ul class=&quot;linkylove&quot;&gt;
+	&lt;li&gt;&lt;a title=&quot;dee&quot; href=&quot;https://d3ofi.neocities.org/&quot;&gt;꒰d3ofi꒱&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Adilene&quot; href=&quot;https://adilene.net/&quot;&gt;&lt;small&gt;HAPPY END&lt;/small&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://poempuppy.neocities.org/&quot;&gt;poempuppy ♡&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Weeble&quot; href=&quot;https://bungle.online/&quot;&gt;BungleOnline&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Blue&quot; href=&quot;https://velvet-blue.neocities.org/&quot;&gt;&lt;small&gt;~VELVET✧BLUE~&lt;/small&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://anamarriemei.neocities.org/&quot;&gt;Ana Marrie Mei&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Kiba&quot; href=&quot;https://parakibara.neocities.org/&quot;&gt;&lt;small&gt;P A R A K I B A R A .&lt;/small&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>‘A history of Mac settings’</title>
+    <link href="https://iwebthings.joejenett.com/a-history-of-mac-settings/"/>
+    <updated>2026-03-20T07:13:05-04:00</updated>
+    <id>https://iwebthings.joejenett.com/a-history-of-mac-settings/</id>
+    <content type="html">&lt;p&gt;
+&lt;a title=&quot;by Marcin Wichary&quot; href=&quot;https://aresluna.org/frame-of-preference/&quot;&gt;Frame of preference &lt;/a&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+Join me on a journey through the first twenty years of Mac’s control panels.
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;twoem gray-70 ll24&quot;&gt;
+	👍
+&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;note&quot;&gt;
+(inspired by &lt;a href=&quot;https://infinitemac.org/&quot;&gt;Infinite Mac&lt;/a&gt;)
+&lt;/p&gt;
+&lt;p&gt;
+[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:pyetro&quot;&gt;pyetro&lt;/a&gt; ]
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>linkylove.webpath 03-18-26</title>
+    <link href="https://iwebthings.joejenett.com/linkylove.webpath-03-18-26/"/>
+    <updated>2026-03-18T09:39:26-04:00</updated>
+    <id>https://iwebthings.joejenett.com/linkylove.webpath-03-18-26/</id>
+    <content type="html">&lt;ul class=&quot;linkylove&quot;&gt;
+	&lt;li&gt;&lt;a title=&quot;Loreleice&quot; href=&quot;https://loreleice.net/&quot;&gt;Loreleice&apos;s Creative Studio&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Aimee&quot; href=&quot;https://pixeldew.nekoweb.org/&quot;&gt;💧 &lt;small&gt;PIXELDEW&lt;/small&gt;&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Petrichor a.k.a. Petri&quot; href=&quot;https://petrichorest.nekoweb.org/&quot;&gt;⋆˚࿔ petrichorest&apos;s place ⋆˚࿔&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Xenon&quot; href=&quot;https://xenon-starz.neocities.org/&quot;&gt;Xenon.exe&lt;/a&gt; &lt;span title=&quot;led to acidtrip and starryheavens&quot;&gt;&amp;#8594; &amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Asiyd and &apos;Ku the Raver&quot; href=&quot;https://kutheraver.com/acidtrip/&quot;&gt;Acid Trip&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://andi.rainbow-muffin.org/&quot;&gt;Cirrutopia v.75: Amber Waves Of Grain&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://starryheavens.neocities.org/&quot;&gt;&lt;small&gt;S T A R R Y +. H E A V E N S&lt;/small&gt;&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;yuru&quot; href=&quot;https://cannibalcat.club/&quot;&gt;woof&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
+
+

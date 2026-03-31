@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title type="text" xml:lang="en">i.webthings.hub</title>
+  <link type="application/atom+xml" href="https://iwebthings.joejenett.com/titles.atom" rel="self"/>
+  <link type="text/html" href="https://iwebthings.joejenett.com/" rel="alternate"/>
+  <updated>2026-03-31T10:19:35-04:00</updated>
+  <id>https://iwebthings.joejenett.com/titles_only_feed</id>
+  <author>
+    <name>joe jenett</name>
+  </author>
+  <rights>2010-2026 © joe jenett. Some rights reserved.</rights>
+
+  
+  <entry>
+    <title>linkylove.webpath 03-29-26</title>
+    <link href="https://iwebthings.joejenett.com/linkylove.webpath-03-29-26/"/>
+    <updated>2026-03-29T14:00:56-04:00</updated>
+    <id>https://iwebthings.joejenett.com/linkylove.webpath-03-29-26/</id>
+  </entry>
+  
+</feed>
+
+
