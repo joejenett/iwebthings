@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-31T10:19:35-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">i.webthings hub</title><subtitle>i.webthings - an independent, noncommercial web initiative.</subtitle><entry><title type="html">linkylove.webpath 03-29-26</title><link href="http://localhost:4000/linkylove.webpath-03-29-26/" rel="alternate" type="text/html" title="linkylove.webpath 03-29-26" /><published>2026-03-29T14:00:56-04:00</published><updated>2026-03-29T14:00:56-04:00</updated><id>http://localhost:4000/linkylove.webpath-03-29-26</id><content type="html" xml:base="http://localhost:4000/linkylove.webpath-03-29-26/"><![CDATA[<p><span class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" class="ll24" /></a></span></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-31T16:02:16-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">i.webthings hub</title><subtitle>i.webthings - an independent, noncommercial web initiative.</subtitle><entry><title type="html">twofer 03-31-26</title><link href="http://localhost:4000/twofer-03-31-26/" rel="alternate" type="text/html" title="twofer 03-31-26" /><published>2026-03-31T15:58:09-04:00</published><updated>2026-03-31T15:58:09-04:00</updated><id>http://localhost:4000/twofer-03-31-26</id><content type="html" xml:base="http://localhost:4000/twofer-03-31-26/"><![CDATA[<ul class="links">
+	<li>
+		<a href="https://www.moss.town/">MOSS — A Painting Toy Where Every Brush Is a Tiny Program</a>
+		<blockquote>
+			<p>
+				MOSS is a pixel editor with brushes that feel alive. Paint with tools that blend, spread, drip, grow, and glitch — each one behaving differently and each one completely customizable.
+			</p>
+		</blockquote>
+		<p>
+			[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:ftofani">ftofani</a> ]
+		</p>
+	</li>
+	<li>
+		<a href="https://devtoys.app/">DevToys - A Swiss Army knife for developers</a>
+		<blockquote>
+			<p>
+				DevToys is free, open source and is privacy-focused on Windows, macOS and Linux! No need to use many untruthful websites to do simple tasks with your data.
+			</p>
+
+		</blockquote>
+			<p>
+				[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:thulstrup">thulstrup</a> ]
+			</p>
+	</li>
+</ul>
+
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;miscellany&quot;, &quot;notables&quot;]" /><summary type="html"><![CDATA[MOSS — A Painting Toy Where Every Brush Is a Tiny Program MOSS is a pixel editor with brushes that feel alive. Paint with tools that blend, spread, drip, grow, and glitch — each one behaving differently and each one completely customizable. [ 📌ftofani ] DevToys - A Swiss Army knife for developers DevToys is free, open source and is privacy-focused on Windows, macOS and Linux! No need to use many untruthful websites to do simple tasks with your data. [ 📌thulstrup ]]]></summary></entry><entry><title type="html">linkylove.webpath 03-29-26</title><link href="http://localhost:4000/linkylove.webpath-03-29-26/" rel="alternate" type="text/html" title="linkylove.webpath 03-29-26" /><published>2026-03-29T14:00:56-04:00</published><updated>2026-03-29T14:00:56-04:00</updated><id>http://localhost:4000/linkylove.webpath-03-29-26</id><content type="html" xml:base="http://localhost:4000/linkylove.webpath-03-29-26/"><![CDATA[<p><span class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" class="ll24" /></a></span></p>
 <ul class="linkylove">
 	<li><a title="Shai" href="https://mypillowfort.net/">My Pillow Fort~</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="Max" href="https://maxpixels.moe/">[ ✿ max's apartment ✿ ]</a> <span title="led to link shown below">&#8594;</span></li>
@@ -194,16 +220,4 @@ Join me on a journey through the first twenty years of Mac’s control panels.
 	<li><a title="by Shellsharks" href="https://shellsharks.com/just-put-it-on-your-blog">Just Put It On Your Blog</a><blockquote><p>It’s great to have a place to share your thoughts. A place you can go back to when you want to remember something you had written or thought about before.</p></blockquote></li>
 	<li><a title="Active Forum Directory" href="https://tuffgong.neocities.org/projects/forum-revival-movement/">Forum Revival Movement - Fight for forums on the internet...</a><blockquote><p>Forums have played a big role in making the World Wide Web great in the first place. They acted as a melting pot for knowledge and communication between users around the whole world...</p></blockquote><p>[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:mikael">mikael</a> ]</p></li>
 </ul>
-<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;lists&quot;, &quot;web&quot;, &quot;ideas&quot;]" /><summary type="html"><![CDATA[How are we preparing for the Long Web?What will the Internet look like in 2036? 2046? These are questions that are near-impossible to answer. But that doesn't mean we shouldn't try. To be fair, this question is more philosophical than logistical... but I can't help myself. The human.json protocolimagine I want to communicate to the world that all the content in my blog is written by me, and not generative AI. All I have to do is add a link to my site [...] It's a web of trust for all the people creating their own content without AI. The Artisanal WebCraft, humanity, and our new robot overlords. Just Put It On Your BlogIt’s great to have a place to share your thoughts. A place you can go back to when you want to remember something you had written or thought about before. Forum Revival Movement - Fight for forums on the internet...Forums have played a big role in making the World Wide Web great in the first place. They acted as a melting pot for knowledge and communication between users around the whole world...[ 📌mikael ]]]></summary></entry><entry><title type="html">Shh! I’m on a fun break.</title><link href="http://localhost:4000/on-a-fun-break/" rel="alternate" type="text/html" title="Shh! I’m on a fun break." /><published>2026-03-12T13:25:19-04:00</published><updated>2026-03-12T13:25:19-04:00</updated><id>http://localhost:4000/on-a-fun-break</id><content type="html" xml:base="http://localhost:4000/on-a-fun-break/"><![CDATA[<p>
-<a href="https://lightyear.fm/">Lightyear.fm</a>
-</p>
-<blockquote>
-<p>
-Radio broadcasts leave Earth at the speed of light. Scroll away from Earth and hear how far the biggest hits of the past have travelled. The farther away you get, the longer the waves take to travel there—and the older the music you’ll hear.
-</p>
-</blockquote>
-<p>
-[<a href="https://cosocial.ca/@cogdog">cogdog</a> and <a href="https://mastodon.social/@dogtrax">dogtrax</a>]
-</p>
-
-<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;fun&quot;, &quot;music&quot;]" /><summary type="html"><![CDATA[Lightyear.fm Radio broadcasts leave Earth at the speed of light. Scroll away from Earth and hear how far the biggest hits of the past have travelled. The farther away you get, the longer the waves take to travel there—and the older the music you’ll hear. [cogdog and dogtrax]]]></summary></entry></feed>
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;lists&quot;, &quot;web&quot;, &quot;ideas&quot;]" /><summary type="html"><![CDATA[How are we preparing for the Long Web?What will the Internet look like in 2036? 2046? These are questions that are near-impossible to answer. But that doesn't mean we shouldn't try. To be fair, this question is more philosophical than logistical... but I can't help myself. The human.json protocolimagine I want to communicate to the world that all the content in my blog is written by me, and not generative AI. All I have to do is add a link to my site [...] It's a web of trust for all the people creating their own content without AI. The Artisanal WebCraft, humanity, and our new robot overlords. Just Put It On Your BlogIt’s great to have a place to share your thoughts. A place you can go back to when you want to remember something you had written or thought about before. Forum Revival Movement - Fight for forums on the internet...Forums have played a big role in making the World Wide Web great in the first place. They acted as a melting pot for knowledge and communication between users around the whole world...[ 📌mikael ]]]></summary></entry></feed>
