@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “technology that enables individual growth and collective flourishing’
+title: “technology that enables individual growth and collective flourishing”
 date: 2026-04-01T17:14:43 -0400
 author: joe jenett
 category:
@@ -9,6 +9,10 @@ category:
 permalink: /resonant-computing-manifesto/
 slug: resonant-computing-manifesto
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116331588490400528
 ---
 <p>
 	<a href="https://resonantcomputing.org/">Resonant Computing Manifesto</a>
