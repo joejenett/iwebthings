@@ -12,12 +12,12 @@
         
             {
             "id": "http://localhost:4000",
-            "url": "http://localhost:4000/twofer-03-31-26/",
+            "url": "http://localhost:4000/resonant-computing-manifesto/",
             "language": "en",
-            "title": "twofer 03-31-26",
+            "title": "“technology that enables individual growth and collective flourishing’",
             "summary": null,
-            "content_html": "<ul class=\"links\">\n\t<li>\n\t\t<a href=\"https://www.moss.town/\">MOSS — A Painting Toy Where Every Brush Is a Tiny Program</a>\n\t\t<blockquote>\n\t\t\t<p>\n\t\t\t\tMOSS is a pixel editor with brushes that feel alive. Paint with tools that blend, spread, drip, grow, and glitch — each one behaving differently and each one completely customizable.\n\t\t\t</p>\n\t\t</blockquote>\n\t\t<p>\n\t\t\t[ 📌<a class=\"pbuser\" title=\"source\" href=\"https://pinboard.in/u:ftofani\">ftofani</a> ]\n\t\t</p>\n\t</li>\n\t<li>\n\t\t<a href=\"https://devtoys.app/\">DevToys - A Swiss Army knife for developers</a>\n\t\t<blockquote>\n\t\t\t<p>\n\t\t\t\tDevToys is free, open source and is privacy-focused on Windows, macOS and Linux! No need to use many untruthful websites to do simple tasks with your data.\n\t\t\t</p>\n\n\t\t</blockquote>\n\t\t\t<p>\n\t\t\t\t[ 📌<a class=\"pbuser\" title=\"source\" href=\"https://pinboard.in/u:thulstrup\">thulstrup</a> ]\n\t\t\t</p>\n\t</li>\n</ul>\n\n<p><a aria-hidden=\"true\" tabindex=\"-1\" href=\"https://brid.gy/publish/mastodon\"></a></p>\n",
-            "date_published": "2026-03-31T15:58:09-04:00",
+            "content_html": "<p>\n\t<a href=\"https://resonantcomputing.org/\">Resonant Computing Manifesto</a>\n</p>\n<blockquote>\n\t<p>\n\t\tAnd so, we find ourselves at this crossroads. Regardless of which path we choose, the future of computing will be hyper-personalized. The question is whether that personalization will be in service of keeping us passively glued to screens—wading around in the shallows, stripped of agency—or whether it will enable us to direct more attention to what matters.\n\t</p>\n</blockquote>\n<p>\n\t[ 📌<a class=\"pbuser\" title=\"source\" href=\"https://pinboard.in/u:sdellis\">sdellis</a> ]\n</p>\n<p>\n\t<a aria-hidden=\"true\" tabindex=\"-1\" href=\"https://brid.gy/publish/mastodon\"></a>\n</p>\n",
+            "date_published": "2026-04-01T17:14:43-04:00",
             "image": "",
             "banner_image": "",
             "tags": []

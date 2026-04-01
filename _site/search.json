@@ -1,6 +1,15 @@
 [
     
       {
+      "title"    : "/resonant-computing-manifesto/",
+      "content"  : "\n\tResonant Computing Manifesto\n\n\n\t\n\t\tAnd so, we find ourselves at this crossroads. Regardless of which path we choose, the future of computing will be hyper-personalized. The question is whether that personalization will be in service of keeping us passively glued to screens—wading around in the shallows, stripped of agency—or whether it will enable us to direct more attention to what matters.\n\t\n\n\n\t[ 📌sdellis ]\n\n\n\t\n\n",
+      "category" : "initiatives, ideas",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/resonant-computing-manifesto/",
+      "date"     : "Apr 1, 2026"
+    } ,
+  
+      {
       "title"    : "/twofer-03-31-26/",
       "content"  : "\n\t\n\t\tMOSS — A Painting Toy Where Every Brush Is a Tiny Program\n\t\t\n\t\t\t\n\t\t\t\tMOSS is a pixel editor with brushes that feel alive. Paint with tools that blend, spread, drip, grow, and glitch — each one behaving differently and each one completely customizable.\n\t\t\t\n\t\t\n\t\t\n\t\t\t[ 📌ftofani ]\n\t\t\n\t\n\t\n\t\tDevToys - A Swiss Army knife for developers\n\t\t\n\t\t\t\n\t\t\t\tDevToys is free, open source and is privacy-focused on Windows, macOS and Linux! No need to use many untruthful websites to do simple tasks with your data.\n\t\t\t\n\n\t\t\n\t\t\t\n\t\t\t\t[ 📌thulstrup ]\n\t\t\t\n\t\n\n\n\n",
       "category" : "miscellany, notables",
