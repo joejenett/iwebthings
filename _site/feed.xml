@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-01T17:29:14-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">i.webthings hub</title><subtitle>i.webthings - an independent, noncommercial web initiative.</subtitle><entry><title type="html">“technology that enables individual growth and collective flourishing’</title><link href="http://localhost:4000/resonant-computing-manifesto/" rel="alternate" type="text/html" title="“technology that enables individual growth and collective flourishing’" /><published>2026-04-01T17:14:43-04:00</published><updated>2026-04-01T17:14:43-04:00</updated><id>http://localhost:4000/resonant-computing-manifesto</id><content type="html" xml:base="http://localhost:4000/resonant-computing-manifesto/"><![CDATA[<p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-03T12:07:28-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">i.webthings hub</title><subtitle>i.webthings - an independent, noncommercial web initiative.</subtitle><entry><title type="html">linkylove.webpath 04-03-26</title><link href="http://localhost:4000/linkylove.webpath-04-03-26/" rel="alternate" type="text/html" title="linkylove.webpath 04-03-26" /><published>2026-04-03T12:05:15-04:00</published><updated>2026-04-03T12:05:15-04:00</updated><id>http://localhost:4000/linkylove.webpath-04-03-26</id><content type="html" xml:base="http://localhost:4000/linkylove.webpath-04-03-26/"><![CDATA[<ul class="linkylove">
+	<li><a title="lucille a.k.a. luci" href="https://kawaii.nekoweb.org/">welcome to <small>KAWAII</small>! ☆</a> <span title="led to link shown below">&#8594;</span></li>
+	<li><a title="mocha a.k.a. mimi" href="https://kkul.neocities.org/">slice of love ♡</a> <span title="led to link shown below">&#8594;</span></li>
+	<li><a title="Robin" href="https://cherrymocha.neocities.org/">ma chérie</a> <span title="led to link shown below">&#8594;</span></li>
+	<li><a title="Jay" href="https://swirlybearry.neocities.org/">Jay's Digital Diary</a> <span title="led to link shown below">&#8594;</span></li>
+	<li><a title="andrea a.k.a. andi" href="https://andisarchive.neocities.org/">Andi's Archive</a> <span title="led to link shown below">&#8594;</span></li>
+	<li><a title="inthemeantime" href="https://inthemeantimewecry.neocities.org/">in the meantime we cry’s garden</a></li>
+</ul>
+
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;linkylove&quot;]" /><summary type="html"><![CDATA[welcome to KAWAII! ☆ &#8594; slice of love ♡ &#8594; ma chérie &#8594; Jay's Digital Diary &#8594; Andi's Archive &#8594; in the meantime we cry’s garden]]></summary></entry><entry><title type="html">“technology that enables individual growth and collective flourishing”</title><link href="http://localhost:4000/resonant-computing-manifesto/" rel="alternate" type="text/html" title="“technology that enables individual growth and collective flourishing”" /><published>2026-04-01T17:14:43-04:00</published><updated>2026-04-01T17:14:43-04:00</updated><id>http://localhost:4000/resonant-computing-manifesto</id><content type="html" xml:base="http://localhost:4000/resonant-computing-manifesto/"><![CDATA[<p>
 	<a href="https://resonantcomputing.org/">Resonant Computing Manifesto</a>
 </p>
 <blockquote>
@@ -200,30 +209,4 @@ Join me on a journey through the first twenty years of Mac’s control panels.
 	<li><a title="yuru" href="https://cannibalcat.club/">woof</a></li>
 </ul>
 
-<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;linkylove&quot;]" /><summary type="html"><![CDATA[Loreleice's Creative Studio &#8594; 💧 PIXELDEW &#8594; ⋆˚࿔ petrichorest's place ⋆˚࿔ &#8594; Xenon.exe &#8594; &#8594; Acid Trip &#8594; Cirrutopia v.75: Amber Waves Of Grain S T A R R Y +. H E A V E N S &#8594; woof]]></summary></entry><entry><title type="html">twofer.tools 03-16-26</title><link href="http://localhost:4000/twofer.tools-03-16-26/" rel="alternate" type="text/html" title="twofer.tools 03-16-26" /><published>2026-03-16T08:10:06-04:00</published><updated>2026-03-16T08:10:06-04:00</updated><id>http://localhost:4000/twofer.tools-03-16-26</id><content type="html" xml:base="http://localhost:4000/twofer.tools-03-16-26/"><![CDATA[<ul class="links">
-	<li>
-		<a href="https://tools.rmv.fyi/">delphitools - indie toolkit</a><blockquote>
-			<p>
-				A collection of small, low stakes and low effort tools.
-			</p>
-			<p>
-				No logins, no registration, no data collection. I can't believe I have to say that. Long live the handmade web.
-			</p>
-		</blockquote>
-		<p>
-			[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:roger">roger</a> ]
-		</p>
-	</li>
-	<li>
-		<a href="https://calcbin.com/">CalcBin</a><blockquote>
-			<p>
-				Calculators, converters, and utility tools. No signup required.
-			</p>
-		</blockquote>
-		<p>
-			[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:tdjones">tdjones</a> ]
-		</p>
-	</li>
-</ul>
-
-<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;tools&quot;, &quot;notables&quot;]" /><summary type="html"><![CDATA[delphitools - indie toolkit A collection of small, low stakes and low effort tools. No logins, no registration, no data collection. I can't believe I have to say that. Long live the handmade web. [ 📌roger ] CalcBin Calculators, converters, and utility tools. No signup required. [ 📌tdjones ]]]></summary></entry></feed>
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;linkylove&quot;]" /><summary type="html"><![CDATA[Loreleice's Creative Studio &#8594; 💧 PIXELDEW &#8594; ⋆˚࿔ petrichorest's place ⋆˚࿔ &#8594; Xenon.exe &#8594; &#8594; Acid Trip &#8594; Cirrutopia v.75: Amber Waves Of Grain S T A R R Y +. H E A V E N S &#8594; woof]]></summary></entry></feed>
