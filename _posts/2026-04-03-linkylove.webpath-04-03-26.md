@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.webpath-04-03-26/
 slug: linkylove.webpath-04-03-26
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116341677285638927
 ---
 <ul class="linkylove">
 	<li><a title="lucille a.k.a. luci" href="https://kawaii.nekoweb.org/">welcome to <small>KAWAII</small>! ☆</a> <span title="led to link shown below">&#8594;</span></li>
