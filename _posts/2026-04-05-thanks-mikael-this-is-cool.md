@@ -10,6 +10,10 @@ category:
 permalink: /thanks-mikael-this-is-cool/
 slug: thanks-mikael-this-is-cool
 summary: listening to Blues Radio in my terminal :)
+comments:
+  host: toot.community
+  username: jenett
+  id: 116352454445686493
 ---
 <p>
 <a title="Terminal Music Player" href="https://www.cliamp.stream/"><small>CLIAMP</small> <small>(<a href="https://github.com/bjarneo/cliamp">github</a>)</small></a>
