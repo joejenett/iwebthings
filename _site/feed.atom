@@ -3,13 +3,34 @@
   <title type="text" xml:lang="en">i.webthings.hub</title>
   <link type="application/atom+xml" href="https://iwebthings.joejenett.com/feed.atom" rel="self"/>
   <link type="text/html" href="https://iwebthings.joejenett.com/" rel="alternate"/>
-  <updated>2026-04-03T12:07:28-04:00</updated>
+  <updated>2026-04-05T09:55:42-04:00</updated>
   <id>https://iwebthings.joejenett.com/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2010-2026 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>thanks mikael - this is cool!</title>
+    <link href="https://iwebthings.joejenett.com/thanks-mikael-this-is-cool/"/>
+    <updated>2026-04-05T09:27:51-04:00</updated>
+    <id>https://iwebthings.joejenett.com/thanks-mikael-this-is-cool/</id>
+    <content type="html">&lt;p&gt;
+&lt;a title=&quot;Terminal Music Player&quot; href=&quot;https://www.cliamp.stream/&quot;&gt;&lt;small&gt;CLIAMP&lt;/small&gt; &lt;small&gt;(&lt;a href=&quot;https://github.com/bjarneo/cliamp&quot;&gt;github&lt;/a&gt;)&lt;/small&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+A retro music player inspired by Winamp, built for the terminal. Spectrum visualizer, 10-band EQ, playlists, streaming, and more. 
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:mikael&quot;&gt;mikael&lt;/a&gt; ]
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>linkylove.webpath 04-03-26</title>
@@ -203,41 +224,6 @@
 		&lt;/p&gt;
 		&lt;p&gt;
 			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:roger&quot;&gt;roger&lt;/a&gt; ]
-		&lt;/p&gt;
-	&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>twofer 03-24-26</title>
-    <link href="https://iwebthings.joejenett.com/twofer-03-24-26/"/>
-    <updated>2026-03-24T07:53:51-04:00</updated>
-    <id>https://iwebthings.joejenett.com/twofer-03-24-26/</id>
-    <content type="html">&lt;ul class=&quot;links&quot;&gt;
-	&lt;li&gt;&lt;a href=&quot;https://www.miniroll.app/&quot;&gt;Miniroll - Your blogroll, anywhere&lt;/a&gt;
-		&lt;blockquote&gt;
-			&lt;p&gt;
-				Create, manage, and share your blogroll. Import from OPML, embed anywhere, discover others.
-			&lt;/p&gt;
-		&lt;/blockquote&gt;
-		&lt;p&gt;
-			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:bradbarrish&quot;&gt;bradbarrish&lt;/a&gt; ]
-		&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li&gt;&lt;a href=&quot;https://cmux.com/&quot;&gt;cmux — The terminal built for multitasking&lt;/a&gt; (macOS) &lt;small&gt;(&lt;a href=&quot;https://github.com/manaflow-ai/cmux&quot;&gt;github&lt;/a&gt;)&lt;/small&gt;
-		&lt;blockquote&gt;
-			&lt;p&gt;
-				Native macOS app built on Ghostty. Vertical tabs, notification rings when agents need attention, split panes, and a socket API for automation.
-			&lt;/p&gt;
-		&lt;/blockquote&gt;
-		&lt;p&gt;
-			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:thulstrup&quot;&gt;thulstrup&lt;/a&gt; ]
-		&lt;/p&gt;
-		&lt;p class=&quot;note&quot;&gt;
-			Note: This is not an endorsement.
 		&lt;/p&gt;
 	&lt;/li&gt;
 &lt;/ul&gt;

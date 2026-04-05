@@ -12,12 +12,12 @@
         
             {
             "id": "http://localhost:4000",
-            "url": "http://localhost:4000/linkylove.webpath-04-03-26/",
+            "url": "http://localhost:4000/thanks-mikael-this-is-cool/",
             "language": "en",
-            "title": "linkylove.webpath 04-03-26",
-            "summary": null,
-            "content_html": "<ul class=\"linkylove\">\n\t<li><a title=\"lucille a.k.a. luci\" href=\"https://kawaii.nekoweb.org/\">welcome to <small>KAWAII</small>! ☆</a> <span title=\"led to link shown below\">&#8594;</span></li>\n\t<li><a title=\"mocha a.k.a. mimi\" href=\"https://kkul.neocities.org/\">slice of love ♡</a> <span title=\"led to link shown below\">&#8594;</span></li>\n\t<li><a title=\"Robin\" href=\"https://cherrymocha.neocities.org/\">ma chérie</a> <span title=\"led to link shown below\">&#8594;</span></li>\n\t<li><a title=\"Jay\" href=\"https://swirlybearry.neocities.org/\">Jay's Digital Diary</a> <span title=\"led to link shown below\">&#8594;</span></li>\n\t<li><a title=\"andrea a.k.a. andi\" href=\"https://andisarchive.neocities.org/\">Andi's Archive</a> <span title=\"led to link shown below\">&#8594;</span></li>\n\t<li><a title=\"inthemeantime\" href=\"https://inthemeantimewecry.neocities.org/\">in the meantime we cry’s garden</a></li>\n</ul>\n\n<p><a aria-hidden=\"true\" tabindex=\"-1\" href=\"https://brid.gy/publish/mastodon\"></a></p>\n",
-            "date_published": "2026-04-03T12:05:15-04:00",
+            "title": "thanks mikael - this is cool!",
+            "summary": "listening to Blues Radio in my terminal :)",
+            "content_html": "<p>\n<a title=\"Terminal Music Player\" href=\"https://www.cliamp.stream/\"><small>CLIAMP</small> <small>(<a href=\"https://github.com/bjarneo/cliamp\">github</a>)</small></a>\n</p>\n<blockquote>\n<p>\nA retro music player inspired by Winamp, built for the terminal. Spectrum visualizer, 10-band EQ, playlists, streaming, and more. \n</p>\n</blockquote>\n<p>\n[ 📌<a class=\"pbuser\" title=\"source\" href=\"https://pinboard.in/u:mikael\">mikael</a> ]\n</p>\n\n<p><a aria-hidden=\"true\" tabindex=\"-1\" href=\"https://brid.gy/publish/mastodon\"></a></p>\n",
+            "date_published": "2026-04-05T09:27:51-04:00",
             "image": "",
             "banner_image": "",
             "tags": []
