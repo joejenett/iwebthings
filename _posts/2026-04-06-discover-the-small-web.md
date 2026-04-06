@@ -10,6 +10,10 @@ category:
 permalink: /discover-the-small-web/
 slug: discover-the-small-web
 summary: What a cool idea!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116360358685499827
 ---
 <a href="https://codeberg.org/susam/wander">susam/wander: A tiny, decentralised tool you can host with just two files to explore the small web</a> <small>(see <a href="https://susam.net/wander/">demo</a>)</small><br>[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:cogdog">cogdog</a> ]
 
