@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-05T09:55:48-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">i.webthings hub</title><subtitle>i.webthings - an independent, noncommercial web initiative.</subtitle><entry><title type="html">thanks mikael - this is cool!</title><link href="http://localhost:4000/thanks-mikael-this-is-cool/" rel="alternate" type="text/html" title="thanks mikael - this is cool!" /><published>2026-04-05T09:27:51-04:00</published><updated>2026-04-05T09:27:51-04:00</updated><id>http://localhost:4000/thanks-mikael-this-is-cool</id><content type="html" xml:base="http://localhost:4000/thanks-mikael-this-is-cool/"><![CDATA[<p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-04-06T19:25:37-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">i.webthings hub</title><subtitle>i.webthings - an independent, noncommercial web initiative.</subtitle><entry><title type="html">“Discover the Small Web”</title><link href="http://localhost:4000/discover-the-small-web/" rel="alternate" type="text/html" title="“Discover the Small Web”" /><published>2026-04-06T19:05:34-04:00</published><updated>2026-04-06T19:05:34-04:00</updated><id>http://localhost:4000/discover-the-small-web</id><content type="html" xml:base="http://localhost:4000/discover-the-small-web/"><![CDATA[<p><a href="https://codeberg.org/susam/wander">susam/wander: A tiny, decentralised tool you can host with just two files to explore the small web</a> <small>(see <a href="https://susam.net/wander/">demo</a>)</small><br />[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:cogdog">cogdog</a> ]</p>
+
+<p>😎 What a cool idea!</p>
+
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;ideas&quot;, &quot;exploring&quot;, &quot;web&quot;]" /><summary type="html"><![CDATA[susam/wander: A tiny, decentralised tool you can host with just two files to explore the small web (see demo)[ 📌cogdog ] 😎 What a cool idea!]]></summary></entry><entry><title type="html">thanks mikael - this is cool!</title><link href="http://localhost:4000/thanks-mikael-this-is-cool/" rel="alternate" type="text/html" title="thanks mikael - this is cool!" /><published>2026-04-05T09:27:51-04:00</published><updated>2026-04-05T09:27:51-04:00</updated><id>http://localhost:4000/thanks-mikael-this-is-cool</id><content type="html" xml:base="http://localhost:4000/thanks-mikael-this-is-cool/"><![CDATA[<p>
 <a title="Terminal Music Player" href="https://www.cliamp.stream/"><small>CLIAMP</small> <small>(<a href="https://github.com/bjarneo/cliamp">github</a>)</small></a>
 </p>
 <blockquote>
@@ -10,9 +14,6 @@ A retro music player inspired by Winamp, built for the terminal. Spectrum visual
 [ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:mikael">mikael</a> ]
 </p>
 
-
-
-
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;software&quot;, &quot;music&quot;, &quot;cli&quot;]" /><summary type="html"><![CDATA[CLIAMP (github) A retro music player inspired by Winamp, built for the terminal. Spectrum visualizer, 10-band EQ, playlists, streaming, and more. [ 📌mikael ]]]></summary></entry><entry><title type="html">linkylove.webpath 04-03-26</title><link href="http://localhost:4000/linkylove.webpath-04-03-26/" rel="alternate" type="text/html" title="linkylove.webpath 04-03-26" /><published>2026-04-03T12:05:15-04:00</published><updated>2026-04-03T12:05:15-04:00</updated><id>http://localhost:4000/linkylove.webpath-04-03-26</id><content type="html" xml:base="http://localhost:4000/linkylove.webpath-04-03-26/"><![CDATA[<ul class="linkylove">
 	<li><a title="lucille a.k.a. luci" href="https://kawaii.nekoweb.org/">welcome to <small>KAWAII</small>! ☆</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="mocha a.k.a. mimi" href="https://kkul.neocities.org/">slice of love ♡</a> <span title="led to link shown below">&#8594;</span></li>
@@ -21,11 +22,6 @@ A retro music player inspired by Winamp, built for the terminal. Spectrum visual
 	<li><a title="andrea a.k.a. andi" href="https://andisarchive.neocities.org/">Andi's Archive</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="inthemeantime" href="https://inthemeantimewecry.neocities.org/">in the meantime we cry’s garden</a></li>
 </ul>
-
-
-
-
-
 
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;linkylove&quot;]" /><summary type="html"><![CDATA[welcome to KAWAII! ☆ &#8594; slice of love ♡ &#8594; ma chérie &#8594; Jay's Digital Diary &#8594; Andi's Archive &#8594; in the meantime we cry’s garden]]></summary></entry><entry><title type="html">“technology that enables individual growth and collective flourishing”</title><link href="http://localhost:4000/resonant-computing-manifesto/" rel="alternate" type="text/html" title="“technology that enables individual growth and collective flourishing”" /><published>2026-04-01T17:14:43-04:00</published><updated>2026-04-01T17:14:43-04:00</updated><id>http://localhost:4000/resonant-computing-manifesto</id><content type="html" xml:base="http://localhost:4000/resonant-computing-manifesto/"><![CDATA[<p>
 	<a href="https://resonantcomputing.org/">Resonant Computing Manifesto</a>
@@ -66,7 +62,7 @@ A retro music player inspired by Winamp, built for the terminal. Spectrum visual
 	</li>
 </ul>
 
-<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;miscellany&quot;, &quot;notables&quot;]" /><summary type="html"><![CDATA[MOSS — A Painting Toy Where Every Brush Is a Tiny Program MOSS is a pixel editor with brushes that feel alive. Paint with tools that blend, spread, drip, grow, and glitch — each one behaving differently and each one completely customizable. [ 📌ftofani ] DevToys - A Swiss Army knife for developers DevToys is free, open source and is privacy-focused on Windows, macOS and Linux! No need to use many untruthful websites to do simple tasks with your data. [ 📌thulstrup ]]]></summary></entry><entry><title type="html">linkylove.webpath 03-29-26</title><link href="http://localhost:4000/linkylove.webpath-03-29-26/" rel="alternate" type="text/html" title="linkylove.webpath 03-29-26" /><published>2026-03-29T14:00:56-04:00</published><updated>2026-03-29T14:00:56-04:00</updated><id>http://localhost:4000/linkylove.webpath-03-29-26</id><content type="html" xml:base="http://localhost:4000/linkylove.webpath-03-29-26/"><![CDATA[<span class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" class="ll24"></a></span>
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;miscellany&quot;, &quot;notables&quot;]" /><summary type="html"><![CDATA[MOSS — A Painting Toy Where Every Brush Is a Tiny Program MOSS is a pixel editor with brushes that feel alive. Paint with tools that blend, spread, drip, grow, and glitch — each one behaving differently and each one completely customizable. [ 📌ftofani ] DevToys - A Swiss Army knife for developers DevToys is free, open source and is privacy-focused on Windows, macOS and Linux! No need to use many untruthful websites to do simple tasks with your data. [ 📌thulstrup ]]]></summary></entry><entry><title type="html">linkylove.webpath 03-29-26</title><link href="http://localhost:4000/linkylove.webpath-03-29-26/" rel="alternate" type="text/html" title="linkylove.webpath 03-29-26" /><published>2026-03-29T14:00:56-04:00</published><updated>2026-03-29T14:00:56-04:00</updated><id>http://localhost:4000/linkylove.webpath-03-29-26</id><content type="html" xml:base="http://localhost:4000/linkylove.webpath-03-29-26/"><![CDATA[<p><span class="iwt"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove.png" alt="linkylove" width="88" height="31" class="ll24" /></a></span></p>
 <ul class="linkylove">
 	<li><a title="Shai" href="https://mypillowfort.net/">My Pillow Fort~</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="Max" href="https://maxpixels.moe/">[ ✿ max's apartment ✿ ]</a> <span title="led to link shown below">&#8594;</span></li>
@@ -164,10 +160,6 @@ A retro music player inspired by Winamp, built for the terminal. Spectrum visual
 	</li>
 </ul>
 
-
-
-
-
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;miscellany&quot;, &quot;lists&quot;]" /><summary type="html"><![CDATA[Tablecruncher This free and powerful CSV editor helps you crunch all your tabular data. On Windows, macOS and Linux. [ 📌cogdog ] Note: This is not an endorsement. FontCrafter Turn your handwriting into an installable font — free, no account, no uploads. Works on every platform and the web. Print, write, scan, download. [ 📌richie5um ] Famelack Watch free live world TV and listen to online radio stations from around the world. No account, no signup, no ads. Stream global news, music, and culture... [ 📌ideoforms ] Timelinize - Everything at home Timelinize ("time-lynn-eyes") is an open source personal archival suite, designed for modern family history. It organizes all your data onto a single, unified timeline on your own computer. [ 📌mikael ] Note: This is not an endorsement. Boing by GReg TeChnoLogY 😮 [ 📌roger ]]]></summary></entry><entry><title type="html">twofer 03-24-26</title><link href="http://localhost:4000/twofer-03-24-26/" rel="alternate" type="text/html" title="twofer 03-24-26" /><published>2026-03-24T07:53:51-04:00</published><updated>2026-03-24T07:53:51-04:00</updated><id>http://localhost:4000/twofer-03-24-26</id><content type="html" xml:base="http://localhost:4000/twofer-03-24-26/"><![CDATA[<ul class="links">
 	<li><a href="https://www.miniroll.app/">Miniroll - Your blogroll, anywhere</a>
 		<blockquote>
@@ -194,10 +186,6 @@ A retro music player inspired by Winamp, built for the terminal. Spectrum visual
 	</li>
 </ul>
 
-
-
-
-
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;miscellany&quot;, &quot;notables&quot;]" /><summary type="html"><![CDATA[Miniroll - Your blogroll, anywhere Create, manage, and share your blogroll. Import from OPML, embed anywhere, discover others. [ 📌bradbarrish ] cmux — The terminal built for multitasking (macOS) (github) Native macOS app built on Ghostty. Vertical tabs, notification rings when agents need attention, split panes, and a socket API for automation. [ 📌thulstrup ] Note: This is not an endorsement.]]></summary></entry><entry><title type="html">linkylove 03-22-26</title><link href="http://localhost:4000/linkylove-03-22-26/" rel="alternate" type="text/html" title="linkylove 03-22-26" /><published>2026-03-22T15:47:19-04:00</published><updated>2026-03-22T15:47:19-04:00</updated><id>http://localhost:4000/linkylove-03-22-26</id><content type="html" xml:base="http://localhost:4000/linkylove-03-22-26/"><![CDATA[<ul class="linkylove">
 	<li><a title="dee" href="https://d3ofi.neocities.org/">꒰d3ofi꒱</a></li>
 	<li><a title="Adilene" href="https://adilene.net/"><small>HAPPY END</small></a></li>
@@ -208,27 +196,4 @@ A retro music player inspired by Winamp, built for the terminal. Spectrum visual
 	<li><a title="Kiba" href="https://parakibara.neocities.org/"><small>P A R A K I B A R A .</small></a></li>
 </ul>
 
-<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;linkylove&quot;]" /><summary type="html"><![CDATA[꒰d3ofi꒱ HAPPY END poempuppy ♡ BungleOnline ~VELVET✧BLUE~ Ana Marrie Mei P A R A K I B A R A .]]></summary></entry><entry><title type="html">‘A history of Mac settings’</title><link href="http://localhost:4000/a-history-of-mac-settings/" rel="alternate" type="text/html" title="‘A history of Mac settings’" /><published>2026-03-20T07:13:05-04:00</published><updated>2026-03-20T07:13:05-04:00</updated><id>http://localhost:4000/a-history-of-mac-settings</id><content type="html" xml:base="http://localhost:4000/a-history-of-mac-settings/"><![CDATA[<p>
-<a title="by Marcin Wichary" href="https://aresluna.org/frame-of-preference/">Frame of preference </a>
-</p>
-<blockquote>
-<p>
-Join me on a journey through the first twenty years of Mac’s control panels.
-</p>
-</blockquote>
-<span class="twoem gray-70 ll24">
-	👍
-</span>
-<p class="note">
-(inspired by <a href="https://infinitemac.org/">Infinite Mac</a>)
-</p>
-<p>
-[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:pyetro">pyetro</a> ]
-</p>
-
-
-
-
-
-
-<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;technology&quot;, &quot;macos&quot;, &quot;history&quot;]" /><summary type="html"><![CDATA[Frame of preference Join me on a journey through the first twenty years of Mac’s control panels. 👍 (inspired by Infinite Mac) [ 📌pyetro ]]]></summary></entry></feed>
+<p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>]]></content><author><name>joe jenett</name></author><category term="[&quot;linkylove&quot;]" /><summary type="html"><![CDATA[꒰d3ofi꒱ HAPPY END poempuppy ♡ BungleOnline ~VELVET✧BLUE~ Ana Marrie Mei P A R A K I B A R A .]]></summary></entry></feed>

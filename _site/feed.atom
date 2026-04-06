@@ -3,13 +3,26 @@
   <title type="text" xml:lang="en">i.webthings.hub</title>
   <link type="application/atom+xml" href="https://iwebthings.joejenett.com/feed.atom" rel="self"/>
   <link type="text/html" href="https://iwebthings.joejenett.com/" rel="alternate"/>
-  <updated>2026-04-05T09:55:42-04:00</updated>
+  <updated>2026-04-06T19:25:37-04:00</updated>
   <id>https://iwebthings.joejenett.com/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2010-2026 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>“Discover the Small Web”</title>
+    <link href="https://iwebthings.joejenett.com/discover-the-small-web/"/>
+    <updated>2026-04-06T19:05:34-04:00</updated>
+    <id>https://iwebthings.joejenett.com/discover-the-small-web/</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://codeberg.org/susam/wander&quot;&gt;susam/wander: A tiny, decentralised tool you can host with just two files to explore the small web&lt;/a&gt; &lt;small&gt;(see &lt;a href=&quot;https://susam.net/wander/&quot;&gt;demo&lt;/a&gt;)&lt;/small&gt;&lt;br /&gt;[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:cogdog&quot;&gt;cogdog&lt;/a&gt; ]&lt;/p&gt;
+
+&lt;p&gt;😎 What a cool idea!&lt;/p&gt;
+
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>thanks mikael - this is cool!</title>
@@ -157,77 +170,6 @@ A retro music player inspired by Winamp, built for the terminal. Spectrum visual
 		&lt;/p&gt;
 	&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>mixed bag 03-26-26</title>
-    <link href="https://iwebthings.joejenett.com/mixed-bag-03-26-26/"/>
-    <updated>2026-03-26T14:56:48-04:00</updated>
-    <id>https://iwebthings.joejenett.com/mixed-bag-03-26-26/</id>
-    <content type="html">&lt;ul class=&quot;links&quot;&gt;
-	&lt;li&gt;		
-		&lt;a title=&quot;The lightweight, yet powerful CSV Editor. Now Free and Open Source.&quot; href=&quot;https://tablecruncher.com/&quot;&gt;Tablecruncher&lt;/a&gt;
-		&lt;blockquote&gt;
-			&lt;p&gt;
-				This free and powerful CSV editor helps you crunch all your tabular data. On Windows, macOS and Linux.
-			&lt;/p&gt;
-		&lt;/blockquote&gt;
-		&lt;p&gt;
-			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:cogdog&quot;&gt;cogdog&lt;/a&gt; ]
-		&lt;/p&gt;
-		&lt;p class=&quot;note&quot;&gt;
-			Note: This is not an endorsement.
-		&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li&gt;
-		&lt;a href=&quot;https://arcade.pirillo.com/fontcrafter.html&quot;&gt;FontCrafter&lt;/a&gt;
-		&lt;blockquote&gt;
-			&lt;p&gt;
-				Turn your handwriting into an installable font — free, no account, no uploads. Works on every platform and the web. Print, write, scan, download.
-			&lt;/p&gt;
-		&lt;/blockquote&gt;
-		&lt;p&gt;
-			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:richie5um&quot;&gt;richie5um&lt;/a&gt; ]
-		&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li&gt;
-		&lt;a href=&quot;https://famelack.com/&quot;&gt;Famelack&lt;/a&gt;
-		&lt;blockquote&gt;
-			&lt;p&gt;
-				Watch free live world TV and listen to online radio stations from around the world. No account, no signup, no ads. Stream global news, music, and culture...
-			&lt;/p&gt;
-		&lt;/blockquote&gt;
-		&lt;p&gt;
-			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:ideoforms&quot;&gt;ideoforms&lt;/a&gt; ]
-		&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li&gt;
-		&lt;a href=&quot;https://timelinize.com/&quot;&gt;Timelinize - Everything at home&lt;/a&gt;
-		&lt;blockquote&gt;
-			&lt;p&gt;
-				Timelinize &lt;small&gt;(&quot;time-lynn-eyes&quot;)&lt;/small&gt; is an open source personal archival suite, designed for modern family history. It organizes all your data onto a single, unified timeline on your own computer.
-			&lt;/p&gt;
-		&lt;/blockquote&gt;
-		&lt;p&gt;
-			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:mikael&quot;&gt;mikael&lt;/a&gt; ]
-		&lt;/p&gt;
-		&lt;p class=&quot;note&quot;&gt;
-			Note: This is not an endorsement.
-		&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li&gt;
-		&lt;a href=&quot;https://boing.greg.technology/&quot;&gt;Boing&lt;/a&gt; by &lt;a href=&quot;https://greg.technology/&quot;&gt;GReg TeChnoLogY&lt;/a&gt;
-		&lt;p class=&quot;twoem gray-70 center&quot;&gt;
-			😮
-		&lt;/p&gt;
-		&lt;p&gt;
-			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:roger&quot;&gt;roger&lt;/a&gt; ]
-		&lt;/p&gt;
-	&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>

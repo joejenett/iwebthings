@@ -12,12 +12,12 @@
         
             {
             "id": "http://localhost:4000",
-            "url": "http://localhost:4000/thanks-mikael-this-is-cool/",
+            "url": "http://localhost:4000/discover-the-small-web/",
             "language": "en",
-            "title": "thanks mikael - this is cool!",
-            "summary": "listening to Blues Radio in my terminal :)",
-            "content_html": "<p>\n<a title=\"Terminal Music Player\" href=\"https://www.cliamp.stream/\"><small>CLIAMP</small> <small>(<a href=\"https://github.com/bjarneo/cliamp\">github</a>)</small></a>\n</p>\n<blockquote>\n<p>\nA retro music player inspired by Winamp, built for the terminal. Spectrum visualizer, 10-band EQ, playlists, streaming, and more. \n</p>\n</blockquote>\n<p>\n[ 📌<a class=\"pbuser\" title=\"source\" href=\"https://pinboard.in/u:mikael\">mikael</a> ]\n</p>\n\n<p><a aria-hidden=\"true\" tabindex=\"-1\" href=\"https://brid.gy/publish/mastodon\"></a></p>\n",
-            "date_published": "2026-04-05T09:27:51-04:00",
+            "title": "“Discover the Small Web”",
+            "summary": "What a cool idea!",
+            "content_html": "<p><a href=\"https://codeberg.org/susam/wander\">susam/wander: A tiny, decentralised tool you can host with just two files to explore the small web</a> <small>(see <a href=\"https://susam.net/wander/\">demo</a>)</small><br />[ 📌<a class=\"pbuser\" title=\"source\" href=\"https://pinboard.in/u:cogdog\">cogdog</a> ]</p>\n\n<p>😎 What a cool idea!</p>\n\n<p><a aria-hidden=\"true\" tabindex=\"-1\" href=\"https://brid.gy/publish/mastodon\"></a></p>\n",
+            "date_published": "2026-04-06T19:05:34-04:00",
             "image": "",
             "banner_image": "",
             "tags": []

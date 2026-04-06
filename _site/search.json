@@ -1,6 +1,15 @@
 [
     
       {
+      "title"    : "/discover-the-small-web/",
+      "content"  : "susam/wander: A tiny, decentralised tool you can host with just two files to explore the small web (see demo)[ 📌cogdog ]\n\n😎 What a cool idea!\n\n\n",
+      "category" : "ideas, exploring, web",
+      "tags"     : "",
+      "url"      : "http://localhost:4000/discover-the-small-web/",
+      "date"     : "Apr 6, 2026"
+    } ,
+  
+      {
       "title"    : "/thanks-mikael-this-is-cool/",
       "content"  : "\nCLIAMP (github)\n\n\n\nA retro music player inspired by Winamp, built for the terminal. Spectrum visualizer, 10-band EQ, playlists, streaming, and more. \n\n\n\n[ 📌mikael ]\n\n\n\n",
       "category" : "software, music, cli",
