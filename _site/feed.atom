@@ -3,13 +3,30 @@
   <title type="text" xml:lang="en">i.webthings.hub</title>
   <link type="application/atom+xml" href="https://iwebthings.joejenett.com/feed.atom" rel="self"/>
   <link type="text/html" href="https://iwebthings.joejenett.com/" rel="alternate"/>
-  <updated>2026-04-06T19:25:37-04:00</updated>
+  <updated>2026-04-08T15:53:56-04:00</updated>
   <id>https://iwebthings.joejenett.com/full_content_feed</id>
   <author>
     <name>joe jenett</name>
   </author>
   <rights>2010-2026 © joe jenett. Some rights reserved.</rights>
 
+  
+  <entry>
+    <title>linkylove 04-08-26</title>
+    <link href="https://iwebthings.joejenett.com/linkylove-04-08-26/"/>
+    <updated>2026-04-08T15:45:39-04:00</updated>
+    <id>https://iwebthings.joejenett.com/linkylove-04-08-26/</id>
+    <content type="html">&lt;ul class=&quot;linkylove&quot;&gt;
+	&lt;li&gt;&lt;a title=&quot;Katlyn&quot; href=&quot;https://meerkatlyn.nekoweb.org/&quot;&gt;Meerkatlyn’s forever home&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;zziz z. zzizerton&quot; href=&quot;https://zzizful.space/&quot;&gt;the zziz zone!&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Tourni a.k.a. Val&quot; href=&quot;https://tourniquet.party/&quot;&gt;&lt;small&gt;TOURNIQUET&lt;/small&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;Juliet&quot; href=&quot;https://cafevamp.neocities.org/&quot;&gt;cafevamp!&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;ponkipoki&quot; href=&quot;https://ponkipoki.neocities.org/&quot;&gt;ponkipoki ⋆˚꩜｡&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a title=&quot;sun&quot; href=&quot;https://sunpurr.neocities.org/&quot;&gt;stay soft&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>“Discover the Small Web”</title>
@@ -136,39 +153,6 @@ A retro music player inspired by Winamp, built for the terminal. Spectrum visual
 	&lt;li&gt;&lt;a title=&quot;eva&quot; href=&quot;https://eva.ac/&quot;&gt;eva&apos;s site&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a title=&quot;aver a.k.a. artimis&quot; href=&quot;https://nullablevo.id.au/&quot;&gt;nullableVoid*&lt;/a&gt; &lt;span title=&quot;led to link shown below&quot;&gt;&amp;#8594;&lt;/span&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;a href=&quot;https://wolfgirl.systems/&quot;&gt;wolfgirl.systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>twofer 03-28-26</title>
-    <link href="https://iwebthings.joejenett.com/twofer-03-28-26/"/>
-    <updated>2026-03-28T11:09:11-04:00</updated>
-    <id>https://iwebthings.joejenett.com/twofer-03-28-26/</id>
-    <content type="html">&lt;ul class=&quot;links&quot;&gt;
-	&lt;li&gt;
-		&lt;a href=&quot;https://defuddle.md/&quot;&gt;Defuddle&lt;/a&gt;
-		&lt;blockquote&gt;
-			&lt;p&gt;
-				Get the main content of any page as clean, readable Markdown.
-			&lt;/p&gt;
-		&lt;/blockquote&gt;
-			&lt;p&gt;
-				[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:mikael&quot;&gt;mikael&lt;/a&gt; + 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:tdjones&quot;&gt;tdjones&lt;/a&gt; ]
-			&lt;/p&gt;
-	&lt;/li&gt;
-	&lt;li&gt;
-		&lt;a href=&quot;https://www.thesvg.org/&quot;&gt;theSVG - ...for Developers and Designers&lt;/a&gt;
-		&lt;blockquote&gt;
-			&lt;p&gt;
-				Search, copy, and ship 5,645+ brand SVG icons. Free, open-source library with npm packages, React components, CLI, CDN, and MCP server. Tree-shakeable, typed, zero config.
-			&lt;/p&gt;
-		&lt;/blockquote&gt;
-		&lt;p&gt;
-			[ 📌&lt;a class=&quot;pbuser&quot; title=&quot;source&quot; href=&quot;https://pinboard.in/u:vipom&quot;&gt;vipom&lt;/a&gt; ]
-		&lt;/p&gt;
-	&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a aria-hidden=&quot;true&quot; tabindex=&quot;-1&quot; href=&quot;https://brid.gy/publish/mastodon&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
