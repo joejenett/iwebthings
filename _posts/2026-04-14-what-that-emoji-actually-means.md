@@ -25,8 +25,8 @@ look up what that emoji actually means in the wild
 <p>
 [ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:ramblinggit">ramblinggit</a> ]
 </p>
-<p class="graynote">
-😎 cool!
+<p>
+😎 <span class="graynote">cool!</span>
 </p>
 
 
