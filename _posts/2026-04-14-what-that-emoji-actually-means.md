@@ -8,7 +8,11 @@ category:
   - emoji
 permalink: /what-that-emoji-actually-means/
 slug: what-that-emoji-actually-means
-summary: cool!
+summary: 😎 cool!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116403149735344158
 ---
 <p>
 <a href="https://www.amitgawande.com/">Amit Gawande</a> &rarr; <a href="https://tools.amitgawande.com/">{ pocket.tools }</a> &rarr; <a href="https://tools.amitgawande.com/emojidict/">emojidict - Gen-Z Emoji Lookup</a>
@@ -22,7 +26,7 @@ look up what that emoji actually means in the wild
 [ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:ramblinggit">ramblinggit</a> ]
 </p>
 <p class="graynote">
-cool!
+😎 cool!
 </p>
 
 
