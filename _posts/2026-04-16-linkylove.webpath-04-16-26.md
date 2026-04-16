@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.webpath-04-16-26/
 slug: linkylove.webpath-04-16-26
 summary: itsa biggie!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116415043877070527
 ---
 <ul class="linkylove">
 	<li><a title="fish a.k.a. yok" href="https://cheepfish.neocities.org/">gone fishin'</a> <span class="via va-m mtminus-1">&#8678;</span> <a class="pbuser mtminus-6" title="source" href="https://jaggiescrapper.neocities.org/"></a> <span title="led to link shown below">&#8594;</span></li>
@@ -24,4 +28,5 @@ summary: itsa biggie!
 	<li><a title="natalie[ee]" href="https://natalieee.net/">natalieee.net</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="31a05b9c" href="https://www.31a05b.net/">31a05b9c</a></li>
 </ul>
+
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
