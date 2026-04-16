@@ -24,5 +24,4 @@ summary: itsa biggie!
 	<li><a title="natalie[ee]" href="https://natalieee.net/">natalieee.net</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="31a05b9c" href="https://www.31a05b.net/">31a05b9c</a></li>
 </ul>
-
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
