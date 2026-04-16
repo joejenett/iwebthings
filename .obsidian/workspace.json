@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "af89422a9f45b49c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f7248ee941fa848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152788daaf3ba1cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-04-16-linkylove.webpath-04-16-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-16-linkylove.webpath-04-16-26"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4c8d87c2038c32a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ef32bbe364c8c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66cff4aaf71f46c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3e0818d3bd9cfc19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "emocowboy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34187b3f5a6013da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2288cf95ee2861f",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a2d8b3492acde3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c08d4c9068b625d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "283da64b2ae7facd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "35e195807fdbf6c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1943e82f86b928d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ac729aa80b88490f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "152788daaf3ba1cf",
+  "lastOpenFiles": [
+    "_posts/2026-04-14-what-that-emoji-actually-means.md",
+    "_posts/2026-04-16-linkylove.webpath-04-16-26.md",
+    "_posts/2026-04-14-what-that-emoji-actually-means.md.sb-694fed10-S9qTPh",
+    "_posts/2025-07-21-linkylove-07-21-25.md",
+    "_posts/2026-04-12-mixed-bag-04-12-26.md",
+    "_posts/2026-04-12-mixed-bag-04-12-26.md.sb-694fed10-heNVyZ",
+    "_posts/2026-04-10-twofer.viewpoints-04-10-26.md",
+    "_posts/2026-04-10-twofer.viewpoints-04-10-26.md.sb-694fed10-YiNmzl",
+    "_posts/2026-04-08-linkylove-04-08-26.md",
+    "_site/linkylove-04-08-26/index.html",
+    "_site/linkylove-04-08-26",
+    "_posts/2026-04-06-discover-the-small-web.md",
+    "_posts/2026-04-05-thanks-mikael-this-is-cool.md",
+    "_site/discover-the-small-web/index.html",
+    "_site/discover-the-small-web",
+    "_posts/2026-04-05-thanks-mikael-this-is-cool.md.sb-59151e6e-iKslun",
+    "_site/thanks-mikael-this-is-cool/index.html",
+    "_site/thanks-mikael-this-is-cool",
+    "_posts/2026-04-03-linkylove.webpath-04-03-26.md",
+    "_posts/2026-04-01-resonant-computing-manifesto.md",
+    "_posts/2026-03-31-twofer-03-31-26.md",
+    "_posts/2026-03-29-linkylove.webpath-03-29-26.md"
+  ]
+}
