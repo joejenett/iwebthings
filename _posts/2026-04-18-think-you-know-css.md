@@ -10,6 +10,10 @@ category:
 permalink: /think-you-know-css/
 slug: think-you-know-css
 summary: made ya think!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116425273803876565
 ---
 <p>
 	<a href="https://www.keithcirkel.co.uk/css-or-bs/">CSS or BS?</a>
