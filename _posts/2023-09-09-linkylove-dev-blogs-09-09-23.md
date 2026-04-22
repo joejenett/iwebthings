@@ -7,11 +7,11 @@ category:
   - 
 permalink: /linkylove-dev-blogs-09-09-23/
 slug: linkylove-dev-blogs-09-09-23
-summary: 
-
+summary:
 categories:
   - linkylove
   - dev
+  - blogs
 ---
 <ul class="linkylove">
 	<li><a title="Flavien Bonvin" href="https://www.flavienbonvin.com/">Flavien Bonvin</a> <a href="https://pinboard.in/u:peterkaminski">📌</a></li>
