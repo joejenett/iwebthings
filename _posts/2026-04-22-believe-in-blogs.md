@@ -10,6 +10,10 @@ category:
 permalink: /believe-in-blogs/
 slug: believe-in-blogs
 summary: 👍 lotta buzz for this one
+comments:
+  host: toot.community
+  username: jenett
+  id: 116448862276206439
 ---
 <p>
 	<a title="Discover Independent Blogs & Personal Writing" href="https://blogosphere.app/">Blogosphere</a> <small>(<a href="https://blogosphere.app/about/">about</a>)</small> &rarr; <a href="https://text.blogosphere.app/">Minimal Version</a> 
