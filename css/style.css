@@ -443,6 +443,10 @@ button.mastodon-edit {
 small {
 	white-space: nowrap;
 }
+.smallwrap {
+	font-size:.85em;
+	white-space: wrap;
+}
 ul.links li {
 	margin-bottom:12px;
 }
@@ -791,6 +795,9 @@ div#archives div.archive-group article.archive-item li {
 .mb-eight-pt-12 {
 	margin-bottom:8px;
 	padding-top:12px;
+}
+.mb-30 {
+	margin-bottom:30px;
 }
 .alsolike {
 	 margin-top:18px;
