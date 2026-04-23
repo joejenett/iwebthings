@@ -107,6 +107,12 @@ blockquote, .post-meta {
 	margin-left:6px;
 	color:#222;
 }
+.gray-50 {
+	filter: grayscale(50%);
+}
+.gray-60 {
+	filter: grayscale(60%);
+}
 .gray-70 {
 	filter: grayscale(70%);
 }
