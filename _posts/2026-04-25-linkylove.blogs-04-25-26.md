@@ -9,6 +9,10 @@ category:
 permalink: /linkylove.blogs-04-25-26/
 slug: linkylove.blogs-04-25-26
 summary: speaking of blogs...
+comments:
+  host: toot.community
+  username: jenett
+  id: 116465866581132975
 ---
 <ul class="linkylove">
 	<li><a title="Gordon Mclean" href="https://www.gordonmclean.co.uk/">Happily Imperfect</a> <span class="via va-m mtminus-1">&#8678;</span> <a class="pbuser mtminus-6" title="source" href="https://bubbles.town/">bubbles</a></li>
