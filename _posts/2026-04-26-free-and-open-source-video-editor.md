@@ -10,6 +10,10 @@ category:
 permalink: /free-and-open-source-video-editor/
 slug: free-and-open-source-video-editor
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116472927390414844
 ---
 <p>
 <a href="https://kdenlive.org/">Kdenlive</a>
