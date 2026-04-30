@@ -9,6 +9,10 @@ category:
 permalink: /just-for-the-fun-of-it/
 slug: just-for-the-fun-of-it
 summary: delightful
+comments:
+  host: toot.community
+  username: jenett
+  id: 116494016945533247
 ---
 <p>
 <a title="by Neal Agarwal" href="https://neal.fun/cursor-camp/">Cursor Camp</a>
