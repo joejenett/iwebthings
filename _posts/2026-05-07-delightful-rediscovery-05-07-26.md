@@ -9,6 +9,10 @@ category:
 permalink: /delightful-rediscovery-05-07-26/
 slug: delightful-rediscovery-05-07-26
 summary: worth a second share
+comments:
+  host: toot.community
+  username: jenett
+  id: 116533336967511313
 ---
 <p>
 	<a href="https://minimator.maxwellito.com/">minimator.</a> <small>(<a href="https://minimator.maxwellito.com/#/about">about</a>)</small> <small>(<a href="https://github.com/maxwellito/minimator/">github</a>)</small>
