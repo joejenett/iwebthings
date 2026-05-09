@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.neo.webpath-05-09-26/
 slug: linkylove.neo.webpath-05-09-26
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116544028239077431
 ---
 <ul class="linkylove">
 	<li><a title="Arakiah" href="https://arakiah.neocities.org/">𝕬𝖗𝖆𝖐𝖎𝖆𝖍'𝖘 𝕽𝖊𝖆𝖑𝖒</a> <span title="led to link shown below">&#8594;</span></li>
