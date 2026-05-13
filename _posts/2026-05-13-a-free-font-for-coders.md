@@ -9,6 +9,10 @@ category:
 permalink: /a-free-font-for-coders/
 slug: a-free-font-for-coders
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116567480844988592
 ---
 <p>
 	<a title="by Jens Kutílek" href="https://www.kutilek.de/sudo-font/">Sudo Coding Font</a> <small>(<a href="https://github.com/jenskutilek/sudo-font">github</a>)</small>
