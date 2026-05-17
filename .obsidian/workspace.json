@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-05-11-twofer-05-11-26.md",
+                "file": "_posts/2026-05-17-twofer.dev.resources-05-17-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-11-twofer-05-11-26"
+              "title": "2026-05-17-twofer.dev.resources-05-17-26"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ellenthekat",
+                "query": "caveat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,12 +182,19 @@
   },
   "active": "b3095731d9edcfca",
   "lastOpenFiles": [
-    "_posts/2025-12-12-linkylove-12-12-25.md",
+    "_posts/2025-10-05-mixed-bag-10-05-25.md",
+    "_posts/2026-05-17-twofer.dev.resources-05-17-26.md",
+    "_posts/2025-08-05-mixed-bag-08-05-25.md",
+    "_posts/2026-05-15-mixed-bag-05-15-26.md",
+    "_posts/2026-04-28-mixed-bag-04-28-26.md",
+    "_posts/2026-05-13-a-free-font-for-coders.md",
+    "_posts/2026-05-07-delightful-rediscovery-05-07-26.md",
+    "_posts/2026-05-13-a-free-font-for-coders.md.sb-d67f77b4-mFWnAk",
     "_posts/2026-05-11-twofer-05-11-26.md",
+    "_posts/2025-12-12-linkylove-12-12-25.md",
     "_posts/2026-05-09-linkylove.neo.webpath-05-09-26.md",
     "_posts/2023-06-14-mixt-links-06-14-23.md",
     "_posts/2024-06-22-linkylove-06-22-24.md",
-    "_posts/2026-05-07-delightful-rediscovery-05-07-26.md",
     "_posts/2026-05-05-twofer-05-05-26.md",
     "_posts/2026-05-05-twofer-05-05-26.md.sb-cf5adb5c-M10fS1",
     "_posts/2026-03-31-twofer-03-31-26.md",
@@ -202,21 +209,14 @@
     "_posts/2025-08-07-linkylove-08-07-25.md",
     "_posts/2026-04-10-twofer.viewpoints-04-10-26.md",
     "_posts/2026-04-20-twofer.diversions-04-20-26.md",
-    "_posts/2026-04-28-mixed-bag-04-28-26.md",
     "_posts/2026-04-28-mixed-bag-04-28-26.md.sb-a3b3576c-bPNm0f",
     "_posts/2026-04-26-free-and-open-source-video-editor.md",
-    "_posts/2026-04-25-linkylove.blogs-04-25-26.md",
     "_posts/2026-04-25-linkylove.blogs-04-25-26.md.sb-a3b3576c-uU4NLZ",
-    "_posts/2026-04-23-believe-in-blogs-2.md",
     "_posts/2026-04-23-believe-in-blogs-2.md.sb-a3b3576c-C6dPGk",
-    "_posts/2026-04-22-believe-in-blogs.md",
-    "_posts/2025-05-03-mixed-bag-05-03-25.md",
-    "_posts/2025-02-11-an-open-directory-of-personal-sites-and-blogs.md",
     "_posts/2026-04-22-believe-in-blogs.md.sb-a3b3576c-nOx1OU",
     "css/style.css.sb-a3b3576c-y8XLao",
     "_posts/2026-04-20-twofer.diversions-04-20-26.md.sb-f3d2a385-1q32Ev",
     "_posts/2026-04-18-think-you-know-css.md.sb-694fed10-h3B9iq",
-    "_posts/2026-04-14-what-that-emoji-actually-means.md.sb-694fed10-S9qTPh",
-    "_posts/2026-04-12-mixed-bag-04-12-26.md.sb-694fed10-heNVyZ"
+    "_posts/2026-04-14-what-that-emoji-actually-means.md.sb-694fed10-S9qTPh"
   ]
 }
