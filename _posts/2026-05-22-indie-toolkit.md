@@ -8,6 +8,10 @@ category:
 permalink: /indie-toolkit/
 slug: indie-toolkit
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116618682728688703
 ---
 <p>
 <a href="https://delphi.tools/">delphitools</a>
