@@ -33,5 +33,4 @@ kind:
   <li><a href="http://coloreminder.com/">Coloreminder</a></li>
   <li><a href="http://www.handprint.com/LS/CVS/color.html">color vision</a></li>
   <li><a href="http://cssprism.com/">CSS Prism</a></li>
-  <li><a href="http://colorpx.com/">Color pixel wall - Colorpx</a></li>
   </ul>

@@ -48,4 +48,3 @@ Design/Dev
 Icons 
 
   * [Jigsoar icons](http://www.jigsoaricons.com/)
-  * [RRZE Icon Set](http://rrze-icon-set.berlios.de/gallery.html)
