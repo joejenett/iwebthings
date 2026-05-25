@@ -23,7 +23,6 @@ categories:
 	<li><a title="where developers go for tools" href="https://finddev.tools/">FindDevTools</a></li>
 	<li><a title="a humanly curated list of fine personal &amp; independent blogs" href="https://blogroll.org/">Ye Olde Blogroll</a></li>
 	<li><a title="an internet map" href="https://diagram.website/">Diagram Website</a></li>
-	<li><a title="directory @unicyclic" href="https://unicyclic.com/indieweb/directory">indieweb/directory</a></li>
 	<li><a title="‘no-nonsense’ curated tools directory (originally via mikael)" href="https://kis.tools/">Tools kept it simple</a></li>
 	<li><a title="from another webthing 😎" href="https://bulltown.joejenett.com/links/">bulltown button wall</a></li>
 </ul>
