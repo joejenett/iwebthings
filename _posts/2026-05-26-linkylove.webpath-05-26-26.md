@@ -24,9 +24,7 @@ summary:
 	</li>
 	<li>
 		<a title="sixtoesss" href="https://sixtoesss.neocities.org/"><small>SIXTOESSS</small></a>
-	</li>
-	
-		
+	</li>	
 </ul>
 <p>
 		Sorry.<br>Halted by a huge button wall containing a single link.
