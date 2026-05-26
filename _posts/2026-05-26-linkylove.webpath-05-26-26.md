@@ -1,12 +1,12 @@
 ---
 layout: post
-title: linkylove.webpath 05-26-26
+title: linkylove webpath 05-26-26
 date: 2026-05-26T07:54:54 -0400
 author: joe jenett
 category:
   - linkylove
-permalink: /linkylove.webpath-05-26-26/
-slug: linkylove.webpath-05-26-26
+permalink: /linkylove-webpath-05-26-26/
+slug: linkylove-webpath-05-26-26
 summary:
 ---
 <ul class="linkylove">
@@ -27,8 +27,10 @@ summary:
 	</li>	
 </ul>
 <p>
-		Sorry.<br>Halted by a huge button wall containing a single link.
-<br>	Kinda like a new day with only a wee bit of sunshine... <span class="gray-90 onepointfiveem">🙄</span>
+Sorry.
+<br>Halted by a huge button wall containing a single link.
+<br>Kinda like a new day with only a wee bit of sunshine... <span class="gray-90 onepointfiveem">🙄</span>
+</p>
 <p class="note">*music autoplay
 </p>
 
