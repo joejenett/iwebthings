@@ -1,17 +1,13 @@
 ---
 layout: post
-title: linkylove webpath 05-26-26
+title: linkylove.webpath 05-26-26
 date: 2026-05-26T07:54:54 -0400
 author: joe jenett
 category:
   - linkylove
-permalink: /linkylove-webpath-05-26-26/
-slug: linkylove-webpath-05-26-26
+permalink: /linkylove.webpath-05-26-26/
+slug: linkylove.webpath-05-26-26
 summary:
-comments:
-  host: toot.community
-  username: jenett
-  id: 116640957109289538
 ---
 <ul class="linkylove">
 	<li>
