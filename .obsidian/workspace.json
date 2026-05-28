@@ -11,10 +11,14 @@
             "id": "b3095731d9edcfca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2026-05-28-mixed-bag-05-28-26.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-05-28-mixed-bag-05-28-26"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "active": "b3095731d9edcfca",
   "lastOpenFiles": [
+    "_posts/2026-05-28-mixed-bag-05-28-26.md.sb-c2129f23-MpYOHp",
+    "_posts/2026-05-28-mixed-bag-05-28-26.md",
     "_posts/2018-04-13-heres_to_longevity.md",
     "_posts/2026-05-26-linkylove.webpath-05-26-26.md",
     "_posts/2024-08-25-notable-rarities-08-25-24.md",
@@ -202,8 +208,6 @@
     "_posts/2025-01-28-whole-lotta-links-list-01-28-25.md",
     "_posts/2025-08-24-mixed-bag-08-24-25.md",
     "_posts/2024-02-07-linkylove-02-07-24.md",
-    "_posts/2024-04-11-recently-noticed-04-11-24.md",
-    "_posts/2024-12-31-an-alternative-frontend-to-reuters-news.md",
     "_posts/2026-05-20-twofer-05-20-26.md.sb-7c9a73ff-IznPfp",
     "_posts/2026-05-13-a-free-font-for-coders.md.sb-d67f77b4-mFWnAk",
     "_posts/2026-05-05-twofer-05-05-26.md.sb-cf5adb5c-M10fS1",
