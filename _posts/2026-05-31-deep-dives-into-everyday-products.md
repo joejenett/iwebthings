@@ -9,6 +9,10 @@ category:
 permalink: /deep-dives-into-everyday-products/
 slug: deep-dives-into-everyday-products
 summary: ‘maybe learn something new’
+comments:
+  host: toot.community
+  username: jenett
+  id: 116669814604729360
 ---
 <p>
 <a href="https://mechanical-pencil.com/">Mechanical Pencil</a>
