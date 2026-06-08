@@ -261,6 +261,10 @@ blockquote, .post-meta {
 	position:relative;
 	top:-1px;
 }
+.mtminus-3 {
+	position:relative;
+	top:-3px;
+}
 .mt-12 {
 	margin-top:12px;
 }
