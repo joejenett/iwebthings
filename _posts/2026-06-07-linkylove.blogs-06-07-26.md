@@ -9,6 +9,10 @@ category:
 permalink: /linkylove.blogs-06-07-26/
 slug: linkylove.blogs-06-07-26
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116711600877326037
 ---
 <ul class="linkylove">
 	<li>
