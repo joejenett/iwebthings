@@ -6,3 +6,4 @@ images/iwtlogo copy.png
 Gemfile.lock
 _layouts/post copy.html
 .jekyll-metadata
+.obsidian/workspace.json
