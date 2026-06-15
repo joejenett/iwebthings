@@ -15,7 +15,7 @@ comments:
 ---
 It appears that Pinboard’s domain registration has expired.
 
-I work hard to keep i.webthings free of bad links. Unfortunatly, all of the Pinboard via links are lead to nowhere at the moment. However, I’ve decided not to fix them yet. I’m hopeful Pinboard is aware of the issue and will resolve it quickly.
+I work hard to keep i.webthings free of bad links. Unfortunatly, all of the Pinboard via links lead to nowhere at the moment. However, I’ve decided not to fix them yet. I’m hopeful Pinboard is aware of the issue and will resolve it quickly.
 
 Fingers crossed,
 
