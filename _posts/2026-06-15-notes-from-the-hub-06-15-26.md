@@ -8,6 +8,10 @@ category:
 permalink: /notes-from-the-hub-06-15-26/
 slug: notes-from-the-hub-06-15-26
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116753712297268570
 ---
 It appears that Pinboard’s domain registration has expired.
 
