@@ -10,6 +10,10 @@ category:
 permalink: /a-computing-focused-community/
 slug: a-computing-focused-community
 summary: Crows are smart, they work together, and they find the best “shiny” objects.
+comments:
+  host: toot.community
+  username: jenett
+  id: 116760484275299916
 ---
 <a href="https://crow.watch/">Crow Watch</a> <small> </small><small>(<a href="https://github.com/antonmedv/crow.watch">github</a>)</small> <small>(<a href="https://crow.watch/about">about</a>)</small>
 
