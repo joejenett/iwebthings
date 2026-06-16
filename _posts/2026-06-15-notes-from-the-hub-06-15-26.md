@@ -13,6 +13,8 @@ comments:
   username: jenett
   id: 116753712297268570
 ---
+Update 06/16/26, 10:53 AM: Pinboard is online again! 👍
+
 It appears that Pinboard’s domain registration has expired.
 
 I work hard to keep i.webthings free of bad links. Unfortunatly, all of the Pinboard via links lead to nowhere at the moment. However, I’ve decided not to fix them yet. I’m hopeful Pinboard is aware of the issue and will resolve it quickly.
