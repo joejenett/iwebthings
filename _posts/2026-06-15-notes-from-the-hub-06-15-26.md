@@ -13,7 +13,7 @@ comments:
   username: jenett
   id: 116753712297268570
 ---
-Update 06/16/26, 10:53 AM: Pinboard is online again! 👍
+**Update 06/16/26, 10:53 AM: Pinboard is online again!** 👍
 
 It appears that Pinboard’s domain registration has expired.
 
