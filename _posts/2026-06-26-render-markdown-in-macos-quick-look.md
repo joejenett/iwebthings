@@ -10,6 +10,10 @@ category:
 permalink: /render-markdown-in-macos-quick-look/
 slug: render-markdown-in-macos-quick-look
 summary:
+comments:
+  host: toot.community
+  username: jenett
+  id: 116818915418377974
 ---
 <p>
 <a href="https://quicklookmd.com/">Markdown QuickLook</a> (macOS) <small>(<a href="https://github.com/jzone3/markdown-quicklook">github</a>)</small>
