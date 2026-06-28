@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.webpath-06-28-26/
 slug: linkylove.webpath-06-28-26
 summary:
+comments:
+	host: toot.community
+	username: jenett
+	id: 116829783469447580
 ---
 <ul class="linkylove">
 	<li>
