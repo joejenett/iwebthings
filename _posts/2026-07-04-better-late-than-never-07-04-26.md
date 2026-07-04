@@ -14,6 +14,6 @@ summary: a public service announcement from the hub
 <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fireworks">Fireworks | CPSC.gov</a>
 </p>
 <p>
-<a title="a public service announcement from the hub"><img title="a public service announcement from the hub" src="/images/fireworks-safety.jpg" width="100%" alt="visit cpsc.gov"></a>
+<a title="a public service announcement from the hub" href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fireworks"><img title="a public service announcement from the hub" src="/images/fireworks-safety.jpg" width="100%" alt="visit cpsc.gov"></a>
 </p>
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
