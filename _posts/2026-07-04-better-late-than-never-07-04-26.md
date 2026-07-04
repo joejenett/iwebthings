@@ -9,6 +9,10 @@ category:
 permalink: /better-late-than-never-07-04-26/
 slug: better-late-than-never-07-04-26
 summary: a public service announcement from the hub
+comments:
+  host: toot.community
+  username: jenett
+  id: 116861839388856041
 ---
 <p>
 <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fireworks">Fireworks | CPSC.gov</a>
