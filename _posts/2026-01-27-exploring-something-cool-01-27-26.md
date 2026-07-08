@@ -34,8 +34,5 @@ comments:
 		</li>
 	</ul>
 </div>
-<p>
-	[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:amitp">amitp</a> ]
-</p>
 
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
