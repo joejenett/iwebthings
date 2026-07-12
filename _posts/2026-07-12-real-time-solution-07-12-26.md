@@ -8,6 +8,10 @@ category:
 permalink: /real-time-solution-07-12-26/
 slug: real-time-solution-07-12-26
 summary: damn! it works!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116907695712507184
 ---
 <p>
 I just have to share this immediately ’cause it’s solving a big problem for me right now, using only my web browser!
