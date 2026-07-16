@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.neo-07-16-26/
 slug: linkylove.neo-07-16-26
 summary: 😎 howdy y'all!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116930197578785660
 ---
 <ul class="linkylove">
 	<li>
