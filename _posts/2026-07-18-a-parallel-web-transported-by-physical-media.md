@@ -9,6 +9,10 @@ category:
 permalink: /a-parallel-web-transported-by-physical-media/
 slug: a-parallel-web-transported-by-physical-media
 summary: Cool!
+comments:
+  host: toot.community
+  username: jenett
+  id: 116941831828957802
 ---
 <p>
 	<a href="https://sneakerweb.org/">sneakerweb</a> by <a href="https://worm-blossom.org/">worm-blossom</a>
