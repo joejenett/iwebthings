@@ -9,6 +9,10 @@ category:
 permalink: /linkylove.blogs-07-22-26/
 slug: linkylove.blogs-07-22-26
 summary: a bit of a mixed bag
+comments:
+  host: toot.community
+  username: jenett
+  id: 116963423447243401
 ---
 <ul class="linkylove">
 	<li>
