@@ -11,7 +11,7 @@ summary:
 comments:
   host: mastodon.social
   username: joejenett
-  id: 117037110675273785
+  id: 117037155017117510
 ---
 <p>
 	<a title="by Jera Value" href="https://www.jeravalue.com/en/text-music">Text as Music</a>			
