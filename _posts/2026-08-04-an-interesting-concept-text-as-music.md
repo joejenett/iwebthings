@@ -8,6 +8,10 @@ category:
 permalink: /an-interesting-concept-text-as-music/
 slug: an-interesting-concept-text-as-music
 summary:
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117037110675273785
 ---
 <p>
 	<a title="by Jera Value" href="https://www.jeravalue.com/en/text-music">Text as Music</a>			
