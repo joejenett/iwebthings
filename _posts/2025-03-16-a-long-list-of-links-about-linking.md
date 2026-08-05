@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a long list of links about linking
 date: 2025-03-16 10:26:09 -0400
 author: joe jenett
