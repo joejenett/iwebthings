@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: another odd musical toy
 date: 2025-01-09 08:19:22 -0400
 author: joe jenett

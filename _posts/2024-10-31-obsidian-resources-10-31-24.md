@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: Obsidian resources 10-31-24
 date: 2024-10-31 13:32:29 -0400
 author: joe jenett

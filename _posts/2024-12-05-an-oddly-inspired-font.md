@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: an oddly inspired font
 date: 2024-12-05 08:07:34 -0400
 author: joe jenett

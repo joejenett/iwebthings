@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘no-nonsense’ curated tools directory
 date: 2024-11-26 07:03:26 -0400
 author: joe jenett

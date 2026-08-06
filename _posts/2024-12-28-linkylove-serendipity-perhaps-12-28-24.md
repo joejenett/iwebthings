@@ -1,5 +1,5 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: "linkylove: serendipity.perhaps 12-24-24"
 date: 2024-12-28 10:22:23 -0400
 author: joe jenett

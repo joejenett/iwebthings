@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: way too stimulating for me, thank you!
 date: 2025-01-13 12:39:53 -0400
 author: joe jenett

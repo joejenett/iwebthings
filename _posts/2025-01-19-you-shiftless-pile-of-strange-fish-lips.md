@@ -1,5 +1,5 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: “You shiftless pile of strange fish lips”
 date: 2025-01-19 09:53:42 -0400
 author: joe jenett

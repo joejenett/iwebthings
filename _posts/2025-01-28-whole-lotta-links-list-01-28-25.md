@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: whole lotta links list 01-28-25
 date: 2025-01-28 11:26:45 -0400
 author: joe jenett

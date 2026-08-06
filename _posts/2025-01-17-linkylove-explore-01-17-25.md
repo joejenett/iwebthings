@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.explore 01-17-25
 date: 2025-01-17 06:46:49 -0400
 author: joe jenett

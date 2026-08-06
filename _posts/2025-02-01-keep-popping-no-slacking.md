@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘keep popping, no slacking 🔥’
 date: 2025-02-01 14:43:13 -0400
 author: joe jenett
