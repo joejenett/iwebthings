@@ -1,5 +1,5 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: over 2000 Public Domain 3D assets, including textures and HDR images
 date: 2025-03-03 08:56:49 -0400
 author: joe jenett

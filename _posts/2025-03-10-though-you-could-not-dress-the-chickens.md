@@ -1,5 +1,5 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: though you could not dress the chickens...
 date: 2025-03-10 08:13:35 -0400
 author: joe jenett

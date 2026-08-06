@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘a nested clue puzzle game’
 date: 2025-02-27 11:08:28 -0400
 author: joe jenett

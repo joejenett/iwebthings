@@ -1,5 +1,5 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: a cheatsheet for web developers
 date: 2025-03-01 09:38:04 -0400
 author: joe jenett
