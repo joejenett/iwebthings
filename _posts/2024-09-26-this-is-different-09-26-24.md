@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: this is different 09-26-24
 date: 2024-09-26 08:58:30 -0400
 author: joe jenett

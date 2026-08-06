@@ -1,0 +1,76 @@
+---
+layout: default
+---
+<div class="h-feed">
+<article class="post h-entry hentry elevenup" itemscope itemtype="http://schema.org/BlogPosting">
+<div id="post-donuts">
+	<a href="https://simply.joejenett.com/adventures-of-a-donut-maker/"><img src="/images/donuts.png" alt="adventures of a donut maker" height="60"></a>
+</div>
+<div class="postnav">
+  <div class="fifty">
+    {% if page.previous.url %}
+    &larr; <a href="{{ site.baseurl }}{{page.previous.url}}">previous</a>
+    {% endif %}
+  </div>
+  <div class="fifty right">
+    {% if page.next.url %}
+    <a href="{{ site.baseurl }}{{page.next.url}}">next</a> &rarr;
+    {% endif %}
+  </div>
+</div>
+<header class="post-header">
+	<h1 class="post-title p-name entry-title mt-eighteen" itemprop="name headline"><a class="u-url" href="{{ site.url }}{{ page.permalink }}">{{ page.title | escape }}</a>
+	</h1>
+	<p class="post-meta">
+		<span class="h-card">
+			<a class="url u-url u-uid uid bookmark" href="{{ site.url }}{{ page.permalink }}"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+				{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+				{{ page.date | date: date_format }}
+			</time></a>
+			{%- if page.author -%}• <span class="author p-author h-card" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="u-url url fn u-uid p-author h-card hcard" href="https://iwebthings.joejenett.com/" rel="author"><img alt="author's homepage" src="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&amp;d=mm&amp;r=pg" srcset="https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=80&amp;d=mm&amp;r=pg 2x" class="u-photo photo va-m br6" width="24" height="24" itemprop="image"></a>
+				<a class="url uid u-url u-uid fn p-name p-author h-card" rel="author" itemprop="url" href="/"><span class="p-author p-name" itemprop="name">{{ page.author }}</span></a>
+			</span>
+		</span>
+
+		{%- endif -%}
+		<span class="post-categories">• posted in:
+			{% if post %}
+			{% assign categories = post.categories %}
+			{% else %}
+			{% assign categories = page.categories %}
+			{% endif %}
+			{% for category in categories %}
+			<a class="p-category" href="/categories/#{{category|slugize}}">{{category}}</a>
+			{% unless forloop.last %}&nbsp;{% endunless %}
+			{% endfor %}
+		</span>
+	</p>
+</header>
+<div class="post-content e-content" itemprop="articleBody">
+{{ content }}
+</div>
+
+
+
+<div class="postnav">
+  <div class="fifty">
+    {% if page.previous.url %}
+    &larr; <a href="{{ site.baseurl }}{{page.previous.url}}">previous</a>
+    {% endif %}
+  </div>
+  <div class="fifty right">
+    {% if page.next.url %}
+    <a href="{{ site.baseurl }}{{page.next.url}}">next</a> &rarr;
+    {% endif %}
+  </div>
+</div>
+
+<p class="center fs-psevenem"><a class="u-url" href="https://iwebthings.joejenett.com{{ page.permalink }}">(permalink)</a></p>
+
+
+<p class="center mt-12 rss-subscribe"><a href="/archive/">browse the archive</a> | <a href="/feed.atom">subscribe via RSS</a></p>
+</article>
+</div>
+<div class="center">
+<img id="respect" src="/images/respect-ukraine.png" title="Respect Ukraine" alt="Ukraine Deserves our Respect" width="120">
+</div>
