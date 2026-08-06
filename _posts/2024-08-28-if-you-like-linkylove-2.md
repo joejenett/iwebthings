@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: if you like linkylove...(2)
 date: 2024-08-28 09:15:19 -0400
 author: joe jenett

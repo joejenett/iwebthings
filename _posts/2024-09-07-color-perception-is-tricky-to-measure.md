@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “Color perception is tricky to measure...”
 date: 2024-09-07 10:55:52 -0400
 author: joe jenett

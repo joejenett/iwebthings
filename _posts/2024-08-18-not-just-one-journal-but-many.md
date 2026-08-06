@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘not just one journal, but many’
 date: 2024-08-18 13:13:35 -0400
 author: joe jenett

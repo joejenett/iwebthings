@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-c
 title: add ‘drag-to-swap’ functionality to any layout
 date: 2024-08-30 10:07:23 -0400
 author: joe jenett

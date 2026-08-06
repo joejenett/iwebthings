@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: it’s about people silly
 date: 2024-09-12 09:12:24 -0400
 author: joe jenett

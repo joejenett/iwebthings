@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “Draw me a goblin, please.”
 date: 2024-08-23 16:27:58 -0400
 author: joe jenett
