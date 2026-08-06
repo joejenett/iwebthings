@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: "morning notables: resources 05-27-24"
 date: 2024-05-27 11:00:26 -0400
 author: joe jenett

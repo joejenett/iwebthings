@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a.few.in.the.meantime 05-01-24
 date: 2024-05-01 08:07:07 -0400
 author: joe jenett

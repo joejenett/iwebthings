@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: build something useful and people will find it
 date: 2024-05-10 11:49:04 -0400
 author: joe jenett

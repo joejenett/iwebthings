@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “Just a linkblog...”
 date: 2024-04-30 08:09:58 -0400
 author: joe jenett

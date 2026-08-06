@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘here to reclaim the throne of simplicity’
 date: 2024-05-23 09:40:45 -0400
 author: joe jenett

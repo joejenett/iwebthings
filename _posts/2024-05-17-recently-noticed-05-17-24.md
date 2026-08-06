@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: recently noticed 05-17-24
 date: 2024-05-17 11:22:42 -0400
 author: joe jenett

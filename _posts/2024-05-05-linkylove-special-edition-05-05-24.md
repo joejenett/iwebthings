@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.special.edition 05-05-24
 date: 2024-05-05 08:52:50 -0400
 author: joe jenett

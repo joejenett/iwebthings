@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: button.surf.linkylove 05-03-24
 date: 2024-05-03 12:17:25 -0400
 author: joe jenett
