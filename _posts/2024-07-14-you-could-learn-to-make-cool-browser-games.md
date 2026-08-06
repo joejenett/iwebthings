@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: On one hand, you could learn to make cool browser games...
 date: 2024-07-14 16:07:59 -0400
 author: joe jenett

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a way to ‘dip your toes into a more digitally minimal lifestyle’
 date: 2024-06-07 07:02:03 -0400
 author: joe jenett

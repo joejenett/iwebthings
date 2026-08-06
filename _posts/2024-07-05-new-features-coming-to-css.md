@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘new features coming to CSS’
 date: 2024-07-05 11:05:18 -0400
 author: joe jenett

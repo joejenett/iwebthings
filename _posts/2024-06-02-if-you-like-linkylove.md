@@ -10,6 +10,7 @@ summary: …I made you a button.
 categories:
   - i.webthings
   - linkylove
+reaction: <div class="f-left mt-12"><a href="https://johnjohnston.info/blog/re-if-you-like-linkylove-re/"><img class="m-1 br24" src="https://avatars.webmention.io/secure.gravatar.com/3759607675d22e1a9a378bfacc9231648b15950f5103d6758b6fdd454756731b.jpg" alt="webmention source" width="48"></a></div>
 ---
 ...I made you a button.
 

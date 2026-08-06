@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: WTF? - AI actually has an amusing side... for cat lovers anyway
 date: 2024-08-02 09:48:56 -0400
 author: joe jenett

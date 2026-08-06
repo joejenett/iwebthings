@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: design and dev.list 08-15-24
 date: 2024-08-15 13:05:23 -0400
 author: joe jenett

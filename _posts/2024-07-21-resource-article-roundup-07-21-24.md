@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: resource article roundup 07-21-24
 date: 2024-07-21 09:05:44 -0400
 author: joe jenett

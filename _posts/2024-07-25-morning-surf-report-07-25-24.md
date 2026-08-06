@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: morning surf report 07-25-24
 date: 2024-07-25 08:17:28 -0400
 author: joe jenett
