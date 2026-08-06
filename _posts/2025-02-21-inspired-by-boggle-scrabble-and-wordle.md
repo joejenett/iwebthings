@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “inspired by Boggle, Scrabble and Wordle”
 date: 2025-02-21 09:47:46 -0400
 author: joe jenett
