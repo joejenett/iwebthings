@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘strives to be the largest human-edited directory’
 date: 2024-04-02 08:16:02 -0400
 author: joe jenett

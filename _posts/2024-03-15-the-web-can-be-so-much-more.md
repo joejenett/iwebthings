@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘the web can be so much more’
 date: 2024-03-15 09:54:15 -0400
 author: joe jenett

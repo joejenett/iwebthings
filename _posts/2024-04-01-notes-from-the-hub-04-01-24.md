@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: notes from the hub 04-01-24
 date: 2024-04-01 11:10:30 -0400
 author: joe jenett

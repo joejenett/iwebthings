@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘dedicated to all things self-hosted’
 date: 2024-04-09 12:15:25 -0400
 author: joe jenett

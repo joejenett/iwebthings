@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: on the benefits of being a link fixing maniac
 date: 2024-03-18 08:16:28 -0400
 author: joe jenett

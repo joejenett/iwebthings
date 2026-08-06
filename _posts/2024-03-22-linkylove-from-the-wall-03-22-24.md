@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove from the wall 03-22-24
 date: 2024-03-22 07:43:10 -0400
 author: joe jenett

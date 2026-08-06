@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a mind-boggling ‘musical forest’
 date: 2024-03-09 06:39:50 -0400
 author: joe jenett

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: rediscovered diversions 04-20-24
 date: 2024-04-20 09:54:58 -0400
 author: joe jenett
