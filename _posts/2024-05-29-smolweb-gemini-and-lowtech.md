@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “Smolweb, Gemini and LowTech...”
 date: 2024-05-29 09:10:02 -0400
 author: joe jenett
