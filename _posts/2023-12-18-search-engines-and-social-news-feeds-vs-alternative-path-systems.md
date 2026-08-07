@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘search engines and social news feeds’ vs. ‘alternative path systems’
 date: 2023-12-18 11:29:40 -0400
 author: joe jenett

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: Who needs resources and tools when ya got typewriters!
 date: 2024-03-05 08:56:17 -0400
 author: joe jenett

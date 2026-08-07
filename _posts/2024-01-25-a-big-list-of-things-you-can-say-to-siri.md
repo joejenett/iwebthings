@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a big list of things you can say to Siri
 date: 2024-01-25 11:03:17 -0400
 author: joe jenett

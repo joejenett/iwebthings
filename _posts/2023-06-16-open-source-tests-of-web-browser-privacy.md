@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  ‘open-source tests of web browser privacy’
 date:   2023-06-16 06:58:10 -0400
 author: joe jenett

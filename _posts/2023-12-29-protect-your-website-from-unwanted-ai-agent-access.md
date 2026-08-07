@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘Protect your website from unwanted AI agent access.’
 date: 2023-12-29 08:07:10 -0400
 author: joe jenett

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘And they say that a hoagie can save us’
 date: 2023-12-19 17:14:25 -0400
 author: joe jenett

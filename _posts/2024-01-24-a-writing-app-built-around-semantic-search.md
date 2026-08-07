@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘a writing app built around semantic search’
 date: 2024-01-24 10:22:28 -0400
 author: joe jenett

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-c
 title: ‘create local web servers in just a few clicks...’
 date: 2023-12-31 11:17:38 -0400
 author: joe jenett

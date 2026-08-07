@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘learn the foundations of the SVG syntax step by step’
 date: 2023-12-12 11:15:33 -0400
 author: joe jenett

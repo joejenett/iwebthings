@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: here’s to serendipity! (thanks John*)
 date: 2024-01-09 10:23:06 -0400
 author: joe jenett

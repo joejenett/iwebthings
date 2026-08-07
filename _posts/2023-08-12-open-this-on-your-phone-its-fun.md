@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  open this on your phone - it’s fun!
 date:   2023-08-12 09:27:31 -0400
 author: joe jenett

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  ‘generate layered, smooth shadows’
 date:   2023-06-22 08:39:38 -0400
 author: joe jenett

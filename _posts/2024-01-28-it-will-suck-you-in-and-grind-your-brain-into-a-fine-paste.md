@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “it’ll suck you in and grind your brain into a fine paste”
 date: 2024-01-28 18:06:34 -0400
 author: joe jenett

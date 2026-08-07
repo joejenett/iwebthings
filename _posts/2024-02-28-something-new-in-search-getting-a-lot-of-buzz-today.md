@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: something new in search - getting a lot of buzz today
 date: 2024-02-28 10:53:26 -0400
 author: joe jenett

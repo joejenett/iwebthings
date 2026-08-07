@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  linkylove.diversions 08-14-23
 date:   2023-08-14 06:59:54 -0400
 author: joe jenett

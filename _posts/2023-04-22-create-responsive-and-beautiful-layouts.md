@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  "‘create responsive and beautiful layouts’"
 date:   2023-04-22 15:49:39 -0400
 author: joe jenett

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: wanna fancy CSS underline and hover effect?
 date: 2024-02-22 12:15:00 -0400
 author: joe jenett

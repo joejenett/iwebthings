@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  a ‘simple and minimalistic’ terminal file manager
 date:   2023-08-21 16:05:25 -0400
 author: joe jenett

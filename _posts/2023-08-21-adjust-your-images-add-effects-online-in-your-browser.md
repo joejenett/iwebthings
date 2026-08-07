@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  ‘adjust your images, add effects online in your browser’
 date:   2023-08-21 15:25:01 -0400
 author: joe jenett

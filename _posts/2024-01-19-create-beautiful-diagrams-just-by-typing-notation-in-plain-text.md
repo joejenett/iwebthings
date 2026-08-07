@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘create beautiful diagrams just by typing notation in plain text’
 date: 2024-01-19 14:25:32 -0400
 author: joe jenett

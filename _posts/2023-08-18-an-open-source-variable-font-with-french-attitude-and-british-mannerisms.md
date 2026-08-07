@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  an ‘open source variable font with French attitude and British mannerisms’
 date:   2023-08-18 09:33:34 -0400
 author: joe jenett

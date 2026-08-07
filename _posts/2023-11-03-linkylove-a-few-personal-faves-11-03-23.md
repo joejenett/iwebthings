@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: "linkylove: a few personal faves 11-03-23"
 date: 2023-11-03 12:08:35 -0400
 author: joe jenett

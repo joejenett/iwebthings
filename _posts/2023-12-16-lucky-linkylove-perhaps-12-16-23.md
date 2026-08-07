@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: lucky linkylove, perhaps 12-16-23
 date: 2023-12-16 10:31:28 -0400
 author: joe jenett

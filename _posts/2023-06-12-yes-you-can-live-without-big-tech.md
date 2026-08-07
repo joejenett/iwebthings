@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-c
 title:  ‘Yes, you can live without Big Tech.’
 date:   2023-06-12 15:41:09 -0400
 author: joe jenett

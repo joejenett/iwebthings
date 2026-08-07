@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title:  reader view page generator
 date:   2023-08-01 10:34:05 -0400
 author: joe jenett

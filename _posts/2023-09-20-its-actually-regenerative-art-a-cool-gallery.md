@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: it’s actually regenerative art - a cool gallery
 date: 2023-09-20 13:35:11 -0400
 author: joe jenett
