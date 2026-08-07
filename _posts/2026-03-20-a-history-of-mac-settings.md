@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘A history of Mac settings’
 date: 2026-03-20T07:13:05 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: excellent, imo
 comments:
   host: toot.community
   username: jenett
-  id: 116261307999413885
+  id: 116261307999413890
 ---
 <p>
 <a title="by Marcin Wichary" href="https://aresluna.org/frame-of-preference/">Frame of preference </a>
