@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a brief hiatus but a little diversion for ya
 date: 2025-06-21T10:15:36 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: find the treasure
 comments:
   host: toot.community
   username: jenett
-  id: 114721820003147618
+  id: 114721820003147620
 ---
 <a title="I be Captain Polly, and I'll help ye find the buried treasure!" href="https://canva-experimental.com/embed/view/capable-diamond">Pirate Coordinate Adventure</a><br>[<a title="source" href="https://pinboard.in/u:twwoodward">twwoodward</a>]
 

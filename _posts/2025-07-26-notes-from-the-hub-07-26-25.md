@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: notes from the hub 07-26-25
 date: 2025-07-26T12:00:32 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: pleased, and thankful
 comments:
   host: toot.community
   username: jenett
-  id: 114920514442812648
+  id: 114920514442812640
 ---
 Just finished a big link fixing project at  <a href="https://dwt-archives.joejenett.com/">the dailywebthing archives</a>. When I created the site, there were over 8,900 posts, I’m pleased after all of the bad links fixed since then, there’s still 7,470 posts. That’s a whole lotta good links left to explore.
 

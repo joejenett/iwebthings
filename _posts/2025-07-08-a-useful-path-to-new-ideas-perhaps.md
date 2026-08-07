@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: a useful path to new ideas perhaps
 date: 2025-07-08T18:00:01 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114819902830592422
+  id: 114819902830592420
 ---
 <p>
 <a title="Pathfinder - Concept Explorer" href="https://www.matthewsiu.com/pathfinder">Pathfinder - Concept Explorer</a>

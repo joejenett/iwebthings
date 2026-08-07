@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘just wanted to show off a cool CSS feature’
 date: 2025-07-26T10:47:15 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114920126468052681
+  id: 114920126468052690
 ---
 <a title="by Angelika Cathor" href="https://angelika.me/2024/12/01/how-to-clamp-relative-color-lightness/">How to clamp the lightness of a relative color in CSS</a><br>[<a title="source" href="https://pinboard.in/u:jshwlkr">jshwlkr</a>]
 

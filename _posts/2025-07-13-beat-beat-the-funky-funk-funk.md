@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘Beat beat the funky funk funk’
 date: 2025-07-13T06:42:45 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: just for fun!
 comments:
   host: toot.community
   username: jenett
-  id: 114845756130502171
+  id: 114845756130502180
 ---
 <p>
 This post’s title comes from the site’s footer.

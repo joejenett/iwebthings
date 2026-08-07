@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: something big to explore!
 date: 2025-06-17T09:37:13 -0400
 author: joe jenett
@@ -8,7 +8,7 @@ category:
   - exploring
 permalink: /something-big-to-explore/
 slug: something-big-to-explore
-summary: 
+summary:
 comments:
   host: toot.community
   username: jenett

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: "attn: oldskool gamer girls and guys"
 date: 2025-07-06T13:23:10 -0400
 author: joe jenett

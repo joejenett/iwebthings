@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “because news is broken”
 date: 2025-07-18T07:52:53 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: an alternative perhaps
 comments:
   host: toot.community
   username: jenett
-  id: 114874147236541632
+  id: 114874147236541630
 ---
 <p>
 <a title="Kite" href="https://kite.kagi.com/">Kite</a> <small>(<a href="https://github.com/kagisearch/kite-public">github</a>)</small>

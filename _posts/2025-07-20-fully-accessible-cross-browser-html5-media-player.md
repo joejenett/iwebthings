@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘fully accessible cross-browser HTML5 media player’
 date: 2025-07-20T10:19:51 -0400
 author: joe jenett
@@ -15,7 +15,7 @@ summary: open-source goodness imo
 comments:
   host: toot.community
   username: jenett
-  id: 114886114709246298
+  id: 114886114709246300
 ---
 <a href="https://ableplayer.github.io/ableplayer/">Able Player</a> <small>(<a href="https://github.com/ableplayer/ableplayer">github</a>)<small> </small>(<a href="https://ableplayer.github.io/ableplayer/demos/">demos</a>)</small><br>[<a title="source" href="https://pinboard.in/u:kixxauth">kixxauth</a>]
 

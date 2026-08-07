@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘no stress Tetris’
 date: 2025-05-31T10:29:06 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: (see the note about privacy)
 comments:
   host: toot.community
   username: jenett
-  id: 114603044563962984
+  id: 114603044563962980
 ---
 <a title="Lazy Tetris" href="https://lazytetris.com/">Lazy Tetris</a><br>
 [<a title="source" href="https://pinboard.in/u:findlink">findlink</a>]

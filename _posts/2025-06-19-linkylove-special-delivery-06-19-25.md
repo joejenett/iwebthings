@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.special.delivery 06-19-25
 date: 2025-06-19T10:37:54 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: essence
 comments:
   host: toot.community
   username: jenett
-  id: 114710818062401720
+  id: 114710818062401730
 ---
 <a href="https://neocities.org/"><img class="postbuttonfloat" src="/images/iwhn.png" alt="" title="𝘪.𝘸𝘦𝘣𝘵𝘩𝘪𝘯𝘨𝘴 𝘭𝘰𝘷𝘦𝘴 𝘯𝘦𝘰𝘤𝘪𝘵𝘪𝘦𝘴!" width="88"></a>
 <ul class="linkylove">

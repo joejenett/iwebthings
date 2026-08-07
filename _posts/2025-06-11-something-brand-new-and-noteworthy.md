@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: something brand new and noteworthy
 date: 2025-06-11T07:19:51 -0400
 author: joe jenett

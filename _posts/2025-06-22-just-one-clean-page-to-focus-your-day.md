@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘just one clean page to focus your day’
 date: 2025-06-22T09:41:43 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114727373769359251
+  id: 114727373769359250
 ---
 <p>
 	<a href="https://ephe.app/landing">Ephe - Ephemeral Markdown Paper</a> <small>(<a href="https://github.com/unvalley/ephe">github</a>)</small>  <small>(<a href="https://github.com/unvalley/ephe/blob/main/.github/guide.md">guide</a>)</small><br>[<a title="source" href="https://pinboard.in/u:sansaid">sansaid</a>]
