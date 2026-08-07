@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.neo.webpath 03-09-26
 date: 2026-03-09T10:11:55 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116199661308892967
+  id: 116199661308892960
 ---
 <ul class="linkylove">
 	<li><a href="https://lazybones.neocities.org/">lazybones</a> <a title="dwt-archives: 09-01-22" href="https://dwt-archives.joejenett.com/09-01-22/"><img src="https://iwebthings.joejenett.com/images/select.png" alt="" height="20" style="vertical-align:middle;"></a> <span title="led to link shown below">&#8594;</span></li>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.webpath 03-18-26
 date: 2026-03-18T09:39:26 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: explore!
 comments:
   host: toot.community
   username: jenett
-  id: 116250562339521525
+  id: 116250562339521520
 ---
 <ul class="linkylove">
 	<li><a title="Loreleice" href="https://loreleice.net/">Loreleice's Creative Studio</a> <span title="led to link shown below">&#8594;</span></li>

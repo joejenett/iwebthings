@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “The web's first multipurpose classless stylesheet...”
 date: 2026-03-11T10:36:48 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: a cool starting point, imo
 comments:
   host: toot.community
   username: jenett
-  id: 116211138371084543
+  id: 116211138371084540
 ---
 <p>
 <a title="by Toheeb Ogunbiyi" href="https://github.com/Toheeb/base">Base.css</a>
