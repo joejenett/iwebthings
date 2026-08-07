@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘daily puzzles for your left brain’
 date: 2025-11-21T10:53:16 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115588569694606002
+  id: 115588569694606000
 ---
 <a title="Daily puzzles worth thinking about" href="https://inkwellgames.com/">Inkwell Games</a> <small>(<a href="https://inkwellgames.com/about">about</a>)</small> <small>(<a href="https://blog.inkwellgames.com/">blog</a>)</small>
 <blockquote>

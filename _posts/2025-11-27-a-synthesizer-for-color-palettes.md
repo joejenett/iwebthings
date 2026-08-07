@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘a synthesizer for color palettes’
 date: 2025-11-27T09:01:06 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115622132546431218
+  id: 115622132546431220
 ---
 <p>
 <a href="https://colorpalette.pro/">Color Palette Pro</a>

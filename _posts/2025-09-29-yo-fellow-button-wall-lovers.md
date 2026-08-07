@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: yo, fellow button wall lovers!
 date: 2025-09-29T07:27:19 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: “which link to click first??”
 comments:
   host: toot.community
   username: jenett
-  id: 115287531422116359
+  id: 115287531422116350
 ---
 Anyone who knows me knows I’m kind of a button wall nut. There’s almost 1,200 buttons on the <a href="https://bulltown.joejenett.com/links/"><em>bulltown</em> links page</a> and I’ve gotta admit I’m a bit obsessed with finding new ones almost daily. Love ’em!
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘a living hub of blogging resources’
 date: 2025-11-02T09:29:09 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115480639128732761
+  id: 115480639128732770
 ---
 <p>
 <a title="by Robert Birming" href="https://robertbirming.com/links/">Blogging Tips &amp; Tools</a> <small>(<a href="https://robertbirming.com/about/">about</a>)</small>

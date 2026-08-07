@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “music for working”
 date: 2025-10-16T12:56:29 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: sweet discovery
 comments:
   host: toot.community
   username: jenett
-  id: 115384944326210986
+  id: 115384944326210990
 ---
 <a href="https://march2004.com/">March 2004</a><br>[<a title="source" href="https://pinboard.in/u:kristofger">kristofger</a>]
 

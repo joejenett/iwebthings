@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: magic awaits you... outdoors
 date: 2025-10-01T08:27:45 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: food for thought
 comments:
   host: toot.community
   username: jenett
-  id: 115299023888116095
+  id: 115299023888116100
 ---
 <p>
 <a title="by Reilly Spitzfaden" href="https://reillyspitzfaden.com/posts/2025/09/september-indieweb-carnival/">September IndieWeb Carnival: Second-Person Birds</a>

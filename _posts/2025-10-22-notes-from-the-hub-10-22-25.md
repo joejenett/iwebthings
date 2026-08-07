@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: notes from the hub 10-22-25
 date: 2025-10-22T13:22:54 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: "attn: Pinboarders"
 comments:
   host: toot.community
   username: jenett
-  id: 115419207990224385
+  id: 115419207990224380
 ---
 Due to ongoing issues with the software I’ve been using to upload batches of new bookmarks to Pinboard, I’ve recently made a change (for the better) in my workflow.
 

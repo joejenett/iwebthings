@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: New Mastodon features have arrived!
 date: 2025-11-15T08:50:14 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: getting even better, imo
 comments:
   host: toot.community
   username: jenett
-  id: 115554181590738161
+  id: 115554181590738160
 ---
 <p>
 Back in <a href="https://iwebthings.joejenett.com/something-new-from-mastodon/">September</a>, I shared a <a href="https://blog.joinmastodon.org/2025/09/introducing-quote-posts/">post</a> from the Mastodon Blog (thanks <a title="source" href="https://pinboard.in/u:mikael">mikael</a>!) about a then upcoming feature and I'm pleased to report it’s arrived (though I have to admit I’m a little late on this):

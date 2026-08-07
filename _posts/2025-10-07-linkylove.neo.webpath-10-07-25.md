@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.neo.webpath 10-07-25
 date: 2025-10-07T09:30:30 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: this one sure was fun!
 comments:
   host: toot.community
   username: jenett
-  id: 115333647155983289
+  id: 115333647155983300
 ---
 <ul class="linkylove">
 	<li><a href="https://freckleskies.neocities.org/">freckleskies</a> <span title="led to link shown below">&#8594;</span></li>

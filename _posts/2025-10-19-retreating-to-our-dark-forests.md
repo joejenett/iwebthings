@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘retreating to our dark forests’
 date: 2025-10-19T15:52:16 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: a safe place?
 comments:
   host: toot.community
   username: jenett
-  id: 115402611567846357
+  id: 115402611567846350
 ---
 <a title="DFOS" href="https://www.dfos.com/">Dark Forest  Operating System</a><br>[<a title="source" href="https://pinboard.in/u:anonyth">anonyth</a>]
 
