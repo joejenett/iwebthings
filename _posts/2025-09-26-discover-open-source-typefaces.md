@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘discover open source typefaces’
 date: 2025-09-26T07:36:23 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: ‘a curated interactive lookbook’
 comments:
   host: toot.community
   username: jenett
-  id: 115270953904892867
+  id: 115270953904892860
 ---
 <p class="ll36 twoem">
 👍

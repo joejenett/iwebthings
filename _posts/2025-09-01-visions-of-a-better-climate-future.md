@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘visions of a better climate future’
 date: 2025-09-01T09:26:54 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: 👍
 comments:
   host: toot.community
   username: jenett
-  id: 115129378961486032
+  id: 115129378961486030
 ---
 <p>
 <a title="Story Seed Library" href="https://storyseedlibrary.org/">Story Seed Library</a>

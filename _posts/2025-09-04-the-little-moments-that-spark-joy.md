@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘the little moments that spark joy’
 date: 2025-09-04T08:53:24 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115146166231132726
+  id: 115146166231132720
 ---
 <a href="https://mundango.daverupert.com/">Mundango</a>
 <blockquote>

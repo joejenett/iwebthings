@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: If AI is the future, we are in deep doo-doo!
 date: 2025-09-12T08:12:26 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: it’s a gas!
 comments:
   host: toot.community
   username: jenett
-  id: 115191468701891392
+  id: 115191468701891400
 ---
 
 <p>

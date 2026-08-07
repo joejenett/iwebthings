@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: an ‘interactive exploration’ of the Solar System
 date: 2025-09-08T10:18:32 -0400
 author: joe jenett

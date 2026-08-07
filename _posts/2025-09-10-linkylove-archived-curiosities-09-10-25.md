@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.archived.curiosities 09-10-25
 date: 2025-09-10T11:26:08 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: creative curiosities
 comments:
   host: toot.community
   username: jenett
-  id: 115180768938358223
+  id: 115180768938358220
 ---
 <ul class="linkylove">
 	<li class="lin"><a title="dwt-archives: 03/14/23" href="https://dwt-archives.joejenett.com/03-14-23/"><img src="/images/select.png" alt="" height="20"></a> <a title="eerie" href="https://corru.observer/">corru.observer</a></li>

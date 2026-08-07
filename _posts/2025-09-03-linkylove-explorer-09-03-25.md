@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.explorer 09-03-25
 date: 2025-09-03T08:36:27 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115140474289419953
+  id: 115140474289419950
 ---
 <ul class="linkylove">
 	<li><a href="https://laozhainan.de/">Laozhainan</a></li>

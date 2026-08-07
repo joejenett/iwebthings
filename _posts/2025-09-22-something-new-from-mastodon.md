@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: something new from Mastodon (coming soon)
 date: 2025-09-22T10:39:43 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: 👍
 comments:
   host: toot.community
   username: jenett
-  id: 115248692308773407
+  id: 115248692308773400
 ---
 <a title="Mastodon Blog" href="https://blog.joinmastodon.org/2025/09/introducing-quote-posts/">Introducing quote posts </a>
 <blockquote>
