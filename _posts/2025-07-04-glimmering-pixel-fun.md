@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘glimmering pixel fun’
 date: 2025-07-04T12:26:40 -0400
 author: joe jenett
@@ -27,6 +27,23 @@ So linkguy and I have been playing around with it for the last hour, hoping to s
 <pixel-canvas data-gap="2" data-speed="25" data-colors="#51d8ff, #440202, #0ea5e9"></pixel-canvas>
 <img src="/images/elguy.png" width="90" alt=""> 
 </div>
+<p class="mt-24 nineem bold">
+	Previous Comments:
+</p>
 
-
+<p id="mastodon-comments-list" class="ninerem;"><article id="comment-114796537191716761" class="js-comment comment">
+                     <div class="js-comment comment">
+                       <div class="comment__avatar-wrapper">
+                         <img class="comment__avatar br24" src="/images/94909dbad1e945b4.png" height="48" width="48" alt="">
+                       </div>
+                       <div class="comment__content-wrapper">
+                        <h3 class="comment__author">
+                          <a rel="external nofollow" title="https://toot.community/@jenett">
+                            <span class="ninerem">joe jenett ✓</span>
+                          </a>
+                        </h3>
+                        <p class="comment__date ninerem">
+                          <a title="https://toot.community/users/jenett/statuses/114796537191716761" rel="nofollow">2025-07-04</a>
+                        </p>
+                        <div class="ninerem"><p>Never worked this hard to finish a post.😎</p></div></div></div></article></p>
 <a href="https://brid.gy/publish/mastodon"></a>

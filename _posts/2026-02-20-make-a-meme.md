@@ -32,7 +32,7 @@ Meme generator tool to easily create memes bu uploading images or taking a photo
   <p id="mastodon-comments-list" class="ninerem;"><article id="comment-116103047071073644" class="js-comment comment">
                      <div class="js-comment comment">
                        <div class="comment__avatar-wrapper">
-                         <img class="comment__avatar br24" src="https://static.toot.community/cache/accounts/avatars/109/321/348/137/004/186/original/dec2182d972538a0.png" height="48" width="48" alt="">
+                         <img class="comment__avatar br24" src="/images/dec2182d972538a0.png" height="48" width="48" alt="">
                        </div>
                        <div class="comment__content-wrapper">
                         <h3 class="comment__author">

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: Warning! Cute Cuddly Creatures Ahead! (and more)
 date: 2025-08-03T08:43:21 -0400
 author: joe jenett
@@ -36,5 +36,22 @@ In the process of discovering <em>Owls in Towels</em>, I found even more:
 <strong>Thank you Brad!</strong>
 </p>
 
-
+<p class="mt-24 nineem bold">
+	Previous Comments:
+</p>
+<p id="mastodon-comments-list" class="ninerem;"><article id="comment-114965721562258575" class="js-comment comment">
+                     <div class="js-comment comment">
+                       <div class="comment__avatar-wrapper">
+                         <img class="comment__avatar br24" src="/images/c442790693c58a6f.png" height="48" width="48" alt="">
+                       </div>
+                       <div class="comment__content-wrapper">
+                        <h3 class="comment__author">
+                          <a rel="external nofollow" href="https://mastodon.social/@bradenslen">
+                            <span class="ninerem">Brad Enslen</span>
+                          </a>
+                        </h3>
+                        <p class="comment__date ninerem">
+                          <a href="https://mastodon.social/users/bradenslen/statuses/114965721492772867" rel="nofollow">2025-08-03</a>
+                        </p>
+                        <div class="ninerem"><p><span class="h-card" translate="no"><a href="https://toot.community/@jenett" class="u-url mention" rel="nofollow noopener">@<span>jenett</span></a></span> Wow, Thanks for the mention.  Summer is rough for finding things, people are outside doing stuff and not working and talking about their websites.  It's a normal cycle but it slows things.</p></div></div></div></article></p>
 <a href="https://brid.gy/publish/mastodon"></a>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “a simple, calm, and happier internet”
 date: 2025-08-15T14:31:00 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: a quick read...
 comments:
   host: toot.community
   username: jenett
-  id: 115034345055478195
+  id: 115034345055478190
 ---
 <a title="Alban's Blog" href="https://albanbrooke.com/the-beauty-of-a-text-only-webpage/">The beauty of a text only webpage</a><br>[via <a href="https://news.ycombinator.com/item?id=44913340">Hacker News</a> &lt; <a title="source" href="https://pinboard.in/u:cothrun">cothrun</a>]
 

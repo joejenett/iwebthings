@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “No noise. Just the work.”
 date: 2025-08-22T07:08:42 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: lessons learned...
 comments:
   host: toot.community
   username: jenett
-  id: 115072182120126673
+  id: 115072182120126670
 ---
 <a title="Blog" href="https://fabiansjournal.bearblog.dev/blog/">Fabián's Journal</a>
 <blockquote>

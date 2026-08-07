@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: 3 million years of technology
 date: 2025-08-13T08:55:49 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: huge timeline
 comments:
   host: toot.community
   username: jenett
-  id: 115021589168326917
+  id: 115021589168326910
 ---
 <a title="by Étienne Fortier-Dubois" href="https://www.historicaltechtree.com/">Historical Tech Tree</a><br>[<a title="source" href="https://pinboard.in/u:bekishore">bekishore</a>]
 

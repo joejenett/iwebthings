@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: yet another cool word game from tdjones
 date: 2025-08-09T12:15:55 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114999746732837370
+  id: 114999746732837380
 ---
 <a href="https://blockle.au/">Blockle</a>
 <blockquote>
