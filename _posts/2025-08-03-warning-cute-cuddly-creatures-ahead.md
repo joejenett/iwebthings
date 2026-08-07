@@ -42,7 +42,7 @@ In the process of discovering <em>Owls in Towels</em>, I found even more:
 <p id="mastodon-comments-list" class="ninerem;"><article id="comment-114965721562258575" class="js-comment comment">
                      <div class="js-comment comment">
                        <div class="comment__avatar-wrapper">
-                         <img class="comment__avatar br24" src="/images/c442790693c58a6f.png" height="48" width="48" alt="">
+                         <img class="comment__avatar br24" src="/images/6659cc47f781aafc0813a09d5facb94598856b31dd72ad12cfc91792e43aeb9e.gif" height="48" width="48" alt="">
                        </div>
                        <div class="comment__content-wrapper">
                         <h3 class="comment__author">
