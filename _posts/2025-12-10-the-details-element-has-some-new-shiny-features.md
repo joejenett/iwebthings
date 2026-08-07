@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: the ‘details’ element has some ‘new shiny features’  (cross-browser)
 date: 2025-12-10T13:30:46 -0400
 author: joe jenett
@@ -14,7 +14,7 @@ summary: can’t wait to play with it
 comments:
   host: toot.community
   username: jenett
-  id: 115696846239567698
+  id: 115696846239567700
 ---
 <p class="onepointfiveem gray-70 ll24">👍</p>
 <p>

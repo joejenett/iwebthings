@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: retro goodness
 date: 2025-12-06T09:02:07 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: cool minimal backgrounds
 comments:
   host: toot.community
   username: jenett
-  id: 115673063147050903
+  id: 115673063147050900
 ---
 <p>
 <a title="Classic Mac OS System 1 Patterns" href="https://paulsmith.github.io/classic-mac-patterns/">Classic Mac OS System 1 Patterns</a> <small>(<a href="https://pauladamsmith.com/blog/2025/09/classic-mac-patterns.html">more info</a>)</small>
