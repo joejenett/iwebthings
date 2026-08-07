@@ -1,13 +1,12 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: color me inspired 03-26-25
 date: 2025-03-26 07:54:22 -0400
 author: joe jenett
-category: 
+category:
 permalink: /color-me-inspired-03-26-25/
 slug: color-me-inspired-03-26-25
 summary: (contains animation)
-
 categories:
   - inspiration
   - curiosities

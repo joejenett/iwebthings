@@ -1,16 +1,16 @@
 ---
-layout: post
+layout: post-reactions-c
 title: I find this game challenging, but fun. Do you?
 date: 2025-04-13 08:53:37 -0400
 author: joe jenett
-category: 
+category:
 permalink: /i-find-this-game-challenging-but-fun/
 slug: i-find-this-game-challenging-but-fun
 summary: a word puzzle game
 comments:
   host: toot.community
   username: jenett
-  id: 114330833579641977
+  id: 114330833579641980
 categories:
   - games
   - words

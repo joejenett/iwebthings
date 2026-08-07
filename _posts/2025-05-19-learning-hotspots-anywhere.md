@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “learning hotspots” anywhere
 date: 2025-05-19T11:21:07 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114535255039661076
+  id: 114535255039661070
 ---
 <a title="Internet in a Box - Mandela's Library of Alexandria" href="https://internet-in-a-box.org/">Internet in a Box</a> <small>(<a href="https://github.com/iiab/iiab">github</a>)</small> <small>(<a href="https://wiki.iiab.io/go/Main_Page">wiki</a>)</small> <small>(<a href="https://wiki.iiab.io/go/FAQ">FAQ</a>)</small>
 <blockquote>

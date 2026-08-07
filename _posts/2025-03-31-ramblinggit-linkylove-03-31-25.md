@@ -1,13 +1,12 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: ramblinggit.linkylove 03-31-25
 date: 2025-03-31 09:19:31 -0400
 author: joe jenett
-category: 
+category:
 permalink: /ramblinggit-linkylove-03-31-25/
 slug: ramblinggit-linkylove-03-31-25
 summary: 🍩 𝘺𝘶𝘮𝘮𝘺 𝘥𝘰𝘯𝘶𝘵𝘴! 🍩
-
 categories:
   - linkylove
 ---

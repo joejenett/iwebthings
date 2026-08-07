@@ -1,13 +1,12 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: “Give One, Take One”
 date: 2025-03-27 09:55:27 -0400
 author: joe jenett
-category: 
+category:
 permalink: /give-one-take-one/
 slug: give-one-take-one
-summary: 
-
+summary:
 categories:
   - amusing
   - ideas

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘statistics for the rest of us’
 date: 2025-04-29T13:08:19 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: ‘The problem is, nothing is certain.’
 comments:
   host: toot.community
   username: jenett
-  id: 114422434112646650
+  id: 114422434112646660
 ---
 <a title="Unsure Calculator by Filip Hracek" href="https://filiph.github.io/unsure/">Unsure Calculator</a>
 <blockquote>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘🎼 experimental drum sequencer’
 date: 2025-04-25T12:14:55 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114399543909246144
+  id: 114399543909246140
 ---
 <a title="by Michael Mior" href="https://michaelmior.github.io/rhythm-wheel/">Rhythm Wheel</a> <small>(<a href="https://github.com/michaelmior/rhythm-wheel">github</a>)</small><br>[<a title="source" href="https://pinboard.in/u:jugglebird">jugglebird</a>]
 

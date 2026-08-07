@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: way cool hover effects!
 date: 2025-04-16 17:28:50 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: a bit of CSS magic
 comments:
   host: toot.community
   username: jenett
-  id: 114349870274307602
+  id: 114349870274307600
 ---
 <a class="u-in-reply-to" title="by Adam Argyle" href="https://nerdy.dev/hover-not-hover-sorry-not-sorry">:hover > :not(:hover), sorry not sorry</a><br>[<a title="source" href="https://pinboard.in/u:angusm">angusm</a>]
 

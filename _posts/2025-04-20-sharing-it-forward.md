@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: sharing it forward
 date: 2025-04-20T16:04:31 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114372151905303514
+  id: 114372151905303520
 ---
 Kudos to Jan Wildeboer for the information shared in the following post - it was so useful to me, I’ve implemented it on several recent posts:
 

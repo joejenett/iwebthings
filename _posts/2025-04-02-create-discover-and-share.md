@@ -1,13 +1,12 @@
 ---
-layout: post
+layout: post-reactions-c
 title: create, ‘discover & share’
 date: 2025-04-02 11:08:42 -0400
 author: joe jenett
-category: 
+category:
 permalink: /create-discover-and-share/
 slug: create-discover-and-share
 summary: 🥁
-
 categories:
   - music
   - generators

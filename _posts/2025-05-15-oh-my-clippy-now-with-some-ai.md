@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: "Oh my: ‘Clippy, now with some AI ’"
 date: 2025-05-15T10:20:25 -0400
 author: joe jenett
@@ -14,7 +14,7 @@ summary: your very own bs machine 😎
 comments:
   host: toot.community
   username: jenett
-  id: 114512381152163821
+  id: 114512381152163820
 ---
 <a title="Clippy Desktop Assistant" href="https://felixrieseberg.github.io/clippy/">Clippy Desktop Assistant</a> <small>(<a href="https://github.com/felixrieseberg/clippy">github</a>)</small>
 <blockquote>

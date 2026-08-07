@@ -1,16 +1,16 @@
 ---
-layout: post-reactions
+layout: post-reactions-c
 title: tips, tricks, and resources 04-12-25
 date: 2025-04-12 10:40:00 -0400
 author: joe jenett
-category: 
+category:
 permalink: /tips-tricks-and-resources-04-12-25/
 slug: tips-tricks-and-resources-04-12-25
 summary: 😎 Thank you shiny Pinboard network! ❤️
 comments:
   host: toot.community
   username: jenett
-  id: 114325559256661560
+  id: 114325559256661570
 categories:
   - hub
   - tips

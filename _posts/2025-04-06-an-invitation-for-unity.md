@@ -1,13 +1,12 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘an invitation for unity’
 date: 2025-04-06 09:54:29 -0400
 author: joe jenett
-category: 
+category:
 permalink: /an-invitation-for-unity/
 slug: an-invitation-for-unity
-summary: 
-
+summary:
 categories:
   - art
   - ideas

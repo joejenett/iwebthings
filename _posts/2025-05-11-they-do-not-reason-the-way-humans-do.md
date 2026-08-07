@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: they do not ‘reason the way humans do’
 date: 2025-05-11T07:24:08 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: they’re everywhere
 comments:
   host: toot.community
   username: jenett
-  id: 114489018192584445
+  id: 114489018192584450
 ---
 <a title="How to thrive in a ChatGPT world" href="https://thebullshitmachines.com/">Modern-Day Oracles or Bullshit Machines?</a>
 <blockquote>

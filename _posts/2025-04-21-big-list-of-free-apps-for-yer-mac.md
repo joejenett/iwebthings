@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: big list(s) of free apps for yer mac!
 date: 2025-04-21T12:40:51 -0400
 author: joe jenett
@@ -14,7 +14,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114377005900920102
+  id: 114377005900920100
 ---
 <a title="Free App List Number 4 | AppAddict" href="https://appaddict.app/post/free-app-list-number-4">Free App List Number 4</a> (macos)
 

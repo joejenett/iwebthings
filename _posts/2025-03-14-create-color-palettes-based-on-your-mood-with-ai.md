@@ -1,13 +1,12 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “Create color palettes based on your mood with AI”
 date: 2025-03-14 16:31:24 -0400
 author: joe jenett
-category: 
+category:
 permalink: /create-color-palettes-based-on-your-mood-with-ai/
 slug: create-color-palettes-based-on-your-mood-with-ai
-summary: 
-
+summary:
 categories:
   - color
   - generators

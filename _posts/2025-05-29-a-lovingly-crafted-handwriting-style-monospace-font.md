@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘a lovingly crafted handwriting-style monospace font’
 date: 2025-05-29T10:12:26 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 114591582464077458
+  id: 114591582464077460
 ---
 <a title="Annotation Mono" href="https://qwerasd205.github.io/AnnotationMono/">Annotation Mono</a>
 <blockquote>

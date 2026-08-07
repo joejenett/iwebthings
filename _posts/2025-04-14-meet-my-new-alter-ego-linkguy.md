@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: "meet my new alter ego: linkguy"
 date: 2025-04-14 14:04:35 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: Call me silly...
 comments:
   host: toot.community
   username: jenett
-  id: 114337745891544054
+  id: 114337745891544050
 ---
 <p>
 Call me silly, but my new alter ego, <em>linkguy</em> will soon be appearing in various posts on the <em>webthings</em>. For the sake of clarity, I’d like to introduce him at full size so he’ll be more recognizable to you when reduced:
