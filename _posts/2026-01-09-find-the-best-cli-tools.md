@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “Find the best CLI tools...”
 date: 2026-01-09T09:17:34 -0400
 author: joe jenett
@@ -15,7 +15,7 @@ summary: ‘Discover Open Source’
 comments:
   host: toot.community
   username: jenett
-  id: 115866076838834852
+  id: 115866076838834850
 ---
 <p>
 	<a title="Discover Trending Open Source Projects" href="https://itrending.top/">iTrending </a> &#8594; <a title="Discover Amazing CLI Tools & Terminal Applications" href="https://itrending.top/terminal/">Trending Terminal</a>

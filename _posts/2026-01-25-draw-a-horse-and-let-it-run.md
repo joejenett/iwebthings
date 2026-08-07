@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘draw a horse’ and let it run
 date: 2026-01-25T11:19:22 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: silly fun break
 comments:
   host: toot.community
   username: jenett
-  id: 115956719838885237
+  id: 115956719838885230
 ---
 <a title="gradient.horse" href="https://gradient.horse/">gradient.horse</a>
 <blockquote>

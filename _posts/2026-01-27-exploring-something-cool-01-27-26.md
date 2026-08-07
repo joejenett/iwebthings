@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: exploring something cool 01-27-26
 date: 2026-01-27T07:26:44 -0400
 author: joe jenett

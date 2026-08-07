@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘to make mainstream web browsers more tolerable’
 date: 2026-01-21T11:29:36 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 115934130474912804
+  id: 115934130474912800
 ---
 <p>
 	<a href="https://justthebrowser.com/">Just the Browser</a> <small>(<a href="https://github.com/corbindavenport/just-the-browser">github</a>)</small>
