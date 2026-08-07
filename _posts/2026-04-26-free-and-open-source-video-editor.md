@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘free and open source video editor’
 date: 2026-04-26T16:28:17 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116472927390414844
+  id: 116472927390414850
 ---
 <p>
 <a href="https://kdenlive.org/">Kdenlive</a>

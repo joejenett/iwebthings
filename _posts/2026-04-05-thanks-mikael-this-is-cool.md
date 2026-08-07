@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: thanks mikael - this is cool!
 date: 2026-04-05T09:27:51 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: listening to Blues Radio in my terminal :)
 comments:
   host: toot.community
   username: jenett
-  id: 116352454445686493
+  id: 116352454445686500
 ---
 <p>
 <a title="Terminal Music Player" href="https://www.cliamp.stream/"><small>CLIAMP</small> <small>(<a href="https://github.com/bjarneo/cliamp">github</a>)</small></a>

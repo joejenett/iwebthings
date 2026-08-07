@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.webpath 04-03-26
 date: 2026-04-03T12:05:15 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116341677285638927
+  id: 116341677285638930
 ---
 <ul class="linkylove">
 	<li><a title="lucille a.k.a. luci" href="https://kawaii.nekoweb.org/">welcome to <small>KAWAII</small>! ☆</a> <span title="led to link shown below">&#8594;</span></li>

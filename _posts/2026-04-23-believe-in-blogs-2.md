@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘someone wrote a really good blog post today...’
 date: 2026-04-23T07:31:05 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: 😎 Explore and discover!
 comments:
   host: toot.community
   username: jenett
-  id: 116453832806185725
+  id: 116453832806185730
 ---
 <blockquote>
 <p>

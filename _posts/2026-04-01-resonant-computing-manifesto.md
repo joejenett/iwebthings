@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “technology that enables individual growth and collective flourishing”
 date: 2026-04-01T17:14:43 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116331588490400528
+  id: 116331588490400530
 ---
 <p>
 	<a href="https://resonantcomputing.org/">Resonant Computing Manifesto</a>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.blogs 04-25-26
 date: 2026-04-25T08:50:46 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: speaking of blogs...
 comments:
   host: toot.community
   username: jenett
-  id: 116465866581132975
+  id: 116465866581132980
 ---
 <ul class="linkylove">
 	<li><a title="Gordon Mclean" href="https://www.gordonmclean.co.uk/">Happily Imperfect</a> <span class="via va-m mtminus-1">&#8678;</span> <a class="pbuser mtminus-6" title="source" href="https://bubbles.town/">bubbles</a></li>

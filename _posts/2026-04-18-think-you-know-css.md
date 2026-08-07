@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘Think you know CSS?’
 date: 2026-04-18T06:18:55 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: made ya think!
 comments:
   host: toot.community
   username: jenett
-  id: 116425273803876565
+  id: 116425273803876560
 ---
 <p>
 	<a href="https://www.keithcirkel.co.uk/css-or-bs/">CSS or BS?</a>

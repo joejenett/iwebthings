@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘built for people who still believe in blogs’
 date: 2026-04-22T09:47:59 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary: 👍 lotta buzz for this one
 comments:
   host: toot.community
   username: jenett
-  id: 116448862276206439
+  id: 116448862276206430
 ---
 <p>
 	<a title="Discover Independent Blogs & Personal Writing" href="https://blogosphere.app/">Blogosphere</a> <small>(<a href="https://blogosphere.app/about/">about</a>)</small> &rarr; <a href="https://text.blogosphere.app/">Minimal Version</a> 
