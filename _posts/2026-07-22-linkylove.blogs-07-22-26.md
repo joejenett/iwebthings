@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.blogs 07-22-26
 date: 2026-07-22T07:28:39 -400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: a bit of a mixed bag
 comments:
   host: toot.community
   username: jenett
-  id: 116963423447243401
+  id: 116963423447243410
 ---
 <ul class="linkylove">
 	<li>
