@@ -9,6 +9,10 @@ category:
 permalink: /notes-from-the-hub-08-07-26/
 slug: notes-from-the-hub-08-07-26
 summary:
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117055208428931796
 ---
 <p>
 Phew! I made it. Though I’m a bit light on links for ya today, there’s a lot goin’ on at the moment - I’m swamped busy, just the way I like it.
