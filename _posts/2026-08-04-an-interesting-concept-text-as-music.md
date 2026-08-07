@@ -1,5 +1,5 @@
 ---
-layout: post-reactions-c
+layout: post
 title: "an interesting concept: ‘Text as music.’"
 date: 2026-08-04T07:36:57 -400
 author: joe jenett
