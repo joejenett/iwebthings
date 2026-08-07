@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ”What if there was a better experience?”
 date: 2026-02-16T10:15:59 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: great idea!
 comments:
   host: toot.community
   username: jenett
-  id: 116081195318595240
+  id: 116081195318595230
 ---
 <p>
 <a href="https://subscribeopenly.net/">Subscribe Openly</a> <small>(<a href="https://github.com/capjamesg/subscribe-openly">github</a>)</small>

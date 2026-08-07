@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “Everywhere has a memory someone left behind.”
 date: 2026-02-26T08:43:02 -0400
 author: joe jenett
@@ -14,7 +14,7 @@ summary: “Every memory deserves a place.”
 comments:
   host: toot.community
   username: jenett
-  id: 116137313015229099
+  id: 116137313015229100
 ---
 <p>
 <a title="by Gabe Szeto" href="https://amapof.us/">A Map Of Us – AMOU</a>

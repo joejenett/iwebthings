@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.webpath 02-06-26
 date: 2026-02-06T12:58:52 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: 👍
 comments:
   host: toot.community
   username: jenett
-  id: 116025029300837759
+  id: 116025029300837760
 ---
 <ul class="linkylove">
 	<li><a title="Pudding!" href="https://puddingpudd.com/">Pudding's Cove</a> <span title="led to link shown below">&#8594;</span></li>

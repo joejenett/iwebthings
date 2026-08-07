@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ever wonder how engines work?
 date: 2026-02-13T12:07:33 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: well done!
 comments:
   host: toot.community
   username: jenett
-  id: 116064525978158436
+  id: 116064525978158430
 ---
 <p>
 <a title="%Title%" href="https://animatedengines.com/">Animated Engines</a> <small>(<a href="https://animatedengines.com/about.html">about</a>)</small><br>[ 📌<a class="pbuser" title="source" href="https://pinboard.in/u:sdellis">sdellis</a> ]
