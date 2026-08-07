@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.webpath 06-06-26
 date: 2026-06-06T08:02:09 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: itsa biggie!
 comments:
   host: toot.community
   username: jenett
-  id: 116703105401658155
+  id: 116703105401658160
 ---
 <ul class="linkylove">
 	<li>

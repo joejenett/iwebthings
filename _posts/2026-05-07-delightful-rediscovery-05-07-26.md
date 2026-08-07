@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: delightful rediscovery 05-07-26
 date: 2026-05-07T08:17:13 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: worth a second share
 comments:
   host: toot.community
   username: jenett
-  id: 116533336967511313
+  id: 116533336967511310
 ---
 <p>
 	<a href="https://minimator.maxwellito.com/">minimator.</a> <small>(<a href="https://minimator.maxwellito.com/#/about">about</a>)</small> <small>(<a href="https://github.com/maxwellito/minimator/">github</a>)</small>

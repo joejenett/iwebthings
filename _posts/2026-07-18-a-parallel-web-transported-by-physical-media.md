@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘a parallel web transported by physical media’
 date: 2026-07-18T11:40:29 -400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: Cool!
 comments:
   host: toot.community
   username: jenett
-  id: 116941831828957802
+  id: 116941831828957810
 ---
 <p>
 	<a href="https://sneakerweb.org/">sneakerweb</a> by <a href="https://worm-blossom.org/">worm-blossom</a>

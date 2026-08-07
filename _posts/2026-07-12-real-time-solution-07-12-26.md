@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: real-time solution 07-12-26
 date: 2026-07-12T11:09:57 -400
 author: joe jenett
@@ -11,7 +11,7 @@ summary: damn! it works!
 comments:
   host: toot.community
   username: jenett
-  id: 116907695712507184
+  id: 116907695712507180
 ---
 <p>
 I just have to share this immediately ’cause it’s solving a big problem for me right now, using only my web browser!

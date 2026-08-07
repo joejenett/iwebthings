@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘a free font for coders’
 date: 2026-05-13T09:15:29 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116567480844988592
+  id: 116567480844988590
 ---
 <p>
 	<a title="by Jens Kutílek" href="https://www.kutilek.de/sudo-font/">Sudo Coding Font</a> <small>(<a href="https://github.com/jenskutilek/sudo-font">github</a>)</small>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: “render Markdown in macOS Quick Look”
 date: 2026-06-26T11:18:41 -0400
 author: joe jenett
@@ -13,7 +13,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116818915418377974
+  id: 116818915418377970
 ---
 <p>
 <a href="https://quicklookmd.com/">Markdown QuickLook</a> (macOS) <small>(<a href="https://github.com/jzone3/markdown-quicklook">github</a>)</small>

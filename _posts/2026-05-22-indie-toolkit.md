@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: ‘indie toolkit’
 date: 2026-05-22T10:16:46 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116618682728688703
+  id: 116618682728688700
 ---
 <p>
 <a href="https://delphi.tools/">delphitools</a>

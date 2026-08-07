@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.neo.webpath 05-09-26
 date: 2026-05-09T05:52:10 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116544028239077431
+  id: 116544028239077420
 ---
 <ul class="linkylove">
 	<li><a title="Arakiah" href="https://arakiah.neocities.org/">𝕬𝖗𝖆𝖐𝖎𝖆𝖍'𝖘 𝕽𝖊𝖆𝖑𝖒</a> <span title="led to link shown below">&#8594;</span></li>

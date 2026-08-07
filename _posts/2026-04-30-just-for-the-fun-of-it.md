@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: just for the fun of it!
 date: 2026-04-30T08:50:56 -0400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: delightful
 comments:
   host: toot.community
   username: jenett
-  id: 116494016945533247
+  id: 116494016945533250
 ---
 <p>
 <a title="by Neal Agarwal" href="https://neal.fun/cursor-camp/">Cursor Camp</a>

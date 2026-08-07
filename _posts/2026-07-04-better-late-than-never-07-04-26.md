@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: better late than never 07-04-26
 date: 2026-07-04T08:44:01 -400
 author: joe jenett
@@ -12,7 +12,7 @@ summary: a public service announcement from the hub
 comments:
   host: toot.community
   username: jenett
-  id: 116861839388856041
+  id: 116861839388856050
 ---
 <p>
 <a href="https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fireworks">Fireworks | CPSC.gov</a>

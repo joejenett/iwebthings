@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.neo 07-16-26
 date: 2026-07-16T10:27:59 -400
 author: joe jenett

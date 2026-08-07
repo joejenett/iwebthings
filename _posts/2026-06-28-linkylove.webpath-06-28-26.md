@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: linkylove.webpath 06-28-26
 date: 2026-06-28T16:18:41 -0400
 author: joe jenett

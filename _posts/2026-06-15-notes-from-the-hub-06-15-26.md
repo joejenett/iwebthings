@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-reactions-c
 title: notes from the hub 06-15-26
 date: 2026-06-15T06:30:52 -0400
 author: joe jenett
@@ -11,7 +11,7 @@ summary:
 comments:
   host: toot.community
   username: jenett
-  id: 116753712297268570
+  id: 116753712297268580
 ---
 **Update 06/16/26, 10:53 AM: Pinboard is online again!** 👍
 

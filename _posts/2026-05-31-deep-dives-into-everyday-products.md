@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postpost-reactions-c
 title: ‘deep dives’ into everyday products
 date: 2026-05-31T10:48:33 -0400
 author: joe jenett
