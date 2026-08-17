@@ -9,6 +9,10 @@ category:
 permalink: /exploring.indienews-08-17-26/
 slug: exploring.indienews-08-17-26
 summary:
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117111123749924066
 ---
 <p>
 	<span class="gray-90 onepointfiveem va-m">🎩</span> <a  class="pbuser" href="https://news.indieweb.org/en">IndieNews</a>:
