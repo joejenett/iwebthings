@@ -10,9 +10,14 @@ category:
 permalink: /world-clock-free/
 slug: world-clock-free
 summary:
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117157350372840650
 ---
 <p>
-<a href="https://worldclock.free/">Current Local Time Anywhere | WorldClock.free</a>
+<a href="https://worldclock.free/">Current Local Time Anywhere | WorldClock.free</a> <small>(<a href="https://worldclock.free/about/">about</a>)
+</small>
 </p>
 <blockquote>
 <p>
