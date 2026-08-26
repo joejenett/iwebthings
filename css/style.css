@@ -286,6 +286,12 @@ blockquote, .post-meta {
 .pt-10 {
 	padding-top:10px;
 }
+.mtminus-2 {
+	margin-top:-2px;
+}
+.mtminus-4 {
+	margin-top:-4px;
+}
 .mtminus-6 {
 	margin-top:-6px;
 }
