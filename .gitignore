@@ -10,3 +10,8 @@ _layouts/post copy.html
 .obsidian/app.json
 .obsidian/appearance.json
 .obsidian/core-plugins.json
+.obsidian/plugins/callout-manager/manifest.json
+.obsidian/community-plugins.json
+.obsidian/plugins/callout-manager/data.json
+.obsidian/plugins/callout-manager/main.js
+.obsidian/plugins/callout-manager/styles.css
