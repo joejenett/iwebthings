@@ -14,6 +14,10 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.lisep {
+	border-bottom:1px dashed #97e8ff;
+	margin-right:60px;
+}
 .mbminus1 {
 	margin-bottom:-1rem;
 }
