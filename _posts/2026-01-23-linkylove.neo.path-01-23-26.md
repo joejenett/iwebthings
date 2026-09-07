@@ -21,8 +21,7 @@ comments:
 	<li><a title="Rookie's Room" href="https://spiralstaircase.neocities.org/">Rookie's Room</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="stephen" href="https://monchhichi.neocities.org/">monchhichi</a> <span title="led to link shown below">&#8594;</span></li>
 	<li><a title="kiki" href="https://cannibalpilled.neocities.org/">cannibalpilled {¬º-°}¬</a>  <span title="led to link shown below">&#8594;</span></li>
-	<li><a title="sal" href="https://datoxicwaltz.neocities.org/"><small>THE CRYPT</small></a> <span title="led to link shown below">&#8594;</span></li>
-	<li><a title="eimmii" href="https://limbuspilled.neocities.org/"><small>LIMBUS PILLED</small></a></li>
+	<li><a title="sal" href="https://datoxicwaltz.neocities.org/"><small>THE CRYPT</small></a></li>
 </ul>
 
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
