@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.explorer-09-08-26/
 slug: linkylove.explorer-09-08-26
 summary:
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117236227529985417
 ---
 <ul class="linkylove">
 	<li>
