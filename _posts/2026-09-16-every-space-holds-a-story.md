@@ -10,6 +10,10 @@ category:
 permalink: /every-space-holds-a-story/
 slug: every-space-holds-a-story
 summary: I love it!
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117280531927438211
 ---
 <p>
 	<a title="by Oleh Providnyk" href="https://pxlarea.com/">Pixel Area</a> <small>(<a href="https://pxlarea.com/#about">about</a>
