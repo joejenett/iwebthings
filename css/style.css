@@ -14,6 +14,12 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.spanscale {
+	width:24px;
+}
+a:hover span.spanscale img      {
+	transform:scale(1.3);
+}
 .lisep {
 	border-bottom:1px dashed #97e8ff;
 	margin-right:60px;
