@@ -28,7 +28,7 @@ summary: I love it!
 </blockquote>
 <p >
 	Thanks for reaching out <a title="Pixel Area at Mastodon" href="https://mastodon.social/@pxlarea">Oleh</a>! 
-	<br><a href="https://pxlarea.com/x37y42"><span class="spanscale"><img src="/images/elguy.png" title="i.webthings hub on the grid" alt="visit the hub on the grid" width="28"></span></a>
+	<br><a href="https://pxlarea.com/x37y42"><span class="spanscale"><img class ="mtminus-4" src="/images/elguy.png" title="i.webthings hub on the grid" alt="visit the hub on the grid" width="28"></span></a> Go claim your own spot on the grid!
 </p>
 
 
