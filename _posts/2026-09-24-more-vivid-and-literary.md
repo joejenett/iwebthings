@@ -9,6 +9,10 @@ category:
 permalink: /more-vivid-and-literary/
 slug: more-vivid-and-literary
 summary: (my favorite dictionary)
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117326436755544927
 ---
 <p>
 	<a href="https://websters1913.timcieplowski.com/">Webster's 1913 Dictionary</a> <small>(<a href="https://github.com/timciep/websters_1913_dictionary_website">github</a>)</small><br>by <a href="https://www.timcieplowski.com/blog/websters-1913/">Tim Cieplowski <span class="smalllight">(‘New project: Webster's 1913 Dictionary website‘)</span></a>
