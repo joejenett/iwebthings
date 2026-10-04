@@ -15,7 +15,7 @@ comments:
 ---
 <ul class="linkylove">
 	<li>
-			<a href="https://maccadot.neocities.org/">maccadot</a>	 <span class="via va-m mtminus-1">&#8678;</span> <a class="pbuser mtminus-6" title="source" href="https://moonpr1sm.com/"></a> <span title="led to link shown below">&#8594;</span>		
+			<a href="https://maccadot.neocities.org/">maccadot</a>	  <span title="led to link shown below">&#8594;</span>		
 	</li>
 	<li class="mtminus-8">
 			<a title="elly" href="https://soapbubbleseal.net/">.˚○ • °  seal pool 𓈒𓏸.°•</a> <span title="led to link shown below">&#8594;</span>			

@@ -15,7 +15,7 @@ comments:
 ---
 <ul class="linkylove">
 	<li>
-		<a title="heather a.k.a. Nia a.k.a. THEGIANTSKELETON" href="https://heathersaturnia.neocities.org/">.:.[heather saturnia].:.</a>  <span class="via va-m mtminus-1">&#8678;</span> <a class="pbuser mtminus-6" title="source" href="https://moonpr1sm.com/">moonpr1sm</a>  <span title="led to link shown below">&#8594;</span>			
+		<a title="heather a.k.a. Nia a.k.a. THEGIANTSKELETON" href="https://heathersaturnia.neocities.org/">.:.[heather saturnia].:.</a>   <span title="led to link shown below">&#8594;</span>			
 	</li>
 	<li class="mtminus-6">
 		<a title="Aisha" href="https://foxfable.neocities.org/">F o x F a b l e</a> <span title="led to following 2 links shown below">&#8594; &#8594;</span>			
