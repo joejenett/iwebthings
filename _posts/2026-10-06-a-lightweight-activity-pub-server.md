@@ -6,9 +6,14 @@ author: joe jenett
 category:
   - software
   - fediverse
+  - cool
 permalink: /a-lightweight-activity-pub-server/
 slug: a-lightweight-activity-pub-server
 summary: cool!
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117394674176604826
 ---
 <p>
 	<a href="https://littlefedi.org/">littleFedi</a>
