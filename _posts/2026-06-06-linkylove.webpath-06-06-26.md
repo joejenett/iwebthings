@@ -15,9 +15,6 @@ comments:
 ---
 <ul class="linkylove">
 	<li>
-		<a title="hallie a.k.a. halbie" href="https://halb.nekoweb.org/">halb</a> <span title="led to link shown below">&#8594;</span>
-	</li>
-	<li>
 		<a title="trout" href="https://goop.nekoweb.org/">trout's website</a> <span title="led to link shown below">&#8594;</span>
 	</li>
 	<li>

@@ -14,8 +14,7 @@ summary:
 <ul class="linkylove">
 	<li><a title="oooh what’s this" href="https://omfg.neocities.org/">oooh what’s this</a> <span title="led to site shown below">⇾</span></li>
 	<li><a title="SEVERE" href="https://severe.neocities.org/"><small>SEVERE</small></a> <span title="led to site shown below">⇾</span></li>
-	<li><a title="KANTO" href="https://kanto.neocities.org/"><small>KANTO</small></a> <span title="led to site shown below">⇾</span></li>
-	<li><a title="Danppun inside the Web" href="https://danppun.neocities.org/">Danppun inside the Web</a> <span title="led to site shown below">⇾</span></li>
-	<li><a title="tiger carnival" href="https://bisuko.neocities.org/">tiger carnival</a> <span title="led to site shown below">⇾</span></li>
+	<li><a title="KANTO" href="https://kanto.neocities.org/"><small>KANTO</small></a></li>
+	<li><a title="tiger carnival" href="https://bisuko.neocities.org/">tiger carnival</a></li>
 </ul>
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>

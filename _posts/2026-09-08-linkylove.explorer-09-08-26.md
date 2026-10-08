@@ -27,9 +27,6 @@ comments:
 		<a title="Rose" href="https://sweetheartmemory.neocities.org/">kyoai loneliness</a>			
 	</li>
 	<li>
-		<a title="lorenzo" href="https://lorenzolikesstuff.com/">lorenzo's website</a> <span title="led to link shown below">&#8594;</span>			
-	</li>
-	<li>
 		<a title="clef" href="https://sealshore.nekoweb.org/">the place where seals reside!</a> <span title="led to following 2 links shown below">&#8594; &#8594;</span>			
 	</li>
 	<li>
