@@ -8,6 +8,10 @@ category:
 permalink: /linkylove.webpath-10-14-26/
 slug: linkylove.webpath-10-14-26
 summary: explore the web!
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117439791134722378
 ---
 <ul class="linkylove">
 	<li>
