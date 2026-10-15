@@ -15,7 +15,9 @@ body {
 	font-kerning: normal;
 }
 #raindrop {
-	height:300px;
+	border: 0; 
+	width: 100%; 
+	height: 300px;" 
 }
 .normal {
 	font-style:normal;
@@ -1211,15 +1213,15 @@ div.hcard-display {
 		font-size:22px;
 	}
 	.wp-block-image img {
-	max-width:110px;
-	max-height:110px;
-}
+		max-width:110px;
+		max-height:110px;
+	}
 	#announcer {
-	width:260px;
+		width:260px;
 	}
 	#home-donuts {
-	margin:9px 0 9px 0;
-}
+		margin:9px 0 9px 0;
+	}
 	#branding {
 		padding-left:9px;
 	}
@@ -1293,8 +1295,8 @@ div.hcard-display {
 		left:2px;
 	}
 	#raindrop {
-		height:240px;
-}
+		height: 240px;
+	}
 }
 @media only screen and (max-width:440px) {
 	.wp-block-image img {
