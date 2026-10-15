@@ -14,10 +14,13 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+#raindrop {
+	height:300px;
+}
 .normal {
 	font-style:normal;
 }
-	.smalllight {
+.smalllight {
 	font-weight:300;
 	font-size:.95em;
 }
@@ -1288,6 +1291,9 @@ div.hcard-display {
 	#footban {
 		position:relative;
 		left:2px;
+	#raindrop {
+		height:240px;
+	}
 }
 }
 @media only screen and (max-width:440px) {

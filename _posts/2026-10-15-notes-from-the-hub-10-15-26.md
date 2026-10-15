@@ -14,7 +14,7 @@ comments:
   id: 117444998953314660
 ---
 For fellow link lovers/explorers, I've created <a href="https://joejenett.raindrop.page/">2 public collections</a> of bookmarks from my account at <a href="https://raindrop.io/">Raindrop.io</a>:
-<iframe style="border: 0; width: 100%; height: 300px;" allowfullscreen frameborder="0" src="https://joejenett.raindrop.page/embed/me"></iframe>
+<iframe id="raindrop" style="border: 0; width: 100%; height: 300px;" allowfullscreen frameborder="0" src="https://joejenett.raindrop.page/embed/me"></iframe>
 <p class="bold italic">
 Related:
 </p>
