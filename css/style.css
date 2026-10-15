@@ -1291,9 +1291,9 @@ div.hcard-display {
 	#footban {
 		position:relative;
 		left:2px;
+	}
 	#raindrop {
 		height:240px;
-	}
 }
 }
 @media only screen and (max-width:440px) {
