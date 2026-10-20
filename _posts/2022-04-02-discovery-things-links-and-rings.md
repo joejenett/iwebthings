@@ -158,7 +158,7 @@ function closeWebrings() {
 
 <div style="padding:9px;border:1px solid #ccc;">
 <h4>Previous Comments:</h4>
-<p style="font-size:.8em;"><a href="https://github.com/ScootRay" title=""><img src="https://avatars.githubusercontent.com/u/12983100?v=4?v=3&s=88" alt="" width="44" /> Scoot Ray</a> commented on <a href="https://github.com/joejenett/i.webthings/issues/5#issuecomment-1096041218" title="">Apr 12, 2022</a>
+<p style="font-size:.8em;"><a href="https://github.com/ScootRay" title=""><img src="https://avatars.githubusercontent.com/u/12983100?v=4?v=3&s=88" alt="" width="44" /> Scoot Ray</a> commented on Apr 12, 2022
 </p>
 <p style="font-size:.8em;">
 
@@ -167,10 +167,8 @@ As always, thanks for plugging Blogroll.org! Love what you do, Joe.
 <p style="font-size:.8em;">Props,<br />
 Ray
 </p>
-<p style="font-size:.8em;"><a href="https://github.com/joejenett" title=""><img src="https://avatars.githubusercontent.com/u/52048847?v=4?v=3&s=88" alt="" width="44" /> joejenett</a> commented on <a href="https://github.com/joejenett/i.webthings/issues/5#issuecomment-1096615576" title="">Apr 12, 2022</a>
+<p style="font-size:.8em;"><a href="https://github.com/joejenett" title=""><img src="https://avatars.githubusercontent.com/u/52048847?v=4?v=3&s=88" alt="" width="44" /> joejenett</a> commented on Apr 12, 2022
 </p>
 <p style="font-size:.8em;">Thanks Ray! Color me blushing...
 </p>
 </div>
-<a style="display:none;" href="https://brid.gy/publish/twitter"><small>(cross-posted to twitter)</small></a>
-<data class="p-bridgy-omit-link" value="false"></data>
