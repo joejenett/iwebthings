@@ -16,9 +16,8 @@ categories:
 <ul class="linkylove">
 	<li><a title="Jacob Hall" href="https://jacobhall.net/">Jacob Hall</a><br>&#8618;<a title="running list of my favorite links" href="https://jacobhall.net/links.html">linkroll</a><br>&#8618;<a title="poems for clicking" href="https://wordways.us/">wordways</a></li>
 	<li><a title="CogDogBlog – Alan Levine barks about and plays with stuff here" href="https://cogdogblog.com/">CogDogBlog</a><br>&#8618;<a title="CogDog is Alan Levine" href="https://cog.dog/">CogDog is Alan Levine</a></li>
-	<li><a title="Discover the IndieWeb, one blog post at a time." href="https://indieblog.page/">indieblog.page</a>  <a title="source" href="https://frills.dev/"><span style="color:blue;">&#8678;</span></a><br>&#8618;<a title="List" href="https://indieblog.page/all">List of all Blogs</a><br>&#8618;<a href="https://indieblog.page/random">🎲 Open Random Blog Post</a> <span title="led to sites shown below">&#8594; &#8594;</span></li>
+	<li><a title="Discover the IndieWeb, one blog post at a time." href="https://indieblog.page/">indieblog.page</a>  <a title="source" href="https://frills.dev/"><span style="color:blue;">&#8678;</span></a><br>&#8618;<a title="List" href="https://indieblog.page/all">List of all Blogs</a><br>&#8618;<a href="https://indieblog.page/random">🎲 Open Random Blog Post</a> <span title="led to site shown below">&#8594;</span></li>
 	<li><a title="Graham Burdekin | Graham’s Island | Life on the Big Island of Hawaii" href="https://grahamsisland.com/">Graham’s Island</a></li>
-	<li><a title="SizeOf.Life" href="https://sizeof.life/">Size Of Life</a></li>
 </ul>
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
