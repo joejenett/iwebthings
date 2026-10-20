@@ -14,9 +14,9 @@ comments:
   username: jenett
   id: 115034345055478190
 ---
-<a title="Alban's Blog" href="https://albanbrooke.com/the-beauty-of-a-text-only-webpage/">The beauty of a text only webpage</a><br>[via <a href="https://news.ycombinator.com/item?id=44913340">Hacker News</a> &lt; <a title="source" href="https://pinboard.in/u:cothrun">cothrun</a>]
+<a title="Alban's Blog" href="https://albanbrooke.com/the-beauty-of-a-text-only-webpage/">The beauty of a text only webpage</a><br>[<a title="source" href="https://pinboard.in/u:cothrun">cothrun</a>]
 
-Related, also via <a href="https://news.ycombinator.com/item?id=44913340"  title="Hacker News">HN</a>:<br>
+Related:<br>
 <a title="Briefingday" href="https://briefingday.com/">Briefingday</a>
 <blockquote>
 <p>
