@@ -20,6 +20,6 @@ comments:
 <p>
 ...a project that provides individuals and organizations with a way to create their own offline version of the internet. This can be done by installing IIAB on an old laptop or PC, or more commonly, on a Raspberry Pi computer. Once installed and configured, IIAB will provide users access to a wide variety of content, including websites, articles, electronic books, Wikipedia in any language, thousands of Khan Academy videos, zoomable OpenStreetMap, WordPress journaling, Toys from Trash electronics projects, and more. 
 </p>
-</blockquote><a title="source" href="https://news.ycombinator.com/user?id=homebrewer"><span style="font-size:1.5em;color:blue;">&#8678;</span></a>
+</blockquote>
 
 <a href="https://brid.gy/publish/mastodon"></a>
