@@ -13,7 +13,7 @@ categories:
   - cli
   - lists
 ---
-<a title="Wei Yen | Useful built-in macOS command-line utilities" href="https://weiyen.net/articles/useful-macos-cmd-line-utilities">Useful built-in macOS command-line utilities</a><br>[<a href="https://news.ycombinator.com/submitted?id=yen223">yen223</a>]
+<a title="Wei Yen | Useful built-in macOS command-line utilities" href="https://weiyen.net/articles/useful-macos-cmd-line-utilities">Useful built-in macOS command-line utilities</a>
 
 Related: <a title="An A-Z Index of the Apple macOS command line - SS64 Command line reference" href="https://ss64.com/mac/">An A-Z Index of the Apple macOS command line</a> (<a href="https://dwt-archives.joejenett.com/list-recently-noticed-54/"><small>2012</small></a>)
 

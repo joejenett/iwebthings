@@ -16,7 +16,7 @@ categories:
 ---
 Avatars are <a href="https://iwebthings.joejenett.com/easily-amused-03-30-24/">fun</a>! I hadn’t created an ‘avatars’ category when I came across <a href="https://txstc55.github.io/ugly-avatar/">Ugly Avatar</a> last month, but this morning, after bumping into another cool avatar generator, the category’s been added ’cause I love this stuff:
 
-<a title="A JavaScript library for generating vector-based cartoon faces" href="https://zengm.com/facesjs/">faces.js </a> <small>(<a href="https://github.com/zengm-games/facesjs">github</a>)</small><br>[<a href="https://news.ycombinator.com/user?id=starkparker">starkparker</a>]
+<a title="A JavaScript library for generating vector-based cartoon faces" href="https://zengm.com/facesjs/">faces.js </a> <small>(<a href="https://github.com/zengm-games/facesjs">github</a>)</small>
 
 Playing with it got me thinking about a few other avatar generators I’ve shared in the past:
 <ul>
