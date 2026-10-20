@@ -11,5 +11,5 @@ categories:
   - links
   - miscellany
 ---
-  * [PuTTY: A Free Telnet/SSH Client](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
+  * [PuTTY: A Free Telnet/SSH Client](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
   * [Stylify Me &#8211; Online Style Guide Generator](http://stylifyme.com/)
