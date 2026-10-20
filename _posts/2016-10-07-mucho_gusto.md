@@ -10,7 +10,6 @@ excerpt: |-
   <li><a title="Do I leak?" href="https://www.doileak.com/">Do I leak?</a><br />Your digital footprint might be giving you away...</li>
   <li><a title="Express" href="http://expressjs.com/">Express</a><br />Fast, unopinionated, minimalist web framework for Node.js</li>
   <li><a title="hledger" href="http://hledger.org/">hledger</a><br />Simple, precise, plain text accounting.</li>
-  <li><a title="rscss" href="http://rscss.io/">rscss</a><br />Styling CSS without losing your sanity</li>
   <li><a title="Rspamd" href="https://rspamd.com/">Rspamd</a><br />Fast, free and open-source spam filtering system.</li>
   <li><a title="Tachyons" href="http://tachyons.io/">Tachyons</a><br />Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.</li>
   <li><a title="Tox" href="https://tox.chat/">Tox</a><br />A New Kind of Instant Messaging</li>
@@ -23,7 +22,6 @@ permalink: /mucho_gusto/
 classic-editor-remember:
   - classic-editor
 complete_open_graph:
-  - a:7:{s:8:"og:title";s:0:"";s:14:"og:description";s:0:"";s:8:"og:image";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:19:"twitter:description";s:0:"";s:15:"twitter:creator";s:0:"";}
 categories:
   - links
   - miscellany
@@ -37,8 +35,6 @@ categories:
   * [hledger](http://hledger.org/ "hledger")  
     Simple, precise, plain text accounting.
     Font-size based on your screen-size&#8230; In pure css please.
-  * [rscss](http://rscss.io/ "rscss")  
-    Styling CSS without losing your sanity
   * [Rspamd](https://rspamd.com/ "Rspamd")  
     Fast, free and open-source spam filtering system.
   * [Tachyons](http://tachyons.io/ "Tachyons")  

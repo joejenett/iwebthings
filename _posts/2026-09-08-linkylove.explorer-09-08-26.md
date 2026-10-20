@@ -36,10 +36,7 @@ comments:
 		<a title="Aster" href="https://stillnessgraveyard.neocities.org/">Stillness Graveyard</a> <span title="led to link shown below">&#8594;</span>			
 	</li>
 	<li>
-		<a title="mistral" href="https://sword-of-moonlight.moe/">/girl's secret room</a> <span title="led to link shown below">&#8594;</span>			
-	</li>
-	<li>
-		<a title="Semie" href="https://entama.nekoweb.org/"><small>ENTAMA'S  ☆ CAGE</small></a> <span title="led to link shown below">&#8594;</span>			
+		<a title="mistral" href="https://sword-of-moonlight.moe/">/girl's secret room</a> 			
 	</li>
 	<li>
 		<a title="Victor" href="https://dreamofstarcity.nekoweb.org/">star city</a> <span title="led to link shown below">&#8594;</span>			
