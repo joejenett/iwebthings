@@ -53,7 +53,6 @@ All of the &#8220;Recently Noticed&#8221; links posted to [the dailywebthing](ht
   * [Social Sound Design](http://socialsounddesign.com/)
   * [CSS3 Playground](http://css3.mikeplate.com/)
   * [Strawberry Perl for Windows](http://strawberryperl.com/)
-  * [Mockingbird](http://gomockingbird.com/mockingbird/)
   * [Unicode Symbol Map](http://panmental.de/symbols/)
   * [JSLint, The JavaScript Code Quality Tool](http://jslint.com/)
   * [Collection FRAC Lorraine](http://collection.fraclorraine.org/?lang=en)
