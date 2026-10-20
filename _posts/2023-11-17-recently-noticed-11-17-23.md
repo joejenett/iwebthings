@@ -15,7 +15,7 @@ categories:
 <ul class="links">
 	<li><a title="You Might Not Need jQuery" href="https://youmightnotneedjquery.com/">You Might Not Need jQuery</a> <a href="https://pinboard.in/u:cothrun">📌</a><br>“Examples of how to do common event, element, ajax and utility operations with plain javascript.”</li>
 	<li><a title="Beaver Notes" href="https://beavernotes.com/">Beaver Notes</a> <a href="https://pinboard.in/u:tdjones">📌</a><br>“...your Personal Note-Taking Haven for Privacy and Efficiency”<br><small>To be honest, I’m not so sure about this one, maybe because of the<br> number of excellent such apps already available. </small> 😎</li>
-	<li><a title="HTML First" href="https://html-first.com/">HTML First</a> <a class="normaltext" title="source" href="https://news.ycombinator.com/user?id=tonyennis"><img src="https://iwebthings.joejenett.com/images/left-arrow.png" alt="" width="18"></a><br>“...a set of principles that aims to make building web software easier, faster, more inclusive, and more maintainable...”</li>
+	<li><a title="HTML First" href="https://html-first.com/">HTML First</a> <br>“...a set of principles that aims to make building web software easier, faster, more inclusive, and more maintainable...”</li>
 	<li><a title="Sniffnet" href="https://sniffnet.net/">Sniffnet</a> <a href="https://pinboard.in/u:zero1infinity">📌</a><br>“Comfortably monitor your Internet traffic 🕵️‍♂️”</li>
 	<li><a title="MDwiki" href="https://dynalon.github.io/mdwiki/">MDwiki</a> <a href="https://pinboard.in/u:kme">📌</a><br>“...a CMS/Wiki completely built in HTML5/Javascript and runs 100% on the client.”</li>
 </ul>
