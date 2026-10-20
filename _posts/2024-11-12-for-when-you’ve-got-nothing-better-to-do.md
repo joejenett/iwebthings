@@ -13,6 +13,6 @@ categories:
   - diversions
   - words
 ---
-<a title="Gisnep | Daily Quote Puzzle" href="https://gisnep.com/">Gisnep<sup>beta</sup></a><br>[<a title="source" href="https://ellanew.com/2024-10-10-word-puzzles-not-wordle">Ellane W.</a>]
+<a title="Gisnep | Daily Quote Puzzle" href="https://gisnep.com/">Gisnep<sup>beta</sup></a>
 
 <a style="display:none;" href="https://brid.gy/publish/mastodon"><small>(cross-posted to mastodon)</small></a>
