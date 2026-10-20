@@ -9,7 +9,7 @@ slug: free-online-graph-paper
 summary: 
 
 ---
-<a title="incompetech" href="https://incompetech.com/graphpaper/simpleasymmetric/">Simple Asymmetric Graph Paper PDF Generator</a><br>[<a href="https://pinboard.in/u:arrigo">arrigo</a>]
+<a title="incompetech" href="https://incompetech.com/graphpaper/#simpleasymmetric">Simple Asymmetric Graph Paper PDF Generator</a><br>[<a href="https://pinboard.in/u:arrigo">arrigo</a>]
 
 <small>Note: Promotional vehicle.</small>
 
