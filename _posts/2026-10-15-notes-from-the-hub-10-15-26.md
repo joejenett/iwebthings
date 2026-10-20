@@ -14,15 +14,10 @@ comments:
   id: 117444998953314660
 ---
 For fellow link lovers/explorers, I've created <a href="https://joejenett.raindrop.page/">2 public collections</a> of bookmarks from my account at <a href="https://raindrop.io/">Raindrop.io</a>:
-<iframe id="raindrop" allowfullscreen frameborder="0" src="https://joejenett.raindrop.page/embed/me"></iframe>
-<p class="bold italic">
-Related:
-</p>
 <p>
 <a href="https://joejenett.raindrop.page/bulltown-74313217/"><em>Raindrop</em> bulltown collection</a> (<a href="https://joejenett.raindrop.page/bulltown-74313217/feed
 ">RSS</a>)<br>
 <a href="https://joejenett.raindrop.page/i-webthings-hub-74313232/"><em>Raindrop</em> i.webthings hub collection</a> (<a href="https://joejenett.raindrop.page/i-webthings-hub-74313232/feed">RSS</a>)
-<div class="mt12"><a href="https://pinboard.in/u:iwebthings/">i.webthings@<em>Pinboard</em></a> (<a href="https://feeds.pinboard.in/rss/u:iwebthings/">RSS</a>)</div>
 </p>
 <p>
 Enjoy!
