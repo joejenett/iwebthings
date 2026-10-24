@@ -1,12 +1,12 @@
 ---
 layout: post
-title: linkylove.webpath 10-14-26
+title: linkylove.webpath 10-24-26
 date: 2026-10-24T09:59:49 -400
 author: joe jenett
 category:
   - linkylove
-permalink: /linkylove.webpath-10-14-26/
-slug: linkylove.webpath-10-14-26
+permalink: /linkylove.webpath-10-24-26/
+slug: linkylove.webpath-10-24-26
 summary:
 comments:
   host: mastodon.social
