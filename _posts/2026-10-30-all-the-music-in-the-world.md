@@ -10,6 +10,10 @@ category:
 permalink: /all-the-music-in-the-world/
 slug: all-the-music-in-the-world
 summary: a fine discovery engine!
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117530740497252371
 ---
 <p>
 	<a href="https://muglobe.com/">MuGlobe</a><br>
