@@ -53,4 +53,7 @@ comments:
 <p class="mt-24 pointnineem">
 	<strong>Caveat(s):</strong> When I signed up and registered an account, I went looking for a Privacy Policy to see how my email address might be used. It appears <a href="https://wiki.muglobe.com/wiki/Muglobe:Privacy_policy">yet to have been completed.</a>	
 </p>
+<p>
+<span class="bold">Update (11/01/26):</span> I’ve been informed as to the location of <a href="https://muglobe.com/privacy">the site’s Privacy Policy</a>, which should be “easier to find” in the future.
+</p>
 <p><a aria-hidden="true" tabindex="-1" href="https://brid.gy/publish/mastodon"></a></p>
