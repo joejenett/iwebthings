@@ -72,7 +72,7 @@ summary:
 	<li>
 		<p>
 			Optional Archive Viewer:<br>
-			<a href="https://replayweb.page/">ReplayWeb.page</a> <small>(<a href="embeddable">embeddable</a>)</small>					
+			<a href="https://replayweb.page/">ReplayWeb.page</a> <small>(<a href="https://replayweb.page/docs/embedding/">embeddable</a>)</small>					
 		</p>
 		<p>
 			[  + 📌<a class="pbuser" title="source" href="https://pinboard.in/u:cogdog">cogdog</a> ]
