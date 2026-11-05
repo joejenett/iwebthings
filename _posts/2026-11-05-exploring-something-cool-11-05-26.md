@@ -11,6 +11,10 @@ category:
 permalink: /exploring-something-cool-11-05-26/
 slug: exploring-something-cool-11-05-26
 summary: 
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117564638101960076
 ---
 <p>
 	<a title="The Future Is Now" href="https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/">If you love a website, back it up</a>	
