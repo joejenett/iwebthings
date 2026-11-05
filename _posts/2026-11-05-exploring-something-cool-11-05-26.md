@@ -66,11 +66,8 @@ comments:
 	<li>
 		<p>
 			Option 3:<br>
-
-		</p>
-		<p>
-		<a href="https://webrecorder.net/browsertrix/">Browsertrix</a><br>
-			<small>(Note: “<strong>Free</strong> for 7 days, then <strong>$30</strong>/mo.”)</small>			
+			<a href="https://webrecorder.net/browsertrix/">Browsertrix</a><br>
+				<small>(Note: “<strong>Free</strong> for 7 days, then <strong>$30</strong>/mo.”)</small>			
 		</p>
 	</li>
 	<li>
