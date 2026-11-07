@@ -14,6 +14,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.mt-2 {
+	margin-top:2px;
+}
 #raindrop {
 	border: 0; 
 	width: 100%; 
