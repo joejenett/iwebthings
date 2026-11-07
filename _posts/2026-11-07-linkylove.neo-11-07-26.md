@@ -8,8 +8,12 @@ category:
 permalink: /linkylove.neo-11-07-26/
 slug: linkylove.neo-11-07-26
 summary:
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117576142052235889
 ---
-<span class="iwt ll24"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove3.png" alt="linkylove" width="88" class="gray-80"></a><br><a title="neocities.org" href="https://neocities.org"><img src="/images/neocities.png" alt="neocities.org" width="88" class="mt-2"></a></span>
+<span class="iwt ll24"><a title="i.webthings linkylove" href="https://iwebthings.joejenett.com/categories/#linkylove"><img src="/images/linkylove3.png" alt="linkylove" width="88" class="gray-80"></a><br><a title="neocities.org" href="https://neocities.org"><img src="/images/neocities.png" alt="neocities.org" width="86" class="mt-2 bdr1"></a></span>
 <ul class="linkylove">
 	<li>
 		<a href="https://rss-list.neocities.org/">The <small>BIG</small> List of Neocities <small>RSS</small> Feeds</a>			
