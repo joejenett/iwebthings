@@ -10,6 +10,10 @@ category:
 permalink: /a-conversation-with-someone-who-loves-to-make-websites/
 slug: a-conversation-with-someone-who-loves-to-make-websites
 summary:
+comments:
+  host: mastodon.social
+  username: joejenett
+  id: 117598268002235313
 ---
 <p>
 	<a href="https://web-weaving.jamesg.blog/">Wonders of Web Weaving</a>
