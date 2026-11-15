@@ -17,6 +17,17 @@ body {
 .onerem {
 	font-size: 1rem;
 }
+.pb12 {
+	padding-bottom:12px;
+}
+.ti24 {
+	margin-left: 24px;
+}
+.floatleft {
+	position:relative;
+	float:left;
+	margin-right:6px;
+}
 .mt-2 {
 	margin-top:2px;
 }
