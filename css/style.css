@@ -14,6 +14,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.onerem {
+	font-size: 1rem;
+}
 .mt-2 {
 	margin-top:2px;
 }
