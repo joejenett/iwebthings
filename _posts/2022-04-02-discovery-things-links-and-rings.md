@@ -117,7 +117,6 @@ function closeDirectories() {
 <li><a title="Marginalia Search" href="https://search.marginalia.nu/">Marginalia Search</a></li>
 <li><a title="(Marijn’s Linkroll) | The Satyrs’ Forest 🍇" href="https://marijn.uk/linkroll/">Linkroll | The Satyrs’ Forest 🍇</a></li>
 <li><a title="Mataroa Collection" href="https://collection.mataroa.blog/">Mataroa Collection</a></li>
-<li><a title="Maya's subscriptions" href="https://maya.land/blogroll.opml">Maya's subscriptions</a></li>
 <li><a title="Mojeek" href="https://www.mojeek.com/">Mojeek</a></li>
 <li><a title="Peelopaalu - Directory" href="https://peelopaalu.neocities.org/">Peelopaalu - Directory</a></li>
 <li><a title="Sadgrl Link Directory" href="https://sadgrl.online/links/">Sadgrl Link Directory</a></li>

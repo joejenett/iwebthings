@@ -23,7 +23,6 @@ categories:
 	<li><a title="Waxy.org" href="https://waxy.org/">Andy</a></li>
 	<li><a title="Indieseek.xyz Directory" href="https://indieseek.xyz/links/">Brad</a></li>
 	<li><a title="A Year On Market | A photograph every day for a year on Market Street." href="https://badkins55.wordpress.com/">Bill</a></li>
-	<li><a title="maya.land" href="https://maya.land/">Maya</a></li>
 	<li><a title="Marty McGuire" href="https://martymcgui.re/">Marty</a></li>
 	<li><a title="Ɀeus’ Stadt" href="https://zeusofthecrows.github.io/stadt/">Ɀeus</a></li>
 </ul>
