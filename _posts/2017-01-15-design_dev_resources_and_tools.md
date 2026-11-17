@@ -27,7 +27,7 @@ categories:
     A strongly defined, highly compatible specification of Markdown
   * [lightgallery.js](https://sachinchoolur.github.io/lightgallery.js/ "lightgallery.js")  
     Full featured javascript lightbox gallery, No dependencies.
-  * [Fokus &#8211; Emphasized text-highlighting using JavaScript](http://lab.hakim.se/fokus/ "Fokus - Emphasized text-highlighting using JavaScript")  
+  * [Fokus &#8211; Emphasized text-highlighting using JavaScript](https://hakim.se/fokus/ "Fokus - Emphasized text-highlighting using JavaScript")  
     Fokus uses JavaScript to emphasize anything you select by covering the rest of the page with semi-transparent black.
   * [equalize.js](http://tsvensen.github.io/equalize.js/ "equalize.js")  
     The jQuery plugin for equalizing the height or width of elements
