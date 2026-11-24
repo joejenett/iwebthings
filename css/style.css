@@ -14,6 +14,9 @@ body {
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
 }
+.ml-6 {
+	margin-left:6px;
+}
 .onerem {
 	font-size: 1rem;
 }
